@@ -80,6 +80,11 @@ const config = {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://abdullahyahya.com/" target="_blank" rel="noopener noreferrer">Abdullah Yahya</a>`,
     },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false, // keep toggle (recommended)
+      respectPrefersColorScheme: false,
+    },
   },
 };
 
