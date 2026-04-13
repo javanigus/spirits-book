@@ -467,6 +467,62 @@ Thus even two sympathetic spirits may cease to be so, at least temporarily, if o
 
 The image of “eternal halves” expresses the union of kindred spirits, but it should not be taken literally. It belongs to a limited way of speaking shaped by earthly language and imagination. What truly exists is not a pair of beings created exclusively for one another, fated to recover a lost unity, but an ever-widening communion among spirits in proportion to their purification. The more they advance, the more fully they enter into concord, and the more complete their happiness becomes.
 
+## The Remembrance of Corporeal Existence
+
+A spirit does remember its corporeal existences.
+
+Having lived many times in human form, it retains the memory of what it has been. At times, seeing its former conduct from a clearer height, it looks back with a kind of pity and even smiles at its past behavior.
+
+This remembrance does not return all at once after death. It comes back gradually, like something emerging from fog, and in proportion to the spirit’s attention. As it becomes more aware of itself and less bound to the confusion of its recent departure from earthly life, its past becomes clearer.
+
+The memory of earthly life is not a complete and indiscriminate review of every detail. A spirit recalls events according to the consequences they bear on its present condition. What contributed to its progress, purification, or suffering stands out. What had no real value may remain dim, fall into the background, or be left unexamined.
+
+If it wishes, it can recover even very small details, including incidents and thoughts. Yet it does not ordinarily do so when no useful purpose would be served. Memory is governed less by curiosity than by meaning.
+
+From the spiritual state, the purpose of earthly life is understood far better than during incarnation. The spirit sees why purification is necessary in order to advance toward the infinite. It recognizes that each existence helps remove some imperfection, and that earthly life, with all its trials and experiences, belongs to a larger movement of growth.
+
+The past may unfold in two ways at once. Some actions appear as though present before the spirit, while others are recalled only by an inner effort. What matters for advancement is vivid. What was merely material tends to fade. The more dematerialized the spirit becomes, the less importance it gives to earthly details.
+
+For that reason, a spirit newly separated from the body may not remember names, personal circumstances, or facts that seem precious to those still living. Such things may already have fallen into forgetfulness because they no longer concern it. Yet the decisive events that aided its improvement remain clearly remembered.
+
+The same principle applies to earlier lives. The whole past can open before the spirit like the stages of a long journey. Still, it does not recover every action with equal precision. Earlier existences, especially those belonging to the spirit’s first stages of development, sink into obscurity and disappear into forgottenness.
+
+### The Body After Death
+
+Once separated from the body, the spirit commonly regards it as one would regard an ill-fitting garment that caused discomfort and has finally been laid aside. It is often glad to be rid of it.
+
+When it sees the body decompose, it usually feels indifference. The body has become something external, no longer part of its true being.
+
+After some time, a spirit may sometimes recognize its bones or objects that once belonged to it, but this depends on the degree of its advancement and on the value it still gives to earthly things.
+
+Respect shown toward the belongings a spirit has left behind may draw its attention, but not because of the objects themselves. What reaches the spirit is the remembrance and affection connected with them. The thought is what attracts it, not the material thing.
+
+### Memory of Suffering and Pleasure
+
+Spirits often retain the memory of the sufferings they endured during their last corporeal life. That remembrance helps them appreciate more fully the happiness they now experience as spirits.
+
+Those who were happy on earth do not all look back in the same way. Spirits of low order may regret pleasures that matched the impurities of their nature, and those attachments become causes of suffering for them. More advanced spirits do not regret such pleasures, because the enduring happiness of the spiritual state far surpasses the brief enjoyments of earthly life.
+
+### Unfinished Works and Human Activity
+
+Those who began important works for a useful end and saw them interrupted by death do not lament having left them unfinished. They understand that others are meant to continue what they began. Far from turning away, they often try to influence incarnate spirits to carry the work forward. Their aim remains the good of humankind, both in earthly life and beyond it.
+
+The same detachment often appears in relation to artistic and literary works. According to their degree of advancement, spirits may judge their own productions very differently after death. They frequently disapprove of what they most admired during life.
+
+Their interest in the arts and sciences also depends on their development or on the mission they may have. What seems magnificent from an earthly point of view may appear small to more elevated spirits, as the work of a student appears to a scholar. They value above all what reveals the elevation and progress of incarnate spirits.
+
+### Native Land and Changing Ideas
+
+Love of native land also changes according to spiritual advancement. For highly elevated spirits, the true homeland is the universe. On earth, they feel especially drawn to the places where they find the greatest number of sympathetic souls.
+
+A spirit’s ideas change greatly in spiritual life. As it becomes less influenced by matter, its former views undergo significant modification. Some ideas may persist for a time, but gradually the hold of material life weakens and the spirit sees more clearly. With clearer sight comes the desire to improve.
+
+### Astonishment on Returning to the Spirit World
+
+If spirits lived in the spiritual state before incarnation, it may seem strange that they are astonished when they return to it. That astonishment belongs chiefly to the first moments after death, when the spirit awakens in a state of confusion. As the memory of the past returns and the impression of earthly life fades, it recognizes its true condition more fully.
+
+The return to spiritual awareness is therefore not usually instantaneous. It is a recovery of self, gradual and ordered, in which memory, judgment, and perspective are restored according to the spirit’s degree of advancement.
+
 ## The Commemoration of the Dead. Funerals
 
 The remembrance of the dead reaches spirits more deeply than is often imagined.

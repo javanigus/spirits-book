@@ -67,6 +67,8 @@ This idea shows that existence is not limited to the narrow forms of life known 
 
 ## Perceptions, Sensations, and Sufferings of Spirits
 
+### Perceptions of Spirits
+
 After leaving the body, the soul keeps earthly perceptions and gains others that the body had dimmed. The body acts like a veil, limiting the spirit’s powers, while intelligence belongs to the spirit itself.
 
 Still, perception is not unlimited. Spirits know according to their advancement. The more purified they are, the more they understand. Lower spirits remain ignorant of many things, and no created spirit knows everything.
@@ -115,6 +117,8 @@ For this reason, spirits sometimes speak of heat or cold. These expressions ofte
 
 ## Theoretical Essay on Sensation in Spirits
 
+### Theoretical Essay on Sensation in Spirits
+
 The body is the instrument of pain. The soul perceives pain, but is not itself physically wounded. Heat and cold do not burn or freeze the soul.
 
 The key is the perispirit. It links spirit and body, is formed from the universal fluid, and is the principle of organic sensation, though intelligence belongs only to the spirit.
@@ -148,6 +152,8 @@ Then, when the body is left behind, material influence no longer torments it. Bo
 The condition of spirits confirms this law. Their sufferings always match their conduct. Those who followed the path of good find deep happiness in the life beyond the grave. Those who suffer do so because of causes within themselves. In both states, they bear responsibility for the path they chose.
 
 ## The Choice of Trials
+
+### The Choice of Trials
 
 Before a new bodily life, a spirit in the wandering state chooses the kind of trials it will undergo. This freedom grounds responsibility: life is not blind fate, and suffering is not assigned at random.
 
@@ -344,6 +350,44 @@ Spirits who are not in sympathy now may become so later. As a less advanced spir
 But sympathy can also weaken for a time. If one spirit progresses and another remains behind, their harmony is interrupted.
 
 What is real is not a fixed pairing of souls, but growing communion among spirits according to their purification.
+
+## The Remembrance of Corporeal Existence
+
+A spirit remembers its bodily lives and, from the clearer view of spirit life, may look back on its past conduct with pity or even a smile.
+
+This memory does not return all at once after death. It comes back gradually as confusion passes. What matters most for the spirit’s present state stands out most clearly, especially what affected its progress, purification, or suffering. Lesser details often fade, though they may be recovered if useful.
+
+Earthly life is much better understood from the spirit state. The spirit sees why trials were necessary and how each life helped remove imperfection. The more freed from matter it becomes, the less importance it gives to earthly details. Thus it may forget names and circumstances while remembering clearly the decisive events of moral growth.
+
+### The Body After Death
+
+Once separated from the body, the spirit usually sees it as a discarded garment and is glad to be rid of it. As the body decays, the spirit is generally indifferent, since it no longer regards it as part of its real self.
+
+A spirit may later recognize its bones or former possessions, depending on its advancement and attachment to earthly things. What reaches it is not the objects themselves, but the affection and remembrance connected with them.
+
+### Memory of Suffering and Pleasure
+
+Spirits often keep the memory of the sufferings of their last bodily life, and this helps them better appreciate the happiness of spirit life.
+
+Earthly pleasures are remembered differently. Lower spirits may regret pleasures tied to imperfection, and these attachments become suffering. More advanced spirits do not regret them, because the happiness of the spirit state is far greater.
+
+### Unfinished Works and Human Activity
+
+Spirits who began useful works and died before finishing them do not grieve over what was left undone. They understand that others will continue the work, and they may inspire incarnate spirits to carry it on for the good of humanity.
+
+The same detachment often applies to artistic and literary work. After death, spirits may judge their productions very differently and even disapprove of what they most admired while living. Higher spirits value above all what shows moral and intellectual progress.
+
+### Native Land and Changing Ideas
+
+Love of one’s native land changes with spiritual progress. For highly advanced spirits, the true homeland is the universe. On earth, they are drawn chiefly to places where they find sympathetic souls.
+
+A spirit’s ideas also change greatly in spirit life. As the influence of matter weakens, former opinions are altered, and clearer sight gradually brings clearer judgment and a stronger desire to improve.
+
+### Astonishment on Returning to the Spirit World
+
+If spirits lived in the spirit world before incarnation, their astonishment on returning belongs mainly to the first moments after death, when they are still confused. As memory returns and earthly impressions fade, they recognize their true condition.
+
+The return to spiritual awareness is usually gradual. Memory, judgment, and clear vision come back little by little, according to the spirit’s degree of advancement.
 
 ## The Commemoration of the Dead. Funerals
 
