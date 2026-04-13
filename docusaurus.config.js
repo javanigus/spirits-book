@@ -61,7 +61,7 @@ const config = {
       items: [
         { to: '/', 
           label: 'Introduction', 
-          position: 'center',
+          position: 'right',
           exact: true },
         {
           type: 'docSidebar',
