@@ -1,6 +1,6 @@
 ---
-title: 1.2 The General Elements of the Universe
-sidebar_label: 1.2 The General Elements of the Universe
+title: 1.2 The Basic Elements of the Universe
+sidebar_label: 1.2 The Basic Elements of the Universe
 ---
 
 ## The Knowledge of the Origin of Things

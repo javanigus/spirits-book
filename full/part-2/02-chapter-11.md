@@ -1,6 +1,6 @@
 ---
-title: 2.11 The Three Kingdoms
-sidebar_label: 2.11 The Three Kingdoms
+title: 2.11 Matter, Life, and Spirit
+sidebar_label: 2.11 Matter, Life, and Spirit
 ---
 
 ## Minerals and Plants

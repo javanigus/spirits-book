@@ -1,9 +1,9 @@
 ---
-title: 2.5 Considerations concerning the Plurality of Existences
-sidebar_label: 2.5 Considerations concerning the Plurality of Existences
+title: 2.5 Why We Live Many Lives
+sidebar_label: 2.5 Why We Live Many Lives
 ---
 
-## Considerations concerning the Plurality of Existences
+## Multiple Lives
 
 The idea of repeated earthly lives is not new. It appears in very ancient traditions and was known among peoples of remote antiquity. Pythagoras did not originate it; he inherited it from earlier sources. The age of a doctrine does not prove it true by itself, but neither does antiquity count against it. When an idea passes through centuries and is received by many thoughtful minds, it suggests that the idea answers something deep in human reason and experience.
 

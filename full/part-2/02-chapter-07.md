@@ -1,6 +1,6 @@
 ---
-title: 2.7 The Return to Corporeal Life
-sidebar_label: 2.7 The Return to Corporeal Life
+title: 2.7 Returning to Earthly Life
+sidebar_label: 2.7 Returning to Earthly Life
 ---
 
 ## Preludes to the Return

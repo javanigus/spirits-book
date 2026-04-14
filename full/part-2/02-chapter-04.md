@@ -1,6 +1,6 @@
 ---
-title: 2.4 The Plurality of Existences
-sidebar_label: 2.4 The Plurality of Existences
+title: "2.4 Reincarnation: Multiple Lives"
+sidebar_label: "2.4 Reincarnation: Multiple Lives"
 ---
 
 ## Reincarnation

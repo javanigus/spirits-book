@@ -1,6 +1,6 @@
 ---
-title: 2.8 The Emancipation of the Soul
-sidebar_label: 2.8 The Emancipation of the Soul
+title: 2.8 The Soul Beyond the Body
+sidebar_label: 2.8 The Soul Beyond the Body
 ---
 
 ## Sleep and Dreams

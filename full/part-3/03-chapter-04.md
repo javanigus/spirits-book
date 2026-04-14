@@ -1,6 +1,6 @@
 ---
-title: 3.4 The Law of Reproduction
-sidebar_label: 3.4 The Law of Reproduction
+title: 3.4 Reproduction and the Continuation of Life
+sidebar_label: 3.4 Reproduction and the Continuation of Life
 ---
 
 ## The Global Population

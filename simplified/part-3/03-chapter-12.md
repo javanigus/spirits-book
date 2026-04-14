@@ -1,6 +1,6 @@
 ---
-title: 3.12 Moral Perfection
-sidebar_label: 3.12 Moral Perfection
+title: 3.12 Moral Growth
+sidebar_label: 3.12 Moral Growth
 ---
 
 ## Virtues and Vices

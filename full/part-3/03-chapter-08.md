@@ -1,6 +1,6 @@
 ---
-title: 3.8 The Law of Progress
-sidebar_label: 3.8 The Law of Progress
+title: 3.8 Human Progress
+sidebar_label: 3.8 Human Progress
 ---
 
 ## The State of Nature

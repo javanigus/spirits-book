@@ -1,6 +1,6 @@
 ---
-title: 1.4 The Vital Principle
-sidebar_label: 1.4 The Vital Principle
+title: 1.4 The Principle of Life
+sidebar_label: 1.4 The Principle of Life
 ---
 
 ## Organic and Inorganic Beings

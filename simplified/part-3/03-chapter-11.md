@@ -1,6 +1,6 @@
 ---
-title: 3.11 The Law of Justice, Love and Charity
-sidebar_label: 3.11 The Law of Justice, Love and Charity
+title: 3.11 Justice, Love and Charity
+sidebar_label: 3.11 Justice, Love and Charity
 ---
 
 ## Justice and Natural Rights

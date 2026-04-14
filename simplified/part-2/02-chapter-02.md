@@ -1,9 +1,9 @@
 ---
-title: 2.2 The Incarnation of Spirits
-sidebar_label: 2.2 The Incarnation of Spirits
+title: "2.2 Incarnation: Spirits in Human Bodies"
+sidebar_label: "2.2 Incarnation: Spirits in Human Bodies"
 ---
 
-## The Purpose of Incarnation
+## Incarnation
 
 Incarnation is given to spirits so they can move toward perfection. For some it is expiation; for others, a mission. Through the conditions, struggles, and trials of bodily life, spirits are taught, corrected, and refined.
 

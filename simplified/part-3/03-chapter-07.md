@@ -1,8 +1,7 @@
 ---
-title: 3.7 The Law of Society
-sidebar_label: 3.7 The Law of Society
+title: 3.7 Life in Society
+sidebar_label: 3.7 Life in Society
 ---
-
 
 ## The Need for Societal Life
 

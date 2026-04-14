@@ -1,6 +1,6 @@
 ---
-title: 4.2 Future Joys and Sorrows
-sidebar_label: 4.2 Future Joys and Sorrows
+title: 4.2 Joys and Sorrows in the Life to Come
+sidebar_label: 4.2 Joys and Sorrows in the Life to Come
 ---
 
 ## Nothingness. The Future Life

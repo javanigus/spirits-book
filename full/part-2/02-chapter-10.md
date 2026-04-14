@@ -1,6 +1,6 @@
 ---
-title: 2.10 Occupations and Missions of Spirits
-sidebar_label: 2.10 Occupations and Missions of Spirits
+title: 2.10 The Work and Purpose of Spirits
+sidebar_label: 2.10 The Work and Purpose of Spirits
 ---
 
 ## Occupations and Missions of Spirits

@@ -1,6 +1,6 @@
 ---
-title: 3.5 The Law of Preservation
-sidebar_label: 3.5 The Law of Preservation
+title: 3.5 The Instinct to Survive
+sidebar_label: 3.5 The Instinct to Survive
 ---
 
 ## The Self-Preservation Instinct

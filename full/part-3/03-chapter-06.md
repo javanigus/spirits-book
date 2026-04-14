@@ -1,6 +1,6 @@
 ---
-title: 3.6 The Law of Destruction
-sidebar_label: 3.6 The Law of Destruction
+title: 3.6 Destruction and Renewal
+sidebar_label: 3.6 Destruction and Renewal
 ---
 
 ## Necessary Destruction and Abusive Destruction

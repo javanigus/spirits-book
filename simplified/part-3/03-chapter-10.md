@@ -1,6 +1,6 @@
 ---
-title: 3.10 The Law of Freedom
-sidebar_label: 3.10 The Law of Freedom
+title: 3.10 Freedom of Choice
+sidebar_label: 3.10 Freedom of Choice
 ---
 
 ## Natural Freedom

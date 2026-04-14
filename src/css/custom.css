@@ -54,3 +54,13 @@
 [data-theme='dark'] .navbar__logo img {
   filter: drop-shadow(0 0 4px rgba(239, 68, 68, 0.5));
 }
+
+/* Left sidebar (doc sidebar) */
+.menu__link {
+  font-weight: 400;
+}
+
+/* Right sidebar (table of contents) */
+.table-of-contents__link {
+  font-weight: 400;
+}

@@ -1,6 +1,6 @@
 ---
-title: 2.1 Spirits
-sidebar_label: 2.1 Spirits
+title: 2.1 What Spirits Are
+sidebar_label: 2.1 What Spirits Are
 ---
 
 ## The Origin and Nature of Spirits

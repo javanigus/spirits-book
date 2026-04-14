@@ -1,6 +1,6 @@
 ---
-title: 2.9 The Intervention of Spirits in the Corporeal World
-sidebar_label: 2.9 The Intervention of Spirits in the Corporeal World
+title: 2.9 How Spirits Influence Our Lives
+sidebar_label: 2.9 How Spirits Influence Our Lives
 ---
 
 ## The Reading of Our Thoughts by Spirits

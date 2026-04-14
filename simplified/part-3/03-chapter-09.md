@@ -1,6 +1,6 @@
 ---
-title: 3.9 The Law of Equality
-sidebar_label: 3.9 The Law of Equality
+title: 3.9 Equality Among People
+sidebar_label: 3.9 Equality Among People
 ---
 
 ## Natural Equality

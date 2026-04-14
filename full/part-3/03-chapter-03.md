@@ -1,6 +1,6 @@
 ---
-title: 3.3 The Law of Labor
-sidebar_label: 3.3 The Law of Labor
+title: 3.3 Work and Effort
+sidebar_label: 3.3 Work and Effort
 ---
 
 ## The Necessity of Labor

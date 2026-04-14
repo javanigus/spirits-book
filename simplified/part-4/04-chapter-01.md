@@ -1,6 +1,6 @@
 ---
-title: 4.1 Earthly Joys and Sorrows
-sidebar_label: 4.1 Earthly Joys and Sorrows
+title: 4.1 Joys and Sorrows in Earthly Life
+sidebar_label: 4.1 Joys and Sorrows in Earthly Life
 ---
 
 ## Relative Happiness and Unhappiness

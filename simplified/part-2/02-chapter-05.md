@@ -1,9 +1,9 @@
 ---
-title: 2.5 Considerations concerning the Plurality of Existences
-sidebar_label: 2.5 Considerations concerning the Plurality of Existences
+title: 2.5 Why We Live Many Lives
+sidebar_label: 2.5 Why We Live Many Lives
 ---
 
-## Considerations concerning the Plurality of Existences
+## Multiple Lives
 
 The idea of more than one earthly life is ancient, though its age proves nothing by itself. Still, its persistence suggests that it answers something deep in human reason.
 

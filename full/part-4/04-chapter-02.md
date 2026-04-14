@@ -1,9 +1,9 @@
 ---
-title: 4.2 Future Joys and Sorrows
-sidebar_label: 4.2 Future Joys and Sorrows
+title: 4.2 Joys and Sorrows in the Life to Come
+sidebar_label: 4.2 Joys and Sorrows in the Life to Come
 ---
 
-## Nothingness and the Future Life
+## Nothingness. The Future Life
 
 Human beings feel an instinctive horror at the idea of nothingness because nothingness is not our destiny.
 

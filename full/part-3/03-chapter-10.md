@@ -1,6 +1,6 @@
 ---
-title: 3.10 The Law of Equality
-sidebar_label: 3.10 The Law of Equality
+title: 3.10 Freedom of Choice
+sidebar_label: 3.10 Freedom of Choice
 ---
 
 ## Natural Freedom

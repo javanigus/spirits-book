@@ -1,6 +1,6 @@
 ---
-title: 2.3 The Return from the Corporeal to the Spirit Life
-sidebar_label: 2.3 The Return from the Corporeal to the Spirit Life
+title: 2.3 Life After Death
+sidebar_label: 2.3 Life After Death
 ---
 
 ## The Soul after Death

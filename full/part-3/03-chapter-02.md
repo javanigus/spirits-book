@@ -1,6 +1,6 @@
 ---
-title: 3.2 The Law of Worship
-sidebar_label: 3.2 The Law of Worship
+title: 3.2 Worship and Connection to God
+sidebar_label: 3.2 Worship and Connection to God
 ---
 
 ## The Purpose of Worship

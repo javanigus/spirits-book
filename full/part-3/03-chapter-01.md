@@ -1,6 +1,6 @@
 ---
-title: 3.1 Divine or Natural Law
-sidebar_label: 3.1 Divine or Natural Law
+title: 3.1 God's Laws
+sidebar_label: 3.1 God's Laws
 ---
 
 ## The Characteristics of Natural Law

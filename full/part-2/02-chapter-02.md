@@ -1,9 +1,9 @@
 ---
-title: 2.2 The Incarnation of Spirits
-sidebar_label: 2.2 The Incarnation of Spirits
+title: "2.2 Incarnation: Spirits in Human Bodies"
+sidebar_label: "2.2 Incarnation: Spirits in Human Bodies"
 ---
 
-## The Purpose of Incarnation
+## Incarnation
 
 Incarnation is imposed on spirits as a means of leading them toward perfection.
 
