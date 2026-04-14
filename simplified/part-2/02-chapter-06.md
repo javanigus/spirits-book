@@ -115,9 +115,7 @@ The sufferings of spirits are moral rather than physical. When a spirit says it 
 
 For this reason, spirits sometimes speak of heat or cold. These expressions often come from vivid memory or serve as images of their moral condition. They may retain the impression of bodily suffering even after the body is gone.
 
-## Theoretical Essay on Sensation in Spirits
-
-### Theoretical Essay on Sensation in Spirits
+## Theoretical Explanation on Sensation in Spirits
 
 The body is the instrument of pain. The soul perceives pain, but is not itself physically wounded. Heat and cold do not burn or freeze the soul.
 
