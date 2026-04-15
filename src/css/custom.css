@@ -67,11 +67,14 @@
 
 [data-theme='dark'] .markdown h3 {
   color: #a5b4fc;
-  font-weight: 500;
-  letter-spacing: 0.2px;
 }
 
-.markdown h3 {
+[data-theme='dark'] .markdown h4 {
+  color: #fdba74;
+}
+
+.markdown h3,
+.markdown h4 {
   font-weight: 500;
   letter-spacing: 0.2px;
 }
