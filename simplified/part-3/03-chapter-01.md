@@ -143,9 +143,18 @@ Natural law covers the whole of life.
 
 The rule of loving our neighbor includes our duties toward other people, but it is useful to separate these duties into parts for clearer understanding.
 
-### The Divisions of Natural Law
+Natural law can be divided into ten parts: 
 
-Natural law can be divided into ten parts: the law of worship, the law of labor, the law of reproduction, the law of preservation, the law of destruction, the law of society, the law of progress, the law of equality, the law of liberty, and the law of justice, love, and charity.
+1. Worship  
+2. Labor  
+3. Reproduction  
+4. Preservation  
+5. Destruction  
+6. Society  
+7. Progress  
+8. Equality  
+9. Liberty  
+10. Justice, Love, and Charity
 
 This division is useful, but not rigid. The law is one, even if arranged in different ways.
 

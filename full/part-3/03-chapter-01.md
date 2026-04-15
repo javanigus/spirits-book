@@ -205,7 +205,18 @@ Love of one’s neighbor expresses human duties toward others in a powerful and 
 
 For that reason, natural law may be divided into distinct parts. Such a division helps make its requirements clearer in practice.
 
-A traditional division presents natural law in ten parts: the laws of worship, labor, reproduction, preservation, destruction, society, progress, equality, liberty, and finally the law of justice, love, and charity.
+A traditional division presents natural law in ten parts:
+
+1. Worship  
+2. Labor  
+3. Reproduction  
+4. Preservation  
+5. Destruction  
+6. Society  
+7. Progress  
+8. Equality  
+9. Liberty  
+10. Justice, Love, and Charity
 
 This arrangement covers the circumstances of life in a useful and comprehensive way. Its value lies in its ability to gather the demands of moral life into an ordered whole.
 
