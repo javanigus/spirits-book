@@ -64,3 +64,14 @@
 .table-of-contents__link {
   font-weight: 400;
 }
+
+[data-theme='dark'] .markdown h3 {
+  color: #a5b4fc;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
+
+.markdown h3 {
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
