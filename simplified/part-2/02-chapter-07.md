@@ -23,7 +23,7 @@ The spirit friends who accompany a person in life are often the same ones who ap
 
 Corporeal life is a confinement for the incarnate spirit. Though necessary for progress, it places the spirit under limits it does not have in freedom. The presence of faithful spirit companions softens this condition, especially during sleep, when the soul is less tightly bound to the body.
 
-## The Joining of the Soul with the Body. Abortion
+## The Joining of the Soul with the Body.
 
 The soul joins the body at conception, and this union is completed at birth. From the beginning, the spirit chosen for that body is connected to it by a bond that grows stronger little by little. The first cry of the child marks its full entry into earthly life.
 
