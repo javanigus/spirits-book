@@ -123,7 +123,7 @@ The organism bears the mark of the spirit’s tendencies and powers. It is made 
 
 The body is therefore both a vehicle and a restraint: necessary for manifestation in earthly life, yet never the true source of intelligence, character, or moral worth.
 
-## Mental Impairment. Insanity
+## Mental Impairment and Insanity
 
 Mental impairment does not mean an inferior soul. The soul is still human and may be far more developed than the person seems to be on earth. What is limited is not the spirit itself, but its ability to act through the body.
 
