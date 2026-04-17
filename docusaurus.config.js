@@ -86,11 +86,10 @@ const config = {
               label: 'Bahasa Indonesia',
               to: '/indonesian/part-1/chapter-01',
             },
-            // later:
-            // {
-            //   label: 'العربية',
-            //   to: '/arabic/part-1/chapter-01',
-            // },
+            {
+              label: 'العربية',
+              to: '/arabic/part-1/chapter-01',
+            },
           ],
         }
       ],
