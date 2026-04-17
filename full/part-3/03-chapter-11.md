@@ -89,7 +89,7 @@ True justice therefore does not rest solely on legal recognition. It rests on co
 
 ## Charity and Love for Our Neighbor
 
-Charity, as Jesus understood it, is benevolence toward everyone, indulgence toward the imperfections of others, and forgiveness for offenses.
+Charity is benevolence toward everyone, indulgence toward the imperfections of others, and forgiveness for offenses.
 
 Love and charity complete the law of justice. To love our neighbor is to do all the good we can, all that we ourselves would wish to receive. That is the force of the command to love one another as brothers and sisters.
 

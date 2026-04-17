@@ -65,16 +65,6 @@ Not everyone who claims such a mission truly possesses it. Many have led others 
 
 True prophets can be recognized by their moral character, their words, and their deeds. A genuine messenger of God does not teach truth through falsehood. The moral quality of the person matters. One who is ruled by deceit cannot be a trustworthy bearer of divine law.
 
-### The Perfect Model
-
-The highest moral standard offered to humanity is Jesus.
-
-He represents the most complete model of moral perfection available to human beings on earth. The teaching he gave is the purest expression of divine law, because he was animated by the divine spirit and was the purest being ever to live among humanity.
-
-This does not mean that all who taught before or after him spoke falsely. It means that in him the law was shown with unmatched purity, both in teaching and in life.
-
-When religious teachers have misled others, the cause has often been the intrusion of earthly passions into spiritual teaching. They have confused laws meant for the life of the soul with rules designed for temporal interests. Many things presented as divine commands were, in reality, merely human regulations shaped by ambition, social control, or the desire to dominate.
-
 ### Natural Law Before Jesus
 
 Divine law and natural law were not unknown before the coming of Jesus.
@@ -85,7 +75,7 @@ For this reason, the principles of moral law have appeared among noble souls in 
 
 ### Why Further Teaching Is Given
 
-If Jesus taught the true law of God, further spiritual teaching still has value.
+If Jesus taught the law of God, further spiritual teaching still has value.
 
 Much of what Jesus taught was expressed through allegory and parable, in a form suited to the people, place, and time in which he spoke. The truth must later be made more intelligible to broader humanity. Divine law therefore requires fuller explanation and development, not because it changes, but because human understanding advances.
 
@@ -109,7 +99,7 @@ For that reason, ancient systems of thought deserve study. They are rich in inst
 
 Natural law is at once inwardly present and gradually unveiled.
 
-It lives in conscience, survives in the soul as an intuitive memory, appears in nature, speaks through wise and moral teachers, and reaches its clearest earthly model in Jesus. Yet human beings do not grasp it all at once. Knowledge of the law unfolds with moral growth, intellectual development, and repeated opportunities for learning.
+It lives in conscience, survives in the soul as an intuitive memory, appears in nature, and speaks through wise and moral teachers. Yet human beings do not grasp it all at once. Knowledge of the law unfolds with moral growth, intellectual development, and repeated opportunities for learning.
 
 No one is excluded forever from this understanding. Some perceive it sooner because they seek it more sincerely and live more uprightly. Others resist it, obscure it, or misuse it. But progress continues, and the law remains the same: a law of love, charity, and the steady elevation of the soul toward what is good.
 

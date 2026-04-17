@@ -43,12 +43,6 @@ Since people do not always listen to conscience, they need to be reminded of the
 
 They do not invent truth. They restore it, explain it, and call people back to justice when it has been forgotten. But not everyone who claims such a mission truly has it. False pride and error can mislead. A true messenger is known by moral worth as much as by words.
 
-### The Perfect Model
-
-Jesus is the highest model of moral perfection given to humanity on earth. In him, God’s law was shown with the greatest purity, both in teaching and in life.
-
-When religion has led people astray, it has usually been because human passions were mixed into it. Many rules presented as divine were only human inventions, shaped by ambition or the desire to control others.
-
 ### Natural Law Before Jesus
 
 Natural law was known before Jesus. It is written in creation and in the human heart, so thoughtful people in every age could perceive parts of it.
@@ -57,7 +51,7 @@ That is why great moral truths have appeared among many peoples, though often mi
 
 ### Why Further Teaching Is Given
 
-If Jesus taught the true law of God, further teaching is still useful because people do not understand everything at once. The law itself does not change, but human understanding develops.
+If Jesus taught the law of God, further teaching is still useful because people do not understand everything at once. The law itself does not change, but human understanding develops.
 
 So the same truth must sometimes be explained more clearly and more fully. This helps awaken those who still ignore the law and prevents people from hiding behind ignorance. True teaching appeals to reason; it does not demand blind submission. God’s law is founded on love and charity.
 
@@ -69,7 +63,7 @@ That is why ancient teachings often came through symbols, images, and partial id
 
 ### Conscience, Progress, and Moral Awakening
 
-Natural law is both within us and taught to us over time. It speaks in conscience, is reflected in nature, and is recalled by enlightened teachers. In Jesus it found its clearest model on earth.
+Natural law is both within us and taught to us over time. It speaks in conscience, is reflected in nature, and is recalled by enlightened teachers.
 
 Yet people do not understand it all at once. Knowledge grows with moral progress and experience. Some recognize the law sooner because they seek it sincerely. Others resist it for a time. But no one is forever shut off from it. The law remains the same: a law of love, charity, and movement toward the good.
 

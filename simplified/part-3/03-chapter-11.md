@@ -65,7 +65,7 @@ Real justice rests on fairness, love, and respect for the rights of others. Owne
 
 ## Charity and Love for Our Neighbor
 
-Charity, as Jesus taught it, means kindness toward everyone, patience with the faults of others, and forgiveness for wrongs.
+Charity means kindness toward everyone, patience with the faults of others, and forgiveness for wrongs.
 
 Love and charity complete the law of justice. To love our neighbor is to do for others the good we would want for ourselves, in all our relationships.
 
