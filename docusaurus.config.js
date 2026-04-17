@@ -72,6 +72,16 @@ const config = {
         editUrl: undefined,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'spanish',
+        path: 'spanish',
+        routeBasePath: 'spanish',
+        sidebarPath: require.resolve('./sidebarsSimplified.js'),
+        editUrl: undefined,
+      },
+    ],
   ],
 
   themeConfig: {
@@ -102,6 +112,10 @@ const config = {
             {
               label: 'العربية',
               to: '/arabic/part-1/chapter-01',
+            },
+            {
+              label: 'Español',
+              to: '/spanish/part-1/chapter-01',
             },
           ],
         }
