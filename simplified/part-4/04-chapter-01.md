@@ -5,200 +5,200 @@ sidebar_label: 4.1 Joys and Sorrows in Earthly Life
 
 ## Relative Happiness and Unhappiness
 
-<p id="4-1-1" className="verse"><span className="verse-num">4.1.1</span> Perfect happiness is not found on earth. Life in the body is a time of trial and repair, so full satisfaction cannot be expected.</p>
+<p id="4-1-1" className="verse"><a href="#4-1-1" className="verse-link" aria-label="Link to verse 4.1.1"><span className="verse-num">4.1.1</span></a> Perfect happiness is not found on earth. Life in the body is a time of trial and repair, so full satisfaction cannot be expected.</p>
 
-<p id="4-1-2" className="verse"><span className="verse-num">4.1.2</span> Still, people can lessen many of their sufferings. A large part of human misery comes from excess, pride, selfishness, and from living against the moral law. Those who understand that earthly life is short, and that a future life awaits, bear present troubles with more calm.</p>
+<p id="4-1-2" className="verse"><a href="#4-1-2" className="verse-link" aria-label="Link to verse 4.1.2"><span className="verse-num">4.1.2</span></a> Still, people can lessen many of their sufferings. A large part of human misery comes from excess, pride, selfishness, and from living against the moral law. Those who understand that earthly life is short, and that a future life awaits, bear present troubles with more calm.</p>
 
 ### The Common Measure of Happiness
 
-<p id="4-1-3" className="verse"><span className="verse-num">4.1.3</span> Happiness on earth is not the same for everyone, but there is still a common measure.</p>
+<p id="4-1-3" className="verse"><a href="#4-1-3" className="verse-link" aria-label="Link to verse 4.1.3"><span className="verse-num">4.1.3</span></a> Happiness on earth is not the same for everyone, but there is still a common measure.</p>
 
-<p id="4-1-4" className="verse"><span className="verse-num">4.1.4</span> For the body, happiness is having what is necessary. For the soul, it is a good conscience and trust in the future. Many things people call necessities are really created by pride, vanity, ambition, or habit. Much suffering comes from wanting what is not truly needed.</p>
+<p id="4-1-4" className="verse"><a href="#4-1-4" className="verse-link" aria-label="Link to verse 4.1.4"><span className="verse-num">4.1.4</span></a> For the body, happiness is having what is necessary. For the soul, it is a good conscience and trust in the future. Many things people call necessities are really created by pride, vanity, ambition, or habit. Much suffering comes from wanting what is not truly needed.</p>
 
-<p id="4-1-5" className="verse"><span className="verse-num">4.1.5</span> A wise person does not keep looking at those who seem to have more. Instead, they notice how much suffering exists below them, and they lift their thoughts above this world.</p>
+<p id="4-1-5" className="verse"><a href="#4-1-5" className="verse-link" aria-label="Link to verse 4.1.5"><span className="verse-num">4.1.5</span></a> A wise person does not keep looking at those who seem to have more. Instead, they notice how much suffering exists below them, and they lift their thoughts above this world.</p>
 
 ### Misfortunes That Do Not Depend on Us
 
-<p id="4-1-6" className="verse"><span className="verse-num">4.1.6</span> Not every suffering comes from personal fault. Good and upright people also go through hardships.</p>
+<p id="4-1-6" className="verse"><a href="#4-1-6" className="verse-link" aria-label="Link to verse 4.1.6"><span className="verse-num">4.1.6</span></a> Not every suffering comes from personal fault. Good and upright people also go through hardships.</p>
 
-<p id="4-1-7" className="verse"><span className="verse-num">4.1.7</span> These trials cannot always be prevented, but they can be endured with patience. In unavoidable suffering, a clear conscience remains a deep comfort. Wealth is not a sure sign of happiness or divine favor. Riches are often a dangerous test because they feed selfishness and attachment to earthly things.</p>
+<p id="4-1-7" className="verse"><a href="#4-1-7" className="verse-link" aria-label="Link to verse 4.1.7"><span className="verse-num">4.1.7</span></a> These trials cannot always be prevented, but they can be endured with patience. In unavoidable suffering, a clear conscience remains a deep comfort. Wealth is not a sure sign of happiness or divine favor. Riches are often a dangerous test because they feed selfishness and attachment to earthly things.</p>
 
 ### Artificial Needs and the Burden of Civilization
 
-<p id="4-1-8" className="verse"><span className="verse-num">4.1.8</span> Civilization brings progress, but it also creates many new wants. People soon mistake these wants for necessities, and this becomes a major cause of unhappiness.</p>
+<p id="4-1-8" className="verse"><a href="#4-1-8" className="verse-link" aria-label="Link to verse 4.1.8"><span className="verse-num">4.1.8</span></a> Civilization brings progress, but it also creates many new wants. People soon mistake these wants for necessities, and this becomes a major cause of unhappiness.</p>
 
-<p id="4-1-9" className="verse"><span className="verse-num">4.1.9</span> The more needs people invent, the more they suffer when those needs are not met. Those who know how to limit their desires spare themselves many troubles. In that sense, the richest are often those who need the least.</p>
+<p id="4-1-9" className="verse"><a href="#4-1-9" className="verse-link" aria-label="Link to verse 4.1.9"><span className="verse-num">4.1.9</span></a> The more needs people invent, the more they suffer when those needs are not met. Those who know how to limit their desires spare themselves many troubles. In that sense, the richest are often those who need the least.</p>
 
 ### Necessities, Deprivation, and Responsibility
 
-<p id="4-1-10" className="verse"><span className="verse-num">4.1.10</span> Luxury is not needed for happiness, but the true necessities of life are. Anyone who lacks what is needed to live and keep their health is genuinely unfortunate.</p>
+<p id="4-1-10" className="verse"><a href="#4-1-10" className="verse-link" aria-label="Link to verse 4.1.10"><span className="verse-num">4.1.10</span></a> Luxury is not needed for happiness, but the true necessities of life are. Anyone who lacks what is needed to live and keep their health is genuinely unfortunate.</p>
 
-<p id="4-1-11" className="verse"><span className="verse-num">4.1.11</span> Sometimes this comes from personal fault. At other times it comes from the injustice of others, who are then responsible. Many disappointments also come from following a path unsuited to one’s abilities. Pride, ambition, and family pressure often push people into lives that do not fit them. A sound moral education would prevent much of this misery.</p>
+<p id="4-1-11" className="verse"><a href="#4-1-11" className="verse-link" aria-label="Link to verse 4.1.11"><span className="verse-num">4.1.11</span></a> Sometimes this comes from personal fault. At other times it comes from the injustice of others, who are then responsible. Many disappointments also come from following a path unsuited to one’s abilities. Pride, ambition, and family pressure often push people into lives that do not fit them. A sound moral education would prevent much of this misery.</p>
 
 ### Work, Pride, and the Refusal of Honest Labor
 
-<p id="4-1-12" className="verse"><span className="verse-num">4.1.12</span> No one should choose death over work.</p>
+<p id="4-1-12" className="verse"><a href="#4-1-12" className="verse-link" aria-label="Link to verse 4.1.12"><span className="verse-num">4.1.12</span></a> No one should choose death over work.</p>
 
-<p id="4-1-13" className="verse"><span className="verse-num">4.1.13</span> In most cases, a person can find some honest way to live if pride does not stand in the way. No useful work is shameful. What lowers a person is not labor, but idleness, selfishness, or vanity.</p>
+<p id="4-1-13" className="verse"><a href="#4-1-13" className="verse-link" aria-label="Link to verse 4.1.13"><span className="verse-num">4.1.13</span></a> In most cases, a person can find some honest way to live if pride does not stand in the way. No useful work is shameful. What lowers a person is not labor, but idleness, selfishness, or vanity.</p>
 
-<p id="4-1-14" className="verse"><span className="verse-num">4.1.14</span> Yet there are cases where illness or circumstances make self-support impossible. In a truly moral society, no one would be left to die of hunger.</p>
+<p id="4-1-14" className="verse"><a href="#4-1-14" className="verse-link" aria-label="Link to verse 4.1.14"><span className="verse-num">4.1.14</span></a> Yet there are cases where illness or circumstances make self-support impossible. In a truly moral society, no one would be left to die of hunger.</p>
 
 ### Why Suffering Seems More Common Than Happiness
 
-<p id="4-1-15" className="verse"><span className="verse-num">4.1.15</span> Suffering seems more common than happiness because no one on earth is completely happy. Even those who appear fortunate often hide painful troubles.</p>
+<p id="4-1-15" className="verse"><a href="#4-1-15" className="verse-link" aria-label="Link to verse 4.1.15"><span className="verse-num">4.1.15</span></a> Suffering seems more common than happiness because no one on earth is completely happy. Even those who appear fortunate often hide painful troubles.</p>
 
-<p id="4-1-16" className="verse"><span className="verse-num">4.1.16</span> Earth is still a place of expiation, so suffering is widespread. The triumph of the wicked is only temporary. Evil often seems stronger because the wicked act boldly, while good people are often hesitant.</p>
+<p id="4-1-16" className="verse"><a href="#4-1-16" className="verse-link" aria-label="Link to verse 4.1.16"><span className="verse-num">4.1.16</span></a> Earth is still a place of expiation, so suffering is widespread. The triumph of the wicked is only temporary. Evil often seems stronger because the wicked act boldly, while good people are often hesitant.</p>
 
 ### Mental Suffering and the Torments of the Soul
 
-<p id="4-1-17" className="verse"><span className="verse-num">4.1.17</span> People are even more the cause of their mental suffering than of their physical suffering.</p>
+<p id="4-1-17" className="verse"><a href="#4-1-17" className="verse-link" aria-label="Link to verse 4.1.17"><span className="verse-num">4.1.17</span></a> People are even more the cause of their mental suffering than of their physical suffering.</p>
 
-<p id="4-1-18" className="verse"><span className="verse-num">4.1.18</span> Many pains of the soul come from passions: wounded pride, disappointed ambition, greed, envy, jealousy, and bitterness. These inner torments destroy peace more deeply than many outward losses. Envy and jealousy are especially cruel, because they become a punishment people carry within themselves.</p>
+<p id="4-1-18" className="verse"><a href="#4-1-18" className="verse-link" aria-label="Link to verse 4.1.18"><span className="verse-num">4.1.18</span></a> Many pains of the soul come from passions: wounded pride, disappointed ambition, greed, envy, jealousy, and bitterness. These inner torments destroy peace more deeply than many outward losses. Envy and jealousy are especially cruel, because they become a punishment people carry within themselves.</p>
 
 ### Rising Above the Worldly View
 
-<p id="4-1-19" className="verse"><span className="verse-num">4.1.19</span> Much unhappiness comes from giving too much importance to earthly things. Vanity, greed, and ambition make every loss feel larger than it is.</p>
+<p id="4-1-19" className="verse"><a href="#4-1-19" className="verse-link" aria-label="Link to verse 4.1.19"><span className="verse-num">4.1.19</span></a> Much unhappiness comes from giving too much importance to earthly things. Vanity, greed, and ambition make every loss feel larger than it is.</p>
 
-<p id="4-1-20" className="verse"><span className="verse-num">4.1.20</span> When people live only for this world, changes in fortune seem unbearable. But when the soul rises toward its true destiny, earthly troubles shrink to their real size. Those who seek happiness in pride or pleasure become miserable when these fail. Those who are moderate and simple often remain at peace in conditions others would call unhappy.</p>
+<p id="4-1-20" className="verse"><a href="#4-1-20" className="verse-link" aria-label="Link to verse 4.1.20"><span className="verse-num">4.1.20</span></a> When people live only for this world, changes in fortune seem unbearable. But when the soul rises toward its true destiny, earthly troubles shrink to their real size. Those who seek happiness in pride or pleasure become miserable when these fail. Those who are moderate and simple often remain at peace in conditions others would call unhappy.</p>
 
-<p id="4-1-21" className="verse"><span className="verse-num">4.1.21</span> Real consolation comes from moral and spiritual vision. Hope in the future, trust in the soul’s destiny, a clear conscience, humble work, and courage in trials make relative happiness possible on earth.</p>
+<p id="4-1-21" className="verse"><a href="#4-1-21" className="verse-link" aria-label="Link to verse 4.1.21"><span className="verse-num">4.1.21</span></a> Real consolation comes from moral and spiritual vision. Hope in the future, trust in the soul’s destiny, a clear conscience, humble work, and courage in trials make relative happiness possible on earth.</p>
 
 ## The Loss of Loved Ones
 
-<p id="4-1-22" className="verse"><span className="verse-num">4.1.22</span> The loss of those we love is one of life's deepest sorrows. No one escapes it. For some, it is a trial; for others, an atonement. Yet the separation is not final. Those who die are not lost, and we will meet again.</p>
+<p id="4-1-22" className="verse"><a href="#4-1-22" className="verse-link" aria-label="Link to verse 4.1.22"><span className="verse-num">4.1.22</span></a> The loss of those we love is one of life's deepest sorrows. No one escapes it. For some, it is a trial; for others, an atonement. Yet the separation is not final. Those who die are not lost, and we will meet again.</p>
 
 ### Communication with Those Who Have Died
 
-<p id="4-1-23" className="verse"><span className="verse-num">4.1.23</span> It is a great comfort to know that the dead can still be near us. They may hear us, come to us, and answer our call when it is made with sincerity.</p>
+<p id="4-1-23" className="verse"><a href="#4-1-23" className="verse-link" aria-label="Link to verse 4.1.23"><span className="verse-num">4.1.23</span></a> It is a great comfort to know that the dead can still be near us. They may hear us, come to us, and answer our call when it is made with sincerity.</p>
 
-<p id="4-1-24" className="verse"><span className="verse-num">4.1.24</span> They keep affection for those they loved on earth. They can give counsel, show care, and rejoice in being remembered. It is a comfort to know that they still exist and that reunion remains possible.</p>
+<p id="4-1-24" className="verse"><a href="#4-1-24" className="verse-link" aria-label="Link to verse 4.1.24"><span className="verse-num">4.1.24</span></a> They keep affection for those they loved on earth. They can give counsel, show care, and rejoice in being remembered. It is a comfort to know that they still exist and that reunion remains possible.</p>
 
 ### Reverence and Propriety
 
-<p id="4-1-25" className="verse"><span className="verse-num">4.1.25</span> Some people think it is wrong or irreverent to seek communication with the dead. It is not, if it is done with respect, seriousness, and proper feeling.</p>
+<p id="4-1-25" className="verse"><a href="#4-1-25" className="verse-link" aria-label="Link to verse 4.1.25"><span className="verse-num">4.1.25</span></a> Some people think it is wrong or irreverent to seek communication with the dead. It is not, if it is done with respect, seriousness, and proper feeling.</p>
 
-<p id="4-1-26" className="verse"><span className="verse-num">4.1.26</span> What would be wrong is to treat such contact lightly or as amusement. Affectionate remembrance, joined with reverence, is natural and worthy.</p>
+<p id="4-1-26" className="verse"><a href="#4-1-26" className="verse-link" aria-label="Link to verse 4.1.26"><span className="verse-num">4.1.26</span></a> What would be wrong is to treat such contact lightly or as amusement. Affectionate remembrance, joined with reverence, is natural and worthy.</p>
 
 ### Excessive Grief and Its Effects
 
-<p id="4-1-27" className="verse"><span className="verse-num">4.1.27</span> Spirits are touched by loving remembrance, but excessive grief troubles them. Bitter, hopeless sorrow shows too much attachment to earthly life and too little trust in the future.</p>
+<p id="4-1-27" className="verse"><a href="#4-1-27" className="verse-link" aria-label="Link to verse 4.1.27"><span className="verse-num">4.1.27</span></a> Spirits are touched by loving remembrance, but excessive grief troubles them. Bitter, hopeless sorrow shows too much attachment to earthly life and too little trust in the future.</p>
 
-<p id="4-1-28" className="verse"><span className="verse-num">4.1.28</span> If those we mourn are happier after death, true love should be glad for their peace. Grief is natural, but it should not become rebellion against the will of God or despair at a separation that is only temporary.</p>
+<p id="4-1-28" className="verse"><a href="#4-1-28" className="verse-link" aria-label="Link to verse 4.1.28"><span className="verse-num">4.1.28</span></a> If those we mourn are happier after death, true love should be glad for their peace. Grief is natural, but it should not become rebellion against the will of God or despair at a separation that is only temporary.</p>
 
 ### The Prisoner Set Free
 
-<p id="4-1-29" className="verse"><span className="verse-num">4.1.29</span> Imagine two friends shut up in prison, both waiting for release. If one is freed first, real friendship would not wish him to remain a prisoner just to avoid parting.</p>
+<p id="4-1-29" className="verse"><a href="#4-1-29" className="verse-link" aria-label="Link to verse 4.1.29"><span className="verse-num">4.1.29</span></a> Imagine two friends shut up in prison, both waiting for release. If one is freed first, real friendship would not wish him to remain a prisoner just to avoid parting.</p>
 
-<p id="4-1-30" className="verse"><span className="verse-num">4.1.30</span> So it is with earthly life. The one who dies first is like the prisoner set free. The one who remains should wait with patience for the hour of his own release.</p>
+<p id="4-1-30" className="verse"><a href="#4-1-30" className="verse-link" aria-label="Link to verse 4.1.30"><span className="verse-num">4.1.30</span></a> So it is with earthly life. The one who dies first is like the prisoner set free. The one who remains should wait with patience for the hour of his own release.</p>
 
 ### The Friend Who Departs for a Better Country
 
-<p id="4-1-31" className="verse"><span className="verse-num">4.1.31</span> Think of a friend who leaves for a better land, where life is easier and happier. Though absent in body, the friend is not lost, and communication may still remain.</p>
+<p id="4-1-31" className="verse"><a href="#4-1-31" className="verse-link" aria-label="Link to verse 4.1.31"><span className="verse-num">4.1.31</span></a> Think of a friend who leaves for a better land, where life is easier and happier. Though absent in body, the friend is not lost, and communication may still remain.</p>
 
-<p id="4-1-32" className="verse"><span className="verse-num">4.1.32</span> Would love ask that friend to stay in hardship only to remain near us? In the same way, if those who leave earth have gone to a better state, affection should find comfort in their happiness.</p>
+<p id="4-1-32" className="verse"><a href="#4-1-32" className="verse-link" aria-label="Link to verse 4.1.32"><span className="verse-num">4.1.32</span></a> Would love ask that friend to stay in hardship only to remain near us? In the same way, if those who leave earth have gone to a better state, affection should find comfort in their happiness.</p>
 
 ### Consolation in the Continuity of Affection
 
-<p id="4-1-33" className="verse"><span className="verse-num">4.1.33</span> One of the sweetest comforts is knowing that those we love have not been destroyed. They still live, they still love, and our bond with them is not broken.</p>
+<p id="4-1-33" className="verse"><a href="#4-1-33" className="verse-link" aria-label="Link to verse 4.1.33"><span className="verse-num">4.1.33</span></a> One of the sweetest comforts is knowing that those we love have not been destroyed. They still live, they still love, and our bond with them is not broken.</p>
 
-<p id="4-1-34" className="verse"><span className="verse-num">4.1.34</span> This thought softens grief. It does not forbid tears, but it changes despair into hope.</p>
+<p id="4-1-34" className="verse"><a href="#4-1-34" className="verse-link" aria-label="Link to verse 4.1.34"><span className="verse-num">4.1.34</span></a> This thought softens grief. It does not forbid tears, but it changes despair into hope.</p>
 
 ### Patient Endurance and Future Joy
 
-<p id="4-1-35" className="verse"><span className="verse-num">4.1.35</span> The sufferings of life are easier to bear when we see them as passing. Earthly life is like a hard confinement that will end in freedom.</p>
+<p id="4-1-35" className="verse"><a href="#4-1-35" className="verse-link" aria-label="Link to verse 4.1.35"><span className="verse-num">4.1.35</span></a> The sufferings of life are easier to bear when we see them as passing. Earthly life is like a hard confinement that will end in freedom.</p>
 
-<p id="4-1-36" className="verse"><span className="verse-num">4.1.36</span> So sorrow for the dead should be joined with patience and trust. Love does not end at the grave, and today's separation prepares a future joy.</p>
+<p id="4-1-36" className="verse"><a href="#4-1-36" className="verse-link" aria-label="Link to verse 4.1.36"><span className="verse-num">4.1.36</span></a> So sorrow for the dead should be joined with patience and trust. Love does not end at the grave, and today's separation prepares a future joy.</p>
 
 ## Disappointments. Ungratefulness. Broken Affections
 
-<p id="4-1-37" className="verse"><span className="verse-num">4.1.37</span> Disappointments caused by ingratitude and broken affection are some of the hardest pains in life. But they should lead us to pity, not hatred. The ungrateful person harms himself even more than the one he wounds. Ingratitude comes from selfishness, and selfishness brings its own punishment.</p>
+<p id="4-1-37" className="verse"><a href="#4-1-37" className="verse-link" aria-label="Link to verse 4.1.37"><span className="verse-num">4.1.37</span></a> Disappointments caused by ingratitude and broken affection are some of the hardest pains in life. But they should lead us to pity, not hatred. The ungrateful person harms himself even more than the one he wounds. Ingratitude comes from selfishness, and selfishness brings its own punishment.</p>
 
-<p id="4-1-38" className="verse"><span className="verse-num">4.1.38</span> The good we do should not depend on being thanked. If kindness is met with contempt or forgetfulness, it is still kindness. Its worth remains the same. To go on doing good after being hurt is a real moral triumph.</p>
+<p id="4-1-38" className="verse"><a href="#4-1-38" className="verse-link" aria-label="Link to verse 4.1.38"><span className="verse-num">4.1.38</span></a> The good we do should not depend on being thanked. If kindness is met with contempt or forgetfulness, it is still kindness. Its worth remains the same. To go on doing good after being hurt is a real moral triumph.</p>
 
-<p id="4-1-39" className="verse"><span className="verse-num">4.1.39</span> These wounds can tempt us to shut our hearts. That would be another fault. Better to suffer from loving than to grow cold and selfish. A soul that keeps its capacity to love, even after pain, is in a better state than one that refuses all affection to avoid being hurt.</p>
+<p id="4-1-39" className="verse"><a href="#4-1-39" className="verse-link" aria-label="Link to verse 4.1.39"><span className="verse-num">4.1.39</span></a> These wounds can tempt us to shut our hearts. That would be another fault. Better to suffer from loving than to grow cold and selfish. A soul that keeps its capacity to love, even after pain, is in a better state than one that refuses all affection to avoid being hurt.</p>
 
-<p id="4-1-40" className="verse"><span className="verse-num">4.1.40</span> When affection has been given badly, we should not stop loving. We should become wiser in how we place our trust. If some people prove unworthy, the error was not in sincere affection itself, but in expecting from imperfect people what they could not give.</p>
+<p id="4-1-40" className="verse"><a href="#4-1-40" className="verse-link" aria-label="Link to verse 4.1.40"><span className="verse-num">4.1.40</span></a> When affection has been given badly, we should not stop loving. We should become wiser in how we place our trust. If some people prove unworthy, the error was not in sincere affection itself, but in expecting from imperfect people what they could not give.</p>
 
-<p id="4-1-41" className="verse"><span className="verse-num">4.1.41</span> So we should feel compassion rather than resentment for those who act badly. We must rise above their conduct, not imitate it. Human beings are made to love and to be loved, and one of life’s purest joys is the meeting of hearts in true sympathy. In that kind of affection, we already taste something of a higher happiness, where love is no longer troubled by selfishness or pain.</p>
+<p id="4-1-41" className="verse"><a href="#4-1-41" className="verse-link" aria-label="Link to verse 4.1.41"><span className="verse-num">4.1.41</span></a> So we should feel compassion rather than resentment for those who act badly. We must rise above their conduct, not imitate it. Human beings are made to love and to be loved, and one of life’s purest joys is the meeting of hearts in true sympathy. In that kind of affection, we already taste something of a higher happiness, where love is no longer troubled by selfishness or pain.</p>
 
 ## Antipathetic Unions
 
-<p id="4-1-42" className="verse"><span className="verse-num">4.1.42</span> When two people are joined without real sympathy, the union becomes a source of pain. One may love while the other does not, or an early attraction may give way to coldness. Such unions may be trials or expiation. People often mistake passing attraction for deep love, and when daily life removes the illusion, what seemed lasting proves to be only passion. True lasting love belongs to the soul, not to the body.</p>
+<p id="4-1-42" className="verse"><a href="#4-1-42" className="verse-link" aria-label="Link to verse 4.1.42"><span className="verse-num">4.1.42</span></a> When two people are joined without real sympathy, the union becomes a source of pain. One may love while the other does not, or an early attraction may give way to coldness. Such unions may be trials or expiation. People often mistake passing attraction for deep love, and when daily life removes the illusion, what seemed lasting proves to be only passion. True lasting love belongs to the soul, not to the body.</p>
 
 ### The Two Kinds of Affection
 
-<p id="4-1-43" className="verse"><span className="verse-num">4.1.43</span> There are two kinds of affection: that of the body and that of the soul.</p>
+<p id="4-1-43" className="verse"><a href="#4-1-43" className="verse-link" aria-label="Link to verse 4.1.43"><span className="verse-num">4.1.43</span></a> There are two kinds of affection: that of the body and that of the soul.</p>
 
-<p id="4-1-44" className="verse"><span className="verse-num">4.1.44</span> The first comes from physical attraction and is unstable. The second comes from true sympathy between souls and is deeper and more durable.</p>
+<p id="4-1-44" className="verse"><a href="#4-1-44" className="verse-link" aria-label="Link to verse 4.1.44"><span className="verse-num">4.1.44</span></a> The first comes from physical attraction and is unstable. The second comes from true sympathy between souls and is deeper and more durable.</p>
 
-<p id="4-1-45" className="verse"><span className="verse-num">4.1.45</span> So when love turns into aversion, it was not the soul that was loved, but only what pleased the senses.</p>
+<p id="4-1-45" className="verse"><a href="#4-1-45" className="verse-link" aria-label="Link to verse 4.1.45"><span className="verse-num">4.1.45</span></a> So when love turns into aversion, it was not the soul that was loved, but only what pleased the senses.</p>
 
 ### Suffering in Unions Without Sympathy
 
-<p id="4-1-46" className="verse"><span className="verse-num">4.1.46</span> Living closely with someone for whom one feels no sympathy is a hard suffering.</p>
+<p id="4-1-46" className="verse"><a href="#4-1-46" className="verse-link" aria-label="Link to verse 4.1.46"><span className="verse-num">4.1.46</span></a> Living closely with someone for whom one feels no sympathy is a hard suffering.</p>
 
-<p id="4-1-47" className="verse"><span className="verse-num">4.1.47</span> Much of this misery comes from human error. People are often joined for vanity, ambition, self-interest, or social prejudice instead of real harmony. The unhappiness that follows is the natural result.</p>
+<p id="4-1-47" className="verse"><a href="#4-1-47" className="verse-link" aria-label="Link to verse 4.1.47"><span className="verse-num">4.1.47</span></a> Much of this misery comes from human error. People are often joined for vanity, ambition, self-interest, or social prejudice instead of real harmony. The unhappiness that follows is the natural result.</p>
 
-<p id="4-1-48" className="verse"><span className="verse-num">4.1.48</span> God did not make such suffering a law. In many cases, people create it for themselves.</p>
+<p id="4-1-48" className="verse"><a href="#4-1-48" className="verse-link" aria-label="Link to verse 4.1.48"><span className="verse-num">4.1.48</span></a> God did not make such suffering a law. In many cases, people create it for themselves.</p>
 
 ### The Innocent Victim
 
-<p id="4-1-49" className="verse"><span className="verse-num">4.1.49</span> In these unhappy unions, one person often suffers most and is not the cause of the trouble. For that person, the pain may serve as an expiation or a moral trial.</p>
+<p id="4-1-49" className="verse"><a href="#4-1-49" className="verse-link" aria-label="Link to verse 4.1.49"><span className="verse-num">4.1.49</span></a> In these unhappy unions, one person often suffers most and is not the cause of the trouble. For that person, the pain may serve as an expiation or a moral trial.</p>
 
-<p id="4-1-50" className="verse"><span className="verse-num">4.1.50</span> Even so, the one who caused the unhappiness remains responsible. As prejudice loses its power, and as people care less for pride, rank, and appearances, these painful unions will become less common.</p>
+<p id="4-1-50" className="verse"><a href="#4-1-50" className="verse-link" aria-label="Link to verse 4.1.50"><span className="verse-num">4.1.50</span></a> Even so, the one who caused the unhappiness remains responsible. As prejudice loses its power, and as people care less for pride, rank, and appearances, these painful unions will become less common.</p>
 
 ## The Fear of Death
 
-<p id="4-1-51" className="verse"><span className="verse-num">4.1.51</span> Fear of death is common, though the soul survives the body. Much of this fear comes from false ideas about the future. If religion is presented mainly as punishment, death appears terrifying. If death is believed to end everything, it also seems dark and dreadful.</p>
+<p id="4-1-51" className="verse"><a href="#4-1-51" className="verse-link" aria-label="Link to verse 4.1.51"><span className="verse-num">4.1.51</span></a> Fear of death is common, though the soul survives the body. Much of this fear comes from false ideas about the future. If religion is presented mainly as punishment, death appears terrifying. If death is believed to end everything, it also seems dark and dreadful.</p>
 
-<p id="4-1-52" className="verse"><span className="verse-num">4.1.52</span> For the just and good, it is different. Faith in the future and trust in divine justice give hope. If they have sincerely tried to live well, they can face death more calmly, seeing it as a passage rather than an end.</p>
+<p id="4-1-52" className="verse"><a href="#4-1-52" className="verse-link" aria-label="Link to verse 4.1.52"><span className="verse-num">4.1.52</span></a> For the just and good, it is different. Faith in the future and trust in divine justice give hope. If they have sincerely tried to live well, they can face death more calmly, seeing it as a passage rather than an end.</p>
 
 ### Attachment to Material Life
 
-<p id="4-1-53" className="verse"><span className="verse-num">4.1.53</span> The more a person is attached to material life, the more they fear death. One who lives for possessions, pleasures, ambition, or earthly success feels bound to what must be left behind.</p>
+<p id="4-1-53" className="verse"><a href="#4-1-53" className="verse-link" aria-label="Link to verse 4.1.53"><span className="verse-num">4.1.53</span></a> The more a person is attached to material life, the more they fear death. One who lives for possessions, pleasures, ambition, or earthly success feels bound to what must be left behind.</p>
 
-<p id="4-1-54" className="verse"><span className="verse-num">4.1.54</span> Those who seek happiness only in outward things have little support when those things vanish. For this reason, fear is often strongest in those most absorbed in the world.</p>
+<p id="4-1-54" className="verse"><a href="#4-1-54" className="verse-link" aria-label="Link to verse 4.1.54"><span className="verse-num">4.1.54</span></a> Those who seek happiness only in outward things have little support when those things vanish. For this reason, fear is often strongest in those most absorbed in the world.</p>
 
 ### The Peace of the Moral Life
 
-<p id="4-1-55" className="verse"><span className="verse-num">4.1.55</span> Those who rise above the passions already know a calmer and more lasting happiness. A clear conscience, moderation, and the habit of doing good give an inner peace that material pleasures cannot give.</p>
+<p id="4-1-55" className="verse"><a href="#4-1-55" className="verse-link" aria-label="Link to verse 4.1.55"><span className="verse-num">4.1.55</span></a> Those who rise above the passions already know a calmer and more lasting happiness. A clear conscience, moderation, and the habit of doing good give an inner peace that material pleasures cannot give.</p>
 
-<p id="4-1-56" className="verse"><span className="verse-num">4.1.56</span> This peace makes death less bitter. The soul that is less chained to earthly desires is less troubled at leaving the body. The moral life thus prepares a person for a more peaceful departure.</p>
+<p id="4-1-56" className="verse"><a href="#4-1-56" className="verse-link" aria-label="Link to verse 4.1.56"><span className="verse-num">4.1.56</span></a> This peace makes death less bitter. The soul that is less chained to earthly desires is less troubled at leaving the body. The moral life thus prepares a person for a more peaceful departure.</p>
 
 ### Why Simple Counsel Is Often Rejected
 
-<p id="4-1-57" className="verse"><span className="verse-num">4.1.57</span> People often reject this counsel because it seems too simple. They want peace without the effort, sacrifice, and self-control needed to gain it.</p>
+<p id="4-1-57" className="verse"><a href="#4-1-57" className="verse-link" aria-label="Link to verse 4.1.57"><span className="verse-num">4.1.57</span></a> People often reject this counsel because it seems too simple. They want peace without the effort, sacrifice, and self-control needed to gain it.</p>
 
-<p id="4-1-58" className="verse"><span className="verse-num">4.1.58</span> Peace of soul does not come by chance. It comes from resisting bad inclinations and learning to govern oneself. That is why the advice is sound, even if many do not wish to follow it.</p>
+<p id="4-1-58" className="verse"><a href="#4-1-58" className="verse-link" aria-label="Link to verse 4.1.58"><span className="verse-num">4.1.58</span></a> Peace of soul does not come by chance. It comes from resisting bad inclinations and learning to govern oneself. That is why the advice is sound, even if many do not wish to follow it.</p>
 
 ## Dissatisfaction with Life. Suicide
 
-<p id="4-1-59" className="verse"><span className="verse-num">4.1.59</span> Weariness with life often comes from idleness, lack of faith, or the emptiness that follows excess. Useful work, duty, and hope in a better future help people bear life’s trials.</p>
+<p id="4-1-59" className="verse"><a href="#4-1-59" className="verse-link" aria-label="Link to verse 4.1.59"><span className="verse-num">4.1.59</span></a> Weariness with life often comes from idleness, lack of faith, or the emptiness that follows excess. Useful work, duty, and hope in a better future help people bear life’s trials.</p>
 
-<p id="4-1-60" className="verse"><span className="verse-num">4.1.60</span> No one has the right to take their own life. Life belongs to God, and suicide is a violation of that law. When a person acts in madness or without awareness, responsibility is lessened.</p>
+<p id="4-1-60" className="verse"><a href="#4-1-60" className="verse-link" aria-label="Link to verse 4.1.60"><span className="verse-num">4.1.60</span></a> No one has the right to take their own life. Life belongs to God, and suicide is a violation of that law. When a person acts in madness or without awareness, responsibility is lessened.</p>
 
-<p id="4-1-61" className="verse"><span className="verse-num">4.1.61</span> Those who kill themselves to escape trouble, disappointment, or suffering do not understand the purpose of earthly life. Trials may serve for testing or for atonement, and patient endurance prepares a better future. Suicide is not courage, but yielding.</p>
+<p id="4-1-61" className="verse"><a href="#4-1-61" className="verse-link" aria-label="Link to verse 4.1.61"><span className="verse-num">4.1.61</span></a> Those who kill themselves to escape trouble, disappointment, or suffering do not understand the purpose of earthly life. Trials may serve for testing or for atonement, and patient endurance prepares a better future. Suicide is not courage, but yielding.</p>
 
-<p id="4-1-62" className="verse"><span className="verse-num">4.1.62</span> Pride is often part of it. Some would rather die than face poverty, humiliation, or a fall in social position. Others destroy themselves to escape the shame of a fault or to spare their family dishonor. Such motives may soften the guilt in part, but they do not make the act right. False ideas of honor cannot change God’s law.</p>
+<p id="4-1-62" className="verse"><a href="#4-1-62" className="verse-link" aria-label="Link to verse 4.1.62"><span className="verse-num">4.1.62</span></a> Pride is often part of it. Some would rather die than face poverty, humiliation, or a fall in social position. Others destroy themselves to escape the shame of a fault or to spare their family dishonor. Such motives may soften the guilt in part, but they do not make the act right. False ideas of honor cannot change God’s law.</p>
 
-<p id="4-1-63" className="verse"><span className="verse-num">4.1.63</span> Suicide does not erase a wrong. It adds another and leaves the soul with the same burden. Those who care more for human opinion than for God’s judgment gain nothing by it.</p>
+<p id="4-1-63" className="verse"><a href="#4-1-63" className="verse-link" aria-label="Link to verse 4.1.63"><span className="verse-num">4.1.63</span></a> Suicide does not erase a wrong. It adds another and leaves the soul with the same burden. Those who care more for human opinion than for God’s judgment gain nothing by it.</p>
 
-<p id="4-1-64" className="verse"><span className="verse-num">4.1.64</span> Some imagine that by dying they will reach happiness more quickly, or be reunited sooner with those they love. This is an illusion. Instead of advancing, they delay their progress and often postpone the reunion they hoped for.</p>
+<p id="4-1-64" className="verse"><a href="#4-1-64" className="verse-link" aria-label="Link to verse 4.1.64"><span className="verse-num">4.1.64</span></a> Some imagine that by dying they will reach happiness more quickly, or be reunited sooner with those they love. This is an illusion. Instead of advancing, they delay their progress and often postpone the reunion they hoped for.</p>
 
-<p id="4-1-65" className="verse"><span className="verse-num">4.1.65</span> Very different is giving one’s life to save others or to serve one’s neighbor in a truly selfless way. That is not suicide, but sacrifice. Its value depends on the intention.</p>
+<p id="4-1-65" className="verse"><a href="#4-1-65" className="verse-link" aria-label="Link to verse 4.1.65"><span className="verse-num">4.1.65</span></a> Very different is giving one’s life to save others or to serve one’s neighbor in a truly selfless way. That is not suicide, but sacrifice. Its value depends on the intention.</p>
 
-<p id="4-1-66" className="verse"><span className="verse-num">4.1.66</span> There is also a kind of moral suicide in giving oneself over to destructive passions. When a person knows a habit is ruining health and leading toward death, yet continues willingly, the fault is serious.</p>
+<p id="4-1-66" className="verse"><a href="#4-1-66" className="verse-link" aria-label="Link to verse 4.1.66"><span className="verse-num">4.1.66</span></a> There is also a kind of moral suicide in giving oneself over to destructive passions. When a person knows a habit is ruining health and leading toward death, yet continues willingly, the fault is serious.</p>
 
-<p id="4-1-67" className="verse"><span className="verse-num">4.1.67</span> Even when someone suffers greatly or expects to die soon, it is still wrong to shorten life on purpose. Yet responsibility always depends on intention, freedom, and awareness. Customs shaped by ignorance, coercion, or social pressure are judged with that in mind.</p>
+<p id="4-1-67" className="verse"><a href="#4-1-67" className="verse-link" aria-label="Link to verse 4.1.67"><span className="verse-num">4.1.67</span></a> Even when someone suffers greatly or expects to die soon, it is still wrong to shorten life on purpose. Yet responsibility always depends on intention, freedom, and awareness. Customs shaped by ignorance, coercion, or social pressure are judged with that in mind.</p>
 
 ### General Consequences of Suicide
 
-<p id="4-1-68" className="verse"><span className="verse-num">4.1.68</span> The results of suicide are not the same in every case. They vary with the motive and the circumstances. But one thing is common: the person does not find the peace or escape expected.</p>
+<p id="4-1-68" className="verse"><a href="#4-1-68" className="verse-link" aria-label="Link to verse 4.1.68"><span className="verse-num">4.1.68</span></a> The results of suicide are not the same in every case. They vary with the motive and the circumstances. But one thing is common: the person does not find the peace or escape expected.</p>
 
-<p id="4-1-69" className="verse"><span className="verse-num">4.1.69</span> The punishment may begin at once or come later in a new earthly life, often more difficult than the one that was cut short. A violent and premature death may also leave a troubled bond between spirit and body. The spirit can remain confused, sometimes believing for a time that it is still alive.</p>
+<p id="4-1-69" className="verse"><a href="#4-1-69" className="verse-link" aria-label="Link to verse 4.1.69"><span className="verse-num">4.1.69</span></a> The punishment may begin at once or come later in a new earthly life, often more difficult than the one that was cut short. A violent and premature death may also leave a troubled bond between spirit and body. The spirit can remain confused, sometimes believing for a time that it is still alive.</p>
 
-<p id="4-1-70" className="verse"><span className="verse-num">4.1.70</span> In some cases, it even continues to feel the effects of the body after death, with anguish and horror, sometimes until the natural end of the life that was interrupted. This is not always so, but it shows that suicide is no true release.</p>
+<p id="4-1-70" className="verse"><a href="#4-1-70" className="verse-link" aria-label="Link to verse 4.1.70"><span className="verse-num">4.1.70</span></a> In some cases, it even continues to feel the effects of the body after death, with anguish and horror, sometimes until the natural end of the life that was interrupted. This is not always so, but it shows that suicide is no true release.</p>
 
-<p id="4-1-71" className="verse"><span className="verse-num">4.1.71</span> What was refused must still be faced. The wrong must be repaired sooner or later. Many spirits experience deep regret when they see that the act brought not rest, but disappointment.</p>
+<p id="4-1-71" className="verse"><a href="#4-1-71" className="verse-link" aria-label="Link to verse 4.1.71"><span className="verse-num">4.1.71</span></a> What was refused must still be faced. The wrong must be repaired sooner or later. Many spirits experience deep regret when they see that the act brought not rest, but disappointment.</p>
 
-<p id="4-1-72" className="verse"><span className="verse-num">4.1.72</span> Religion, morality, and reason condemn suicide because no one is free to end life in order to flee suffering. Earthly trials have a purpose. Courage, repentance, useful work, trust in God, and faithfulness to the duties of life are the true path forward.</p>
+<p id="4-1-72" className="verse"><a href="#4-1-72" className="verse-link" aria-label="Link to verse 4.1.72"><span className="verse-num">4.1.72</span></a> Religion, morality, and reason condemn suicide because no one is free to end life in order to flee suffering. Earthly trials have a purpose. Courage, repentance, useful work, trust in God, and faithfulness to the duties of life are the true path forward.</p>

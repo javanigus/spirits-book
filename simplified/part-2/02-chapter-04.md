@@ -5,254 +5,254 @@ sidebar_label: "2.4 Reincarnation: Multiple Lives"
 
 ## Reincarnation
 
-<p id="2-4-1" className="verse"><span className="verse-num">2.4.1</span> When a soul does not reach perfection in one earthly life, it continues its growth through new lives.</p>
+<p id="2-4-1" className="verse"><a href="#2-4-1" className="verse-link" aria-label="Link to verse 2.4.1"><span className="verse-num">2.4.1</span></a> When a soul does not reach perfection in one earthly life, it continues its growth through new lives.</p>
 
-<p id="2-4-2" className="verse"><span className="verse-num">2.4.2</span> A spirit does not advance by inner change alone. It must also return in a body, where its progress is tested in real conditions. Reincarnation has two purposes: expiation and improvement. Through repeated lives, spirits repair past faults and move forward little by little.</p>
+<p id="2-4-2" className="verse"><a href="#2-4-2" className="verse-link" aria-label="Link to verse 2.4.2"><span className="verse-num">2.4.2</span></a> A spirit does not advance by inner change alone. It must also return in a body, where its progress is tested in real conditions. Reincarnation has two purposes: expiation and improvement. Through repeated lives, spirits repair past faults and move forward little by little.</p>
 
-<p id="2-4-3" className="verse"><span className="verse-num">2.4.3</span> Without reincarnation, divine justice would be hard to understand. A single life does not explain the great differences in suffering, opportunity, and moral development among people.</p>
+<p id="2-4-3" className="verse"><a href="#2-4-3" className="verse-link" aria-label="Link to verse 2.4.3"><span className="verse-num">2.4.3</span></a> Without reincarnation, divine justice would be hard to understand. A single life does not explain the great differences in suffering, opportunity, and moral development among people.</p>
 
-<p id="2-4-4" className="verse"><span className="verse-num">2.4.4</span> These new lives do not continue forever in the same way. As a spirit becomes more advanced, it needs fewer material trials. The number of incarnations is not the same for everyone. Those who progress faster need fewer lives, though many lives are usually needed.</p>
+<p id="2-4-4" className="verse"><a href="#2-4-4" className="verse-link" aria-label="Link to verse 2.4.4"><span className="verse-num">2.4.4</span></a> These new lives do not continue forever in the same way. As a spirit becomes more advanced, it needs fewer material trials. The number of incarnations is not the same for everyone. Those who progress faster need fewer lives, though many lives are usually needed.</p>
 
-<p id="2-4-5" className="verse"><span className="verse-num">2.4.5</span> After the final incarnation, the spirit no longer returns to bodily life. Its purification is complete, and it becomes a pure spirit.</p>
+<p id="2-4-5" className="verse"><a href="#2-4-5" className="verse-link" aria-label="Link to verse 2.4.5"><span className="verse-num">2.4.5</span></a> After the final incarnation, the spirit no longer returns to bodily life. Its purification is complete, and it becomes a pure spirit.</p>
 
 ## The Justice of Reincarnation
 
-<p id="2-4-6" className="verse"><span className="verse-num">2.4.6</span> Reincarnation agrees with both God’s justice and God’s goodness.</p>
+<p id="2-4-6" className="verse"><a href="#2-4-6" className="verse-link" aria-label="Link to verse 2.4.6"><span className="verse-num">2.4.6</span></a> Reincarnation agrees with both God’s justice and God’s goodness.</p>
 
-<p id="2-4-7" className="verse"><span className="verse-num">2.4.7</span> God gives every soul the means to improve. It would not fit divine justice to deprive some forever of happiness when they may not yet have had the time or conditions needed to grow. Since all spirits are meant to advance, they must be given more than one chance when one life is not enough.</p>
+<p id="2-4-7" className="verse"><a href="#2-4-7" className="verse-link" aria-label="Link to verse 2.4.7"><span className="verse-num">2.4.7</span></a> God gives every soul the means to improve. It would not fit divine justice to deprive some forever of happiness when they may not yet have had the time or conditions needed to grow. Since all spirits are meant to advance, they must be given more than one chance when one life is not enough.</p>
 
-<p id="2-4-8" className="verse"><span className="verse-num">2.4.8</span> Earthly life gives trials that help spirits progress. But many do not finish that work in a single existence. Reincarnation allows them to continue. In this way, each spirit can repair past faults, gain new experience, and move forward little by little.</p>
+<p id="2-4-8" className="verse"><a href="#2-4-8" className="verse-link" aria-label="Link to verse 2.4.8"><span className="verse-num">2.4.8</span></a> Earthly life gives trials that help spirits progress. But many do not finish that work in a single existence. Reincarnation allows them to continue. In this way, each spirit can repair past faults, gain new experience, and move forward little by little.</p>
 
-<p id="2-4-9" className="verse"><span className="verse-num">2.4.9</span> Without reincarnation, the unequal conditions of human life would be hard to explain by perfect justice. Some are born into ignorance, suffering, or surroundings that make moral progress much harder. If everything were decided after only one life, the judgment would not be equal for all.</p>
+<p id="2-4-9" className="verse"><a href="#2-4-9" className="verse-link" aria-label="Link to verse 2.4.9"><span className="verse-num">2.4.9</span></a> Without reincarnation, the unequal conditions of human life would be hard to explain by perfect justice. Some are born into ignorance, suffering, or surroundings that make moral progress much harder. If everything were decided after only one life, the judgment would not be equal for all.</p>
 
-<p id="2-4-10" className="verse"><span className="verse-num">2.4.10</span> Reincarnation answers this difficulty. It shows that no sincere effort is lost and that no imperfection is necessarily final. Faults still have consequences, but the soul is not denied the chance to correct them.</p>
+<p id="2-4-10" className="verse"><a href="#2-4-10" className="verse-link" aria-label="Link to verse 2.4.10"><span className="verse-num">2.4.10</span></a> Reincarnation answers this difficulty. It shows that no sincere effort is lost and that no imperfection is necessarily final. Faults still have consequences, but the soul is not denied the chance to correct them.</p>
 
-<p id="2-4-11" className="verse"><span className="verse-num">2.4.11</span> Reason also supports this law. Moral growth is usually slow, and deep change rarely happens all at once. Many lessons are learned only through repeated struggle.</p>
+<p id="2-4-11" className="verse"><a href="#2-4-11" className="verse-link" aria-label="Link to verse 2.4.11"><span className="verse-num">2.4.11</span></a> Reason also supports this law. Moral growth is usually slow, and deep change rarely happens all at once. Many lessons are learned only through repeated struggle.</p>
 
-<p id="2-4-12" className="verse"><span className="verse-num">2.4.12</span> So reincarnation joins justice, mercy, and progress. It keeps human responsibility, but it also keeps hope. Every life has a purpose, and each one can help prepare the next.</p>
+<p id="2-4-12" className="verse"><a href="#2-4-12" className="verse-link" aria-label="Link to verse 2.4.12"><span className="verse-num">2.4.12</span></a> So reincarnation joins justice, mercy, and progress. It keeps human responsibility, but it also keeps hope. Every life has a purpose, and each one can help prepare the next.</p>
 
 ## Incarnation on Different Worlds
 
-<p id="2-4-13" className="verse"><span className="verse-num">2.4.13</span> Bodily life does not happen on Earth alone. Spirits can live on many worlds, and Earth is neither the first nor the last stop in that journey. It is one of the more material worlds.</p>
+<p id="2-4-13" className="verse"><a href="#2-4-13" className="verse-link" aria-label="Link to verse 2.4.13"><span className="verse-num">2.4.13</span></a> Bodily life does not happen on Earth alone. Spirits can live on many worlds, and Earth is neither the first nor the last stop in that journey. It is one of the more material worlds.</p>
 
-<p id="2-4-14" className="verse"><span className="verse-num">2.4.14</span> A spirit may live many times on the same world if it still needs the lessons found there. Some spirits now on Earth may be here for the first time, after living elsewhere.</p>
+<p id="2-4-14" className="verse"><a href="#2-4-14" className="verse-link" aria-label="Link to verse 2.4.14"><span className="verse-num">2.4.14</span></a> A spirit may live many times on the same world if it still needs the lessons found there. Some spirits now on Earth may be here for the first time, after living elsewhere.</p>
 
 ### Progression from World to World
 
-<p id="2-4-15" className="verse"><span className="verse-num">2.4.15</span> Spirits move from one world to another as they advance. They do not have to pass through every world, since many are alike in rank. What matters is to gain the experience needed for cleansing and growth.</p>
+<p id="2-4-15" className="verse"><a href="#2-4-15" className="verse-link" aria-label="Link to verse 2.4.15"><span className="verse-num">2.4.15</span></a> Spirits move from one world to another as they advance. They do not have to pass through every world, since many are alike in rank. What matters is to gain the experience needed for cleansing and growth.</p>
 
-<p id="2-4-16" className="verse"><span className="verse-num">2.4.16</span> A spirit may need several lives on the same world, because each life brings new tests. It may also return to a less advanced world it already knew, either to help others or because it failed and must resume under harder conditions. Even then, it does not lose what it has truly gained.</p>
+<p id="2-4-16" className="verse"><a href="#2-4-16" className="verse-link" aria-label="Link to verse 2.4.16"><span className="verse-num">2.4.16</span></a> A spirit may need several lives on the same world, because each life brings new tests. It may also return to a less advanced world it already knew, either to help others or because it failed and must resume under harder conditions. Even then, it does not lose what it has truly gained.</p>
 
 ### Remaining a Spirit and Returning to Embodied Life
 
-<p id="2-4-17" className="verse"><span className="verse-num">2.4.17</span> Embodied life is one of the chief means of progress. If an imperfect spirit stayed only in the spiritual state, its progress would slow.</p>
+<p id="2-4-17" className="verse"><a href="#2-4-17" className="verse-link" aria-label="Link to verse 2.4.17"><span className="verse-num">2.4.17</span></a> Embodied life is one of the chief means of progress. If an imperfect spirit stayed only in the spiritual state, its progress would slow.</p>
 
-<p id="2-4-18" className="verse"><span className="verse-num">2.4.18</span> So incarnation is part of the labor by which the spirit learns and improves. Returning to Earth gives no special advantage over returning to another world, except when a spirit comes with a mission.</p>
+<p id="2-4-18" className="verse"><a href="#2-4-18" className="verse-link" aria-label="Link to verse 2.4.18"><span className="verse-num">2.4.18</span></a> So incarnation is part of the labor by which the spirit learns and improves. Returning to Earth gives no special advantage over returning to another world, except when a spirit comes with a mission.</p>
 
 ### Solidarity Among Worlds
 
-<p id="2-4-19" className="verse"><span className="verse-num">2.4.19</span> All worlds are joined in one great order. What is not completed on one may be completed on another.</p>
+<p id="2-4-19" className="verse"><a href="#2-4-19" className="verse-link" aria-label="Link to verse 2.4.19"><span className="verse-num">2.4.19</span></a> All worlds are joined in one great order. What is not completed on one may be completed on another.</p>
 
-<p id="2-4-20" className="verse"><span className="verse-num">2.4.20</span> The universe is not made of isolated places. It is a vast field of education for spirits at many stages. Even on the same world, all its inhabitants are not equally advanced.</p>
+<p id="2-4-20" className="verse"><a href="#2-4-20" className="verse-link" aria-label="Link to verse 2.4.20"><span className="verse-num">2.4.20</span></a> The universe is not made of isolated places. It is a vast field of education for spirits at many stages. Even on the same world, all its inhabitants are not equally advanced.</p>
 
 ### Intelligence and the Body on Different Worlds
 
-<p id="2-4-21" className="verse"><span className="verse-num">2.4.21</span> When a spirit passes from one world to another, it keeps the intelligence it has truly acquired. But the way that intelligence appears depends partly on the body it uses.</p>
+<p id="2-4-21" className="verse"><a href="#2-4-21" className="verse-link" aria-label="Link to verse 2.4.21"><span className="verse-num">2.4.21</span></a> When a spirit passes from one world to another, it keeps the intelligence it has truly acquired. But the way that intelligence appears depends partly on the body it uses.</p>
 
-<p id="2-4-22" className="verse"><span className="verse-num">2.4.22</span> Every incarnate spirit must be clothed in matter, yet that material covering changes with the world and with the spirit's purity. For that reason, bodies are not the same everywhere. On higher worlds they are less dense, needs are less harsh, and the senses are more refined.</p>
+<p id="2-4-22" className="verse"><a href="#2-4-22" className="verse-link" aria-label="Link to verse 2.4.22"><span className="verse-num">2.4.22</span></a> Every incarnate spirit must be clothed in matter, yet that material covering changes with the world and with the spirit's purity. For that reason, bodies are not the same everywhere. On higher worlds they are less dense, needs are less harsh, and the senses are more refined.</p>
 
 ### Moral Condition of More Advanced Worlds
 
-<p id="2-4-23" className="verse"><span className="verse-num">2.4.23</span> The moral state of a world matches the degree of purification of the spirits living there. On more advanced worlds, selfishness weakens and fraternity grows.</p>
+<p id="2-4-23" className="verse"><a href="#2-4-23" className="verse-link" aria-label="Link to verse 2.4.23"><span className="verse-num">2.4.23</span></a> The moral state of a world matches the degree of purification of the spirits living there. On more advanced worlds, selfishness weakens and fraternity grows.</p>
 
-<p id="2-4-24" className="verse"><span className="verse-num">2.4.24</span> War has no place there, because hatred and the desire to dominate have faded. Death is also viewed differently. With a clearer sense of spiritual life, beings do not fear it as people on Earth do. Life seems longer there as well, because the body is less coarse and wears out less quickly.</p>
+<p id="2-4-24" className="verse"><a href="#2-4-24" className="verse-link" aria-label="Link to verse 2.4.24"><span className="verse-num">2.4.24</span></a> War has no place there, because hatred and the desire to dominate have faded. Death is also viewed differently. With a clearer sense of spiritual life, beings do not fear it as people on Earth do. Life seems longer there as well, because the body is less coarse and wears out less quickly.</p>
 
 ### Childhood on Other Worlds
 
-<p id="2-4-25" className="verse"><span className="verse-num">2.4.25</span> Childhood exists on all worlds as a needed time of preparation. But it does not always bring the same weakness and confusion seen on Earth.</p>
+<p id="2-4-25" className="verse"><a href="#2-4-25" className="verse-link" aria-label="Link to verse 2.4.25"><span className="verse-num">2.4.25</span></a> Childhood exists on all worlds as a needed time of preparation. But it does not always bring the same weakness and confusion seen on Earth.</p>
 
-<p id="2-4-26" className="verse"><span className="verse-num">2.4.26</span> Its form changes with the world and with the body taken on there.</p>
+<p id="2-4-26" className="verse"><a href="#2-4-26" className="verse-link" aria-label="Link to verse 2.4.26"><span className="verse-num">2.4.26</span></a> Its form changes with the world and with the body taken on there.</p>
 
 ### Choice of World
 
-<p id="2-4-27" className="verse"><span className="verse-num">2.4.27</span> A spirit does not always freely choose the world of its next life. It may ask for a certain world, and that request may be granted if it is worthy of it.</p>
+<p id="2-4-27" className="verse"><a href="#2-4-27" className="verse-link" aria-label="Link to verse 2.4.27"><span className="verse-num">2.4.27</span></a> A spirit does not always freely choose the world of its next life. It may ask for a certain world, and that request may be granted if it is worthy of it.</p>
 
-<p id="2-4-28" className="verse"><span className="verse-num">2.4.28</span> But a spirit can live only in worlds suited to its condition. If it does not choose, its degree of advancement decides where it will go.</p>
+<p id="2-4-28" className="verse"><a href="#2-4-28" className="verse-link" aria-label="Link to verse 2.4.28"><span className="verse-num">2.4.28</span></a> But a spirit can live only in worlds suited to its condition. If it does not choose, its degree of advancement decides where it will go.</p>
 
 ### The Progress of Worlds Themselves
 
-<p id="2-4-29" className="verse"><span className="verse-num">2.4.29</span> Worlds, like spirits, also progress. None stays forever in the same physical or moral state.</p>
+<p id="2-4-29" className="verse"><a href="#2-4-29" className="verse-link" aria-label="Link to verse 2.4.29"><span className="verse-num">2.4.29</span></a> Worlds, like spirits, also progress. None stays forever in the same physical or moral state.</p>
 
-<p id="2-4-30" className="verse"><span className="verse-num">2.4.30</span> They begin in a lower condition and are transformed over time. Earth itself will change, and the human race now living here will gradually give way to more advanced beings.</p>
+<p id="2-4-30" className="verse"><a href="#2-4-30" className="verse-link" aria-label="Link to verse 2.4.30"><span className="verse-num">2.4.30</span></a> They begin in a lower condition and are transformed over time. Earth itself will change, and the human race now living here will gradually give way to more advanced beings.</p>
 
 ### Worlds Near the Spiritual State
 
-<p id="2-4-31" className="verse"><span className="verse-num">2.4.31</span> There are worlds where the spirit no longer has a gross material body. Its only covering is the perispirit, and that covering is so subtle that it would seem almost nothing to us.</p>
+<p id="2-4-31" className="verse"><a href="#2-4-31" className="verse-link" aria-label="Link to verse 2.4.31"><span className="verse-num">2.4.31</span></a> There are worlds where the spirit no longer has a gross material body. Its only covering is the perispirit, and that covering is so subtle that it would seem almost nothing to us.</p>
 
-<p id="2-4-32" className="verse"><span className="verse-num">2.4.32</span> There is no sharp break between that state and the state of pure spirit. the transition is gradual.</p>
+<p id="2-4-32" className="verse"><a href="#2-4-32" className="verse-link" aria-label="Link to verse 2.4.32"><span className="verse-num">2.4.32</span></a> There is no sharp break between that state and the state of pure spirit. the transition is gradual.</p>
 
 ### Pure Spirits and Their Dwelling
 
-<p id="2-4-33" className="verse"><span className="verse-num">2.4.33</span> Pure spirits dwell in certain worlds, but they are not confined to them as embodied beings are confined to Earth. Their freedom of action is far greater.</p>
+<p id="2-4-33" className="verse"><a href="#2-4-33" className="verse-link" aria-label="Link to verse 2.4.33"><span className="verse-num">2.4.33</span></a> Pure spirits dwell in certain worlds, but they are not confined to them as embodied beings are confined to Earth. Their freedom of action is far greater.</p>
 
-<p id="2-4-34" className="verse"><span className="verse-num">2.4.34</span> They can go wherever their presence or work is needed.</p>
+<p id="2-4-34" className="verse"><a href="#2-4-34" className="verse-link" aria-label="Link to verse 2.4.34"><span className="verse-num">2.4.34</span></a> They can go wherever their presence or work is needed.</p>
 
 ### Knowledge of Other Worlds
 
-<p id="2-4-35" className="verse"><span className="verse-num">2.4.35</span> Clear knowledge of the physical and moral state of other worlds is not given equally to all. It depends on the advancement of the one receiving it.</p>
+<p id="2-4-35" className="verse"><a href="#2-4-35" className="verse-link" aria-label="Link to verse 2.4.35"><span className="verse-num">2.4.35</span></a> Clear knowledge of the physical and moral state of other worlds is not given equally to all. It depends on the advancement of the one receiving it.</p>
 
-<p id="2-4-36" className="verse"><span className="verse-num">2.4.36</span> Still, one truth remains: the universe contains many levels of life and many degrees of purification. Earth is only one dwelling among many.</p>
+<p id="2-4-36" className="verse"><a href="#2-4-36" className="verse-link" aria-label="Link to verse 2.4.36"><span className="verse-num">2.4.36</span></a> Still, one truth remains: the universe contains many levels of life and many degrees of purification. Earth is only one dwelling among many.</p>
 
 ## Progressive Transmigration
 
-<p id="2-4-37" className="verse"><span className="verse-num">2.4.37</span> Spirits are not created fully developed.</p>
+<p id="2-4-37" className="verse"><a href="#2-4-37" className="verse-link" aria-label="Link to verse 2.4.37"><span className="verse-num">2.4.37</span></a> Spirits are not created fully developed.</p>
 
-<p id="2-4-38" className="verse"><span className="verse-num">2.4.38</span> Like human beings, they begin in a kind of infancy. At first, life is mostly instinctive, and intelligence unfolds little by little. In its first incarnations, the soul is like a child, learning how to live.</p>
+<p id="2-4-38" className="verse"><a href="#2-4-38" className="verse-link" aria-label="Link to verse 2.4.38"><span className="verse-num">2.4.38</span></a> Like human beings, they begin in a kind of infancy. At first, life is mostly instinctive, and intelligence unfolds little by little. In its first incarnations, the soul is like a child, learning how to live.</p>
 
-<p id="2-4-39" className="verse"><span className="verse-num">2.4.39</span> Spiritual life advances in stages from a rudimentary state toward perfection. Unlike bodily life, it has no old age or decline. It has a beginning, but no end.</p>
+<p id="2-4-39" className="verse"><a href="#2-4-39" className="verse-link" aria-label="Link to verse 2.4.39"><span className="verse-num">2.4.39</span></a> Spiritual life advances in stages from a rudimentary state toward perfection. Unlike bodily life, it has no old age or decline. It has a beginning, but no end.</p>
 
-<p id="2-4-40" className="verse"><span className="verse-num">2.4.40</span> This journey takes a very long time. Spirits progress through many bodily lives on different worlds, and each life offers new chances to grow. Yet not every incarnation is well used, and some bring little progress.</p>
+<p id="2-4-40" className="verse"><a href="#2-4-40" className="verse-link" aria-label="Link to verse 2.4.40"><span className="verse-num">2.4.40</span></a> This journey takes a very long time. Spirits progress through many bodily lives on different worlds, and each life offers new chances to grow. Yet not every incarnation is well used, and some bring little progress.</p>
 
 ### Progress Through Degrees
 
-<p id="2-4-41" className="verse"><span className="verse-num">2.4.41</span> No one becomes a pure spirit in a single step.</p>
+<p id="2-4-41" className="verse"><a href="#2-4-41" className="verse-link" aria-label="Link to verse 2.4.41"><span className="verse-num">2.4.41</span></a> No one becomes a pure spirit in a single step.</p>
 
-<p id="2-4-42" className="verse"><span className="verse-num">2.4.42</span> Spirits must progress in two ways: knowledge and morality. If one advances more than the other, what is lacking must still be gained. The more progress made now, the shorter and lighter future trials may be. Negligence alone keeps a spirit delayed.</p>
+<p id="2-4-42" className="verse"><a href="#2-4-42" className="verse-link" aria-label="Link to verse 2.4.42"><span className="verse-num">2.4.42</span></a> Spirits must progress in two ways: knowledge and morality. If one advances more than the other, what is lacking must still be gained. The more progress made now, the shorter and lighter future trials may be. Negligence alone keeps a spirit delayed.</p>
 
 ### Never Regressive as Spirits
 
-<p id="2-4-43" className="verse"><span className="verse-num">2.4.43</span> The progress of spirits is always forward, never backward.</p>
+<p id="2-4-43" className="verse"><a href="#2-4-43" className="verse-link" aria-label="Link to verse 2.4.43"><span className="verse-num">2.4.43</span></a> The progress of spirits is always forward, never backward.</p>
 
-<p id="2-4-44" className="verse"><span className="verse-num">2.4.44</span> In a new earthly life, someone may appear in a lower condition than before, but as a spirit they have not fallen if they truly advanced. What is gained spiritually is not lost. A good soul does not become depraved, but a wicked person can become moral through repentance.</p>
+<p id="2-4-44" className="verse"><a href="#2-4-44" className="verse-link" aria-label="Link to verse 2.4.44"><span className="verse-num">2.4.44</span></a> In a new earthly life, someone may appear in a lower condition than before, but as a spirit they have not fallen if they truly advanced. What is gained spiritually is not lost. A good soul does not become depraved, but a wicked person can become moral through repentance.</p>
 
-<p id="2-4-45" className="verse"><span className="verse-num">2.4.45</span> Spirits rise step by step and do not descend from the level they have reached. In bodily life, however, outward rank may change greatly. Earthly position and spiritual worth are not the same.</p>
+<p id="2-4-45" className="verse"><a href="#2-4-45" className="verse-link" aria-label="Link to verse 2.4.45"><span className="verse-num">2.4.45</span></a> Spirits rise step by step and do not descend from the level they have reached. In bodily life, however, outward rank may change greatly. Earthly position and spiritual worth are not the same.</p>
 
 ### Delay, Responsibility, and the Use of Freedom
 
-<p id="2-4-46" className="verse"><span className="verse-num">2.4.46</span> The fact that improvement is possible later is no excuse for delaying moral effort.</p>
+<p id="2-4-46" className="verse"><a href="#2-4-46" className="verse-link" aria-label="Link to verse 2.4.46"><span className="verse-num">2.4.46</span></a> The fact that improvement is possible later is no excuse for delaying moral effort.</p>
 
-<p id="2-4-47" className="verse"><span className="verse-num">2.4.47</span> Once freed from matter, the spirit sees its errors more clearly, and this recognition can prepare a better disposition in a new life. Each person can hasten progress or delay it for a very long time.</p>
+<p id="2-4-47" className="verse"><a href="#2-4-47" className="verse-link" aria-label="Link to verse 2.4.47"><span className="verse-num">2.4.47</span></a> Once freed from matter, the spirit sees its errors more clearly, and this recognition can prepare a better disposition in a new life. Each person can hasten progress or delay it for a very long time.</p>
 
-<p id="2-4-48" className="verse"><span className="verse-num">2.4.48</span> When people understand that the troubles of life are connected with their own imperfections, they are led to seek a better future through moral change.</p>
+<p id="2-4-48" className="verse"><a href="#2-4-48" className="verse-link" aria-label="Link to verse 2.4.48"><span className="verse-num">2.4.48</span></a> When people understand that the troubles of life are connected with their own imperfections, they are led to seek a better future through moral change.</p>
 
 ### Corporeal Life as Trial and Purification
 
-<p id="2-4-49" className="verse"><span className="verse-num">2.4.49</span> Material life is a means of purification.</p>
+<p id="2-4-49" className="verse"><a href="#2-4-49" className="verse-link" aria-label="Link to verse 2.4.49"><span className="verse-num">2.4.49</span></a> Material life is a means of purification.</p>
 
-<p id="2-4-50" className="verse"><span className="verse-num">2.4.50</span> Spirits improve through the trials and sufferings of bodily existence when they avoid evil and do good. Through repeated incarnations and successive purifications, they move toward their goal. The time this takes depends on their own effort.</p>
+<p id="2-4-50" className="verse"><a href="#2-4-50" className="verse-link" aria-label="Link to verse 2.4.50"><span className="verse-num">2.4.50</span></a> Spirits improve through the trials and sufferings of bodily existence when they avoid evil and do good. Through repeated incarnations and successive purifications, they move toward their goal. The time this takes depends on their own effort.</p>
 
-<p id="2-4-51" className="verse"><span className="verse-num">2.4.51</span> The spirit is the essential being; the body is only a temporary covering that passes away.</p>
+<p id="2-4-51" className="verse"><a href="#2-4-51" className="verse-link" aria-label="Link to verse 2.4.51"><span className="verse-num">2.4.51</span></a> The spirit is the essential being; the body is only a temporary covering that passes away.</p>
 
-<p id="2-4-52" className="verse"><span className="verse-num">2.4.52</span> Through bodily lives the spirit gradually sheds what is coarse and impure, and by this purification it comes ever closer to perfection.</p>
+<p id="2-4-52" className="verse"><a href="#2-4-52" className="verse-link" aria-label="Link to verse 2.4.52"><span className="verse-num">2.4.52</span></a> Through bodily lives the spirit gradually sheds what is coarse and impure, and by this purification it comes ever closer to perfection.</p>
 
 ## The Fate of Children after Death
 
-<p id="2-4-53" className="verse"><span className="verse-num">2.4.53</span> A child’s death does not reveal the true level of the spirit.</p>
+<p id="2-4-53" className="verse"><a href="#2-4-53" className="verse-link" aria-label="Link to verse 2.4.53"><span className="verse-num">2.4.53</span></a> A child’s death does not reveal the true level of the spirit.</p>
 
-<p id="2-4-54" className="verse"><span className="verse-num">2.4.54</span> The spirit in a child may be as advanced as an adult’s, or even more advanced, since it may already have lived many lives. Outer age does not measure inner growth.</p>
+<p id="2-4-54" className="verse"><a href="#2-4-54" className="verse-link" aria-label="Link to verse 2.4.54"><span className="verse-num">2.4.54</span></a> The spirit in a child may be as advanced as an adult’s, or even more advanced, since it may already have lived many lives. Outer age does not measure inner growth.</p>
 
 ### A Child Who Dies Young
 
-<p id="2-4-55" className="verse"><span className="verse-num">2.4.55</span> A child who dies before doing evil does not therefore belong to the highest ranks.</p>
+<p id="2-4-55" className="verse"><a href="#2-4-55" className="verse-link" aria-label="Link to verse 2.4.55"><span className="verse-num">2.4.55</span></a> A child who dies before doing evil does not therefore belong to the highest ranks.</p>
 
-<p id="2-4-56" className="verse"><span className="verse-num">2.4.56</span> Not doing wrong is not the same as being pure, and a short life may also leave no time to do good. God does not spare any spirit the trials needed for development. If a child’s spirit is pure, that purity was gained before that incarnation, not from dying young.</p>
+<p id="2-4-56" className="verse"><a href="#2-4-56" className="verse-link" aria-label="Link to verse 2.4.56"><span className="verse-num">2.4.56</span></a> Not doing wrong is not the same as being pure, and a short life may also leave no time to do good. God does not spare any spirit the trials needed for development. If a child’s spirit is pure, that purity was gained before that incarnation, not from dying young.</p>
 
 ### Why Childhood Life Is Sometimes Short
 
-<p id="2-4-57" className="verse"><span className="verse-num">2.4.57</span> A short childhood life may complete what remained of an earlier life interrupted before its proper end.</p>
+<p id="2-4-57" className="verse"><a href="#2-4-57" className="verse-link" aria-label="Link to verse 2.4.57"><span className="verse-num">2.4.57</span></a> A short childhood life may complete what remained of an earlier life interrupted before its proper end.</p>
 
-<p id="2-4-58" className="verse"><span className="verse-num">2.4.58</span> The death of a child may also be a trial or expiation for the parents, through grief and loss. For the child’s spirit, the path is not finished; it enters a new existence and continues its development.</p>
+<p id="2-4-58" className="verse"><a href="#2-4-58" className="verse-link" aria-label="Link to verse 2.4.58"><span className="verse-num">2.4.58</span></a> The death of a child may also be a trial or expiation for the parents, through grief and loss. For the child’s spirit, the path is not finished; it enters a new existence and continues its development.</p>
 
 ### Reincarnation and Divine Justice
 
-<p id="2-4-59" className="verse"><span className="verse-num">2.4.59</span> Without successive lives, the death of children would create a problem of justice.</p>
+<p id="2-4-59" className="verse"><a href="#2-4-59" className="verse-link" aria-label="Link to verse 2.4.59"><span className="verse-num">2.4.59</span></a> Without successive lives, the death of children would create a problem of justice.</p>
 
-<p id="2-4-60" className="verse"><span className="verse-num">2.4.60</span> If each person lived only once and eternal destiny were fixed immediately, many children would receive final happiness without effort or trial, while others would bear burdens not equally shared. That would not agree with divine justice.</p>
+<p id="2-4-60" className="verse"><a href="#2-4-60" className="verse-link" aria-label="Link to verse 2.4.60"><span className="verse-num">2.4.60</span></a> If each person lived only once and eternal destiny were fixed immediately, many children would receive final happiness without effort or trial, while others would bear burdens not equally shared. That would not agree with divine justice.</p>
 
-<p id="2-4-61" className="verse"><span className="verse-num">2.4.61</span> Reincarnation restores justice by leaving the future open to all. Each spirit advances by its own efforts and answers for its own actions. Merit and progress must be earned.</p>
+<p id="2-4-61" className="verse"><a href="#2-4-61" className="verse-link" aria-label="Link to verse 2.4.61"><span className="verse-num">2.4.61</span></a> Reincarnation restores justice by leaving the future open to all. Each spirit advances by its own efforts and answers for its own actions. Merit and progress must be earned.</p>
 
 ### Childhood and the Persistence of Past Tendencies
 
-<p id="2-4-62" className="verse"><span className="verse-num">2.4.62</span> It is not reasonable to treat childhood as complete innocence simply because education has not yet fully formed character.</p>
+<p id="2-4-62" className="verse"><a href="#2-4-62" className="verse-link" aria-label="Link to verse 2.4.62"><span className="verse-num">2.4.62</span></a> It is not reasonable to treat childhood as complete innocence simply because education has not yet fully formed character.</p>
 
-<p id="2-4-63" className="verse"><span className="verse-num">2.4.63</span> Children often show very different tendencies from their earliest years, even under the same upbringing. Since education has not yet shaped them, the cause must lie in the spirit.</p>
+<p id="2-4-63" className="verse"><a href="#2-4-63" className="verse-link" aria-label="Link to verse 2.4.63"><span className="verse-num">2.4.63</span></a> Children often show very different tendencies from their earliest years, even under the same upbringing. Since education has not yet shaped them, the cause must lie in the spirit.</p>
 
-<p id="2-4-64" className="verse"><span className="verse-num">2.4.64</span> These early tendencies show the degree of advancement or imperfection the spirit brings from former lives. A flawed spirit carries its faults into a new incarnation, so the child bears effects not only of the present life but of previous ones. In this way, the same law applies to all, and divine justice reaches everyone equally.</p>
+<p id="2-4-64" className="verse"><a href="#2-4-64" className="verse-link" aria-label="Link to verse 2.4.64"><span className="verse-num">2.4.64</span></a> These early tendencies show the degree of advancement or imperfection the spirit brings from former lives. A flawed spirit carries its faults into a new incarnation, so the child bears effects not only of the present life but of previous ones. In this way, the same law applies to all, and divine justice reaches everyone equally.</p>
 
 ## Gender in Spirits
 
-<p id="2-4-65" className="verse"><span className="verse-num">2.4.65</span> Spirits do not have gender in the way human beings do. Sex belongs to the body, not to the spirit itself.</p>
+<p id="2-4-65" className="verse"><a href="#2-4-65" className="verse-link" aria-label="Link to verse 2.4.65"><span className="verse-num">2.4.65</span></a> Spirits do not have gender in the way human beings do. Sex belongs to the body, not to the spirit itself.</p>
 
-<p id="2-4-66" className="verse"><span className="verse-num">2.4.66</span> When a spirit is free from the body, it is not male or female in the earthly sense. Love, sympathy, and attachment still exist, but they come from harmony of feeling and character, not from sex.</p>
+<p id="2-4-66" className="verse"><a href="#2-4-66" className="verse-link" aria-label="Link to verse 2.4.66"><span className="verse-num">2.4.66</span></a> When a spirit is free from the body, it is not male or female in the earthly sense. Love, sympathy, and attachment still exist, but they come from harmony of feeling and character, not from sex.</p>
 
-<p id="2-4-67" className="verse"><span className="verse-num">2.4.67</span> The same spirit may be born at one time in a man’s body and at another in a woman’s body. This change is of little importance to the spirit’s real nature. What matters is the kind of life, duties, and trials needed for its progress.</p>
+<p id="2-4-67" className="verse"><a href="#2-4-67" className="verse-link" aria-label="Link to verse 2.4.67"><span className="verse-num">2.4.67</span></a> The same spirit may be born at one time in a man’s body and at another in a woman’s body. This change is of little importance to the spirit’s real nature. What matters is the kind of life, duties, and trials needed for its progress.</p>
 
-<p id="2-4-68" className="verse"><span className="verse-num">2.4.68</span> Since spirits are sexless in themselves, they can live through both forms of human life. Each brings its own tasks and lessons, and by passing through different conditions, the spirit gains fuller experience and grows in understanding.</p>
+<p id="2-4-68" className="verse"><a href="#2-4-68" className="verse-link" aria-label="Link to verse 2.4.68"><span className="verse-num">2.4.68</span></a> Since spirits are sexless in themselves, they can live through both forms of human life. Each brings its own tasks and lessons, and by passing through different conditions, the spirit gains fuller experience and grows in understanding.</p>
 
 ## Kinships, Affiliation
 
-<p id="2-4-69" className="verse"><span className="verse-num">2.4.69</span> Parents do not give part of their soul to their children. They give bodily life, and then another soul joins that body and makes it a moral being. So the soul cannot be split or passed down like an inheritance. This is why wise children may be born to simple parents, and the opposite as well.</p>
+<p id="2-4-69" className="verse"><a href="#2-4-69" className="verse-link" aria-label="Link to verse 2.4.69"><span className="verse-num">2.4.69</span></a> Parents do not give part of their soul to their children. They give bodily life, and then another soul joins that body and makes it a moral being. So the soul cannot be split or passed down like an inheritance. This is why wise children may be born to simple parents, and the opposite as well.</p>
 
-<p id="2-4-70" className="verse"><span className="verse-num">2.4.70</span> Family ties do not begin only in the present life. Through many lives, spirits form bonds that often continue. Sometimes people who seem like strangers feel drawn to each other because they were connected before.</p>
+<p id="2-4-70" className="verse"><a href="#2-4-70" className="verse-link" aria-label="Link to verse 2.4.70"><span className="verse-num">2.4.70</span></a> Family ties do not begin only in the present life. Through many lives, spirits form bonds that often continue. Sometimes people who seem like strangers feel drawn to each other because they were connected before.</p>
 
-<p id="2-4-71" className="verse"><span className="verse-num">2.4.71</span> Reincarnation does not break family ties; it enlarges them. The bonds between relatives may reach back much farther than one earthly lifetime. In the same way, our duties toward others also grow wider. A person outside our family may once have been closely joined to us. So every relationship deserves respect.</p>
+<p id="2-4-71" className="verse"><a href="#2-4-71" className="verse-link" aria-label="Link to verse 2.4.71"><span className="verse-num">2.4.71</span></a> Reincarnation does not break family ties; it enlarges them. The bonds between relatives may reach back much farther than one earthly lifetime. In the same way, our duties toward others also grow wider. A person outside our family may once have been closely joined to us. So every relationship deserves respect.</p>
 
-<p id="2-4-72" className="verse"><span className="verse-num">2.4.72</span> This view also lowers the pride people take in bloodlines. A father may be a spirit who once lived in a very different condition, race, or social class. Family honor has real value only when it is joined to moral worth, not to vanity, rank, or wealth.</p>
+<p id="2-4-72" className="verse"><a href="#2-4-72" className="verse-link" aria-label="Link to verse 2.4.72"><span className="verse-num">2.4.72</span></a> This view also lowers the pride people take in bloodlines. A father may be a spirit who once lived in a very different condition, race, or social class. Family honor has real value only when it is joined to moral worth, not to vanity, rank, or wealth.</p>
 
-<p id="2-4-73" className="verse"><span className="verse-num">2.4.73</span> Still, it is a good thing to belong to a family where more advanced spirits have incarnated. Spirits do not come from one another, but they may be drawn together by sympathy and old affection. Respect for ancestors is useful only when it leads us to follow what was good in them. Their merit does not pass to descendants by itself.</p>
+<p id="2-4-73" className="verse"><a href="#2-4-73" className="verse-link" aria-label="Link to verse 2.4.73"><span className="verse-num">2.4.73</span></a> Still, it is a good thing to belong to a family where more advanced spirits have incarnated. Spirits do not come from one another, but they may be drawn together by sympathy and old affection. Respect for ancestors is useful only when it leads us to follow what was good in them. Their merit does not pass to descendants by itself.</p>
 
 ## Physical and Moral Likeness
 
-<p id="2-4-74" className="verse"><span className="verse-num">2.4.74</span> Parents transmit physical traits because the body comes from the body. Moral likeness is different, since the child’s spirit does not come from the parents’ spirit. Family descent creates blood ties, not sameness of soul.</p>
+<p id="2-4-74" className="verse"><a href="#2-4-74" className="verse-link" aria-label="Link to verse 2.4.74"><span className="verse-num">2.4.74</span></a> Parents transmit physical traits because the body comes from the body. Moral likeness is different, since the child’s spirit does not come from the parents’ spirit. Family descent creates blood ties, not sameness of soul.</p>
 
-<p id="2-4-75" className="verse"><span className="verse-num">2.4.75</span> When children resemble parents in character, it is because similar spirits are drawn into the same family. Parents then influence the child through education and are morally responsible for helping it improve.</p>
+<p id="2-4-75" className="verse"><a href="#2-4-75" className="verse-link" aria-label="Link to verse 2.4.75"><span className="verse-num">2.4.75</span></a> When children resemble parents in character, it is because similar spirits are drawn into the same family. Parents then influence the child through education and are morally responsible for helping it improve.</p>
 
-<p id="2-4-76" className="verse"><span className="verse-num">2.4.76</span> So good parents may have a difficult child, since an imperfect spirit may come to them for guidance. Likewise, a hard child may be a trial for the parents.</p>
+<p id="2-4-76" className="verse"><a href="#2-4-76" className="verse-link" aria-label="Link to verse 2.4.76"><span className="verse-num">2.4.76</span></a> So good parents may have a difficult child, since an imperfect spirit may come to them for guidance. Likewise, a hard child may be a trial for the parents.</p>
 
-<p id="2-4-77" className="verse"><span className="verse-num">2.4.77</span> The same applies to brothers, sisters, and twins. They may be sympathetic spirits glad to be together, but even when physically alike, they remain distinct souls.</p>
+<p id="2-4-77" className="verse"><a href="#2-4-77" className="verse-link" aria-label="Link to verse 2.4.77"><span className="verse-num">2.4.77</span></a> The same applies to brothers, sisters, and twins. They may be sympathetic spirits glad to be together, but even when physically alike, they remain distinct souls.</p>
 
 ### The Plurality of Existences
 
-<p id="2-4-78" className="verse"><span className="verse-num">2.4.78</span> Twins are not always united by sympathy, so birth in the same family does not prove harmony.</p>
+<p id="2-4-78" className="verse"><a href="#2-4-78" className="verse-link" aria-label="Link to verse 2.4.78"><span className="verse-num">2.4.78</span></a> Twins are not always united by sympathy, so birth in the same family does not prove harmony.</p>
 
-<p id="2-4-79" className="verse"><span className="verse-num">2.4.79</span> Stories of children fighting in the womb are figurative, expressing deep hostility rather than a literal struggle.</p>
+<p id="2-4-79" className="verse"><a href="#2-4-79" className="verse-link" aria-label="Link to verse 2.4.79"><span className="verse-num">2.4.79</span></a> Stories of children fighting in the womb are figurative, expressing deep hostility rather than a literal struggle.</p>
 
-<p id="2-4-80" className="verse"><span className="verse-num">2.4.80</span> The character of a people also has a spiritual side. Spirits gather by similarity of tastes and tendencies, so a nation may be seen as a large gathering of like-minded spirits. More advanced spirits are not naturally drawn to cruel or degraded environments.</p>
+<p id="2-4-80" className="verse"><a href="#2-4-80" className="verse-link" aria-label="Link to verse 2.4.80"><span className="verse-num">2.4.80</span></a> The character of a people also has a spiritual side. Spirits gather by similarity of tastes and tendencies, so a nation may be seen as a large gathering of like-minded spirits. More advanced spirits are not naturally drawn to cruel or degraded environments.</p>
 
 ### Continuity of Character Across Lives
 
-<p id="2-4-81" className="verse"><span className="verse-num">2.4.81</span> A new life may still show traces of a spirit’s earlier moral character, since it is the same spirit returning. Some tendencies can reappear.</p>
+<p id="2-4-81" className="verse"><a href="#2-4-81" className="verse-link" aria-label="Link to verse 2.4.81"><span className="verse-num">2.4.81</span></a> A new life may still show traces of a spirit’s earlier moral character, since it is the same spirit returning. Some tendencies can reappear.</p>
 
-<p id="2-4-82" className="verse"><span className="verse-num">2.4.82</span> Yet nothing is fixed. Spirits progress, and new conditions of life can reshape habits and conduct. True moral progress can transform a spirit deeply.</p>
+<p id="2-4-82" className="verse"><a href="#2-4-82" className="verse-link" aria-label="Link to verse 2.4.82"><span className="verse-num">2.4.82</span></a> Yet nothing is fixed. Spirits progress, and new conditions of life can reshape habits and conduct. True moral progress can transform a spirit deeply.</p>
 
 ### Vestiges of Physical Character
 
-<p id="2-4-83" className="verse"><span className="verse-num">2.4.83</span> No physical body passes from one life to another. The old body is gone, and the new one has no direct link to it.</p>
+<p id="2-4-83" className="verse"><a href="#2-4-83" className="verse-link" aria-label="Link to verse 2.4.83"><span className="verse-num">2.4.83</span></a> No physical body passes from one life to another. The old body is gone, and the new one has no direct link to it.</p>
 
-<p id="2-4-84" className="verse"><span className="verse-num">2.4.84</span> Yet the spirit leaves its mark on the body it uses, especially in the face and manner, which often reflect inner nature. So outward beauty does not guarantee moral worth, and bodily defects do not prove inferiority.</p>
+<p id="2-4-84" className="verse"><a href="#2-4-84" className="verse-link" aria-label="Link to verse 2.4.84"><span className="verse-num">2.4.84</span></a> Yet the spirit leaves its mark on the body it uses, especially in the face and manner, which often reflect inner nature. So outward beauty does not guarantee moral worth, and bodily defects do not prove inferiority.</p>
 
-<p id="2-4-85" className="verse"><span className="verse-num">2.4.85</span> There may be no exact physical likeness from one life to another, but a person may retain something of the same bearing, tastes, or manner. The spirit stamps the organs through which it acts, giving the face and conduct a special character. Thus great nobility may appear under humble forms, and vulgarity under elegance and wealth. The spirit brings into a new life what it became in former lives.</p>
+<p id="2-4-85" className="verse"><a href="#2-4-85" className="verse-link" aria-label="Link to verse 2.4.85"><span className="verse-num">2.4.85</span></a> There may be no exact physical likeness from one life to another, but a person may retain something of the same bearing, tastes, or manner. The spirit stamps the organs through which it acts, giving the face and conduct a special character. Thus great nobility may appear under humble forms, and vulgarity under elegance and wealth. The spirit brings into a new life what it became in former lives.</p>
 
 ## Innate Ideas
 
-<p id="2-4-86" className="verse"><span className="verse-num">2.4.86</span> An incarnate spirit keeps a faint memory of what it learned in earlier lives, and this gives rise to innate ideas.</p>
+<p id="2-4-86" className="verse"><a href="#2-4-86" className="verse-link" aria-label="Link to verse 2.4.86"><span className="verse-num">2.4.86</span></a> An incarnate spirit keeps a faint memory of what it learned in earlier lives, and this gives rise to innate ideas.</p>
 
-<p id="2-4-87" className="verse"><span className="verse-num">2.4.87</span> What the spirit gains in one life is not lost. During incarnation, that knowledge is partly hidden, but an inner intuition remains. Thus each new existence begins from the point already reached, even if the connection between lives is not always easy to recognize.</p>
+<p id="2-4-87" className="verse"><a href="#2-4-87" className="verse-link" aria-label="Link to verse 2.4.87"><span className="verse-num">2.4.87</span></a> What the spirit gains in one life is not lost. During incarnation, that knowledge is partly hidden, but an inner intuition remains. Thus each new existence begins from the point already reached, even if the connection between lives is not always easy to recognize.</p>
 
 ### Extraordinary Aptitudes
 
-<p id="2-4-88" className="verse"><span className="verse-num">2.4.88</span> Some people show striking abilities in things they have never studied. These aptitudes come from past progress of the soul and from memories that remain without entering conscious awareness.</p>
+<p id="2-4-88" className="verse"><a href="#2-4-88" className="verse-link" aria-label="Link to verse 2.4.88"><span className="verse-num">2.4.88</span></a> Some people show striking abilities in things they have never studied. These aptitudes come from past progress of the soul and from memories that remain without entering conscious awareness.</p>
 
-<p id="2-4-89" className="verse"><span className="verse-num">2.4.89</span> The body changes, but the spirit is the same being. What seems like natural talent in one life is often the return of abilities developed before.</p>
+<p id="2-4-89" className="verse"><a href="#2-4-89" className="verse-link" aria-label="Link to verse 2.4.89"><span className="verse-num">2.4.89</span></a> The body changes, but the spirit is the same being. What seems like natural talent in one life is often the return of abilities developed before.</p>
 
 ### Latent and Lost Faculties
 
-<p id="2-4-90" className="verse"><span className="verse-num">2.4.90</span> When a spirit passes from one body to another, it may lose the active use of certain faculties for a time.</p>
+<p id="2-4-90" className="verse"><a href="#2-4-90" className="verse-link" aria-label="Link to verse 2.4.90"><span className="verse-num">2.4.90</span></a> When a spirit passes from one body to another, it may lose the active use of certain faculties for a time.</p>
 
-<p id="2-4-91" className="verse"><span className="verse-num">2.4.91</span> This may happen because the faculty was misused, or because the spirit has chosen to develop another one instead. But the faculty is not destroyed. It remains dormant and can appear again in a later life.</p>
+<p id="2-4-91" className="verse"><a href="#2-4-91" className="verse-link" aria-label="Link to verse 2.4.91"><span className="verse-num">2.4.91</span></a> This may happen because the faculty was misused, or because the spirit has chosen to develop another one instead. But the faculty is not destroyed. It remains dormant and can appear again in a later life.</p>
 
 ### The Memory Behind Spiritual Intuition
 
-<p id="2-4-92" className="verse"><span className="verse-num">2.4.92</span> The instinctive sense that God exists, and the presentiment of a future life, come from a memory of what the spirit knew before incarnation. Even in a primitive state, this inward awareness remains, though pride may suppress it.</p>
+<p id="2-4-92" className="verse"><a href="#2-4-92" className="verse-link" aria-label="Link to verse 2.4.92"><span className="verse-num">2.4.92</span></a> The instinctive sense that God exists, and the presentiment of a future life, come from a memory of what the spirit knew before incarnation. Even in a primitive state, this inward awareness remains, though pride may suppress it.</p>
 
-<p id="2-4-93" className="verse"><span className="verse-num">2.4.93</span> This helps explain why beliefs about spiritual life are found among all peoples. Though often distorted by prejudice and turned into superstition by ignorance, the inner memory remains as a witness to what the spirit once knew.</p>
+<p id="2-4-93" className="verse"><a href="#2-4-93" className="verse-link" aria-label="Link to verse 2.4.93"><span className="verse-num">2.4.93</span></a> This helps explain why beliefs about spiritual life are found among all peoples. Though often distorted by prejudice and turned into superstition by ignorance, the inner memory remains as a witness to what the spirit once knew.</p>

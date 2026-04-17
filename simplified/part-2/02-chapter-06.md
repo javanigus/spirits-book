@@ -5,426 +5,426 @@ sidebar_label: 2.6 Spirit Life
 
 ## Errant Spirits
 
-<p id="2-6-1" className="verse"><span className="verse-num">2.6.1</span> After death, a spirit does not always return at once to a new bodily life. There is often a period between one incarnation and the next. In that condition, the soul is called an errant spirit.</p>
+<p id="2-6-1" className="verse"><a href="#2-6-1" className="verse-link" aria-label="Link to verse 2.6.1"><span className="verse-num">2.6.1</span></a> After death, a spirit does not always return at once to a new bodily life. There is often a period between one incarnation and the next. In that condition, the soul is called an errant spirit.</p>
 
-<p id="2-6-2" className="verse"><span className="verse-num">2.6.2</span> This interval may be very short or may last a long time, but it is never endless. Every spirit returns to embodied life, because new lives help complete its purification. The time spent in the errant state depends partly on free will. For some, it is a form of expiation. For others, it is used for study and preparation.</p>
+<p id="2-6-2" className="verse"><a href="#2-6-2" className="verse-link" aria-label="Link to verse 2.6.2"><span className="verse-num">2.6.2</span></a> This interval may be very short or may last a long time, but it is never endless. Every spirit returns to embodied life, because new lives help complete its purification. The time spent in the errant state depends partly on free will. For some, it is a form of expiation. For others, it is used for study and preparation.</p>
 
-<p id="2-6-3" className="verse"><span className="verse-num">2.6.3</span> So spirits may be considered in three conditions: incarnate spirits, living in a body; errant spirits, waiting for a new incarnation; and pure spirits, who no longer need to return to bodily life. The errant state is not, by itself, a sign of inferiority, since spirits of many degrees can be in it.</p>
+<p id="2-6-3" className="verse"><a href="#2-6-3" className="verse-link" aria-label="Link to verse 2.6.3"><span className="verse-num">2.6.3</span></a> So spirits may be considered in three conditions: incarnate spirits, living in a body; errant spirits, waiting for a new incarnation; and pure spirits, who no longer need to return to bodily life. The errant state is not, by itself, a sign of inferiority, since spirits of many degrees can be in it.</p>
 
 ### Learning in the Errant State
 
-<p id="2-6-4" className="verse"><span className="verse-num">2.6.4</span> Errant spirits continue to learn. They look back on their past, see more clearly what they must correct, observe what happens around them, and receive guidance from spirits more advanced than themselves.</p>
+<p id="2-6-4" className="verse"><a href="#2-6-4" className="verse-link" aria-label="Link to verse 2.6.4"><span className="verse-num">2.6.4</span></a> Errant spirits continue to learn. They look back on their past, see more clearly what they must correct, observe what happens around them, and receive guidance from spirits more advanced than themselves.</p>
 
-<p id="2-6-5" className="verse"><span className="verse-num">2.6.5</span> They can make real progress in this state, sometimes even great progress, according to their desire to improve. Still, bodily life remains the main place where what has been learned is put into practice.</p>
+<p id="2-6-5" className="verse"><a href="#2-6-5" className="verse-link" aria-label="Link to verse 2.6.5"><span className="verse-num">2.6.5</span></a> They can make real progress in this state, sometimes even great progress, according to their desire to improve. Still, bodily life remains the main place where what has been learned is put into practice.</p>
 
 ### Passions After Death
 
-<p id="2-6-6" className="verse"><span className="verse-num">2.6.6</span> Death does not suddenly remove every passion. Spirits who are already advanced keep only the desire for what is good. Lower spirits still carry many of the passions they had during earthly life.</p>
+<p id="2-6-6" className="verse"><a href="#2-6-6" className="verse-link" aria-label="Link to verse 2.6.6"><span className="verse-num">2.6.6</span></a> Death does not suddenly remove every passion. Spirits who are already advanced keep only the desire for what is good. Lower spirits still carry many of the passions they had during earthly life.</p>
 
-<p id="2-6-7" className="verse"><span className="verse-num">2.6.7</span> So a jealous, proud, or selfish person does not become free of those faults just by leaving the body. Such spirits are still bound to material influence and do not yet see clearly enough to follow the good with firmness.</p>
+<p id="2-6-7" className="verse"><a href="#2-6-7" className="verse-link" aria-label="Link to verse 2.6.7"><span className="verse-num">2.6.7</span></a> So a jealous, proud, or selfish person does not become free of those faults just by leaving the body. Such spirits are still bound to material influence and do not yet see clearly enough to follow the good with firmness.</p>
 
 ### Happiness and Suffering Among Errant Spirits
 
-<p id="2-6-8" className="verse"><span className="verse-num">2.6.8</span> Errant spirits are happy or unhappy according to their moral state. Their condition reflects what they have made of themselves.</p>
+<p id="2-6-8" className="verse"><a href="#2-6-8" className="verse-link" aria-label="Link to verse 2.6.8"><span className="verse-num">2.6.8</span></a> Errant spirits are happy or unhappy according to their moral state. Their condition reflects what they have made of themselves.</p>
 
-<p id="2-6-9" className="verse"><span className="verse-num">2.6.9</span> Those still ruled by bad passions suffer from them. Those who have become less attached to matter are happier. In this state, a spirit understands better what is still lacking and naturally desires to rise higher. Sometimes, however, it is not allowed to reincarnate as soon as it wishes, and that delay may itself be part of its punishment.</p>
+<p id="2-6-9" className="verse"><a href="#2-6-9" className="verse-link" aria-label="Link to verse 2.6.9"><span className="verse-num">2.6.9</span></a> Those still ruled by bad passions suffer from them. Those who have become less attached to matter are happier. In this state, a spirit understands better what is still lacking and naturally desires to rise higher. Sometimes, however, it is not allowed to reincarnate as soon as it wishes, and that delay may itself be part of its punishment.</p>
 
 ### Relations with Other Worlds
 
-<p id="2-6-10" className="verse"><span className="verse-num">2.6.10</span> Errant spirits are less confined than embodied beings, but they are not without limits. After leaving the body, a spirit usually remains connected to the world where it lived, or to another world of a similar order, unless it has advanced enough to go beyond it.</p>
+<p id="2-6-10" className="verse"><a href="#2-6-10" className="verse-link" aria-label="Link to verse 2.6.10"><span className="verse-num">2.6.10</span></a> Errant spirits are less confined than embodied beings, but they are not without limits. After leaving the body, a spirit usually remains connected to the world where it lived, or to another world of a similar order, unless it has advanced enough to go beyond it.</p>
 
-<p id="2-6-11" className="verse"><span className="verse-num">2.6.11</span> It may sometimes visit more advanced worlds, but only for a time and as a stranger. Seeing happier conditions there awakens the wish to improve. More purified spirits, in turn, can go to less advanced worlds in order to help and guide those who live there.</p>
+<p id="2-6-11" className="verse"><a href="#2-6-11" className="verse-link" aria-label="Link to verse 2.6.11"><span className="verse-num">2.6.11</span></a> It may sometimes visit more advanced worlds, but only for a time and as a stranger. Seeing happier conditions there awakens the wish to improve. More purified spirits, in turn, can go to less advanced worlds in order to help and guide those who live there.</p>
 
 ## Transitional Worlds
 
-<p id="2-6-12" className="verse"><span className="verse-num">2.6.12</span> Some worlds are temporary homes for errant spirits. They serve as stopping places between stages, giving rest during the weariness of wandering.</p>
+<p id="2-6-12" className="verse"><a href="#2-6-12" className="verse-link" aria-label="Link to verse 2.6.12"><span className="verse-num">2.6.12</span></a> Some worlds are temporary homes for errant spirits. They serve as stopping places between stages, giving rest during the weariness of wandering.</p>
 
-<p id="2-6-13" className="verse"><span className="verse-num">2.6.13</span> Their condition matches the advancement of the spirits who stay there for a time. Spirits are not confined there; when the time comes, they leave and continue their journey.</p>
+<p id="2-6-13" className="verse"><a href="#2-6-13" className="verse-link" aria-label="Link to verse 2.6.13"><span className="verse-num">2.6.13</span></a> Their condition matches the advancement of the spirits who stay there for a time. Spirits are not confined there; when the time comes, they leave and continue their journey.</p>
 
 ### Progress During the Layover
 
-<p id="2-6-14" className="verse"><span className="verse-num">2.6.14</span> These pauses are not idle. Spirits continue to advance there.</p>
+<p id="2-6-14" className="verse"><a href="#2-6-14" className="verse-link" aria-label="Link to verse 2.6.14"><span className="verse-num">2.6.14</span></a> These pauses are not idle. Spirits continue to advance there.</p>
 
-<p id="2-6-15" className="verse"><span className="verse-num">2.6.15</span> They gather in such worlds to learn and prepare themselves, so they may more easily reach better worlds and move step by step toward the condition of the elect.</p>
+<p id="2-6-15" className="verse"><a href="#2-6-15" className="verse-link" aria-label="Link to verse 2.6.15"><span className="verse-num">2.6.15</span></a> They gather in such worlds to learn and prepare themselves, so they may more easily reach better worlds and move step by step toward the condition of the elect.</p>
 
 ### The Temporary Character of Transitional Worlds
 
-<p id="2-6-16" className="verse"><span className="verse-num">2.6.16</span> These worlds are not meant to be permanent resting places, because the condition of the spirits who pass through them is itself temporary.</p>
+<p id="2-6-16" className="verse"><a href="#2-6-16" className="verse-link" aria-label="Link to verse 2.6.16"><span className="verse-num">2.6.16</span></a> These worlds are not meant to be permanent resting places, because the condition of the spirits who pass through them is itself temporary.</p>
 
-<p id="2-6-17" className="verse"><span className="verse-num">2.6.17</span> They are not inhabited at the same time by bodily beings. Their surface is barren, and those who dwell there do not need material nourishment.</p>
+<p id="2-6-17" className="verse"><a href="#2-6-17" className="verse-link" aria-label="Link to verse 2.6.17"><span className="verse-num">2.6.17</span></a> They are not inhabited at the same time by bodily beings. Their surface is barren, and those who dwell there do not need material nourishment.</p>
 
-<p id="2-6-18" className="verse"><span className="verse-num">2.6.18</span> Yet this barrenness is only temporary. Though they lack the beauty we usually admire in nature, they still have a grandeur and splendor of their own.</p>
+<p id="2-6-18" className="verse"><a href="#2-6-18" className="verse-link" aria-label="Link to verse 2.6.18"><span className="verse-num">2.6.18</span></a> Yet this barrenness is only temporary. Though they lack the beauty we usually admire in nature, they still have a grandeur and splendor of their own.</p>
 
 ### Earth Among the Transitional Worlds
 
-<p id="2-6-19" className="verse"><span className="verse-num">2.6.19</span> Earth itself once passed through this state during its formation.</p>
+<p id="2-6-19" className="verse"><a href="#2-6-19" className="verse-link" aria-label="Link to verse 2.6.19"><span className="verse-num">2.6.19</span></a> Earth itself once passed through this state during its formation.</p>
 
-<p id="2-6-20" className="verse"><span className="verse-num">2.6.20</span> Nothing in nature is useless; everything has its purpose. Before human beings appeared on Earth, and even before organic life formed, life was not absent from its barren chaos. Beings existed there suited to that condition, without our bodily needs or sensations.</p>
+<p id="2-6-20" className="verse"><a href="#2-6-20" className="verse-link" aria-label="Link to verse 2.6.20"><span className="verse-num">2.6.20</span></a> Nothing in nature is useless; everything has its purpose. Before human beings appeared on Earth, and even before organic life formed, life was not absent from its barren chaos. Beings existed there suited to that condition, without our bodily needs or sensations.</p>
 
-<p id="2-6-21" className="verse"><span className="verse-num">2.6.21</span> So even in its imperfection, the world was useful. Worlds not yet ready for material life may still be populated by beings fitted to them.</p>
+<p id="2-6-21" className="verse"><a href="#2-6-21" className="verse-link" aria-label="Link to verse 2.6.21"><span className="verse-num">2.6.21</span></a> So even in its imperfection, the world was useful. Worlds not yet ready for material life may still be populated by beings fitted to them.</p>
 
-<p id="2-6-22" className="verse"><span className="verse-num">2.6.22</span> This idea shows that existence is not limited to the narrow forms of life known in human experience.</p>
+<p id="2-6-22" className="verse"><a href="#2-6-22" className="verse-link" aria-label="Link to verse 2.6.22"><span className="verse-num">2.6.22</span></a> This idea shows that existence is not limited to the narrow forms of life known in human experience.</p>
 
 ## Perceptions, Sensations, and Sufferings of Spirits
 
 ### Perceptions of Spirits
 
-<p id="2-6-23" className="verse"><span className="verse-num">2.6.23</span> After leaving the body, the soul keeps earthly perceptions and gains others that the body had dimmed. The body acts like a veil, limiting the spirit’s powers, while intelligence belongs to the spirit itself.</p>
+<p id="2-6-23" className="verse"><a href="#2-6-23" className="verse-link" aria-label="Link to verse 2.6.23"><span className="verse-num">2.6.23</span></a> After leaving the body, the soul keeps earthly perceptions and gains others that the body had dimmed. The body acts like a veil, limiting the spirit’s powers, while intelligence belongs to the spirit itself.</p>
 
-<p id="2-6-24" className="verse"><span className="verse-num">2.6.24</span> Still, perception is not unlimited. Spirits know according to their advancement. The more purified they are, the more they understand. Lower spirits remain ignorant of many things, and no created spirit knows everything.</p>
+<p id="2-6-24" className="verse"><a href="#2-6-24" className="verse-link" aria-label="Link to verse 2.6.24"><span className="verse-num">2.6.24</span></a> Still, perception is not unlimited. Spirits know according to their advancement. The more purified they are, the more they understand. Lower spirits remain ignorant of many things, and no created spirit knows everything.</p>
 
 ### Time, Present, Past, and Future
 
-<p id="2-6-25" className="verse"><span className="verse-num">2.6.25</span> Spirits do not experience time as human beings do. Freed from bodily conditions, duration is not measured in the same way.</p>
+<p id="2-6-25" className="verse"><a href="#2-6-25" className="verse-link" aria-label="Link to verse 2.6.25"><span className="verse-num">2.6.25</span></a> Spirits do not experience time as human beings do. Freed from bodily conditions, duration is not measured in the same way.</p>
 
-<p id="2-6-26" className="verse"><span className="verse-num">2.6.26</span> They often see the present more clearly than we do, though this also depends on their level. They can know the past by turning their attention to it, but this knowledge has limits. Their knowledge of the future is also limited: they may glimpse coming events, yet complete foreknowledge belongs to God alone.</p>
+<p id="2-6-26" className="verse"><a href="#2-6-26" className="verse-link" aria-label="Link to verse 2.6.26"><span className="verse-num">2.6.26</span></a> They often see the present more clearly than we do, though this also depends on their level. They can know the past by turning their attention to it, but this knowledge has limits. Their knowledge of the future is also limited: they may glimpse coming events, yet complete foreknowledge belongs to God alone.</p>
 
 ### Perception of God and Divine Direction
 
-<p id="2-6-27" className="verse"><span className="verse-num">2.6.27</span> Only high spirits truly see and understand God. Lower spirits do not see God directly, but they feel the divine presence and authority.</p>
+<p id="2-6-27" className="verse"><a href="#2-6-27" className="verse-link" aria-label="Link to verse 2.6.27"><span className="verse-num">2.6.27</span></a> Only high spirits truly see and understand God. Lower spirits do not see God directly, but they feel the divine presence and authority.</p>
 
-<p id="2-6-28" className="verse"><span className="verse-num">2.6.28</span> When they say something is permitted or forbidden by God, this usually means they receive an inward impression or guidance. Such direction is generally passed on through more advanced spirits rather than given directly by God.</p>
+<p id="2-6-28" className="verse"><a href="#2-6-28" className="verse-link" aria-label="Link to verse 2.6.28"><span className="verse-num">2.6.28</span></a> When they say something is permitted or forbidden by God, this usually means they receive an inward impression or guidance. Such direction is generally passed on through more advanced spirits rather than given directly by God.</p>
 
 ### Sight and Hearing of Spirits
 
-<p id="2-6-29" className="verse"><span className="verse-num">2.6.29</span> A spirit does not see through bodily organs. Sight belongs to the whole spirit, and spirits do not need external light. They can perceive far and quickly, but this power depends on purity.</p>
+<p id="2-6-29" className="verse"><a href="#2-6-29" className="verse-link" aria-label="Link to verse 2.6.29"><span className="verse-num">2.6.29</span></a> A spirit does not see through bodily organs. Sight belongs to the whole spirit, and spirits do not need external light. They can perceive far and quickly, but this power depends on purity.</p>
 
-<p id="2-6-30" className="verse"><span className="verse-num">2.6.30</span> The same is true of hearing. It is not confined to one part of them, and once free from the body, spirits are no longer limited by physical organs.</p>
+<p id="2-6-30" className="verse"><a href="#2-6-30" className="verse-link" aria-label="Link to verse 2.6.30"><span className="verse-num">2.6.30</span></a> The same is true of hearing. It is not confined to one part of them, and once free from the body, spirits are no longer limited by physical organs.</p>
 
 ### Use of Perception
 
-<p id="2-6-31" className="verse"><span className="verse-num">2.6.31</span> Because perception belongs to the spirit, it can usually direct it. A spirit sees and hears what it wishes, especially if it is more advanced.</p>
+<p id="2-6-31" className="verse"><a href="#2-6-31" className="verse-link" aria-label="Link to verse 2.6.31"><span className="verse-num">2.6.31</span></a> Because perception belongs to the spirit, it can usually direct it. A spirit sees and hears what it wishes, especially if it is more advanced.</p>
 
-<p id="2-6-32" className="verse"><span className="verse-num">2.6.32</span> Lower spirits, however, may be made to perceive what is useful for their correction.</p>
+<p id="2-6-32" className="verse"><a href="#2-6-32" className="verse-link" aria-label="Link to verse 2.6.32"><span className="verse-num">2.6.32</span></a> Lower spirits, however, may be made to perceive what is useful for their correction.</p>
 
 ### Sensitivity to Music and Beauty
 
-<p id="2-6-33" className="verse"><span className="verse-num">2.6.33</span> Spirits are sensitive to music, but spiritual music is far beyond earthly music. Ordinary spirits may still prefer human music because they cannot yet fully appreciate higher harmony. As they become more refined, music gives them deeper joy.</p>
+<p id="2-6-33" className="verse"><a href="#2-6-33" className="verse-link" aria-label="Link to verse 2.6.33"><span className="verse-num">2.6.33</span></a> Spirits are sensitive to music, but spiritual music is far beyond earthly music. Ordinary spirits may still prefer human music because they cannot yet fully appreciate higher harmony. As they become more refined, music gives them deeper joy.</p>
 
-<p id="2-6-34" className="verse"><span className="verse-num">2.6.34</span> They are also sensitive to beauty. Appreciation depends on a spirit’s aptitude and advancement, and higher spirits delight especially in universal harmony.</p>
+<p id="2-6-34" className="verse"><a href="#2-6-34" className="verse-link" aria-label="Link to verse 2.6.34"><span className="verse-num">2.6.34</span></a> They are also sensitive to beauty. Appreciation depends on a spirit’s aptitude and advancement, and higher spirits delight especially in universal harmony.</p>
 
 ### Needs, Fatigue, and Rest
 
-<p id="2-6-35" className="verse"><span className="verse-num">2.6.35</span> Spirits no longer experience physical needs and bodily suffering as embodied beings do. They are not subject to hunger, organic pain, or bodily necessity in the same way.</p>
+<p id="2-6-35" className="verse"><a href="#2-6-35" className="verse-link" aria-label="Link to verse 2.6.35"><span className="verse-num">2.6.35</span></a> Spirits no longer experience physical needs and bodily suffering as embodied beings do. They are not subject to hunger, organic pain, or bodily necessity in the same way.</p>
 
-<p id="2-6-36" className="verse"><span className="verse-num">2.6.36</span> They do not need bodily sleep, but they do have a kind of rest: a temporary calming of thought. This need for repose decreases as spirits become more purified.</p>
+<p id="2-6-36" className="verse"><a href="#2-6-36" className="verse-link" aria-label="Link to verse 2.6.36"><span className="verse-num">2.6.36</span></a> They do not need bodily sleep, but they do have a kind of rest: a temporary calming of thought. This need for repose decreases as spirits become more purified.</p>
 
 ### Sufferings of Spirits
 
-<p id="2-6-37" className="verse"><span className="verse-num">2.6.37</span> The sufferings of spirits are moral rather than physical. When a spirit says it suffers, the pain is usually inner anguish such as remorse, confusion, or longing, and this may be sharper than bodily pain.</p>
+<p id="2-6-37" className="verse"><a href="#2-6-37" className="verse-link" aria-label="Link to verse 2.6.37"><span className="verse-num">2.6.37</span></a> The sufferings of spirits are moral rather than physical. When a spirit says it suffers, the pain is usually inner anguish such as remorse, confusion, or longing, and this may be sharper than bodily pain.</p>
 
-<p id="2-6-38" className="verse"><span className="verse-num">2.6.38</span> For this reason, spirits sometimes speak of heat or cold. These expressions often come from vivid memory or serve as images of their moral condition. They may retain the impression of bodily suffering even after the body is gone.</p>
+<p id="2-6-38" className="verse"><a href="#2-6-38" className="verse-link" aria-label="Link to verse 2.6.38"><span className="verse-num">2.6.38</span></a> For this reason, spirits sometimes speak of heat or cold. These expressions often come from vivid memory or serve as images of their moral condition. They may retain the impression of bodily suffering even after the body is gone.</p>
 
 ## Theoretical Explanation on Sensation in Spirits
 
-<p id="2-6-39" className="verse"><span className="verse-num">2.6.39</span> The body is the instrument of pain. The soul perceives pain, but is not itself physically wounded. Heat and cold do not burn or freeze the soul.</p>
+<p id="2-6-39" className="verse"><a href="#2-6-39" className="verse-link" aria-label="Link to verse 2.6.39"><span className="verse-num">2.6.39</span></a> The body is the instrument of pain. The soul perceives pain, but is not itself physically wounded. Heat and cold do not burn or freeze the soul.</p>
 
-<p id="2-6-40" className="verse"><span className="verse-num">2.6.40</span> The key is the perispirit. It links spirit and body, is formed from the universal fluid, and is the principle of organic sensation, though intelligence belongs only to the spirit.</p>
+<p id="2-6-40" className="verse"><a href="#2-6-40" className="verse-link" aria-label="Link to verse 2.6.40"><span className="verse-num">2.6.40</span></a> The key is the perispirit. It links spirit and body, is formed from the universal fluid, and is the principle of organic sensation, though intelligence belongs only to the spirit.</p>
 
-<p id="2-6-41" className="verse"><span className="verse-num">2.6.41</span> During earthly life, sensations are limited by the organs of the body. After death, sensation is no longer confined to separate parts, but spread through the whole being. A spirit may still suffer, but not as the flesh suffers. This suffering is not simply physical, nor only remorse. When spirits speak of heat or cold, it is an inward suffering, often vague, painful, and hard to locate.</p>
+<p id="2-6-41" className="verse"><a href="#2-6-41" className="verse-link" aria-label="Link to verse 2.6.41"><span className="verse-num">2.6.41</span></a> During earthly life, sensations are limited by the organs of the body. After death, sensation is no longer confined to separate parts, but spread through the whole being. A spirit may still suffer, but not as the flesh suffers. This suffering is not simply physical, nor only remorse. When spirits speak of heat or cold, it is an inward suffering, often vague, painful, and hard to locate.</p>
 
-<p id="2-6-42" className="verse"><span className="verse-num">2.6.42</span> The perispirit does not always separate from the body at once. In the first moments after death, the spirit often does not understand its condition and may still feel united to the body. That is why some spirits, especially suicides or those strongly attached to bodily life, report feeling what happens to the corpse. These impressions come from the remaining bond, not from the body itself.</p>
+<p id="2-6-42" className="verse"><a href="#2-6-42" className="verse-link" aria-label="Link to verse 2.6.42"><span className="verse-num">2.6.42</span></a> The perispirit does not always separate from the body at once. In the first moments after death, the spirit often does not understand its condition and may still feel united to the body. That is why some spirits, especially suicides or those strongly attached to bodily life, report feeling what happens to the corpse. These impressions come from the remaining bond, not from the body itself.</p>
 
-<p id="2-6-43" className="verse"><span className="verse-num">2.6.43</span> In bodily life, the body receives impressions and passes them to the spirit through the perispirit. After death, the body feels nothing, but the perispirit still carries sensation through the whole being.</p>
+<p id="2-6-43" className="verse"><a href="#2-6-43" className="verse-link" aria-label="Link to verse 2.6.43"><span className="verse-num">2.6.43</span></a> In bodily life, the body receives impressions and passes them to the spirit through the perispirit. After death, the body feels nothing, but the perispirit still carries sensation through the whole being.</p>
 
-<p id="2-6-44" className="verse"><span className="verse-num">2.6.44</span> Still, the perispirit is only the instrument. Awareness belongs to the spirit. Without the spirit, the perispirit would feel nothing; without the perispirit, the spirit would not be open to painful sensation at all, as with pure spirits. The more purified a spirit becomes, the more refined its perispirit becomes, and the less it is affected by matter.</p>
+<p id="2-6-44" className="verse"><a href="#2-6-44" className="verse-link" aria-label="Link to verse 2.6.44"><span className="verse-num">2.6.44</span></a> Still, the perispirit is only the instrument. Awareness belongs to the spirit. Without the spirit, the perispirit would feel nothing; without the perispirit, the spirit would not be open to painful sensation at all, as with pure spirits. The more purified a spirit becomes, the more refined its perispirit becomes, and the less it is affected by matter.</p>
 
-<p id="2-6-45" className="verse"><span className="verse-num">2.6.45</span> The perispirit can also transmit pleasant sensations. But pure spirits are no longer touched by material sensations as we know them. They experience inward joys that our faculties cannot describe.</p>
+<p id="2-6-45" className="verse"><a href="#2-6-45" className="verse-link" aria-label="Link to verse 2.6.45"><span className="verse-num">2.6.45</span></a> The perispirit can also transmit pleasant sensations. But pure spirits are no longer touched by material sensations as we know them. They experience inward joys that our faculties cannot describe.</p>
 
-<p id="2-6-46" className="verse"><span className="verse-num">2.6.46</span> Spirits can perceive, feel, hear, and see, not through separate organs, but through their whole being. Less advanced spirits, with denser perispirits, still perceive sounds and odors in a way closer to ours. Their perception becomes clearer as they become less material.</p>
+<p id="2-6-46" className="verse"><a href="#2-6-46" className="verse-link" aria-label="Link to verse 2.6.46"><span className="verse-num">2.6.46</span></a> Spirits can perceive, feel, hear, and see, not through separate organs, but through their whole being. Less advanced spirits, with denser perispirits, still perceive sounds and odors in a way closer to ours. Their perception becomes clearer as they become less material.</p>
 
-<p id="2-6-47" className="verse"><span className="verse-num">2.6.47</span> Spirits hear the human voice, but they also understand thought without speech. Sight does not depend on light as ours does; for the soul, darkness does not exist. After death, these powers are gradually freed as the perispirit becomes more refined.</p>
+<p id="2-6-47" className="verse"><a href="#2-6-47" className="verse-link" aria-label="Link to verse 2.6.47"><span className="verse-num">2.6.47</span></a> Spirits hear the human voice, but they also understand thought without speech. Sight does not depend on light as ours does; for the soul, darkness does not exist. After death, these powers are gradually freed as the perispirit becomes more refined.</p>
 
-<p id="2-6-48" className="verse"><span className="verse-num">2.6.48</span> Because the perispirit is drawn from the environment, it differs from one world to another. Spirits change their envelope according to the world they inhabit, and their perceptions vary with it.</p>
+<p id="2-6-48" className="verse"><a href="#2-6-48" className="verse-link" aria-label="Link to verse 2.6.48"><span className="verse-num">2.6.48</span></a> Because the perispirit is drawn from the environment, it differs from one world to another. Spirits change their envelope according to the world they inhabit, and their perceptions vary with it.</p>
 
-<p id="2-6-49" className="verse"><span className="verse-num">2.6.49</span> At first after death, a spirit’s vision is often dim and confused. As it detaches from the body, vision grows clearer. How far it extends, and how much of the past and future it can grasp, depends on the spirit’s purity and advancement.</p>
+<p id="2-6-49" className="verse"><a href="#2-6-49" className="verse-link" aria-label="Link to verse 2.6.49"><span className="verse-num">2.6.49</span></a> At first after death, a spirit’s vision is often dim and confused. As it detaches from the body, vision grows clearer. How far it extends, and how much of the past and future it can grasp, depends on the spirit’s purity and advancement.</p>
 
-<p id="2-6-50" className="verse"><span className="verse-num">2.6.50</span> These truths may seem severe. Many hope suffering must end once the body is left behind. Sometimes it does, but it may also continue after death, even for a long time.</p>
+<p id="2-6-50" className="verse"><a href="#2-6-50" className="verse-link" aria-label="Link to verse 2.6.50"><span className="verse-num">2.6.50</span></a> These truths may seem severe. Many hope suffering must end once the body is left behind. Sometimes it does, but it may also continue after death, even for a long time.</p>
 
-<p id="2-6-51" className="verse"><span className="verse-num">2.6.51</span> Much suffering in earthly life comes from excess, passions, ambition, and lack of self-control. The same law continues after death. Spirits no longer suffer from bodily illness, but they may endure sufferings just as real, lasting as long as they remain attached to matter.</p>
+<p id="2-6-51" className="verse"><a href="#2-6-51" className="verse-link" aria-label="Link to verse 2.6.51"><span className="verse-num">2.6.51</span></a> Much suffering in earthly life comes from excess, passions, ambition, and lack of self-control. The same law continues after death. Spirits no longer suffer from bodily illness, but they may endure sufferings just as real, lasting as long as they remain attached to matter.</p>
 
-<p id="2-6-52" className="verse"><span className="verse-num">2.6.52</span> That freedom begins now, through the right use of free will. By overcoming lower passions, giving up hatred, envy, jealousy, pride, and selfishness, and by doing good, the spirit purifies itself even while in the body.</p>
+<p id="2-6-52" className="verse"><a href="#2-6-52" className="verse-link" aria-label="Link to verse 2.6.52"><span className="verse-num">2.6.52</span></a> That freedom begins now, through the right use of free will. By overcoming lower passions, giving up hatred, envy, jealousy, pride, and selfishness, and by doing good, the spirit purifies itself even while in the body.</p>
 
-<p id="2-6-53" className="verse"><span className="verse-num">2.6.53</span> Then, when the body is left behind, material influence no longer torments it. Bodily pains leave no bitter mark on the spirit, and a clear conscience protects it from moral suffering.</p>
+<p id="2-6-53" className="verse"><a href="#2-6-53" className="verse-link" aria-label="Link to verse 2.6.53"><span className="verse-num">2.6.53</span></a> Then, when the body is left behind, material influence no longer torments it. Bodily pains leave no bitter mark on the spirit, and a clear conscience protects it from moral suffering.</p>
 
-<p id="2-6-54" className="verse"><span className="verse-num">2.6.54</span> The condition of spirits confirms this law. Their sufferings always match their conduct. Those who followed the path of good find deep happiness in the life beyond the grave. Those who suffer do so because of causes within themselves. In both states, they bear responsibility for the path they chose.</p>
+<p id="2-6-54" className="verse"><a href="#2-6-54" className="verse-link" aria-label="Link to verse 2.6.54"><span className="verse-num">2.6.54</span></a> The condition of spirits confirms this law. Their sufferings always match their conduct. Those who followed the path of good find deep happiness in the life beyond the grave. Those who suffer do so because of causes within themselves. In both states, they bear responsibility for the path they chose.</p>
 
 ## The Choice of Trials
 
 ### The Choice of Trials
 
-<p id="2-6-55" className="verse"><span className="verse-num">2.6.55</span> Before a new bodily life, a spirit in the wandering state chooses the kind of trials it will undergo. This freedom grounds responsibility: life is not blind fate, and suffering is not assigned at random.</p>
+<p id="2-6-55" className="verse"><a href="#2-6-55" className="verse-link" aria-label="Link to verse 2.6.55"><span className="verse-num">2.6.55</span></a> Before a new bodily life, a spirit in the wandering state chooses the kind of trials it will undergo. This freedom grounds responsibility: life is not blind fate, and suffering is not assigned at random.</p>
 
-<p id="2-6-56" className="verse"><span className="verse-num">2.6.56</span> All happens under divine law. God establishes the order, but spirits choose within it and bear the results. If they fail, divine goodness allows them to begin again where they fell.</p>
+<p id="2-6-56" className="verse"><a href="#2-6-56" className="verse-link" aria-label="Link to verse 2.6.56"><span className="verse-num">2.6.56</span></a> All happens under divine law. God establishes the order, but spirits choose within it and bear the results. If they fail, divine goodness allows them to begin again where they fell.</p>
 
 ### What Is Chosen, and What Is Not
 
-<p id="2-6-57" className="verse"><span className="verse-num">2.6.57</span> A spirit does not choose every detail of earthly life. It chooses the kind of trial, not each event. Details come from circumstances, environment, and often from its own actions.</p>
+<p id="2-6-57" className="verse"><a href="#2-6-57" className="verse-link" aria-label="Link to verse 2.6.57"><span className="verse-num">2.6.57</span></a> A spirit does not choose every detail of earthly life. It chooses the kind of trial, not each event. Details come from circumstances, environment, and often from its own actions.</p>
 
-<p id="2-6-58" className="verse"><span className="verse-num">2.6.58</span> It foresees the general road and the major events affecting its destiny, but not every step along the way.</p>
+<p id="2-6-58" className="verse"><a href="#2-6-58" className="verse-link" aria-label="Link to verse 2.6.58"><span className="verse-num">2.6.58</span></a> It foresees the general road and the major events affecting its destiny, but not every step along the way.</p>
 
 ### Why Spirits Seek Difficult Conditions
 
-<p id="2-6-59" className="verse"><span className="verse-num">2.6.59</span> A spirit may ask to be born where evil is active because that is the struggle it needs. The trial offers the chance for victory or failure but does not force either.</p>
+<p id="2-6-59" className="verse"><a href="#2-6-59" className="verse-link" aria-label="Link to verse 2.6.59"><span className="verse-num">2.6.59</span></a> A spirit may ask to be born where evil is active because that is the struggle it needs. The trial offers the chance for victory or failure but does not force either.</p>
 
-<p id="2-6-60" className="verse"><span className="verse-num">2.6.60</span> It does not need to undergo every temptation. But if it turns toward evil, it exposes itself to the dangers attached to that choice. Wealth, for example, may be chosen as a trial because it can awaken pride, greed, and selfishness.</p>
+<p id="2-6-60" className="verse"><a href="#2-6-60" className="verse-link" aria-label="Link to verse 2.6.60"><span className="verse-num">2.6.60</span></a> It does not need to undergo every temptation. But if it turns toward evil, it exposes itself to the dangers attached to that choice. Wealth, for example, may be chosen as a trial because it can awaken pride, greed, and selfishness.</p>
 
 ### The Growth of Freedom
 
-<p id="2-6-61" className="verse"><span className="verse-num">2.6.61</span> At first, a spirit is too inexperienced to guide itself well, so God directs it. As it develops, it is left more to its own freedom.</p>
+<p id="2-6-61" className="verse"><a href="#2-6-61" className="verse-link" aria-label="Link to verse 2.6.61"><span className="verse-num">2.6.61</span></a> At first, a spirit is too inexperienced to guide itself well, so God directs it. As it develops, it is left more to its own freedom.</p>
 
-<p id="2-6-62" className="verse"><span className="verse-num">2.6.62</span> Wrong begins when it resists good guidance and follows its own mistaken will. Still, the choice of a new existence is not always entirely free. If a spirit cannot choose what would help it, God may impose an existence for expiation and progress.</p>
+<p id="2-6-62" className="verse"><a href="#2-6-62" className="verse-link" aria-label="Link to verse 2.6.62"><span className="verse-num">2.6.62</span></a> Wrong begins when it resists good guidance and follows its own mistaken will. Still, the choice of a new existence is not always entirely free. If a spirit cannot choose what would help it, God may impose an existence for expiation and progress.</p>
 
 ### Delay After Death
 
-<p id="2-6-63" className="verse"><span className="verse-num">2.6.63</span> A new choice is not always made immediately after death. Some spirits remain delayed by their beliefs and state of mind. False ideas can prolong suffering and confusion.</p>
+<p id="2-6-63" className="verse"><a href="#2-6-63" className="verse-link" aria-label="Link to verse 2.6.63"><span className="verse-num">2.6.63</span></a> A new choice is not always made immediately after death. Some spirits remain delayed by their beliefs and state of mind. False ideas can prolong suffering and confusion.</p>
 
 ### What Guides the Choice
 
-<p id="2-6-64" className="verse"><span className="verse-num">2.6.64</span> In choosing trials, a spirit seeks what can repair past wrongs and hasten advancement. One may choose poverty to learn endurance, another wealth or power despite their dangers.</p>
+<p id="2-6-64" className="verse"><a href="#2-6-64" className="verse-link" aria-label="Link to verse 2.6.64"><span className="verse-num">2.6.64</span></a> In choosing trials, a spirit seeks what can repair past wrongs and hasten advancement. One may choose poverty to learn endurance, another wealth or power despite their dangers.</p>
 
-<p id="2-6-65" className="verse"><span className="verse-num">2.6.65</span> Some live among vice for struggle; others are there because of their own likeness to it. They remain until suffering teaches them what passion did not.</p>
+<p id="2-6-65" className="verse"><a href="#2-6-65" className="verse-link" aria-label="Link to verse 2.6.65"><span className="verse-num">2.6.65</span></a> Some live among vice for struggle; others are there because of their own likeness to it. They remain until suffering teaches them what passion did not.</p>
 
 ### Why Spirits Do Not Choose the Easiest Life
 
-<p id="2-6-66" className="verse"><span className="verse-num">2.6.66</span> What seems best on earth does not seem best to the spirit freed from the body. Passing pleasures lose value beside the happiness still ahead.</p>
+<p id="2-6-66" className="verse"><a href="#2-6-66" className="verse-link" aria-label="Link to verse 2.6.66"><span className="verse-num">2.6.66</span></a> What seems best on earth does not seem best to the spirit freed from the body. Passing pleasures lose value beside the happiness still ahead.</p>
 
-<p id="2-6-67" className="verse"><span className="verse-num">2.6.67</span> So a spirit may choose a hard life to reach a better state sooner. After each life, seeing what remains to be purified, it may willingly accept difficult conditions.</p>
+<p id="2-6-67" className="verse"><a href="#2-6-67" className="verse-link" aria-label="Link to verse 2.6.67"><span className="verse-num">2.6.67</span></a> So a spirit may choose a hard life to reach a better state sooner. After each life, seeing what remains to be purified, it may willingly accept difficult conditions.</p>
 
 ### Earthly Images of the Same Law
 
-<p id="2-6-68" className="verse"><span className="verse-num">2.6.68</span> Human life reflects this law. People accept labor, danger, and discipline for a future good. No one reaches a high level without passing through lower stages.</p>
+<p id="2-6-68" className="verse"><a href="#2-6-68" className="verse-link" aria-label="Link to verse 2.6.68"><span className="verse-num">2.6.68</span></a> Human life reflects this law. People accept labor, danger, and discipline for a future good. No one reaches a high level without passing through lower stages.</p>
 
-<p id="2-6-69" className="verse"><span className="verse-num">2.6.69</span> Likewise, a spirit may choose hardship when it sees farther ahead and knows bodily life is brief.</p>
+<p id="2-6-69" className="verse"><a href="#2-6-69" className="verse-link" aria-label="Link to verse 2.6.69"><span className="verse-num">2.6.69</span></a> Likewise, a spirit may choose hardship when it sees farther ahead and knows bodily life is brief.</p>
 
 ### The Mountain and the Valley
 
-<p id="2-6-70" className="verse"><span className="verse-num">2.6.70</span> The incarnate spirit is like a traveler in a foggy valley who sees the road only confusedly. From the mountain top, the traveler sees the path, its obstacles, and the best route.</p>
+<p id="2-6-70" className="verse"><a href="#2-6-70" className="verse-link" aria-label="Link to verse 2.6.70"><span className="verse-num">2.6.70</span></a> The incarnate spirit is like a traveler in a foggy valley who sees the road only confusedly. From the mountain top, the traveler sees the path, its obstacles, and the best route.</p>
 
-<p id="2-6-71" className="verse"><span className="verse-num">2.6.71</span> So the spirit, freed from earthly ties, sees more clearly. Its goal is happiness after trials.</p>
+<p id="2-6-71" className="verse"><a href="#2-6-71" className="verse-link" aria-label="Link to verse 2.6.71"><span className="verse-num">2.6.71</span></a> So the spirit, freed from earthly ties, sees more clearly. Its goal is happiness after trials.</p>
 
 ### Study Before Choosing
 
-<p id="2-6-72" className="verse"><span className="verse-num">2.6.72</span> In the wandering state, spirits search, study, and observe before choosing. Each bodily life is only a phase of the spirit’s greater life.</p>
+<p id="2-6-72" className="verse"><a href="#2-6-72" className="verse-link" aria-label="Link to verse 2.6.72"><span className="verse-num">2.6.72</span></a> In the wandering state, spirits search, study, and observe before choosing. Each bodily life is only a phase of the spirit’s greater life.</p>
 
-<p id="2-6-73" className="verse"><span className="verse-num">2.6.73</span> Spirit life is the normal life; bodily existence is temporary.</p>
+<p id="2-6-73" className="verse"><a href="#2-6-73" className="verse-link" aria-label="Link to verse 2.6.73"><span className="verse-num">2.6.73</span></a> Spirit life is the normal life; bodily existence is temporary.</p>
 
 ### Desire During Earthly Life
 
-<p id="2-6-74" className="verse"><span className="verse-num">2.6.74</span> A spirit can influence its future life during incarnation through its sincere desires. But once back in the spirit state, it often judges differently.</p>
+<p id="2-6-74" className="verse"><a href="#2-6-74" className="verse-link" aria-label="Link to verse 2.6.74"><span className="verse-num">2.6.74</span></a> A spirit can influence its future life during incarnation through its sincere desires. But once back in the spirit state, it often judges differently.</p>
 
-<p id="2-6-75" className="verse"><span className="verse-num">2.6.75</span> Properly speaking, the choice belongs to the spirit in its freer state, though earthly desires may help prepare it.</p>
+<p id="2-6-75" className="verse"><a href="#2-6-75" className="verse-link" aria-label="Link to verse 2.6.75"><span className="verse-num">2.6.75</span></a> Properly speaking, the choice belongs to the spirit in its freer state, though earthly desires may help prepare it.</p>
 
 ### Trials Continue Until Purity Is Reached
 
-<p id="2-6-76" className="verse"><span className="verse-num">2.6.76</span> Until full purity, a spirit still has duties and means of progress. These are not always painful trials.</p>
+<p id="2-6-76" className="verse"><a href="#2-6-76" className="verse-link" aria-label="Link to verse 2.6.76"><span className="verse-num">2.6.76</span></a> Until full purity, a spirit still has duties and means of progress. These are not always painful trials.</p>
 
-<p id="2-6-77" className="verse"><span className="verse-num">2.6.77</span> A more advanced spirit may no longer need harsh expiation, yet by helping others progress, it continues to advance.</p>
+<p id="2-6-77" className="verse"><a href="#2-6-77" className="verse-link" aria-label="Link to verse 2.6.77"><span className="verse-num">2.6.77</span></a> A more advanced spirit may no longer need harsh expiation, yet by helping others progress, it continues to advance.</p>
 
 ### Mistaken Choices
 
-<p id="2-6-78" className="verse"><span className="verse-num">2.6.78</span> A spirit may choose a trial beyond its strength and fail under it. It may also choose a life that proves empty and unfruitful.</p>
+<p id="2-6-78" className="verse"><a href="#2-6-78" className="verse-link" aria-label="Link to verse 2.6.78"><span className="verse-num">2.6.78</span></a> A spirit may choose a trial beyond its strength and fail under it. It may also choose a life that proves empty and unfruitful.</p>
 
-<p id="2-6-79" className="verse"><span className="verse-num">2.6.79</span> Returning to the spirit world, it sees it gained little and asks for another chance.</p>
+<p id="2-6-79" className="verse"><a href="#2-6-79" className="verse-link" aria-label="Link to verse 2.6.79"><span className="verse-num">2.6.79</span></a> Returning to the spirit world, it sees it gained little and asks for another chance.</p>
 
 ### Vocations and Inclinations
 
-<p id="2-6-80" className="verse"><span className="verse-num">2.6.80</span> The attraction people feel toward certain careers or paths is often linked to what they acquired in former lives and to previously chosen trials.</p>
+<p id="2-6-80" className="verse"><a href="#2-6-80" className="verse-link" aria-label="Link to verse 2.6.80"><span className="verse-num">2.6.80</span></a> The attraction people feel toward certain careers or paths is often linked to what they acquired in former lives and to previously chosen trials.</p>
 
-<p id="2-6-81" className="verse"><span className="verse-num">2.6.81</span> Present inclinations are not random.</p>
+<p id="2-6-81" className="verse"><a href="#2-6-81" className="verse-link" aria-label="Link to verse 2.6.81"><span className="verse-num">2.6.81</span></a> Present inclinations are not random.</p>
 
 ### Gradual Progress Through Different Conditions
 
-<p id="2-6-82" className="verse"><span className="verse-num">2.6.82</span> A spirit does not advance by skipping necessary stages. Conditions correspond to its moral development.</p>
+<p id="2-6-82" className="verse"><a href="#2-6-82" className="verse-link" aria-label="Link to verse 2.6.82"><span className="verse-num">2.6.82</span></a> A spirit does not advance by skipping necessary stages. Conditions correspond to its moral development.</p>
 
-<p id="2-6-83" className="verse"><span className="verse-num">2.6.83</span> Growth is gradual. One does not pass at once from barbarity to full civilization. Reincarnation gives repeated opportunities suited to each level.</p>
+<p id="2-6-83" className="verse"><a href="#2-6-83" className="verse-link" aria-label="Link to verse 2.6.83"><span className="verse-num">2.6.83</span></a> Growth is gradual. One does not pass at once from barbarity to full civilization. Reincarnation gives repeated opportunities suited to each level.</p>
 
 ### Passing Too Quickly Into Higher Conditions
 
-<p id="2-6-84" className="verse"><span className="verse-num">2.6.84</span> Spirits from less advanced worlds or peoples may be born in more developed societies, but some rise too quickly and remain out of harmony with their surroundings.</p>
+<p id="2-6-84" className="verse"><a href="#2-6-84" className="verse-link" aria-label="Link to verse 2.6.84"><span className="verse-num">2.6.84</span></a> Spirits from less advanced worlds or peoples may be born in more developed societies, but some rise too quickly and remain out of harmony with their surroundings.</p>
 
-<p id="2-6-85" className="verse"><span className="verse-num">2.6.85</span> This helps explain brutality within civilization. If such a spirit later returns to a less advanced setting, it is not always a fall, but a return to conditions suited to its stage.</p>
+<p id="2-6-85" className="verse"><a href="#2-6-85" className="verse-link" aria-label="Link to verse 2.6.85"><span className="verse-num">2.6.85</span></a> This helps explain brutality within civilization. If such a spirit later returns to a less advanced setting, it is not always a fall, but a return to conditions suited to its stage.</p>
 
 ### Reincarnation Into a Less Advanced Culture as Expiation or Mission
 
-<p id="2-6-86" className="verse"><span className="verse-num">2.6.86</span> A person from a civilized society may be reborn in a less advanced one as expiation. One who abused power may later endure subjection. Such a reversal may be imposed by God.</p>
+<p id="2-6-86" className="verse"><a href="#2-6-86" className="verse-link" aria-label="Link to verse 2.6.86"><span className="verse-num">2.6.86</span></a> A person from a civilized society may be reborn in a less advanced one as expiation. One who abused power may later endure subjection. Such a reversal may be imposed by God.</p>
 
-<p id="2-6-87" className="verse"><span className="verse-num">2.6.87</span> But the same condition may instead be a mission. A good spirit may choose life among a less advanced people in order to help them progress.</p>
+<p id="2-6-87" className="verse"><a href="#2-6-87" className="verse-link" aria-label="Link to verse 2.6.87"><span className="verse-num">2.6.87</span></a> But the same condition may instead be a mission. A good spirit may choose life among a less advanced people in order to help them progress.</p>
 
 ## Relationships beyond the Grave
 
-<p id="2-6-88" className="verse"><span className="verse-num">2.6.88</span> Spirits are arranged by their degree of progress. In the spirit world, true authority does not come from force, wealth, or rank, but from moral superiority. Higher spirits naturally have ascendancy over lower ones.</p>
+<p id="2-6-88" className="verse"><a href="#2-6-88" className="verse-link" aria-label="Link to verse 2.6.88"><span className="verse-num">2.6.88</span></a> Spirits are arranged by their degree of progress. In the spirit world, true authority does not come from force, wealth, or rank, but from moral superiority. Higher spirits naturally have ascendancy over lower ones.</p>
 
 ### True Superiority in the Spirit World
 
-<p id="2-6-89" className="verse"><span className="verse-num">2.6.89</span> Earthly position gives no advantage after death. A person honored on earth may be low among spirits, while someone humble may be elevated.</p>
+<p id="2-6-89" className="verse"><a href="#2-6-89" className="verse-link" aria-label="Link to verse 2.6.89"><span className="verse-num">2.6.89</span></a> Earthly position gives no advantage after death. A person honored on earth may be low among spirits, while someone humble may be elevated.</p>
 
-<p id="2-6-90" className="verse"><span className="verse-num">2.6.90</span> Human titles disappear. Only real worth remains. The proud then discover that what they called greatness on earth was often only vanity.</p>
+<p id="2-6-90" className="verse"><a href="#2-6-90" className="verse-link" aria-label="Link to verse 2.6.90"><span className="verse-num">2.6.90</span></a> Human titles disappear. Only real worth remains. The proud then discover that what they called greatness on earth was often only vanity.</p>
 
 ### Affinity, Separation, and the Gathering of Spirits
 
-<p id="2-6-91" className="verse"><span className="verse-num">2.6.91</span> Spirits are not mixed together without order. They are drawn to one another by similarity of thoughts and feelings, and separated by opposition.</p>
+<p id="2-6-91" className="verse"><a href="#2-6-91" className="verse-link" aria-label="Link to verse 2.6.91"><span className="verse-num">2.6.91</span></a> Spirits are not mixed together without order. They are drawn to one another by similarity of thoughts and feelings, and separated by opposition.</p>
 
-<p id="2-6-92" className="verse"><span className="verse-num">2.6.92</span> Good spirits gather with good spirits. Evil spirits gather with those like themselves. So the spirit world contains every kind of spirit, but not in confusion.</p>
+<p id="2-6-92" className="verse"><a href="#2-6-92" className="verse-link" aria-label="Link to verse 2.6.92"><span className="verse-num">2.6.92</span></a> Good spirits gather with good spirits. Evil spirits gather with those like themselves. So the spirit world contains every kind of spirit, but not in confusion.</p>
 
 ### Access Among Spirits
 
-<p id="2-6-93" className="verse"><span className="verse-num">2.6.93</span> Good spirits can go everywhere, because they must be able to help, instruct, and influence those below them.</p>
+<p id="2-6-93" className="verse"><a href="#2-6-93" className="verse-link" aria-label="Link to verse 2.6.93"><span className="verse-num">2.6.93</span></a> Good spirits can go everywhere, because they must be able to help, instruct, and influence those below them.</p>
 
-<p id="2-6-94" className="verse"><span className="verse-num">2.6.94</span> Lower spirits cannot enter the regions of higher spirits. Their imperfect nature keeps them away from places whose harmony they are not yet able to share.</p>
+<p id="2-6-94" className="verse"><a href="#2-6-94" className="verse-link" aria-label="Link to verse 2.6.94"><span className="verse-num">2.6.94</span></a> Lower spirits cannot enter the regions of higher spirits. Their imperfect nature keeps them away from places whose harmony they are not yet able to share.</p>
 
 ### The Relationship Between Good and Evil Spirits
 
-<p id="2-6-95" className="verse"><span className="verse-num">2.6.95</span> Good spirits act on imperfect spirits to restrain them and lead them toward improvement. Their action is corrective, not hostile.</p>
+<p id="2-6-95" className="verse"><a href="#2-6-95" className="verse-link" aria-label="Link to verse 2.6.95"><span className="verse-num">2.6.95</span></a> Good spirits act on imperfect spirits to restrain them and lead them toward improvement. Their action is corrective, not hostile.</p>
 
-<p id="2-6-96" className="verse"><span className="verse-num">2.6.96</span> Evil spirits, on the other hand, often try to draw human beings into wrongdoing. In their suffering and envy, they want others to share their condition.</p>
+<p id="2-6-96" className="verse"><a href="#2-6-96" className="verse-link" aria-label="Link to verse 2.6.96"><span className="verse-num">2.6.96</span></a> Evil spirits, on the other hand, often try to draw human beings into wrongdoing. In their suffering and envy, they want others to share their condition.</p>
 
 ### Communication Among Spirits
 
-<p id="2-6-97" className="verse"><span className="verse-num">2.6.97</span> Spirits communicate through thought. They do not need spoken words.</p>
+<p id="2-6-97" className="verse"><a href="#2-6-97" className="verse-link" aria-label="Link to verse 2.6.97"><span className="verse-num">2.6.97</span></a> Spirits communicate through thought. They do not need spoken words.</p>
 
-<p id="2-6-98" className="verse"><span className="verse-num">2.6.98</span> This exchange happens through the universal fluid, so communication is quick and can reach across great distances, even from one world to another.</p>
+<p id="2-6-98" className="verse"><a href="#2-6-98" className="verse-link" aria-label="Link to verse 2.6.98"><span className="verse-num">2.6.98</span></a> This exchange happens through the universal fluid, so communication is quick and can reach across great distances, even from one world to another.</p>
 
 ### Transparency and Visibility
 
-<p id="2-6-99" className="verse"><span className="verse-num">2.6.99</span> In the spirit world, thought is generally open. Spirits cannot hide from one another as people do on earth.</p>
+<p id="2-6-99" className="verse"><a href="#2-6-99" className="verse-link" aria-label="Link to verse 2.6.99"><span className="verse-num">2.6.99</span></a> In the spirit world, thought is generally open. Spirits cannot hide from one another as people do on earth.</p>
 
-<p id="2-6-100" className="verse"><span className="verse-num">2.6.100</span> They often see one another even from a distance, especially when they are more advanced. Concealment exists, but much less than in bodily life.</p>
+<p id="2-6-100" className="verse"><a href="#2-6-100" className="verse-link" aria-label="Link to verse 2.6.100"><span className="verse-num">2.6.100</span></a> They often see one another even from a distance, especially when they are more advanced. Concealment exists, but much less than in bodily life.</p>
 
 ### Individuality and Recognition
 
-<p id="2-6-101" className="verse"><span className="verse-num">2.6.101</span> After death, the spirit remains an individual being. It does not lose itself in a whole.</p>
+<p id="2-6-101" className="verse"><a href="#2-6-101" className="verse-link" aria-label="Link to verse 2.6.101"><span className="verse-num">2.6.101</span></a> After death, the spirit remains an individual being. It does not lose itself in a whole.</p>
 
-<p id="2-6-102" className="verse"><span className="verse-num">2.6.102</span> Its individuality is preserved by the perispirit, which makes each spirit distinct. Those who knew one another on earth recognize one another again in the spirit world.</p>
+<p id="2-6-102" className="verse"><a href="#2-6-102" className="verse-link" aria-label="Link to verse 2.6.102"><span className="verse-num">2.6.102</span></a> Its individuality is preserved by the perispirit, which makes each spirit distinct. Those who knew one another on earth recognize one another again in the spirit world.</p>
 
 ### The Return to the Spirit World
 
-<p id="2-6-103" className="verse"><span className="verse-num">2.6.103</span> A spirit does not always understand its new condition at once. After leaving the body, it may need some time to free itself from earthly habits.</p>
+<p id="2-6-103" className="verse"><a href="#2-6-103" className="verse-link" aria-label="Link to verse 2.6.103"><span className="verse-num">2.6.103</span></a> A spirit does not always understand its new condition at once. After leaving the body, it may need some time to free itself from earthly habits.</p>
 
-<p id="2-6-104" className="verse"><span className="verse-num">2.6.104</span> Then it returns to the spirit world and is received according to what it is. The good spirit is welcomed with joy; the bad spirit finds only the company that matches its own nature.</p>
+<p id="2-6-104" className="verse"><a href="#2-6-104" className="verse-link" aria-label="Link to verse 2.6.104"><span className="verse-num">2.6.104</span></a> Then it returns to the spirit world and is received according to what it is. The good spirit is welcomed with joy; the bad spirit finds only the company that matches its own nature.</p>
 
 ### The Welcome of Relatives and Friends
 
-<p id="2-6-105" className="verse"><span className="verse-num">2.6.105</span> Relatives and friends who have gone before us may come to meet us after death.</p>
+<p id="2-6-105" className="verse"><a href="#2-6-105" className="verse-link" aria-label="Link to verse 2.6.105"><span className="verse-num">2.6.105</span></a> Relatives and friends who have gone before us may come to meet us after death.</p>
 
-<p id="2-6-106" className="verse"><span className="verse-num">2.6.106</span> For good spirits, this meeting is happy and comforting. They are helped to leave behind the last ties of bodily life. Spirits still stained by wrongdoing do not have the same welcome.</p>
+<p id="2-6-106" className="verse"><a href="#2-6-106" className="verse-link" aria-label="Link to verse 2.6.106"><span className="verse-num">2.6.106</span></a> For good spirits, this meeting is happy and comforting. They are helped to leave behind the last ties of bodily life. Spirits still stained by wrongdoing do not have the same welcome.</p>
 
 ### Reunion After Death
 
-<p id="2-6-107" className="verse"><span className="verse-num">2.6.107</span> Relatives and friends are not always reunited immediately, and they do not always remain together.</p>
+<p id="2-6-107" className="verse"><a href="#2-6-107" className="verse-link" aria-label="Link to verse 2.6.107"><span className="verse-num">2.6.107</span></a> Relatives and friends are not always reunited immediately, and they do not always remain together.</p>
 
-<p id="2-6-108" className="verse"><span className="verse-num">2.6.108</span> Everything depends on their spiritual advancement. They may see one another again, but lasting union belongs to those who have reached harmony in their degree of purification. Love remains, but full reunion depends on progress.</p>
+<p id="2-6-108" className="verse"><a href="#2-6-108" className="verse-link" aria-label="Link to verse 2.6.108"><span className="verse-num">2.6.108</span></a> Everything depends on their spiritual advancement. They may see one another again, but lasting union belongs to those who have reached harmony in their degree of purification. Love remains, but full reunion depends on progress.</p>
 
 ## Sympathies and Antipathies among Spirits. Eternal Halves
 
-<p id="2-6-109" className="verse"><span className="verse-num">2.6.109</span> Spirits feel sympathy and antipathy even more clearly than on earth. Freed from the body, they are less subject to unstable passions. True sympathy comes from likeness in character, feeling, and degree of advancement.</p>
+<p id="2-6-109" className="verse"><a href="#2-6-109" className="verse-link" aria-label="Link to verse 2.6.109"><span className="verse-num">2.6.109</span></a> Spirits feel sympathy and antipathy even more clearly than on earth. Freed from the body, they are less subject to unstable passions. True sympathy comes from likeness in character, feeling, and degree of advancement.</p>
 
-<p id="2-6-110" className="verse"><span className="verse-num">2.6.110</span> Antipathy also remains, especially among imperfect spirits, who may keep their dislikes and even encourage the same feelings in human beings.</p>
+<p id="2-6-110" className="verse"><a href="#2-6-110" className="verse-link" aria-label="Link to verse 2.6.110"><span className="verse-num">2.6.110</span></a> Antipathy also remains, especially among imperfect spirits, who may keep their dislikes and even encourage the same feelings in human beings.</p>
 
 ### Resentment, Forgiveness, and Reunion
 
-<p id="2-6-111" className="verse"><span className="verse-num">2.6.111</span> Those who were enemies on earth do not always remain so after death. Once material interests disappear, many recognize the emptiness of hatred. If no deep moral hostility existed, they may meet again without bitterness.</p>
+<p id="2-6-111" className="verse"><a href="#2-6-111" className="verse-link" aria-label="Link to verse 2.6.111"><span className="verse-num">2.6.111</span></a> Those who were enemies on earth do not always remain so after death. Once material interests disappear, many recognize the emptiness of hatred. If no deep moral hostility existed, they may meet again without bitterness.</p>
 
-<p id="2-6-112" className="verse"><span className="verse-num">2.6.112</span> Still, memories of wrongs can delay reconciliation. Much depends on their moral state. Good spirits forgive sincere repentance. Imperfect spirits may keep resentment longer, sometimes from one life to another, within divine justice.</p>
+<p id="2-6-112" className="verse"><a href="#2-6-112" className="verse-link" aria-label="Link to verse 2.6.112"><span className="verse-num">2.6.112</span></a> Still, memories of wrongs can delay reconciliation. Much depends on their moral state. Good spirits forgive sincere repentance. Imperfect spirits may keep resentment longer, sometimes from one life to another, within divine justice.</p>
 
 ### Lasting Affections among Spirits
 
-<p id="2-6-113" className="verse"><span className="verse-num">2.6.113</span> Affections among spirits last according to their purity. Among elevated spirits, affection is stable because it is free from deception and the changes of material life.</p>
+<p id="2-6-113" className="verse"><a href="#2-6-113" className="verse-link" aria-label="Link to verse 2.6.113"><span className="verse-num">2.6.113</span></a> Affections among spirits last according to their purity. Among elevated spirits, affection is stable because it is free from deception and the changes of material life.</p>
 
-<p id="2-6-114" className="verse"><span className="verse-num">2.6.114</span> Affections formed on earth continue after death when they were based on true spiritual sympathy. If they depended mainly on physical attraction or passing interest, they fade with their cause.</p>
+<p id="2-6-114" className="verse"><a href="#2-6-114" className="verse-link" aria-label="Link to verse 2.6.114"><span className="verse-num">2.6.114</span></a> Affections formed on earth continue after death when they were based on true spiritual sympathy. If they depended mainly on physical attraction or passing interest, they fade with their cause.</p>
 
 ### The Error of “Eternal Halves”
 
-<p id="2-6-115" className="verse"><span className="verse-num">2.6.115</span> The idea that each spirit has one necessary other half is false. No soul was created with one single predestined counterpart.</p>
+<p id="2-6-115" className="verse"><a href="#2-6-115" className="verse-link" aria-label="Link to verse 2.6.115"><span className="verse-num">2.6.115</span></a> The idea that each spirit has one necessary other half is false. No soul was created with one single predestined counterpart.</p>
 
-<p id="2-6-116" className="verse"><span className="verse-num">2.6.116</span> Union among spirits comes from harmony, not from two incomplete beings needing reunion. A spirit is complete in its individuality. Close union comes from similarity in thoughts, feelings, and moral progress.</p>
+<p id="2-6-116" className="verse"><a href="#2-6-116" className="verse-link" aria-label="Link to verse 2.6.116"><span className="verse-num">2.6.116</span></a> Union among spirits comes from harmony, not from two incomplete beings needing reunion. A spirit is complete in its individuality. Close union comes from similarity in thoughts, feelings, and moral progress.</p>
 
-<p id="2-6-117" className="verse"><span className="verse-num">2.6.117</span> So “eternal halves” is only an image for two spirits deeply united by sympathy.</p>
+<p id="2-6-117" className="verse"><a href="#2-6-117" className="verse-link" aria-label="Link to verse 2.6.117"><span className="verse-num">2.6.117</span></a> So “eternal halves” is only an image for two spirits deeply united by sympathy.</p>
 
 ### Progress and Changing Sympathy
 
-<p id="2-6-118" className="verse"><span className="verse-num">2.6.118</span> Spirits who are not in sympathy now may become so later. As a less advanced spirit improves, it can draw nearer to one more advanced, and reunion becomes possible.</p>
+<p id="2-6-118" className="verse"><a href="#2-6-118" className="verse-link" aria-label="Link to verse 2.6.118"><span className="verse-num">2.6.118</span></a> Spirits who are not in sympathy now may become so later. As a less advanced spirit improves, it can draw nearer to one more advanced, and reunion becomes possible.</p>
 
-<p id="2-6-119" className="verse"><span className="verse-num">2.6.119</span> But sympathy can also weaken for a time. If one spirit progresses and another remains behind, their harmony is interrupted.</p>
+<p id="2-6-119" className="verse"><a href="#2-6-119" className="verse-link" aria-label="Link to verse 2.6.119"><span className="verse-num">2.6.119</span></a> But sympathy can also weaken for a time. If one spirit progresses and another remains behind, their harmony is interrupted.</p>
 
-<p id="2-6-120" className="verse"><span className="verse-num">2.6.120</span> What is real is not a fixed pairing of souls, but growing communion among spirits according to their purification.</p>
+<p id="2-6-120" className="verse"><a href="#2-6-120" className="verse-link" aria-label="Link to verse 2.6.120"><span className="verse-num">2.6.120</span></a> What is real is not a fixed pairing of souls, but growing communion among spirits according to their purification.</p>
 
 ## The Remembrance of Corporeal Existence
 
-<p id="2-6-121" className="verse"><span className="verse-num">2.6.121</span> A spirit remembers its bodily lives and, from the clearer view of spirit life, may look back on its past conduct with pity or even a smile.</p>
+<p id="2-6-121" className="verse"><a href="#2-6-121" className="verse-link" aria-label="Link to verse 2.6.121"><span className="verse-num">2.6.121</span></a> A spirit remembers its bodily lives and, from the clearer view of spirit life, may look back on its past conduct with pity or even a smile.</p>
 
-<p id="2-6-122" className="verse"><span className="verse-num">2.6.122</span> This memory does not return all at once after death. It comes back gradually as confusion passes. What matters most for the spirit’s present state stands out most clearly, especially what affected its progress, purification, or suffering. Lesser details often fade, though they may be recovered if useful.</p>
+<p id="2-6-122" className="verse"><a href="#2-6-122" className="verse-link" aria-label="Link to verse 2.6.122"><span className="verse-num">2.6.122</span></a> This memory does not return all at once after death. It comes back gradually as confusion passes. What matters most for the spirit’s present state stands out most clearly, especially what affected its progress, purification, or suffering. Lesser details often fade, though they may be recovered if useful.</p>
 
-<p id="2-6-123" className="verse"><span className="verse-num">2.6.123</span> Earthly life is much better understood from the spirit state. The spirit sees why trials were necessary and how each life helped remove imperfection. The more freed from matter it becomes, the less importance it gives to earthly details. Thus it may forget names and circumstances while remembering clearly the decisive events of moral growth.</p>
+<p id="2-6-123" className="verse"><a href="#2-6-123" className="verse-link" aria-label="Link to verse 2.6.123"><span className="verse-num">2.6.123</span></a> Earthly life is much better understood from the spirit state. The spirit sees why trials were necessary and how each life helped remove imperfection. The more freed from matter it becomes, the less importance it gives to earthly details. Thus it may forget names and circumstances while remembering clearly the decisive events of moral growth.</p>
 
 ### The Body After Death
 
-<p id="2-6-124" className="verse"><span className="verse-num">2.6.124</span> Once separated from the body, the spirit usually sees it as a discarded garment and is glad to be rid of it. As the body decays, the spirit is generally indifferent, since it no longer regards it as part of its real self.</p>
+<p id="2-6-124" className="verse"><a href="#2-6-124" className="verse-link" aria-label="Link to verse 2.6.124"><span className="verse-num">2.6.124</span></a> Once separated from the body, the spirit usually sees it as a discarded garment and is glad to be rid of it. As the body decays, the spirit is generally indifferent, since it no longer regards it as part of its real self.</p>
 
-<p id="2-6-125" className="verse"><span className="verse-num">2.6.125</span> A spirit may later recognize its bones or former possessions, depending on its advancement and attachment to earthly things. What reaches it is not the objects themselves, but the affection and remembrance connected with them.</p>
+<p id="2-6-125" className="verse"><a href="#2-6-125" className="verse-link" aria-label="Link to verse 2.6.125"><span className="verse-num">2.6.125</span></a> A spirit may later recognize its bones or former possessions, depending on its advancement and attachment to earthly things. What reaches it is not the objects themselves, but the affection and remembrance connected with them.</p>
 
 ### Memory of Suffering and Pleasure
 
-<p id="2-6-126" className="verse"><span className="verse-num">2.6.126</span> Spirits often keep the memory of the sufferings of their last bodily life, and this helps them better appreciate the happiness of spirit life.</p>
+<p id="2-6-126" className="verse"><a href="#2-6-126" className="verse-link" aria-label="Link to verse 2.6.126"><span className="verse-num">2.6.126</span></a> Spirits often keep the memory of the sufferings of their last bodily life, and this helps them better appreciate the happiness of spirit life.</p>
 
-<p id="2-6-127" className="verse"><span className="verse-num">2.6.127</span> Earthly pleasures are remembered differently. Lower spirits may regret pleasures tied to imperfection, and these attachments become suffering. More advanced spirits do not regret them, because the happiness of the spirit state is far greater.</p>
+<p id="2-6-127" className="verse"><a href="#2-6-127" className="verse-link" aria-label="Link to verse 2.6.127"><span className="verse-num">2.6.127</span></a> Earthly pleasures are remembered differently. Lower spirits may regret pleasures tied to imperfection, and these attachments become suffering. More advanced spirits do not regret them, because the happiness of the spirit state is far greater.</p>
 
 ### Unfinished Works and Human Activity
 
-<p id="2-6-128" className="verse"><span className="verse-num">2.6.128</span> Spirits who began useful works and died before finishing them do not grieve over what was left undone. They understand that others will continue the work, and they may inspire incarnate spirits to carry it on for the good of humanity.</p>
+<p id="2-6-128" className="verse"><a href="#2-6-128" className="verse-link" aria-label="Link to verse 2.6.128"><span className="verse-num">2.6.128</span></a> Spirits who began useful works and died before finishing them do not grieve over what was left undone. They understand that others will continue the work, and they may inspire incarnate spirits to carry it on for the good of humanity.</p>
 
-<p id="2-6-129" className="verse"><span className="verse-num">2.6.129</span> The same detachment often applies to artistic and literary work. After death, spirits may judge their productions very differently and even disapprove of what they most admired while living. Higher spirits value above all what shows moral and intellectual progress.</p>
+<p id="2-6-129" className="verse"><a href="#2-6-129" className="verse-link" aria-label="Link to verse 2.6.129"><span className="verse-num">2.6.129</span></a> The same detachment often applies to artistic and literary work. After death, spirits may judge their productions very differently and even disapprove of what they most admired while living. Higher spirits value above all what shows moral and intellectual progress.</p>
 
 ### Native Land and Changing Ideas
 
-<p id="2-6-130" className="verse"><span className="verse-num">2.6.130</span> Love of one’s native land changes with spiritual progress. For highly advanced spirits, the true homeland is the universe. On earth, they are drawn chiefly to places where they find sympathetic souls.</p>
+<p id="2-6-130" className="verse"><a href="#2-6-130" className="verse-link" aria-label="Link to verse 2.6.130"><span className="verse-num">2.6.130</span></a> Love of one’s native land changes with spiritual progress. For highly advanced spirits, the true homeland is the universe. On earth, they are drawn chiefly to places where they find sympathetic souls.</p>
 
-<p id="2-6-131" className="verse"><span className="verse-num">2.6.131</span> A spirit’s ideas also change greatly in spirit life. As the influence of matter weakens, former opinions are altered, and clearer sight gradually brings clearer judgment and a stronger desire to improve.</p>
+<p id="2-6-131" className="verse"><a href="#2-6-131" className="verse-link" aria-label="Link to verse 2.6.131"><span className="verse-num">2.6.131</span></a> A spirit’s ideas also change greatly in spirit life. As the influence of matter weakens, former opinions are altered, and clearer sight gradually brings clearer judgment and a stronger desire to improve.</p>
 
 ### Astonishment on Returning to the Spirit World
 
-<p id="2-6-132" className="verse"><span className="verse-num">2.6.132</span> If spirits lived in the spirit world before incarnation, their astonishment on returning belongs mainly to the first moments after death, when they are still confused. As memory returns and earthly impressions fade, they recognize their true condition.</p>
+<p id="2-6-132" className="verse"><a href="#2-6-132" className="verse-link" aria-label="Link to verse 2.6.132"><span className="verse-num">2.6.132</span></a> If spirits lived in the spirit world before incarnation, their astonishment on returning belongs mainly to the first moments after death, when they are still confused. As memory returns and earthly impressions fade, they recognize their true condition.</p>
 
-<p id="2-6-133" className="verse"><span className="verse-num">2.6.133</span> The return to spiritual awareness is usually gradual. Memory, judgment, and clear vision come back little by little, according to the spirit’s degree of advancement.</p>
+<p id="2-6-133" className="verse"><a href="#2-6-133" className="verse-link" aria-label="Link to verse 2.6.133"><span className="verse-num">2.6.133</span></a> The return to spiritual awareness is usually gradual. Memory, judgment, and clear vision come back little by little, according to the spirit’s degree of advancement.</p>
 
 ## The Commemoration of the Dead. Funerals
 
-<p id="2-6-134" className="verse"><span className="verse-num">2.6.134</span> The remembrance of the dead matters more to spirits than people usually think. If a spirit is happy, loving remembrance adds to that happiness. If it is suffering, such remembrance brings relief and comfort. Death does not break real affection. The bond continues through thought.</p>
+<p id="2-6-134" className="verse"><a href="#2-6-134" className="verse-link" aria-label="Link to verse 2.6.134"><span className="verse-num">2.6.134</span></a> The remembrance of the dead matters more to spirits than people usually think. If a spirit is happy, loving remembrance adds to that happiness. If it is suffering, such remembrance brings relief and comfort. Death does not break real affection. The bond continues through thought.</p>
 
 ### Memorial Days and the Call of Thought
 
-<p id="2-6-135" className="verse"><span className="verse-num">2.6.135</span> Days set aside to remember the dead have no special power by themselves. Their value comes from the united thought of many people turned at once toward those who have passed on.</p>
+<p id="2-6-135" className="verse"><a href="#2-6-135" className="verse-link" aria-label="Link to verse 2.6.135"><span className="verse-num">2.6.135</span></a> Days set aside to remember the dead have no special power by themselves. Their value comes from the united thought of many people turned at once toward those who have passed on.</p>
 
-<p id="2-6-136" className="verse"><span className="verse-num">2.6.136</span> On those days, spirits are drawn where they are remembered. They answer the call of affection, not empty custom. They go above all to those who loved them.</p>
+<p id="2-6-136" className="verse"><a href="#2-6-136" className="verse-link" aria-label="Link to verse 2.6.136"><span className="verse-num">2.6.136</span></a> On those days, spirits are drawn where they are remembered. They answer the call of affection, not empty custom. They go above all to those who loved them.</p>
 
 ### Forgotten Graves and Lasting Bonds
 
-<p id="2-6-137" className="verse"><span className="verse-num">2.6.137</span> A neglected grave does not always trouble a spirit. What matters most is not the condition of the tomb, but whether anyone still remembers with love.</p>
+<p id="2-6-137" className="verse"><a href="#2-6-137" className="verse-link" aria-label="Link to verse 2.6.137"><span className="verse-num">2.6.137</span></a> A neglected grave does not always trouble a spirit. What matters most is not the condition of the tomb, but whether anyone still remembers with love.</p>
 
-<p id="2-6-138" className="verse"><span className="verse-num">2.6.138</span> A spirit is not bound to the place where its body was laid. It is reached more surely by sincere thought than by stones and earth.</p>
+<p id="2-6-138" className="verse"><a href="#2-6-138" className="verse-link" aria-label="Link to verse 2.6.138"><span className="verse-num">2.6.138</span></a> A spirit is not bound to the place where its body was laid. It is reached more surely by sincere thought than by stones and earth.</p>
 
 ### Graves, Prayer, and the Value of Remembrance
 
-<p id="2-6-139" className="verse"><span className="verse-num">2.6.139</span> Going to a grave can be meaningful because it shows remembrance. But the place itself gives no special effect.</p>
+<p id="2-6-139" className="verse"><a href="#2-6-139" className="verse-link" aria-label="Link to verse 2.6.139"><span className="verse-num">2.6.139</span></a> Going to a grave can be meaningful because it shows remembrance. But the place itself gives no special effect.</p>
 
-<p id="2-6-140" className="verse"><span className="verse-num">2.6.140</span> A prayer offered at the tomb is no better than one offered elsewhere if the feeling is the same. The real value is in the heart. The grave is a sign, not the source.</p>
+<p id="2-6-140" className="verse"><a href="#2-6-140" className="verse-link" aria-label="Link to verse 2.6.140"><span className="verse-num">2.6.140</span></a> A prayer offered at the tomb is no better than one offered elsewhere if the feeling is the same. The real value is in the heart. The grave is a sign, not the source.</p>
 
 ### Monuments, Honors, and Earthly Vanity
 
-<p id="2-6-141" className="verse"><span className="verse-num">2.6.141</span> Some spirits see the honors paid to their memory, but they are moved far more by true affection than by display. Monuments and ceremonies matter little beside sincere remembrance.</p>
+<p id="2-6-141" className="verse"><a href="#2-6-141" className="verse-link" aria-label="Link to verse 2.6.141"><span className="verse-num">2.6.141</span></a> Some spirits see the honors paid to their memory, but they are moved far more by true affection than by display. Monuments and ceremonies matter little beside sincere remembrance.</p>
 
-<p id="2-6-142" className="verse"><span className="verse-num">2.6.142</span> To insist on burial in one place rather than another usually shows attachment to earthly things. A more advanced spirit knows that one part of the earth is no more important than another. Still, family tombs can have value for the living, because they express family feeling and respect.</p>
+<p id="2-6-142" className="verse"><a href="#2-6-142" className="verse-link" aria-label="Link to verse 2.6.142"><span className="verse-num">2.6.142</span></a> To insist on burial in one place rather than another usually shows attachment to earthly things. A more advanced spirit knows that one part of the earth is no more important than another. Still, family tombs can have value for the living, because they express family feeling and respect.</p>
 
-<p id="2-6-143" className="verse"><span className="verse-num">2.6.143</span> A purified spirit does not care about honors paid to its remains. Yet soon after death, some spirits may still be pleased by such honors or hurt by neglect, because old earthly ideas have not fully faded.</p>
+<p id="2-6-143" className="verse"><a href="#2-6-143" className="verse-link" aria-label="Link to verse 2.6.143"><span className="verse-num">2.6.143</span></a> A purified spirit does not care about honors paid to its remains. Yet soon after death, some spirits may still be pleased by such honors or hurt by neglect, because old earthly ideas have not fully faded.</p>
 
 ### The Burial and the Gathering of Heirs
 
-<p id="2-6-144" className="verse"><span className="verse-num">2.6.144</span> Spirits often witness their own burial, though some do not understand it clearly at first. What touches them most is not the ceremony, but the true feeling of those present.</p>
+<p id="2-6-144" className="verse"><a href="#2-6-144" className="verse-link" aria-label="Link to verse 2.6.144"><span className="verse-num">2.6.144</span></a> Spirits often witness their own burial, though some do not understand it clearly at first. What touches them most is not the ceremony, but the true feeling of those present.</p>
 
-<p id="2-6-145" className="verse"><span className="verse-num">2.6.145</span> They may also be present when heirs gather. Then they can see what became of the affection once shown to them, and whether love was real or mixed with self-interest.</p>
+<p id="2-6-145" className="verse"><a href="#2-6-145" className="verse-link" aria-label="Link to verse 2.6.145"><span className="verse-num">2.6.145</span></a> They may also be present when heirs gather. Then they can see what became of the affection once shown to them, and whether love was real or mixed with self-interest.</p>
 
 ### Respect for the Dead
 
-<p id="2-6-146" className="verse"><span className="verse-num">2.6.146</span> Respect for the dead, found among all peoples, comes from a natural sense that life does not end with the body.</p>
+<p id="2-6-146" className="verse"><a href="#2-6-146" className="verse-link" aria-label="Link to verse 2.6.146"><span className="verse-num">2.6.146</span></a> Respect for the dead, found among all peoples, comes from a natural sense that life does not end with the body.</p>
 
-<p id="2-6-147" className="verse"><span className="verse-num">2.6.147</span> Burial rites, mourning, prayer, remembrance, and care for graves all express this deep feeling: the dead are not lost into nothingness.</p>
+<p id="2-6-147" className="verse"><a href="#2-6-147" className="verse-link" aria-label="Link to verse 2.6.147"><span className="verse-num">2.6.147</span></a> Burial rites, mourning, prayer, remembrance, and care for graves all express this deep feeling: the dead are not lost into nothingness.</p>

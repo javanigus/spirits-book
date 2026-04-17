@@ -5,139 +5,139 @@ sidebar_label: 3.1 God's Laws
 
 ## The Characteristics of Natural Law
 
-<p id="3-1-1" className="verse"><span className="verse-num">3.1.1</span> Natural law is the law of God. It shows what we ought to do and avoid, and true happiness comes from living in harmony with it. When we go against it, we suffer.</p>
+<p id="3-1-1" className="verse"><a href="#3-1-1" className="verse-link" aria-label="Link to verse 3.1.1"><span className="verse-num">3.1.1</span></a> Natural law is the law of God. It shows what we ought to do and avoid, and true happiness comes from living in harmony with it. When we go against it, we suffer.</p>
 
-<p id="3-1-2" className="verse"><span className="verse-num">3.1.2</span> Because God is eternal and unchanging, His law is also eternal and unchanging. Human laws vary with time and place because human beings are limited. Divine law does not.</p>
+<p id="3-1-2" className="verse"><a href="#3-1-2" className="verse-link" aria-label="Link to verse 3.1.2"><span className="verse-num">3.1.2</span></a> Because God is eternal and unchanging, His law is also eternal and unchanging. Human laws vary with time and place because human beings are limited. Divine law does not.</p>
 
-<p id="3-1-3" className="verse"><span className="verse-num">3.1.3</span> It governs both the material world and moral life.</p>
+<p id="3-1-3" className="verse"><a href="#3-1-3" className="verse-link" aria-label="Link to verse 3.1.3"><span className="verse-num">3.1.3</span></a> It governs both the material world and moral life.</p>
 
 ### The Scope of Divine Law
 
-<p id="3-1-4" className="verse"><span className="verse-num">3.1.4</span> Divine law includes every law of nature, since everything comes from God.</p>
+<p id="3-1-4" className="verse"><a href="#3-1-4" className="verse-link" aria-label="Link to verse 3.1.4"><span className="verse-num">3.1.4</span></a> Divine law includes every law of nature, since everything comes from God.</p>
 
-<p id="3-1-5" className="verse"><span className="verse-num">3.1.5</span> Some laws govern matter, movement, and the physical world. Others govern the soul, human conduct, and our duties toward God and other people. It includes both physical and moral order.</p>
+<p id="3-1-5" className="verse"><a href="#3-1-5" className="verse-link" aria-label="Link to verse 3.1.5"><span className="verse-num">3.1.5</span></a> Some laws govern matter, movement, and the physical world. Others govern the soul, human conduct, and our duties toward God and other people. It includes both physical and moral order.</p>
 
 ### Human Progress in Understanding Law
 
-<p id="3-1-6" className="verse"><span className="verse-num">3.1.6</span> Human beings do not grasp divine law all at once. They learn it gradually.</p>
+<p id="3-1-6" className="verse"><a href="#3-1-6" className="verse-link" aria-label="Link to verse 3.1.6"><span className="verse-num">3.1.6</span></a> Human beings do not grasp divine law all at once. They learn it gradually.</p>
 
-<p id="3-1-7" className="verse"><span className="verse-num">3.1.7</span> This is true in science and morality. As people advance, they better understand the laws of nature and the laws of right living.</p>
+<p id="3-1-7" className="verse"><a href="#3-1-7" className="verse-link" aria-label="Link to verse 3.1.7"><span className="verse-num">3.1.7</span></a> This is true in science and morality. As people advance, they better understand the laws of nature and the laws of right living.</p>
 
 ### Divine Laws and Different Worlds
 
-<p id="3-1-8" className="verse"><span className="verse-num">3.1.8</span> Divine law has one source everywhere, but its application fits the condition of each world.</p>
+<p id="3-1-8" className="verse"><a href="#3-1-8" className="verse-link" aria-label="Link to verse 3.1.8"><span className="verse-num">3.1.8</span></a> Divine law has one source everywhere, but its application fits the condition of each world.</p>
 
-<p id="3-1-9" className="verse"><span className="verse-num">3.1.9</span> Worlds and their inhabitants differ in development, so outward conditions are not the same. Yet the same divine order governs them all. Its source remains wise, just, and directed toward the good.</p>
+<p id="3-1-9" className="verse"><a href="#3-1-9" className="verse-link" aria-label="Link to verse 3.1.9"><span className="verse-num">3.1.9</span></a> Worlds and their inhabitants differ in development, so outward conditions are not the same. Yet the same divine order governs them all. Its source remains wise, just, and directed toward the good.</p>
 
 ## The Origin and Knowledge of Natural Law
 
-<p id="3-1-10" className="verse"><span className="verse-num">3.1.10</span> God has given everyone the means to know his law. But people do not understand it equally well. Those who sincerely seek what is right grasp it more clearly, and in time all will come to know it, because that knowledge is necessary for progress.</p>
+<p id="3-1-10" className="verse"><a href="#3-1-10" className="verse-link" aria-label="Link to verse 3.1.10"><span className="verse-num">3.1.10</span></a> God has given everyone the means to know his law. But people do not understand it equally well. Those who sincerely seek what is right grasp it more clearly, and in time all will come to know it, because that knowledge is necessary for progress.</p>
 
-<p id="3-1-11" className="verse"><span className="verse-num">3.1.11</span> This is one reason for repeated incarnations. Across many lives, the spirit grows in intelligence and moral sense, and so learns the law little by little. Before taking on a body, the soul sees God’s law according to its degree of purity. In earthly life, it keeps an inner sense of that law, though matter often clouds it.</p>
+<p id="3-1-11" className="verse"><a href="#3-1-11" className="verse-link" aria-label="Link to verse 3.1.11"><span className="verse-num">3.1.11</span></a> This is one reason for repeated incarnations. Across many lives, the spirit grows in intelligence and moral sense, and so learns the law little by little. Before taking on a body, the soul sees God’s law according to its degree of purity. In earthly life, it keeps an inner sense of that law, though matter often clouds it.</p>
 
-<p id="3-1-12" className="verse"><span className="verse-num">3.1.12</span> God’s law is written in the conscience. It is within us, even if the voice of conscience is often weakened, ignored, or distorted.</p>
+<p id="3-1-12" className="verse"><a href="#3-1-12" className="verse-link" aria-label="Link to verse 3.1.12"><span className="verse-num">3.1.12</span></a> God’s law is written in the conscience. It is within us, even if the voice of conscience is often weakened, ignored, or distorted.</p>
 
 ### The Need for Revelation
 
-<p id="3-1-13" className="verse"><span className="verse-num">3.1.13</span> Since people do not always listen to conscience, they need to be reminded of the law. For that reason, in different ages, certain spirits have received the mission of making it known.</p>
+<p id="3-1-13" className="verse"><a href="#3-1-13" className="verse-link" aria-label="Link to verse 3.1.13"><span className="verse-num">3.1.13</span></a> Since people do not always listen to conscience, they need to be reminded of the law. For that reason, in different ages, certain spirits have received the mission of making it known.</p>
 
-<p id="3-1-14" className="verse"><span className="verse-num">3.1.14</span> They do not invent truth. They restore it, explain it, and call people back to justice when it has been forgotten. But not everyone who claims such a mission truly has it. False pride and error can mislead. A true messenger is known by moral worth as much as by words.</p>
+<p id="3-1-14" className="verse"><a href="#3-1-14" className="verse-link" aria-label="Link to verse 3.1.14"><span className="verse-num">3.1.14</span></a> They do not invent truth. They restore it, explain it, and call people back to justice when it has been forgotten. But not everyone who claims such a mission truly has it. False pride and error can mislead. A true messenger is known by moral worth as much as by words.</p>
 
 ### Natural Law Before Jesus
 
-<p id="3-1-15" className="verse"><span className="verse-num">3.1.15</span> Natural law was known before Jesus. It is written in creation and in the human heart, so thoughtful people in every age could perceive parts of it.</p>
+<p id="3-1-15" className="verse"><a href="#3-1-15" className="verse-link" aria-label="Link to verse 3.1.15"><span className="verse-num">3.1.15</span></a> Natural law was known before Jesus. It is written in creation and in the human heart, so thoughtful people in every age could perceive parts of it.</p>
 
-<p id="3-1-16" className="verse"><span className="verse-num">3.1.16</span> That is why great moral truths have appeared among many peoples, though often mixed with superstition and error. Earlier teachings helped prepare the way for clearer light.</p>
+<p id="3-1-16" className="verse"><a href="#3-1-16" className="verse-link" aria-label="Link to verse 3.1.16"><span className="verse-num">3.1.16</span></a> That is why great moral truths have appeared among many peoples, though often mixed with superstition and error. Earlier teachings helped prepare the way for clearer light.</p>
 
 ### Why Further Teaching Is Given
 
-<p id="3-1-17" className="verse"><span className="verse-num">3.1.17</span> If Jesus taught the law of God, further teaching is still useful because people do not understand everything at once. The law itself does not change, but human understanding develops.</p>
+<p id="3-1-17" className="verse"><a href="#3-1-17" className="verse-link" aria-label="Link to verse 3.1.17"><span className="verse-num">3.1.17</span></a> If Jesus taught the law of God, further teaching is still useful because people do not understand everything at once. The law itself does not change, but human understanding develops.</p>
 
-<p id="3-1-18" className="verse"><span className="verse-num">3.1.18</span> So the same truth must sometimes be explained more clearly and more fully. This helps awaken those who still ignore the law and prevents people from hiding behind ignorance. True teaching appeals to reason; it does not demand blind submission. God’s law is founded on love and charity.</p>
+<p id="3-1-18" className="verse"><a href="#3-1-18" className="verse-link" aria-label="Link to verse 3.1.18"><span className="verse-num">3.1.18</span></a> So the same truth must sometimes be explained more clearly and more fully. This helps awaken those who still ignore the law and prevents people from hiding behind ignorance. True teaching appeals to reason; it does not demand blind submission. God’s law is founded on love and charity.</p>
 
 ### Why Truth Appears Gradually
 
-<p id="3-1-19" className="verse"><span className="verse-num">3.1.19</span> Truth is given according to the time and the readiness of humanity. People receive only what they are able to bear.</p>
+<p id="3-1-19" className="verse"><a href="#3-1-19" className="verse-link" aria-label="Link to verse 3.1.19"><span className="verse-num">3.1.19</span></a> Truth is given according to the time and the readiness of humanity. People receive only what they are able to bear.</p>
 
-<p id="3-1-20" className="verse"><span className="verse-num">3.1.20</span> That is why ancient teachings often came through symbols, images, and partial ideas. Old religions and philosophies may contain real truths, though mixed with uncertainty and mistake. Still, they should not be dismissed, because they often preserve the first seeds of great truths.</p>
+<p id="3-1-20" className="verse"><a href="#3-1-20" className="verse-link" aria-label="Link to verse 3.1.20"><span className="verse-num">3.1.20</span></a> That is why ancient teachings often came through symbols, images, and partial ideas. Old religions and philosophies may contain real truths, though mixed with uncertainty and mistake. Still, they should not be dismissed, because they often preserve the first seeds of great truths.</p>
 
 ### Conscience, Progress, and Moral Awakening
 
-<p id="3-1-21" className="verse"><span className="verse-num">3.1.21</span> Natural law is both within us and taught to us over time. It speaks in conscience, is reflected in nature, and is recalled by enlightened teachers.</p>
+<p id="3-1-21" className="verse"><a href="#3-1-21" className="verse-link" aria-label="Link to verse 3.1.21"><span className="verse-num">3.1.21</span></a> Natural law is both within us and taught to us over time. It speaks in conscience, is reflected in nature, and is recalled by enlightened teachers.</p>
 
-<p id="3-1-22" className="verse"><span className="verse-num">3.1.22</span> Yet people do not understand it all at once. Knowledge grows with moral progress and experience. Some recognize the law sooner because they seek it sincerely. Others resist it for a time. But no one is forever shut off from it. The law remains the same: a law of love, charity, and movement toward the good.</p>
+<p id="3-1-22" className="verse"><a href="#3-1-22" className="verse-link" aria-label="Link to verse 3.1.22"><span className="verse-num">3.1.22</span></a> Yet people do not understand it all at once. Knowledge grows with moral progress and experience. Some recognize the law sooner because they seek it sincerely. Others resist it for a time. But no one is forever shut off from it. The law remains the same: a law of love, charity, and movement toward the good.</p>
 
 ## Good and Evil
 
-<p id="3-1-23" className="verse"><span className="verse-num">3.1.23</span> Morality is the rule of right conduct: to distinguish good from evil.</p>
+<p id="3-1-23" className="verse"><a href="#3-1-23" className="verse-link" aria-label="Link to verse 3.1.23"><span className="verse-num">3.1.23</span></a> Morality is the rule of right conduct: to distinguish good from evil.</p>
 
-<p id="3-1-24" className="verse"><span className="verse-num">3.1.24</span> Its basis is obedience to God’s law. A person acts rightly when working for the good of all.</p>
+<p id="3-1-24" className="verse"><a href="#3-1-24" className="verse-link" aria-label="Link to verse 3.1.24"><span className="verse-num">3.1.24</span></a> Its basis is obedience to God’s law. A person acts rightly when working for the good of all.</p>
 
 ### Good and Evil
 
-<p id="3-1-25" className="verse"><span className="verse-num">3.1.25</span> Good agrees with God’s law, and evil goes against it.</p>
+<p id="3-1-25" className="verse"><a href="#3-1-25" className="verse-link" aria-label="Link to verse 3.1.25"><span className="verse-num">3.1.25</span></a> Good agrees with God’s law, and evil goes against it.</p>
 
-<p id="3-1-26" className="verse"><span className="verse-num">3.1.26</span> Human beings have within themselves the means to discern this if they sincerely seek what is right and turn toward God. Intelligence was given for this purpose, though self-interest and passion can darken judgment. A sure rule remains: do unto others what you would want them to do unto you.</p>
+<p id="3-1-26" className="verse"><a href="#3-1-26" className="verse-link" aria-label="Link to verse 3.1.26"><span className="verse-num">3.1.26</span></a> Human beings have within themselves the means to discern this if they sincerely seek what is right and turn toward God. Intelligence was given for this purpose, though self-interest and passion can darken judgment. A sure rule remains: do unto others what you would want them to do unto you.</p>
 
 ### Natural Law and the Measure of Need
 
-<p id="3-1-27" className="verse"><span className="verse-num">3.1.27</span> Natural law also governs how a person treats self. It sets a limit to needs, and when that limit is exceeded, suffering follows.</p>
+<p id="3-1-27" className="verse"><a href="#3-1-27" className="verse-link" aria-label="Link to verse 3.1.27"><span className="verse-num">3.1.27</span></a> Natural law also governs how a person treats self. It sets a limit to needs, and when that limit is exceeded, suffering follows.</p>
 
-<p id="3-1-28" className="verse"><span className="verse-num">3.1.28</span> Much human suffering comes from ignoring the inward warning that says, enough. Many troubles blamed on nature would be avoided if people listened to that voice.</p>
+<p id="3-1-28" className="verse"><a href="#3-1-28" className="verse-link" aria-label="Link to verse 3.1.28"><span className="verse-num">3.1.28</span></a> Much human suffering comes from ignoring the inward warning that says, enough. Many troubles blamed on nature would be avoided if people listened to that voice.</p>
 
 ### Why Moral Evil Exists
 
-<p id="3-1-29" className="verse"><span className="verse-num">3.1.29</span> Moral evil does not exist because human beings were made unable to do good. Spirits are created simple and ignorant, and they grow through freedom and experience.</p>
+<p id="3-1-29" className="verse"><a href="#3-1-29" className="verse-link" aria-label="Link to verse 3.1.29"><span className="verse-num">3.1.29</span></a> Moral evil does not exist because human beings were made unable to do good. Spirits are created simple and ignorant, and they grow through freedom and experience.</p>
 
-<p id="3-1-30" className="verse"><span className="verse-num">3.1.30</span> Each person must choose a path. If the wrong path is taken, the journey becomes longer and more painful. Without struggle, there would be no true learning in effort, resistance, and victory.</p>
+<p id="3-1-30" className="verse"><a href="#3-1-30" className="verse-link" aria-label="Link to verse 3.1.30"><span className="verse-num">3.1.30</span></a> Each person must choose a path. If the wrong path is taken, the journey becomes longer and more painful. Without struggle, there would be no true learning in effort, resistance, and victory.</p>
 
 ### One Law, Different Conditions
 
-<p id="3-1-31" className="verse"><span className="verse-num">3.1.31</span> Human lives differ by place, time, social position, and circumstance. These create different conditions and needs.</p>
+<p id="3-1-31" className="verse"><a href="#3-1-31" className="verse-link" aria-label="Link to verse 3.1.31"><span className="verse-num">3.1.31</span></a> Human lives differ by place, time, social position, and circumstance. These create different conditions and needs.</p>
 
-<p id="3-1-32" className="verse"><span className="verse-num">3.1.32</span> But natural law remains one in principle and applies to all. What is necessary may vary, yet the moral law governing the use of those necessities does not change. We must distinguish real needs from false or conventional ones.</p>
+<p id="3-1-32" className="verse"><a href="#3-1-32" className="verse-link" aria-label="Link to verse 3.1.32"><span className="verse-num">3.1.32</span></a> But natural law remains one in principle and applies to all. What is necessary may vary, yet the moral law governing the use of those necessities does not change. We must distinguish real needs from false or conventional ones.</p>
 
 ### The Absoluteness of Good and Evil and the Relativity of Responsibility
 
-<p id="3-1-33" className="verse"><span className="verse-num">3.1.33</span> Good is always good, and evil is always evil, whatever a person’s rank, culture, or condition.</p>
+<p id="3-1-33" className="verse"><a href="#3-1-33" className="verse-link" aria-label="Link to verse 3.1.33"><span className="verse-num">3.1.33</span></a> Good is always good, and evil is always evil, whatever a person’s rank, culture, or condition.</p>
 
-<p id="3-1-34" className="verse"><span className="verse-num">3.1.34</span> What changes is responsibility. The more clearly a person knows what should be done, the greater the guilt in doing otherwise. Circumstances can lessen blame, but they do not change right into wrong. As the soul grows and understands more, accountability also grows.</p>
+<p id="3-1-34" className="verse"><a href="#3-1-34" className="verse-link" aria-label="Link to verse 3.1.34"><span className="verse-num">3.1.34</span></a> What changes is responsibility. The more clearly a person knows what should be done, the greater the guilt in doing otherwise. Circumstances can lessen blame, but they do not change right into wrong. As the soul grows and understands more, accountability also grows.</p>
 
 ### Shared Responsibility for Evil
 
-<p id="3-1-35" className="verse"><span className="verse-num">3.1.35</span> Responsibility does not belong only to the one who directly commits a wrong.</p>
+<p id="3-1-35" className="verse"><a href="#3-1-35" className="verse-link" aria-label="Link to verse 3.1.35"><span className="verse-num">3.1.35</span></a> Responsibility does not belong only to the one who directly commits a wrong.</p>
 
-<p id="3-1-36" className="verse"><span className="verse-num">3.1.36</span> Anyone who leads another into evil shares in it. The same is true of those who profit from evil without doing it themselves. To accept its fruits is to take part in it.</p>
+<p id="3-1-36" className="verse"><a href="#3-1-36" className="verse-link" aria-label="Link to verse 3.1.36"><span className="verse-num">3.1.36</span></a> Anyone who leads another into evil shares in it. The same is true of those who profit from evil without doing it themselves. To accept its fruits is to take part in it.</p>
 
 ### Desire, Resistance, and Omission
 
-<p id="3-1-37" className="verse"><span className="verse-num">3.1.37</span> The mere desire for evil is not judged the same way in every case.</p>
+<p id="3-1-37" className="verse"><a href="#3-1-37" className="verse-link" aria-label="Link to verse 3.1.37"><span className="verse-num">3.1.37</span></a> The mere desire for evil is not judged the same way in every case.</p>
 
-<p id="3-1-38" className="verse"><span className="verse-num">3.1.38</span> If a person truly resists a wrongful desire, that struggle has moral worth. But if the desire remains only because there was no opportunity to act, guilt is still present, because the will had already agreed.</p>
+<p id="3-1-38" className="verse"><a href="#3-1-38" className="verse-link" aria-label="Link to verse 3.1.38"><span className="verse-num">3.1.38</span></a> If a person truly resists a wrongful desire, that struggle has moral worth. But if the desire remains only because there was no opportunity to act, guilt is still present, because the will had already agreed.</p>
 
-<p id="3-1-39" className="verse"><span className="verse-num">3.1.39</span> It is also not enough simply to avoid doing wrong. Each person must do good as far as possible. Human beings answer not only for the evil they do, but also for the good they fail to do.</p>
+<p id="3-1-39" className="verse"><a href="#3-1-39" className="verse-link" aria-label="Link to verse 3.1.39"><span className="verse-num">3.1.39</span></a> It is also not enough simply to avoid doing wrong. Each person must do good as far as possible. Human beings answer not only for the evil they do, but also for the good they fail to do.</p>
 
 ### Vice, Temptation, and Moral Strength
 
-<p id="3-1-40" className="verse"><span className="verse-num">3.1.40</span> Bad surroundings do have influence. Many are drawn into vice and crime by the atmosphere around them.</p>
+<p id="3-1-40" className="verse"><a href="#3-1-40" className="verse-link" aria-label="Link to verse 3.1.40"><span className="verse-num">3.1.40</span></a> Bad surroundings do have influence. Many are drawn into vice and crime by the atmosphere around them.</p>
 
-<p id="3-1-41" className="verse"><span className="verse-num">3.1.41</span> Still, that influence is never irresistible. Temptation may be strong, but freedom remains. Hard conditions can become a trial in which resistance gains merit, and some spirits may even have chosen such a test before earthly life.</p>
+<p id="3-1-41" className="verse"><a href="#3-1-41" className="verse-link" aria-label="Link to verse 3.1.41"><span className="verse-num">3.1.41</span></a> Still, that influence is never irresistible. Temptation may be strong, but freedom remains. Hard conditions can become a trial in which resistance gains merit, and some spirits may even have chosen such a test before earthly life.</p>
 
 ### Degrees of Merit in Doing Good
 
-<p id="3-1-42" className="verse"><span className="verse-num">3.1.42</span> Not every good deed has the same moral value.</p>
+<p id="3-1-42" className="verse"><a href="#3-1-42" className="verse-link" aria-label="Link to verse 3.1.42"><span className="verse-num">3.1.42</span></a> Not every good deed has the same moral value.</p>
 
-<p id="3-1-43" className="verse"><span className="verse-num">3.1.43</span> Its merit depends largely on the difficulty, sacrifice, and self-denial involved. When doing good costs nothing, its merit is smaller; when it requires courage or personal loss, it is greater.</p>
+<p id="3-1-43" className="verse"><a href="#3-1-43" className="verse-link" aria-label="Link to verse 3.1.43"><span className="verse-num">3.1.43</span></a> Its merit depends largely on the difficulty, sacrifice, and self-denial involved. When doing good costs nothing, its merit is smaller; when it requires courage or personal loss, it is greater.</p>
 
-<p id="3-1-44" className="verse"><span className="verse-num">3.1.44</span> What matters most is not the size of the gift, but the sincerity, effort, and love behind it. God weighs the heart.</p>
+<p id="3-1-44" className="verse"><a href="#3-1-44" className="verse-link" aria-label="Link to verse 3.1.44"><span className="verse-num">3.1.44</span></a> What matters most is not the size of the gift, but the sincerity, effort, and love behind it. God weighs the heart.</p>
 
 ## The Divisions of Natural Law
 
-<p id="3-1-45" className="verse"><span className="verse-num">3.1.45</span> Natural law covers the whole of life.</p>
+<p id="3-1-45" className="verse"><a href="#3-1-45" className="verse-link" aria-label="Link to verse 3.1.45"><span className="verse-num">3.1.45</span></a> Natural law covers the whole of life.</p>
 
-<p id="3-1-46" className="verse"><span className="verse-num">3.1.46</span> The rule of loving our neighbor includes our duties toward other people, but it is useful to separate these duties into parts for clearer understanding.</p>
+<p id="3-1-46" className="verse"><a href="#3-1-46" className="verse-link" aria-label="Link to verse 3.1.46"><span className="verse-num">3.1.46</span></a> The rule of loving our neighbor includes our duties toward other people, but it is useful to separate these duties into parts for clearer understanding.</p>
 
-<p id="3-1-47" className="verse"><span className="verse-num">3.1.47</span> Natural law can be divided into ten parts: </p>
+<p id="3-1-47" className="verse"><a href="#3-1-47" className="verse-link" aria-label="Link to verse 3.1.47"><span className="verse-num">3.1.47</span></a> Natural law can be divided into ten parts: </p>
 
 1. Worship  
 2. Labor  
@@ -150,6 +150,6 @@ sidebar_label: 3.1 God's Laws
 9. Liberty  
 10. Justice, Love, and Charity
 
-<p id="3-1-48" className="verse"><span className="verse-num">3.1.48</span> This division is useful, but not rigid. The law is one, even if arranged in different ways.</p>
+<p id="3-1-48" className="verse"><a href="#3-1-48" className="verse-link" aria-label="Link to verse 3.1.48"><span className="verse-num">3.1.48</span></a> This division is useful, but not rigid. The law is one, even if arranged in different ways.</p>
 
-<p id="3-1-49" className="verse"><span className="verse-num">3.1.49</span> Of all these parts, the law of justice, love, and charity is the most important, because it completes the others.</p>
+<p id="3-1-49" className="verse"><a href="#3-1-49" className="verse-link" aria-label="Link to verse 3.1.49"><span className="verse-num">3.1.49</span></a> Of all these parts, the law of justice, love, and charity is the most important, because it completes the others.</p>
