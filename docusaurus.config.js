@@ -6,6 +6,9 @@ const config = {
   title: 'Life, Death, and Beyond - Based on Conversations with Spirits',
   tagline: "A modern presentation of The Spirits' Book",
   favicon: 'img/favicon.ico',
+  stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap',
+  ],
 
   future: {
     v4: {
@@ -55,6 +58,16 @@ const config = {
         id: 'indonesian',
         path: 'indonesian',
         routeBasePath: 'indonesian',
+        sidebarPath: require.resolve('./sidebarsSimplified.js'),
+        editUrl: undefined,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'arabic',
+        path: 'arabic',
+        routeBasePath: 'arabic',
         sidebarPath: require.resolve('./sidebarsSimplified.js'),
         editUrl: undefined,
       },

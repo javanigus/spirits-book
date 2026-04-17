@@ -137,3 +137,49 @@
   background: rgba(255, 255, 255, 0.04);
   border-radius: 6px;
 }
+
+/* Arabic docs pages only (non-i18n setup) */
+html.plugin-id-arabic .theme-doc-markdown,
+html.plugin-id-arabic .markdown {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Sidebar on Arabic docs */
+html.plugin-id-arabic .theme-doc-sidebar-container,
+html.plugin-id-arabic .menu {
+  direction: rtl;
+  text-align: right;
+}
+
+/* TOC on Arabic docs */
+html.plugin-id-arabic .table-of-contents {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Verse blocks in Arabic docs */
+html.plugin-id-arabic .verse {
+  padding-right: 3.75rem;
+  padding-left: 0.75rem;
+  text-align: right;
+}
+
+html.plugin-id-arabic .verse-num,
+html.plugin-id-arabic .verse-link {
+  left: auto;
+  right: 0.75rem;
+}
+
+/* Keep code blocks left-to-right */
+html.plugin-id-arabic code,
+html.plugin-id-arabic pre,
+html.plugin-id-arabic .prism-code {
+  direction: ltr;
+  text-align: left;
+}
+
+/* Arabic font only on Arabic docs */
+html.plugin-id-arabic body {
+  font-family: "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif;
+}
