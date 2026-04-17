@@ -3,6 +3,10 @@ title: 3.12 النمو الأخلاقي
 sidebar_label: 3.12 النمو الأخلاقي
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## الفضائل والرذائل
 
 <p id="3-12-1" className="verse"><a href="#3-12-1" className="verse-link" aria-label="Link to verse 3.12.1"><span className="verse-num">3.12.1</span></a> تظهر الفضيلة التحرك نحو الخير.</p>

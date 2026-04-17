@@ -3,6 +3,10 @@ title: 1.4 Prinsip Hidup
 sidebar_label: 1.4 Prinsip Hidup
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Makhluk Organik dan Anorganik
 
 <p id="1-4-1" className="verse"><a href="#1-4-1" className="verse-link" aria-label="Link to verse 1.4.1"><span className="verse-num">1.4.1</span></a> Makhluk organik adalah mereka yang memiliki kehidupan. Mereka dilahirkan, tumbuh, berkembang biak, dan mati. Manusia, hewan, dan tumbuhan termasuk dalam kelas ini. Makhluk anorganik tidak memiliki kehidupannya sendiri. Mereka hanyalah materi, seperti mineral, air, dan udara.</p>

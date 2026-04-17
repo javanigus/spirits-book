@@ -3,6 +3,10 @@ title: 3.8 Kemajuan Manusia
 sidebar_label: 3.8 Kemajuan Manusia
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Keadaan Alam
 
 <p id="3-8-1" className="verse"><a href="#3-8-1" className="verse-link" aria-label="Link to verse 3.8.1"><span className="verse-num">3.8.1</span></a> Keadaan alam tidak sama dengan hukum alam.</p>

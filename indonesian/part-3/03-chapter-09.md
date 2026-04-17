@@ -3,6 +3,10 @@ title: 3.9 Kesetaraan Antar Manusia
 sidebar_label: 3.9 Kesetaraan Antar Manusia
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Kesetaraan Alami
 
 <p id="3-9-1" className="verse"><a href="#3-9-1" className="verse-link" aria-label="Link to verse 3.9.1"><span className="verse-num">3.9.1</span></a> Semua manusia sama di hadapan Tuhan.</p>

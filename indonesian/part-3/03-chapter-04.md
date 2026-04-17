@@ -3,6 +3,10 @@ title: 3.4 Reproduksi dan Kelangsungan Hidup
 sidebar_label: 3.4 Reproduksi dan Kelangsungan Hidup
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Populasi Global
 
 <p id="3-4-1" className="verse"><a href="#3-4-1" className="verse-link" aria-label="Link to verse 3.4.1"><span className="verse-num">3.4.1</span></a> Reproduksi adalah hukum alam.</p>

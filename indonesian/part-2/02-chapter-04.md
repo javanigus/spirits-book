@@ -3,6 +3,10 @@ title: "2.4 Reinkarnasi: Banyak Kehidupan"
 sidebar_label: "2.4 Reinkarnasi: Banyak Kehidupan"
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Reinkarnasi
 
 <p id="2-4-1" className="verse"><a href="#2-4-1" className="verse-link" aria-label="Link to verse 2.4.1"><span className="verse-num">2.4.1</span></a> Ketika jiwa tidak mencapai kesempurnaan dalam satu kehidupan duniawi, ia melanjutkan pertumbuhannya melalui kehidupan baru.</p>

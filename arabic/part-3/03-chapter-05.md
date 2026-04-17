@@ -3,6 +3,10 @@ title: 3.5 غريزة البقاء
 sidebar_label: 3.5 غريزة البقاء
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## غريزة الحفاظ على الذات
 
 <p id="3-5-1" className="verse"><a href="#3-5-1" className="verse-link" aria-label="Link to verse 3.5.1"><span className="verse-num">3.5.1</span></a> غريزة الحفاظ على الذات هي قانون الطبيعة.</p>

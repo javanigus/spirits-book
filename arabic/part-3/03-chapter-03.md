@@ -3,6 +3,10 @@ title: 3.3 العمل والجهد
 sidebar_label: 3.3 العمل والجهد
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## ضرورة العمل
 
 <p id="3-3-1" className="verse"><a href="#3-3-1" className="verse-link" aria-label="Link to verse 3.3.1"><span className="verse-num">3.3.1</span></a> العمل هو قانون الطبيعة. إنها ليست مجرد قاعدة إنسانية أو نتيجة للحاجة. إنه ينتمي إلى الحياة نفسها.</p>

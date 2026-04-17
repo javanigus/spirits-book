@@ -3,6 +3,10 @@ title: 3.7 Kehidupan dalam Masyarakat
 sidebar_label: 3.7 Kehidupan dalam Masyarakat
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Kebutuhan Kehidupan Masyarakat
 
 <p id="3-7-1" className="verse"><a href="#3-7-1" className="verse-link" aria-label="Link to verse 3.7.1"><span className="verse-num">3.7.1</span></a> Manusia diciptakan untuk hidup bersama.</p>

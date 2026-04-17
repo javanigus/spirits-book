@@ -3,6 +3,10 @@ title: 2.1 Apa itu Roh-roh
 sidebar_label: 2.1 Apa itu Roh-roh
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Asal Usul dan Sifat Roh-roh
 
 <p id="2-1-1" className="verse"><a href="#2-1-1" className="verse-link" aria-label="Link to verse 2.1.1"><span className="verse-num">2.1.1</span></a> Roh-roh adalah makhluk ciptaan yang cerdas.</p>

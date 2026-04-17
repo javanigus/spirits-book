@@ -3,6 +3,10 @@ title: 1.4 مبدأ الحياة
 sidebar_label: 1.4 مبدأ الحياة
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## الكائنات العضوية وغير العضوية
 
 <p id="1-4-1" className="verse"><a href="#1-4-1" className="verse-link" aria-label="Link to verse 1.4.1"><span className="verse-num">1.4.1</span></a> الكائنات العضوية هي تلك التي لها الحياة. يولدون وينموون ويتكاثرون ويموتون. وينتمي الإنسان والحيوانات والنباتات إلى هذه الفئة. الكائنات غير العضوية ليس لها حياة خاصة بها. فهي مادة فقط، مثل المعادن والماء والهواء.</p>

@@ -3,6 +3,10 @@ title: 2.11 المادة والحياة وروح
 sidebar_label: 2.11 المادة والحياة وروح
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## المعادن والنباتات
 
 <p id="2-11-1" className="verse"><a href="#2-11-1" className="verse-link" aria-label="Link to verse 2.11.1"><span className="verse-num">2.11.1</span></a> يمكن النظر إلى الطبيعة مادياً أو معنوياً. ماديا، الكائنات عضوية أو غير عضوية. المعادن مادة خاملة لها قوة ميكانيكية فقط. تتشكل النباتات من مادة خاملة ولكنها تمتلك الحياة. وللحيوانات أيضًا حياة، بغريزة وذكاء محدود. فالإنسان يحتوي على ما هو موجود في النبات والحيوان، ولكنه يسمو فوقهما بذكاء خاص غير محدود.</p>

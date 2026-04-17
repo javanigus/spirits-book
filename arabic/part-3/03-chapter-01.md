@@ -3,6 +3,10 @@ title: 3.1 قوانين الله
 sidebar_label: 3.1 قوانين الله
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## خصائص القانون الطبيعي
 
 <p id="3-1-1" className="verse"><a href="#3-1-1" className="verse-link" aria-label="Link to verse 3.1.1"><span className="verse-num">3.1.1</span></a> القانون الطبيعي هو قانون الله. إنه يوضح ما يجب علينا فعله وما يجب علينا تجنبه، والسعادة الحقيقية تأتي من العيش في وئام معها. وعندما نعارضه، فإننا نعاني.</p>

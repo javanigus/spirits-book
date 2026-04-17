@@ -3,6 +3,10 @@ title: 2.5 لماذا نعيش حياة كثيرة
 sidebar_label: 2.5 لماذا نعيش حياة كثيرة
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## حياة متعددة
 
 <p id="2-5-1" className="verse"><a href="#2-5-1" className="verse-link" aria-label="Link to verse 2.5.1"><span className="verse-num">2.5.1</span></a> إن فكرة وجود أكثر من حياة على الأرض هي فكرة قديمة، على الرغم من أن عمرها لا يثبت شيئًا في حد ذاته. ومع ذلك، فإن استمرارها يشير إلى أنها تجيب على شيء عميق في العقل البشري.</p>

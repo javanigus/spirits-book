@@ -3,6 +3,10 @@ title: 3.3 Kerja dan Usaha
 sidebar_label: 3.3 Kerja dan Usaha
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Perlunya Tenaga Kerja
 
 <p id="3-3-1" className="verse"><a href="#3-3-1" className="verse-link" aria-label="Link to verse 3.3.1"><span className="verse-num">3.3.1</span></a> Buruh adalah hukum alam. Ini bukan sekadar aturan manusia atau akibat kebutuhan. Itu milik kehidupan itu sendiri.</p>

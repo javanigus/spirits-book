@@ -3,6 +3,10 @@ title: 4.1 Suka dan Duka dalam Kehidupan Duniawi
 sidebar_label: 4.1 Suka dan Duka dalam Kehidupan Duniawi
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Kebahagiaan dan Ketidakbahagiaan Relatif
 
 <p id="4-1-1" className="verse"><a href="#4-1-1" className="verse-link" aria-label="Link to verse 4.1.1"><span className="verse-num">4.1.1</span></a> Kebahagiaan sempurna tidak ditemukan di bumi. Kehidupan di dalam tubuh adalah masa percobaan dan perbaikan, sehingga kepuasan penuh tidak dapat diharapkan.</p>

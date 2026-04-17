@@ -3,6 +3,10 @@ title: 2.9 Bagaimana Roh-roh Mempengaruhi Kehidupan Kita
 sidebar_label: 2.9 Bagaimana Roh-roh Mempengaruhi Kehidupan Kita
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Pembacaan Pikiran Kami oleh Roh-roh
 
 <p id="2-9-1" className="verse"><a href="#2-9-1" className="verse-link" aria-label="Link to verse 2.9.1"><span className="verse-num">2.9.1</span></a> Roh-roh tidak mengamati semua yang kita lakukan setiap saat. Mereka menaruh perhatian terutama pada hal-hal yang menjadi perhatian mereka.</p>

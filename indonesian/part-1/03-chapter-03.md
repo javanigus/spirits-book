@@ -3,6 +3,10 @@ title: 1.3 Penciptaan
 sidebar_label: 1.3 Penciptaan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Pembentukan Dunia
 
 <p id="1-3-1" className="verse"><a href="#1-3-1" className="verse-link" aria-label="Link to verse 1.3.1"><span className="verse-num">1.3.1</span></a> Alam semesta mencakup dunia yang tak terhitung jumlahnya, bersama dengan semua makhluk hidup, bintang, dan materi halus yang tersebar di ruang angkasa. Hal ini tidak terjadi dengan sendirinya, dan hal ini bukan merupakan hasil kebetulan. Itu adalah pekerjaan Tuhan.</p>

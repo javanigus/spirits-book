@@ -3,6 +3,10 @@ title: "2.4 التناسخ: حياة متعددة"
 sidebar_label: "2.4 التناسخ: حياة متعددة"
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## التناسخ
 
 <p id="2-4-1" className="verse"><a href="#2-4-1" className="verse-link" aria-label="Link to verse 2.4.1"><span className="verse-num">2.4.1</span></a> عندما لا يصل نفس إلى الكمال في حياة أرضية واحدة، فإنه يواصل نموه من خلال حياة جديدة.</p>

@@ -3,6 +3,10 @@ title: 1.2 Elemen Dasar Alam Semesta
 sidebar_label: 1.2 Elemen Dasar Alam Semesta
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Pengetahuan tentang Asal Usul Segala Sesuatu
 
 <p id="1-2-1" className="verse"><a href="#1-2-1" className="verse-link" aria-label="Link to verse 1.2.1"><span className="verse-num">1.2.1</span></a> Selama hidup di bumi, manusia tidak dapat mengetahui segala sesuatu tentang asal usul segala sesuatu.</p>

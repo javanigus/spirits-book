@@ -3,6 +3,10 @@ title: 2.6 روح الحياة
 sidebar_label: 2.6 روح الحياة
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## خطأ أرواح
 
 <p id="2-6-1" className="verse"><a href="#2-6-1" className="verse-link" aria-label="Link to verse 2.6.1"><span className="verse-num">2.6.1</span></a> بعد الموت، لا يعود روح دائمًا إلى حياة جسدية جديدة مرة واحدة. غالبًا ما تكون هناك فترة بين التجسد والآخر. في هذه الحالة، يُطلق على نفس اسم روح الضال.</p>

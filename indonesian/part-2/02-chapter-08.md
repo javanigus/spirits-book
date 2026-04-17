@@ -3,6 +3,10 @@ title: 2.8 Jiwa Melampaui Tubuh
 sidebar_label: 2.8 Jiwa Melampaui Tubuh
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Tidur dan Mimpi
 
 <p id="2-8-1" className="verse"><a href="#2-8-1" className="verse-link" aria-label="Link to verse 2.8.1"><span className="verse-num">2.8.1</span></a> roh tidak berada di dalam tubuh karena pilihan bebasnya sendiri. Saat terjaga, ikatan tersebut terikat pada tubuh, namun saat tidur, ikatan tersebut mengendur. Saat tubuh beristirahat, roh tetap aktif, bergerak lebih leluasa, dan lebih banyak bersentuhan langsung dengan roh lainnya.</p>

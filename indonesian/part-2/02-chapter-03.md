@@ -3,6 +3,10 @@ title: 2.3 Kehidupan Setelah Kematian
 sidebar_label: 2.3 Kehidupan Setelah Kematian
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Jiwa setelah Kematian
 
 <p id="2-3-1" className="verse"><a href="#2-3-1" className="verse-link" aria-label="Link to verse 2.3.1"><span className="verse-num">2.3.1</span></a> Pada saat kematian, jiwa menjadi roh lagi dan kembali ke dunia roh yang telah ditinggalkannya sementara selama kehidupan di bumi.</p>

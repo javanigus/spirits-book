@@ -3,6 +3,10 @@ title: 2.7 العودة إلى الحياة الأرضية
 sidebar_label: 2.7 العودة إلى الحياة الأرضية
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## مقدمات العودة
 
 <p id="2-7-1" className="verse"><a href="#2-7-1" className="verse-link" aria-label="Link to verse 2.7.1"><span className="verse-num">2.7.1</span></a> تشعر الأرواح عمومًا عندما يقترب التناسخ، وإن لم تعرف دائمًا اللحظة الدقيقة. فهي تدرك أن الأمر حتمي ولا مفر منه. ولا يفهم الجميع ذلك بالقدر نفسه؛ فالأرواح الأقل تقدمًا قد تعرف القليل فقط، وقد يكون عدم اليقين نفسه نوعًا من العقاب.</p>

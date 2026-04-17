@@ -3,6 +3,10 @@ title: 2.11 Materi, Kehidupan, dan Roh
 sidebar_label: 2.11 Materi, Kehidupan, dan Roh
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Mineral dan Tumbuhan
 
 <p id="2-11-1" className="verse"><a href="#2-11-1" className="verse-link" aria-label="Link to verse 2.11.1"><span className="verse-num">2.11.1</span></a> Alam dapat dilihat secara material atau moral. Secara material, makhluk bersifat organik atau anorganik. Mineral adalah materi inert yang hanya memiliki kekuatan mekanis. Tumbuhan terbentuk dari materi inert tetapi memiliki kehidupan. Hewan juga mempunyai kehidupan, dengan naluri dan kecerdasan yang terbatas. Manusia memiliki apa yang terdapat pada tumbuhan dan hewan, namun melampaui keduanya melalui kecerdasan khusus dan tak terbatas.</p>

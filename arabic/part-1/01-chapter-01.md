@@ -3,6 +3,10 @@ title: 1.1 الله
 sidebar_label: 1.1 الله
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## الله واللامتناهي
 
 <p id="1-1-1" className="verse"><a href="#1-1-1" className="verse-link" aria-label="Link to verse 1.1.1"><span className="verse-num">1.1.1</span></a> الله هو الذكاء الأسمى، السبب الأول لكل شيء.</p>

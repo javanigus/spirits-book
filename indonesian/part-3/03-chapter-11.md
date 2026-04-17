@@ -3,6 +3,10 @@ title: 3.11 Keadilan, Cinta dan Kasih
 sidebar_label: 3.11 Keadilan, Cinta dan Kasih
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Keadilan dan Hak Alam
 
 <p id="3-11-1" className="verse"><a href="#3-11-1" className="verse-link" aria-label="Link to verse 3.11.1"><span className="verse-num">3.11.1</span></a> Rasa keadilan merupakan hal yang wajar dalam diri manusia. Pendidikan bisa mengembangkannya, tapi tidak menciptakannya. Bahkan orang sederhana pun terkadang menilai lebih adil dibandingkan orang yang lebih terpelajar.</p>

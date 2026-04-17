@@ -3,6 +3,10 @@ title: 2.6 Roh Kehidupan
 sidebar_label: 2.6 Roh Kehidupan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Roh-roh yang salah
 
 <p id="2-6-1" className="verse"><a href="#2-6-1" className="verse-link" aria-label="Link to verse 2.6.1"><span className="verse-num">2.6.1</span></a> Setelah mati, seorang roh tidak selalu langsung kembali ke kehidupan jasmani yang baru. Seringkali ada periode antara satu inkarnasi dan inkarnasi berikutnya. Dalam kondisi itu, jiwa disebut dengan roh yang melenceng.</p>

@@ -3,6 +3,10 @@ title: 3.10 Kebebasan Memilih
 sidebar_label: 3.10 Kebebasan Memilih
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Kebebasan Alami
 
 <p id="3-10-1" className="verse"><a href="#3-10-1" className="verse-link" aria-label="Link to verse 3.10.1"><span className="verse-num">3.10.1</span></a> Tidak ada seorang pun di dunia ini yang memiliki kebebasan penuh.</p>

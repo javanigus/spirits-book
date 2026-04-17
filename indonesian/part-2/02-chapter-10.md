@@ -3,6 +3,10 @@ title: 2.10 Pekerjaan dan Tujuan Roh-roh
 sidebar_label: 2.10 Pekerjaan dan Tujuan Roh-roh
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Pekerjaan dan Misi Roh-roh
 
 <p id="2-10-1" className="verse"><a href="#2-10-1" className="verse-link" aria-label="Link to verse 2.10.1"><span className="verse-num">2.10.1</span></a> Roh-roh tidak bekerja hanya untuk perbaikan diri sendiri.</p>

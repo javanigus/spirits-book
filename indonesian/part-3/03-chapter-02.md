@@ -3,6 +3,10 @@ title: 3.2 Ibadah dan Hubungan dengan Tuhan
 sidebar_label: 3.2 Ibadah dan Hubungan dengan Tuhan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Tujuan Ibadah
 
 <p id="3-2-1" className="verse"><a href="#3-2-1" className="verse-link" aria-label="Link to verse 3.2.1"><span className="verse-num">3.2.1</span></a> Ibadah adalah terangkatnya jiwa menuju Tuhan. Ini merupakan gerakan batin menuju Sang Pencipta, bukan sekadar upacara lahiriah.</p>

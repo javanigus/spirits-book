@@ -3,6 +3,10 @@ title: 1.1 Tuhan
 sidebar_label: 1.1 Tuhan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Tuhan dan Yang Tak Terbatas
 
 <p id="1-1-1" className="verse"><a href="#1-1-1" className="verse-link" aria-label="Link to verse 1.1.1"><span className="verse-num">1.1.1</span></a> Tuhan adalah Intelegensi Tertinggi, Penyebab Pertama segala sesuatu.</p>
@@ -49,7 +53,7 @@ sidebar_label: 1.1 Tuhan
 
 <p id="1-1-18" className="verse"><a href="#1-1-18" className="verse-link" aria-label="Link to verse 1.1.18"><span className="verse-num">1.1.18</span></a> Jika Tuhan berubah, hukum alam semesta tidak akan stabil. Tatanan penciptaan memerlukan landasan yang tidak bervariasi.</p>
 
-### Tidak penting
+### Tidak Material
 
 <p id="1-1-19" className="verse"><a href="#1-1-19" className="verse-link" aria-label="Link to verse 1.1.19"><span className="verse-num">1.1.19</span></a> Tuhan itu tidak material.</p>
 
@@ -67,7 +71,7 @@ sidebar_label: 1.1 Tuhan
 
 <p id="1-1-24" className="verse"><a href="#1-1-24" className="verse-link" aria-label="Link to verse 1.1.24"><span className="verse-num">1.1.24</span></a> Jika Tuhan tidak berkuasa, maka ada sesuatu yang lain yang setara atau lebih besar.</p>
 
-### Sangat Adil dan Baik
+### Maha Adil dan Baik
 
 <p id="1-1-25" className="verse"><a href="#1-1-25" className="verse-link" aria-label="Link to verse 1.1.25"><span className="verse-num">1.1.25</span></a> Tuhan itu Maha Adil dan Baik.</p>
 

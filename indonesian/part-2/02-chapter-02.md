@@ -3,6 +3,10 @@ title: "2.2 Inkarnasi: Roh-roh dalam Tubuh Manusia"
 sidebar_label: "2.2 Inkarnasi: Roh-roh dalam Tubuh Manusia"
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Inkarnasi
 
 <p id="2-2-1" className="verse"><a href="#2-2-1" className="verse-link" aria-label="Link to verse 2.2.1"><span className="verse-num">2.2.1</span></a> Inkarnasi diberikan kepada roh-roh agar bisa bergerak menuju kesempurnaan. Bagi sebagian orang, ini adalah penebusan; bagi yang lain, sebuah misi. Melalui kondisi, pergumulan, dan cobaan hidup jasmani, roh-roh diajarkan, dikoreksi, dan disempurnakan.</p>

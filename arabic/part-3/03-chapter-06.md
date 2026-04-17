@@ -3,6 +3,10 @@ title: 3.6 التدمير والتجديد
 sidebar_label: 3.6 التدمير والتجديد
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## التدمير الضروري والتدمير التعسفي
 
 <p id="3-6-1" className="verse"><a href="#3-6-1" className="verse-link" aria-label="Link to verse 3.6.1"><span className="verse-num">3.6.1</span></a> إن التدمير جزء من الطبيعة، ولكن بشكل محدود فقط. ما يبدو مدمرًا غالبًا ما يتحول فقط، بحيث يمكن تجديد الحياة ومواصلة التقدم.</p>

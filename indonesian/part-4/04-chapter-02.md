@@ -3,6 +3,10 @@ title: 4.2 Suka dan Duka di Kehidupan yang Akan Datang
 sidebar_label: 4.2 Suka dan Duka di Kehidupan yang Akan Datang
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Ketiadaan. Kehidupan Masa Depan
 
 <p id="4-2-1" className="verse"><a href="#4-2-1" className="verse-link" aria-label="Link to verse 4.2.1"><span className="verse-num">4.2.1</span></a> Umat ​​​​manusia secara alami menjauhi gagasan tentang ketiadaan, karena ini bukanlah takdir kita. Dalam diri kita ada perasaan bahwa hidup tidak berakhir di alam kubur. Sebelum inkarnasi, roh mengetahui realitas yang sebagian disembunyikan oleh kehidupan jasmani, dan jiwa menyimpan ingatan samar tentang keadaan spiritual tersebut. Ini tetap menjadi intuisi agar kita tetap bertahan.</p>

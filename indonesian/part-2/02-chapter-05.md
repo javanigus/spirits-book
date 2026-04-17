@@ -3,6 +3,10 @@ title: 2.5 Mengapa Kita Menjalani Banyak Kehidupan
 sidebar_label: 2.5 Mengapa Kita Menjalani Banyak Kehidupan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Banyak Kehidupan
 
 <p id="2-5-1" className="verse"><a href="#2-5-1" className="verse-link" aria-label="Link to verse 2.5.1"><span className="verse-num">2.5.1</span></a> Gagasan tentang lebih dari satu kehidupan di bumi sudah kuno, meskipun usianya tidak membuktikan apa pun. Namun, kegigihannya menunjukkan bahwa ia menjawab sesuatu yang jauh di dalam nalar manusia.</p>

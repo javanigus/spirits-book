@@ -3,6 +3,10 @@ title: 2.10 عمل أرواح والغرض منه
 sidebar_label: 2.10 عمل أرواح والغرض منه
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## مهن ومهمات الأرواح
 
 <p id="2-10-1" className="verse"><a href="#2-10-1" className="verse-link" aria-label="Link to verse 2.10.1"><span className="verse-num">2.10.1</span></a> الأرواح لا تعمل فقط من أجل تحسين نفسها.</p>

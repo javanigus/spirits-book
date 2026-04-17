@@ -3,6 +3,10 @@ title: 3.4 التكاثر واستمرار الحياة
 sidebar_label: 3.4 التكاثر واستمرار الحياة
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## سكان العالم
 
 <p id="3-4-1" className="verse"><a href="#3-4-1" className="verse-link" aria-label="Link to verse 3.4.1"><span className="verse-num">3.4.1</span></a> التكاثر هو قانون الطبيعة.</p>

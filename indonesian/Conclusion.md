@@ -4,6 +4,10 @@ sidebar_label: Kesimpulan
 sidebar_position: 999
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## KESIMPULAN
 
 ### I

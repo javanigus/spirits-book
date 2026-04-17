@@ -3,6 +3,10 @@ title: 3.11 العدل والمحبة والإحسان
 sidebar_label: 3.11 العدل والمحبة والإحسان
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## العدالة والحقوق الطبيعية
 
 <p id="3-11-1" className="verse"><a href="#3-11-1" className="verse-link" aria-label="Link to verse 3.11.1"><span className="verse-num">3.11.1</span></a> إن الشعور بالعدالة أمر طبيعي لدى الإنسان. فالتعليم يستطيع أن يطوّره، لكنه لا يصنعه. حتى الشخص البسيط قد يحكم أحيانًا بشكل أكثر عدلاً من شخص أكثر تعلمًا.</p>

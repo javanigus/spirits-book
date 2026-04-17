@@ -3,6 +3,10 @@ title: 3.12 Pertumbuhan Moral
 sidebar_label: 3.12 Pertumbuhan Moral
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Kebajikan dan Keburukan
 
 <p id="3-12-1" className="verse"><a href="#3-12-1" className="verse-link" aria-label="Link to verse 3.12.1"><span className="verse-num">3.12.1</span></a> Kebajikan menunjukkan pergerakan menuju kebaikan.</p>

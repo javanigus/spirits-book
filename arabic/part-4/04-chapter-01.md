@@ -3,6 +3,10 @@ title: 4.1 أفراح وأحزان في الحياة الأرضية
 sidebar_label: 4.1 أفراح وأحزان في الحياة الأرضية
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## السعادة النسبية والتعاسة
 
 <p id="4-1-1" className="verse"><a href="#4-1-1" className="verse-link" aria-label="Link to verse 4.1.1"><span className="verse-num">4.1.1</span></a> السعادة الكاملة غير موجودة على الأرض. إن الحياة في الجسد هي فترة تجربة وإصلاح، لذلك لا يمكن توقع الرضا الكامل.</p>

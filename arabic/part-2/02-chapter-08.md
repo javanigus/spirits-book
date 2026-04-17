@@ -3,6 +3,10 @@ title: 2.8 __الروح__ ما وراء الجسد
 sidebar_label: 2.8 __الروح__ ما وراء الجسد
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## النوم والأحلام
 
 <p id="2-8-1" className="verse"><a href="#2-8-1" className="verse-link" aria-label="Link to verse 2.8.1"><span className="verse-num">2.8.1</span></a> __الروح__ لا يتم الاحتفاظ بها في الجسم باختياره الحر. خلال حياة اليقظة، يتم ربطها بالجسم، ولكن أثناء النوم تضعف تلك الروابط. أثناء راحة الجسم، تظل __الروح__ نشطة، وتتحرك بحرية أكبر، وتدخل في اتصال مباشر أكثر مع __الأرواح__ الأخرى__.</p>

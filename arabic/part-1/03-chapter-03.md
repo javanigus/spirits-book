@@ -3,6 +3,10 @@ title: 1.3 الخلق
 sidebar_label: 1.3 الخلق
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## تكوين العوالم
 
 <p id="1-3-1" className="verse"><a href="#1-3-1" className="verse-link" aria-label="Link to verse 1.3.1"><span className="verse-num">1.3.1</span></a> يضم الكون عوالم لا تعد ولا تحصى، بالإضافة إلى جميع الكائنات الحية والنجوم والمواد الدقيقة المنتشرة في الفضاء. لم تصنع نفسها، وليست نتيجة الصدفة. إنه عمل الله.</p>

@@ -3,6 +3,10 @@ title: 4.2 أفراح وأحزان في الحياة القادمة
 sidebar_label: 4.2 أفراح وأحزان في الحياة القادمة
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## العدم. الحياة المستقبلية
 
 <p id="4-2-1" className="verse"><a href="#4-2-1" className="verse-link" aria-label="Link to verse 4.2.1"><span className="verse-num">4.2.1</span></a> من الطبيعي أن يتراجع البشر عن فكرة العدم، لأنه ليس قدرنا. في داخلنا شعور بأن الحياة لا تنتهي عند القبر. قبل التجسد، يعرف روح الحقائق التي تخفيها الحياة الجسدية جزئيًا، ويحتفظ نفس بذاكرة باهتة لتلك الحالة الروحية. يبقى هذا بمثابة حدس بأننا ننجو.</p>

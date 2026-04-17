@@ -3,6 +3,10 @@ title: 2.7 Kembali ke Kehidupan Duniawi
 sidebar_label: 2.7 Kembali ke Kehidupan Duniawi
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Pendahuluan untuk Kembalinya
 
 <p id="2-7-1" className="verse"><a href="#2-7-1" className="verse-link" aria-label="Link to verse 2.7.1"><span className="verse-num">2.7.1</span></a> Roh-roh umumnya merasakan kapan reinkarnasi sudah dekat, meski tidak selalu saat yang tepat. Mereka merasakannya sebagai hal yang pasti dan tidak dapat dihindari. Tidak semua orang memahaminya secara setara; roh-roh yang kurang mahir mungkin hanya tahu sedikit tentang hal itu, dan ketidakpastian itu sendiri bisa menjadi hukuman.</p>

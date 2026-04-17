@@ -3,6 +3,10 @@ title: 3.10 حرية الاختيار
 sidebar_label: 3.10 حرية الاختيار
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## الحرية الطبيعية
 
 <p id="3-10-1" className="verse"><a href="#3-10-1" className="verse-link" aria-label="Link to verse 3.10.1"><span className="verse-num">3.10.1</span></a> لا أحد على وجه الأرض يتمتع بالحرية الكاملة.</p>

@@ -3,6 +3,10 @@ title: 2.9 كيف تؤثر أرواح على حياتنا
 sidebar_label: 2.9 كيف تؤثر أرواح على حياتنا
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## قراءة أفكارنا بواسطة الأرواح
 
 <p id="2-9-1" className="verse"><a href="#2-9-1" className="verse-link" aria-label="Link to verse 2.9.1"><span className="verse-num">2.9.1</span></a> أرواح لا تراقب كل ما نقوم به في كل لحظة. إنهم يهتمون بشكل أساسي بما يهمهم.</p>

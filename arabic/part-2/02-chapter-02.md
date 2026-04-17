@@ -3,6 +3,10 @@ title: "2.2 التجسد: أرواح في أجساد البشر"
 sidebar_label: "2.2 التجسد: أرواح في أجساد البشر"
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## التجسد
 
 <p id="2-2-1" className="verse"><a href="#2-2-1" className="verse-link" aria-label="Link to verse 2.2.1"><span className="verse-num">2.2.1</span></a> تم منح التجسد إلى أرواح حتى يتمكنوا من التحرك نحو الكمال. بالنسبة للبعض هو كفارة. بالنسبة للآخرين، مهمة. من خلال ظروف وصراعات وتجارب الحياة الجسدية، يتم تعليم أرواح وتصحيحها وصقلها.</p>

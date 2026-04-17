@@ -200,3 +200,7 @@ html.plugin-id-arabic .prism-code {
 html.plugin-id-arabic body {
   font-family: "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif;
 }
+
+.admonition {
+  text-align: start;
+}

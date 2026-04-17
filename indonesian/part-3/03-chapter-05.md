@@ -3,6 +3,10 @@ title: 3.5 Naluri untuk Bertahan Hidup
 sidebar_label: 3.5 Naluri untuk Bertahan Hidup
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Naluri Pelestarian Diri
 
 <p id="3-5-1" className="verse"><a href="#3-5-1" className="verse-link" aria-label="Link to verse 3.5.1"><span className="verse-num">3.5.1</span></a> Naluri mempertahankan diri adalah hukum alam.</p>

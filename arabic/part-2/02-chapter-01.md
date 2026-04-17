@@ -3,6 +3,10 @@ title: 2.1 ما هي أرواح
 sidebar_label: 2.1 ما هي أرواح
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## أصل وطبيعة أرواح
 
 <p id="2-1-1" className="verse"><a href="#2-1-1" className="verse-link" aria-label="Link to verse 2.1.1"><span className="verse-num">2.1.1</span></a> أرواح هم كائنات الخلق الذكية.</p>

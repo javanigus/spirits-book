@@ -3,6 +3,10 @@ title: 3.1 Hukum Tuhan
 sidebar_label: 3.1 Hukum Tuhan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Ciri-ciri Hukum Alam
 
 <p id="3-1-1" className="verse"><a href="#3-1-1" className="verse-link" aria-label="Link to verse 3.1.1"><span className="verse-num">3.1.1</span></a> Hukum alam adalah hukum Tuhan. Ini menunjukkan apa yang harus kita lakukan dan hindari, dan kebahagiaan sejati datang dari hidup selaras dengannya. Jika kita melawannya, kita menderita.</p>

@@ -3,6 +3,10 @@ title: 1.2 العناصر الأساسية للكون
 sidebar_label: 1.2 العناصر الأساسية للكون
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## معرفة أصل الأشياء
 
 <p id="1-2-1" className="verse"><a href="#1-2-1" className="verse-link" aria-label="Link to verse 1.2.1"><span className="verse-num">1.2.1</span></a> أثناء العيش على الأرض، لا يستطيع البشر معرفة كل شيء عن أصل الأشياء.</p>

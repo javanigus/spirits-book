@@ -3,6 +3,10 @@ title: 3.8 التقدم البشري
 sidebar_label: 3.8 التقدم البشري
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## حالة الطبيعة
 
 <p id="3-8-1" className="verse"><a href="#3-8-1" className="verse-link" aria-label="Link to verse 3.8.1"><span className="verse-num">3.8.1</span></a> حالة الطبيعة ليست مثل القانون الطبيعي.</p>

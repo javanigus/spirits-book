@@ -3,6 +3,10 @@ title: 3.7 الحياة في المجتمع
 sidebar_label: 3.7 الحياة في المجتمع
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## الحاجة إلى الحياة المجتمعية
 
 <p id="3-7-1" className="verse"><a href="#3-7-1" className="verse-link" aria-label="Link to verse 3.7.1"><span className="verse-num">3.7.1</span></a> البشر مخلوقون للعيش معًا.</p>

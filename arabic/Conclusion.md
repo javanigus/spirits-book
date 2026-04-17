@@ -4,6 +4,10 @@ sidebar_label: خاتمة
 sidebar_position: 999
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## خاتمة
 
 ### I

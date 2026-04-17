@@ -3,6 +3,10 @@ title: 3.9 المساواة بين الناس
 sidebar_label: 3.9 المساواة بين الناس
 ---
 
+import TranslationNoteArabic from '@site/src/components/TranslationNoteArabic';
+
+<TranslationNoteArabic />
+
 ## المساواة الطبيعية
 
 <p id="3-9-1" className="verse"><a href="#3-9-1" className="verse-link" aria-label="Link to verse 3.9.1"><span className="verse-num">3.9.1</span></a> كل الناس متساوون أمام الله.</p>

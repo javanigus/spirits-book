@@ -3,6 +3,10 @@ title: 3.6 Penghancuran dan Pembaruan
 sidebar_label: 3.6 Penghancuran dan Pembaruan
 ---
 
+import TranslationNoteIndonesian from '@site/src/components/TranslationNoteIndonesian';
+
+<TranslationNoteIndonesian />
+
 ## Penghancuran yang Diperlukan dan Penghancuran yang Menyesatkan
 
 <p id="3-6-1" className="verse"><a href="#3-6-1" className="verse-link" aria-label="Link to verse 3.6.1"><span className="verse-num">3.6.1</span></a> Kehancuran adalah bagian dari alam, namun hanya dalam arti terbatas. Apa yang tampak hancur seringkali hanya ditransformasikan, sehingga kehidupan dapat diperbarui dan kemajuan terus berlanjut.</p>
