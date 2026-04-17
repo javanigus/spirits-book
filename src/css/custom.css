@@ -145,11 +145,28 @@ html.plugin-id-arabic .markdown {
   text-align: right;
 }
 
-/* Sidebar on Arabic docs */
-html.plugin-id-arabic .theme-doc-sidebar-container,
-html.plugin-id-arabic .menu {
-  direction: rtl;
-  text-align: right;
+/* Sidebar on Arabic docs (desktop only, avoid mobile drawer issues) */
+@media (min-width: 997px) {
+  html.plugin-id-arabic .theme-doc-sidebar-menu {
+    direction: rtl;
+    text-align: right;
+  }
+}
+
+/* Arabic mobile navbar drawer: RTL content only */
+@media (max-width: 996px) {
+  html.plugin-id-arabic .navbar-sidebar .menu__list,
+  html.plugin-id-arabic .navbar-sidebar .menu__link,
+  html.plugin-id-arabic .navbar-sidebar .menu__caret,
+  html.plugin-id-arabic .navbar-sidebar .menu__list-item-collapsible,
+  html.plugin-id-arabic .navbar-sidebar__back {
+    direction: rtl;
+    text-align: right;
+  }
+
+  html.plugin-id-arabic .navbar-sidebar .menu__list-item-collapsible {
+    flex-direction: row-reverse;
+  }
 }
 
 /* TOC on Arabic docs */
