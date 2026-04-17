@@ -5,116 +5,116 @@ sidebar_label: 3.11 Justice, Love and Charity
 
 ## Justice and Natural Rights
 
-The feeling of justice is natural in human beings. Education can develop it, but it does not create it. Even a simple person may sometimes judge more justly than someone with more learning.
+<p id="3-11-1" className="verse"><span className="verse-num">3.11.1</span> The feeling of justice is natural in human beings. Education can develop it, but it does not create it. Even a simple person may sometimes judge more justly than someone with more learning.</p>
 
-When people disagree about justice, passion often distorts their judgment. Self-interest, pride, and fear make them see wrongly. In its true sense, justice is respect for the rights of others.
+<p id="3-11-2" className="verse"><span className="verse-num">3.11.2</span> When people disagree about justice, passion often distorts their judgment. Self-interest, pride, and fear make them see wrongly. In its true sense, justice is respect for the rights of others.</p>
 
 ### Human Law and Natural Law
 
-We recognize the rights of others through human law and natural law.
+<p id="3-11-3" className="verse"><span className="verse-num">3.11.3</span> We recognize the rights of others through human law and natural law.</p>
 
-Human laws change with time, place, and the progress of society. They are useful for social order, but they are limited and can be imperfect. Natural law is higher. It expresses what is just in itself, and conscience often sees this even when written law fails.
+<p id="3-11-4" className="verse"><span className="verse-num">3.11.4</span> Human laws change with time, place, and the progress of society. They are useful for social order, but they are limited and can be imperfect. Natural law is higher. It expresses what is just in itself, and conscience often sees this even when written law fails.</p>
 
 ### The Measure of True Justice
 
-The clearest rule of justice is this: do to others what you would want others to do to you.
+<p id="3-11-5" className="verse"><span className="verse-num">3.11.5</span> The clearest rule of justice is this: do to others what you would want others to do to you.</p>
 
-When in doubt, a person should ask what they would judge fair if places were exchanged. But this rule must be applied sincerely, not twisted by selfishness. True justice begins when a person respects the rights of others as much as their own.
+<p id="3-11-6" className="verse"><span className="verse-num">3.11.6</span> When in doubt, a person should ask what they would judge fair if places were exchanged. But this rule must be applied sincerely, not twisted by selfishness. True justice begins when a person respects the rights of others as much as their own.</p>
 
 ### Justice in Social Life
 
-Life in society brings both rights and duties. The first duty is to respect the rights of others. Whoever does this is just.
+<p id="3-11-7" className="verse"><span className="verse-num">3.11.7</span> Life in society brings both rights and duties. The first duty is to respect the rights of others. Whoever does this is just.</p>
 
-When justice is violated, peace is broken. People then try to recover by force what they think was denied to them. To understand the limits of our own rights, we should allow others the same rights we claim for ourselves.
+<p id="3-11-8" className="verse"><span className="verse-num">3.11.8</span> When justice is violated, peace is broken. People then try to recover by force what they think was denied to them. To understand the limits of our own rights, we should allow others the same rights we claim for ourselves.</p>
 
 ### Equality, Authority, and Subordination
 
-Natural rights are the same for all. Before God, all are equal, and no one is greater by nature than another. Social positions may differ, but these do not destroy that basic equality.
+<p id="3-11-9" className="verse"><span className="verse-num">3.11.9</span> Natural rights are the same for all. Before God, all are equal, and no one is greater by nature than another. Social positions may differ, but these do not destroy that basic equality.</p>
 
-Still, equality does not remove order, authority, or subordination. People naturally recognize real superiority in wisdom, virtue, and ability. Lasting authority rests on moral worth and intelligence, not on rank alone.
+<p id="3-11-10" className="verse"><span className="verse-num">3.11.10</span> Still, equality does not remove order, authority, or subordination. People naturally recognize real superiority in wisdom, virtue, and ability. Lasting authority rests on moral worth and intelligence, not on rank alone.</p>
 
 ### Justice in Its Full Purity
 
-Justice in its full purity is not only the strict respect of rights. It is united with charity and love of neighbor.
+<p id="3-11-11" className="verse"><span className="verse-num">3.11.11</span> Justice in its full purity is not only the strict respect of rights. It is united with charity and love of neighbor.</p>
 
-Without charity, justice is incomplete. True justice respects what is due to each person, but it also includes kindness, mercy, and a real desire to do good to others.
+<p id="3-11-12" className="verse"><span className="verse-num">3.11.12</span> Without charity, justice is incomplete. True justice respects what is due to each person, but it also includes kindness, mercy, and a real desire to do good to others.</p>
 
 ## The Right of Ownership. Theft
 
-The right to live is one of the first natural rights. Because of that, each person also has the right to seek what is needed to live and to put something aside for times of need.
+<p id="3-11-13" className="verse"><span className="verse-num">3.11.13</span> The right to live is one of the first natural rights. Because of that, each person also has the right to seek what is needed to live and to put something aside for times of need.</p>
 
-What a person gains by honest work is legitimate property. Since it is the fruit of labor, it should be respected. The wish to possess is natural, but it must have a right purpose. To acquire what is needed for independence and security is lawful. To seek wealth only for selfish enjoyment or endless accumulation is abuse.
+<p id="3-11-14" className="verse"><span className="verse-num">3.11.14</span> What a person gains by honest work is legitimate property. Since it is the fruit of labor, it should be respected. The wish to possess is natural, but it must have a right purpose. To acquire what is needed for independence and security is lawful. To seek wealth only for selfish enjoyment or endless accumulation is abuse.</p>
 
-Property agrees with moral law when it is honestly earned and rightly used. What we possess should never make us forget charity or the needs of others.
+<p id="3-11-15" className="verse"><span className="verse-num">3.11.15</span> Property agrees with moral law when it is honestly earned and rightly used. What we possess should never make us forget charity or the needs of others.</p>
 
 ### Legitimate Ownership
 
-Only what is acquired without injury to others is fully legitimate.
+<p id="3-11-16" className="verse"><span className="verse-num">3.11.16</span> Only what is acquired without injury to others is fully legitimate.</p>
 
-Legal possession alone is not enough. If something has been gained through violence, fraud, exploitation, or any unfair means, it is not truly justly owned, even if human law allows it. The rule is the same as in all moral life: do not do to others what you would not want done to yourself.
+<p id="3-11-17" className="verse"><span className="verse-num">3.11.17</span> Legal possession alone is not enough. If something has been gained through violence, fraud, exploitation, or any unfair means, it is not truly justly owned, even if human law allows it. The rule is the same as in all moral life: do not do to others what you would not want done to yourself.</p>
 
-Anything taken against justice is a form of theft, whatever name people give it.
+<p id="3-11-18" className="verse"><span className="verse-num">3.11.18</span> Anything taken against justice is a form of theft, whatever name people give it.</p>
 
 ### The Limits of Ownership
 
-The right of ownership exists, but it has limits.
+<p id="3-11-19" className="verse"><span className="verse-num">3.11.19</span> The right of ownership exists, but it has limits.</p>
 
-What is honestly acquired belongs to its owner, yet human laws are imperfect and do not always match true justice. A thing may be legal and still not be right.
+<p id="3-11-20" className="verse"><span className="verse-num">3.11.20</span> What is honestly acquired belongs to its owner, yet human laws are imperfect and do not always match true justice. A thing may be legal and still not be right.</p>
 
-Real justice rests on fairness, love, and respect for the rights of others. Ownership is rightful when it comes from honest labor, harms no one, and is used without forgetting our duty toward our neighbor.
+<p id="3-11-21" className="verse"><span className="verse-num">3.11.21</span> Real justice rests on fairness, love, and respect for the rights of others. Ownership is rightful when it comes from honest labor, harms no one, and is used without forgetting our duty toward our neighbor.</p>
 
 ## Charity and Love for Our Neighbor
 
-Charity means kindness toward everyone, patience with the faults of others, and forgiveness for wrongs.
+<p id="3-11-22" className="verse"><span className="verse-num">3.11.22</span> Charity means kindness toward everyone, patience with the faults of others, and forgiveness for wrongs.</p>
 
-Love and charity complete the law of justice. To love our neighbor is to do for others the good we would want for ourselves, in all our relationships.
+<p id="3-11-23" className="verse"><span className="verse-num">3.11.23</span> Love and charity complete the law of justice. To love our neighbor is to do for others the good we would want for ourselves, in all our relationships.</p>
 
-True charity does not honor the rich and ignore the poor. It treats those who suffer with respect and helps restore their dignity.
+<p id="3-11-24" className="verse"><span className="verse-num">3.11.24</span> True charity does not honor the rich and ignore the poor. It treats those who suffer with respect and helps restore their dignity.</p>
 
 ### Loving One’s Enemies
 
-To love one’s enemies does not mean feeling affection for them. It means forgiving them and returning good for evil.
+<p id="3-11-25" className="verse"><span className="verse-num">3.11.25</span> To love one’s enemies does not mean feeling affection for them. It means forgiving them and returning good for evil.</p>
 
-By doing this, a person rises above hatred instead of being ruled by it. The real test of charity is to choose kindness even when we have been hurt.
+<p id="3-11-26" className="verse"><span className="verse-num">3.11.26</span> By doing this, a person rises above hatred instead of being ruled by it. The real test of charity is to choose kindness even when we have been hurt.</p>
 
 ### Alms-Giving and True Benevolence
 
-Begging often degrades a person. A just society should provide for those who cannot work, without humiliation.
+<p id="3-11-27" className="verse"><span className="verse-num">3.11.27</span> Begging often degrades a person. A just society should provide for those who cannot work, without humiliation.</p>
 
-Giving alms is not wrong, but the spirit in which it is given matters greatly. True charity does not always wait to be asked; it looks for those in need.
+<p id="3-11-28" className="verse"><span className="verse-num">3.11.28</span> Giving alms is not wrong, but the spirit in which it is given matters greatly. True charity does not always wait to be asked; it looks for those in need.</p>
 
-A gift offered with gentleness does more than meet a need, while pride or harshness wounds. Many suffer quietly, and wise people learn to notice this hidden poverty and help without display.
+<p id="3-11-29" className="verse"><span className="verse-num">3.11.29</span> A gift offered with gentleness does more than meet a need, while pride or harshness wounds. Many suffer quietly, and wise people learn to notice this hidden poverty and help without display.</p>
 
 ### The Law of Love
 
-Love one another: this is the whole law. It is the divine principle that governs moral life.
+<p id="3-11-30" className="verse"><span className="verse-num">3.11.30</span> Love one another: this is the whole law. It is the divine principle that governs moral life.</p>
 
-No spirit is completely alone. Each one receives guidance from those more advanced and owes care and patience to those less advanced.
+<p id="3-11-31" className="verse"><span className="verse-num">3.11.31</span> No spirit is completely alone. Each one receives guidance from those more advanced and owes care and patience to those less advanced.</p>
 
-So charity is much more than occasional giving. It means seeking hidden suffering, bearing with faults, teaching the ignorant, and helping those who have fallen instead of despising them.
+<p id="3-11-32" className="verse"><span className="verse-num">3.11.32</span> So charity is much more than occasional giving. It means seeking hidden suffering, bearing with faults, teaching the ignorant, and helping those who have fallen instead of despising them.</p>
 
 ### Responsibility and Moral Education
 
-Some people do fall into misery through their own faults. Even so, harsh judgment is too easy. If they had been given sound moral education, many might have avoided the habits that ruined them.
+<p id="3-11-33" className="verse"><span className="verse-num">3.11.33</span> Some people do fall into misery through their own faults. Even so, harsh judgment is too easy. If they had been given sound moral education, many might have avoided the habits that ruined them.</p>
 
-Much social suffering can be prevented before it has to be relieved. The world improves when people are taught duty, self-control, justice, and charity.
+<p id="3-11-34" className="verse"><span className="verse-num">3.11.34</span> Much social suffering can be prevented before it has to be relieved. The world improves when people are taught duty, self-control, justice, and charity.</p>
 
 ## Maternal and Filial Love
 
-A mother’s love is a law of nature that protects the child and preserves life. In human beings, it can rise above instinct and become a true virtue.
+<p id="3-11-35" className="verse"><span className="verse-num">3.11.35</span> A mother’s love is a law of nature that protects the child and preserves life. In human beings, it can rise above instinct and become a true virtue.</p>
 
-In animals, this attachment usually lasts only while the young need care. In people, it may last throughout life and show itself in devotion, sacrifice, and self-denial. Filial love has the same character. It is not only gratitude, but a bond strengthened by mutual affection and one of the purest ties in family life.
+<p id="3-11-36" className="verse"><span className="verse-num">3.11.36</span> In animals, this attachment usually lasts only while the young need care. In people, it may last throughout life and show itself in devotion, sacrifice, and self-denial. Filial love has the same character. It is not only gratitude, but a bond strengthened by mutual affection and one of the purest ties in family life.</p>
 
 ### Mothers Who Do Not Love Their Children
 
-When a mother does not love her child, something is out of order in a bond that should be natural. This coldness may be a trial for the child or the result of faults from the past.
+<p id="3-11-37" className="verse"><span className="verse-num">3.11.37</span> When a mother does not love her child, something is out of order in a bond that should be natural. This coldness may be a trial for the child or the result of faults from the past.</p>
 
-Still, the mother is not excused. Her lack of affection shows moral weakness because she fails to support, protect, and guide. The child, by bearing this suffering with patience, may gain moral strength.
+<p id="3-11-38" className="verse"><span className="verse-num">3.11.38</span> Still, the mother is not excused. Her lack of affection shows moral weakness because she fails to support, protect, and guide. The child, by bearing this suffering with patience, may gain moral strength.</p>
 
 ### The Duty of Parents Toward Difficult Children
 
-Parents are not freed from duty because a child is difficult or causes sorrow. They must still love, instruct, correct, and do all they can to turn the child toward the good.
+<p id="3-11-39" className="verse"><span className="verse-num">3.11.39</span> Parents are not freed from duty because a child is difficult or causes sorrow. They must still love, instruct, correct, and do all they can to turn the child toward the good.</p>
 
-This duty requires patience and perseverance. Sometimes parents suffer in part because they allowed faults to grow early, and may reap what they have sown.
+<p id="3-11-40" className="verse"><span className="verse-num">3.11.40</span> This duty requires patience and perseverance. Sometimes parents suffer in part because they allowed faults to grow early, and may reap what they have sown.</p>
 
-Family love is not only a feeling. It is also a duty of constancy, sacrifice, and responsibility, especially when tested by pain.
+<p id="3-11-41" className="verse"><span className="verse-num">3.11.41</span> Family love is not only a feeling. It is also a duty of constancy, sacrifice, and responsibility, especially when tested by pain.</p>

@@ -5,74 +5,74 @@ sidebar_label: 2.5 Why We Live Many Lives
 
 ## Multiple Lives
 
-The idea of more than one earthly life is ancient, though its age proves nothing by itself. Still, its persistence suggests that it answers something deep in human reason.
+<p id="2-5-1" className="verse"><span className="verse-num">2.5.1</span> The idea of more than one earthly life is ancient, though its age proves nothing by itself. Still, its persistence suggests that it answers something deep in human reason.</p>
 
-A necessary distinction must be made. Ancient metempsychosis taught passage between human and animal bodies. Reincarnation does not. It means the same spirit lives a series of human lives.
+<p id="2-5-2" className="verse"><span className="verse-num">2.5.2</span> A necessary distinction must be made. Ancient metempsychosis taught passage between human and animal bodies. Reincarnation does not. It means the same spirit lives a series of human lives.</p>
 
-Seen this way, the plurality of existences is free from superstition and agrees with divine wisdom, natural law, and moral progress.
+<p id="2-5-3" className="verse"><span className="verse-num">2.5.3</span> Seen this way, the plurality of existences is free from superstition and agrees with divine wisdom, natural law, and moral progress.</p>
 
 ## Resistance to Reincarnation
 
-Many reject reincarnation simply because they dislike it. But truth does not change because it is unwelcome.
+<p id="2-5-4" className="verse"><span className="verse-num">2.5.4</span> Many reject reincarnation simply because they dislike it. But truth does not change because it is unwelcome.</p>
 
-A new life is not an arbitrary punishment. It follows from what the spirit has made of itself. A better life now prepares better conditions later and helps prevent a return to the same faults.
+<p id="2-5-5" className="verse"><span className="verse-num">2.5.5</span> A new life is not an arbitrary punishment. It follows from what the spirit has made of itself. A better life now prepares better conditions later and helps prevent a return to the same faults.</p>
 
 ## Reincarnation and Human Hope
 
-Anyone who believes in a future life must admit that all souls cannot have the same destiny, whatever their conduct. If good and evil ended alike, moral effort would lose its value.
+<p id="2-5-6" className="verse"><span className="verse-num">2.5.6</span> Anyone who believes in a future life must admit that all souls cannot have the same destiny, whatever their conduct. If good and evil ended alike, moral effort would lose its value.</p>
 
-Few can say they are already purified. Reincarnation therefore offers a new chance to rise higher. It teaches that no sincere effort is lost, no failure is final, and no soul is shut out from progress forever.
+<p id="2-5-7" className="verse"><span className="verse-num">2.5.7</span> Few can say they are already purified. Reincarnation therefore offers a new chance to rise higher. It teaches that no sincere effort is lost, no failure is final, and no soul is shut out from progress forever.</p>
 
 ## Divine Justice and the Means of Reparation
 
-Some say divine goodness would not allow new trials. But would it be more merciful to condemn a soul forever for faults committed in a few short years? It is more just and loving to allow reparation.
+<p id="2-5-8" className="verse"><span className="verse-num">2.5.8</span> Some say divine goodness would not allow new trials. But would it be more merciful to condemn a soul forever for faults committed in a few short years? It is more just and loving to allow reparation.</p>
 
-The idea that one brief life settles an eternal fate is harsh, especially since perfection is not reached here below. Reincarnation is more consoling. It does not excuse wrongdoing, but leaves open the way to repair it.
+<p id="2-5-9" className="verse"><span className="verse-num">2.5.9</span> The idea that one brief life settles an eternal fate is harsh, especially since perfection is not reached here below. Reincarnation is more consoling. It does not excuse wrongdoing, but leaves open the way to repair it.</p>
 
 ## The Problem of a Single Existence
 
-If there is no reincarnation, then the soul has only one bodily life. Either it exists before birth or it does not.
+<p id="2-5-10" className="verse"><span className="verse-num">2.5.10</span> If there is no reincarnation, then the soul has only one bodily life. Either it exists before birth or it does not.</p>
 
-If it does not, and is created at birth, why are souls so unequal from the start? Why do some children show remarkable intelligence or goodness while others seem limited or drawn toward lower tendencies, even under good conditions?
+<p id="2-5-11" className="verse"><span className="verse-num">2.5.11</span> If it does not, and is created at birth, why are souls so unequal from the start? Why do some children show remarkable intelligence or goodness while others seem limited or drawn toward lower tendencies, even under good conditions?</p>
 
-If souls are unequal from creation, then God would have created some above others from the start. That cannot agree with perfect justice.
+<p id="2-5-12" className="verse"><span className="verse-num">2.5.12</span> If souls are unequal from creation, then God would have created some above others from the start. That cannot agree with perfect justice.</p>
 
 ## The Inequality of Aptitudes
 
-The plurality of existences explains these differences simply. At birth, the soul brings what it has already learned and become. One spirit is more advanced because it has lived more, progressed more, or used past opportunities better.
+<p id="2-5-13" className="verse"><span className="verse-num">2.5.13</span> The plurality of existences explains these differences simply. At birth, the soul brings what it has already learned and become. One spirit is more advanced because it has lived more, progressed more, or used past opportunities better.</p>
 
-What looks like injustice comes from seeing only the present life and not the earlier ones.
+<p id="2-5-14" className="verse"><span className="verse-num">2.5.14</span> What looks like injustice comes from seeing only the present life and not the earlier ones.</p>
 
 ## Civilized and Uncivilized Peoples
 
-The same principle applies to differences among peoples. Less developed populations are still fully human and must share in divine justice.
+<p id="2-5-15" className="verse"><span className="verse-num">2.5.15</span> The same principle applies to differences among peoples. Less developed populations are still fully human and must share in divine justice.</p>
 
-There are not several humanities in the moral sense, but one humanity at different stages of advancement. All are destined to progress.
+<p id="2-5-16" className="verse"><span className="verse-num">2.5.16</span> There are not several humanities in the moral sense, but one humanity at different stages of advancement. All are destined to progress.</p>
 
 ## The Future Life and Moral Equity
 
-If one earthly life alone decides eternal destiny, what happens to those born in ignorance, misery, or conditions that gave little chance to grow? What of those who die young?
+<p id="2-5-17" className="verse"><span className="verse-num">2.5.17</span> If one earthly life alone decides eternal destiny, what happens to those born in ignorance, misery, or conditions that gave little chance to grow? What of those who die young?</p>
 
-Under successive lives, these questions become clearer. What was not done in one life can be done in another. No one is forever excluded because of birth, circumstance, or early death. Each spirit advances by its true merit and receives the means needed for growth.
+<p id="2-5-18" className="verse"><span className="verse-num">2.5.18</span> Under successive lives, these questions become clearer. What was not done in one life can be done in another. No one is forever excluded because of birth, circumstance, or early death. Each spirit advances by its true merit and receives the means needed for growth.</p>
 
 ## Reincarnation and Christianity
 
-Some think reincarnation must oppose Christianity. But whatever is reasonable, moral, and consistent with divine goodness cannot truly be against a religion founded on justice.
+<p id="2-5-19" className="verse"><span className="verse-num">2.5.19</span> Some think reincarnation must oppose Christianity. But whatever is reasonable, moral, and consistent with divine goodness cannot truly be against a religion founded on justice.</p>
 
-This idea can be seen in sacred teaching. Jesus said Elijah had already come, and the disciples understood that he meant John the Baptist. If John the Baptist was Elijah returned, then the same spirit appeared again in another body.
+<p id="2-5-20" className="verse"><span className="verse-num">2.5.20</span> This idea can be seen in sacred teaching. Jesus said Elijah had already come, and the disciples understood that he meant John the Baptist. If John the Baptist was Elijah returned, then the same spirit appeared again in another body.</p>
 
-Jesus also told Nicodemus, “Unless one is born again, he cannot see the kingdom of God.” The necessity of being born again is clearly affirmed.
+<p id="2-5-21" className="verse"><span className="verse-num">2.5.21</span> Jesus also told Nicodemus, “Unless one is born again, he cannot see the kingdom of God.” The necessity of being born again is clearly affirmed.</p>
 
 ## Reason Before Authority
 
-Even without spiritual communications, the plurality of existences recommends itself by reason alone. It explains unequal aptitudes, different moral conditions, the fate of children, the condition of less developed peoples, and the justice of future reward and punishment.
+<p id="2-5-22" className="verse"><span className="verse-num">2.5.22</span> Even without spiritual communications, the plurality of existences recommends itself by reason alone. It explains unequal aptitudes, different moral conditions, the fate of children, the condition of less developed peoples, and the justice of future reward and punishment.</p>
 
-No serious doctrine should be accepted merely because it is old, popular, or said by unseen beings. Everything must be tested by reason.
+<p id="2-5-23" className="verse"><span className="verse-num">2.5.23</span> No serious doctrine should be accepted merely because it is old, popular, or said by unseen beings. Everything must be tested by reason.</p>
 
 ## The Consoling Character of the Doctrine
 
-The plurality of existences is deeply consoling because it joins justice and mercy. It explains suffering without making God cruel. It affirms responsibility without closing the way back.
+<p id="2-5-24" className="verse"><span className="verse-num">2.5.24</span> The plurality of existences is deeply consoling because it joins justice and mercy. It explains suffering without making God cruel. It affirms responsibility without closing the way back.</p>
 
-Every soul answers for its actions, yet every soul keeps the possibility of repair. The highest happiness is not reserved for a few by privilege. It is offered to all, and all may reach it.
+<p id="2-5-25" className="verse"><span className="verse-num">2.5.25</span> Every soul answers for its actions, yet every soul keeps the possibility of repair. The highest happiness is not reserved for a few by privilege. It is offered to all, and all may reach it.</p>
 
-For that reason, successive existences appear as a merciful part of divine order. They sustain hope, explain inequality without denying justice, and give meaning to human effort.
+<p id="2-5-26" className="verse"><span className="verse-num">2.5.26</span> For that reason, successive existences appear as a merciful part of divine order. They sustain hope, explain inequality without denying justice, and give meaning to human effort.</p>

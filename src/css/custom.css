@@ -78,3 +78,53 @@
   font-weight: 500;
   letter-spacing: 0.2px;
 }
+
+.verse {
+  position: relative;
+  padding-left: 3.5rem;
+  margin: 1rem 0;
+  line-height: 1.7;
+}
+
+.verse-num {
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+
+  font-size: 0.75rem;
+  font-weight: 500;
+
+  opacity: 0.65;
+  letter-spacing: 0.02em;
+
+  color: #6b7280; /* light gray */
+  user-select: none;
+}
+
+[data-theme='dark'] .verse-num {
+  color: #9ca3af;
+}
+
+.verse:hover {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 6px;
+}
+
+.verse::after {
+  content: "#";
+  position: absolute;
+  right: 0.5rem;
+  top: 0.15rem;
+  opacity: 0;
+  font-size: 0.75rem;
+  color: #94a3b8;
+  transition: opacity 0.2s ease;
+}
+
+.verse:hover::after {
+  opacity: 0.6;
+}
+
+.verse + .verse {
+  margin-top: 0.75rem;
+}
