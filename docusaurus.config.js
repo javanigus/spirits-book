@@ -45,7 +45,17 @@ const config = {
         id: 'simplified',
         path: 'simplified',
         routeBasePath: 'simplified',
-        sidebarPath: './sidebarsSimplified.js',
+        sidebarPath: require.resolve('./sidebarsSimplified.js'),
+        editUrl: undefined,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'indonesian',
+        path: 'indonesian',
+        routeBasePath: 'indonesian',
+        sidebarPath: require.resolve('./sidebarsSimplified.js'),
         editUrl: undefined,
       },
     ],
@@ -62,21 +72,27 @@ const config = {
         { to: '/', 
           label: 'Introduction', 
           position: 'right',
-          exact: true },
-        {
-          type: 'docSidebar',
-          sidebarId: 'fullSidebar',
-          docsPluginId: 'full',
-          label: 'Full Edition',
-          position: 'right',
+          exact: true 
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'simplifiedSidebar',
-          docsPluginId: 'simplified',
-          label: 'Simplified Edition',
+          label: 'Languages',
           position: 'right',
-        },
+          items: [
+            {
+              label: 'English',
+              to: '/simplified/part-1/chapter-01',
+            },
+            {
+              label: 'Bahasa Indonesia',
+              to: '/indonesian/part-1/chapter-01',
+            },
+            // later:
+            // {
+            //   label: 'العربية',
+            //   to: '/arabic/part-1/chapter-01',
+            // },
+          ],
+        }
       ],
     },
     footer: {
