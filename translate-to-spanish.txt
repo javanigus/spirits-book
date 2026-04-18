@@ -1,0 +1,216 @@
+You are working in a Docusaurus MDX book project.
+
+Goal:
+Translate the entire `simplified` edition from English into Spanish, while preserving ALL MDX structure exactly, AND insert a reusable translation note component at the top of each translated chapter.
+
+Source:
+
+* `simplified/`
+
+Output:
+
+* write translated files to a new mirrored directory:
+
+  * `spanish/`
+
+━━━━━━━━━━━━━━━━━━━
+NEW REQUIREMENT (IMPORTANT)
+━━━━━━━━━━━━━━━━━━━
+
+At the top of EVERY translated file:
+
+1. Ensure the file is `.mdx` (convert from `.md` if needed)
+
+2. Insert this import immediately after front matter:
+
+   import TranslationNoteSpanish from '@site/src/components/TranslationNoteSpanish';
+
+3. Insert this component immediately after the import:
+
+   <TranslationNoteSpanish />
+
+Do NOT insert the note anywhere else.
+
+━━━━━━━━━━━━━━━━━━━
+TRANSLATION NOTE COMPONENT
+━━━━━━━━━━━━━━━━━━━
+
+Assume this component already exists:
+
+File:
+src/components/TranslationNoteSpanish.js
+
+Content:
+
+* Title: "Nota de traducción"
+
+* Text:
+  Este capítulo fue generado con IA a partir de la edición simplificada y puede contener errores. Por favor, reporta cualquier problema de traducción.
+
+* The word "reporta" must link to:
+  https://abdullahyahya.com/contact-me/
+
+Do NOT modify the component.
+
+━━━━━━━━━━━━━━━━━━━
+SCOPE
+━━━━━━━━━━━━━━━━━━━
+
+* process all chapter files under:
+
+  * `simplified/part-1/`
+  * `simplified/part-2/`
+  * `simplified/part-3/`
+  * `simplified/part-4/`
+  * `simplified/Conclusion.md` or `.mdx`
+* do NOT modify files under `simplified/`
+* do NOT modify anything under `full/`
+* do NOT modify config files, CSS, sidebars, or files outside `spanish/`
+
+━━━━━━━━━━━━━━━━━━━
+TERMINOLOGY RULES (CRITICAL)
+━━━━━━━━━━━━━━━━━━━
+
+* translate **“spirit”** as **espíritu**
+* translate **“spirits”** as **espíritus**
+* translate **“soul”** as **alma**
+* do NOT translate “spirit” as “fantasma” unless it clearly means ghost
+* keep terminology consistent across ALL files
+
+━━━━━━━━━━━━━━━━━━━
+STYLE RULES
+━━━━━━━━━━━━━━━━━━━
+
+* use clear, natural modern Spanish
+* prefer neutral international Spanish
+* avoid slang and regionalisms
+* keep sentences readable and natural
+* do NOT summarize
+* do NOT expand
+* preserve meaning faithfully
+
+━━━━━━━━━━━━━━━━━━━
+STRUCTURE PRESERVATION (VERY IMPORTANT)
+━━━━━━━━━━━━━━━━━━━
+
+You MUST preserve:
+
+* YAML front matter structure exactly
+* all keys in front matter
+* all heading levels (#, ##, ###)
+* all numbering exactly
+* all paragraph breaks exactly
+* all lists exactly
+* all blockquotes exactly
+* all horizontal rules exactly
+* all IDs exactly
+* all anchors exactly
+* all className attributes exactly
+* ALL HTML/MDX tags exactly
+
+You may ONLY translate visible text content.
+
+━━━━━━━━━━━━━━━━━━━
+VERSE PARAGRAPH RULES
+━━━━━━━━━━━━━━━━━━━
+
+Each paragraph looks like:
+
+<p id="2-6-13" className="verse">
+  <a href="#2-6-13" className="verse-link" aria-label="Link to verse 2.6.13">
+    <span className="verse-num">2.6.13</span>
+  </a>
+  A spirit may want to hasten reincarnation to advance.
+</p>
+
+You MUST:
+
+* NOT modify `id`
+* NOT modify `href`
+* NOT modify `className`
+* NOT modify `aria-label`
+* NOT modify verse numbers
+* ONLY translate the sentence AFTER </a>
+
+━━━━━━━━━━━━━━━━━━━
+HEADINGS
+━━━━━━━━━━━━━━━━━━━
+
+* translate headings naturally into Spanish
+* preserve numbering exactly
+
+━━━━━━━━━━━━━━━━━━━
+FRONT MATTER
+━━━━━━━━━━━━━━━━━━━
+
+* translate:
+
+  * `title`
+  * `sidebar_label`
+
+* do NOT change:
+
+  * `id`
+  * `slug`
+  * `sidebar_position`
+
+━━━━━━━━━━━━━━━━━━━
+DO NOT
+━━━━━━━━━━━━━━━━━━━
+
+* do NOT merge paragraphs
+* do NOT split paragraphs
+* do NOT change structure
+* do NOT insert commentary
+* do NOT add notes (EXCEPT the required component above)
+* do NOT modify links or paths
+* do NOT change formatting
+* do NOT touch files outside `spanish/`
+
+━━━━━━━━━━━━━━━━━━━
+IMPLEMENTATION STEPS
+━━━━━━━━━━━━━━━━━━━
+
+1. Read files from `simplified/`
+2. Mirror directory structure into `spanish/`
+3. Convert files to `.mdx` only if needed for the component
+4. Insert import + component at top
+5. Translate content following ALL rules
+6. Save files in `spanish/`
+
+━━━━━━━━━━━━━━━━━━━
+TEST FIRST
+━━━━━━━━━━━━━━━━━━━
+
+Translate ONLY:
+
+* `simplified/part-1/01-chapter-01.md`
+* `simplified/part-2/02-chapter-07.md`
+* `simplified/Conclusion.md` (or .mdx)
+
+Verify:
+
+* component renders correctly
+* MDX compiles
+* structure unchanged
+
+THEN proceed with full translation.
+
+━━━━━━━━━━━━━━━━━━━
+REPORT
+━━━━━━━━━━━━━━━━━━━
+
+Create:
+
+* `spanish/_translation-report.md`
+
+Include:
+
+* source file path
+* output file path
+* status
+* any terminology edge cases
+
+━━━━━━━━━━━━━━━━━━━
+
+Do not explain. Perform the translation carefully and preserve structure exactly.

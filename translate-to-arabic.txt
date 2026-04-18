@@ -1,0 +1,186 @@
+You are working in a Docusaurus MDX book project.
+
+Goal:
+Translate the entire `simplified` edition from English into Arabic, while preserving ALL MDX structure exactly.
+
+Source:
+
+* `simplified/`
+
+Output:
+
+* write translated files to a new mirrored directory:
+
+  * `arabic/`
+
+Scope:
+
+* process all chapter files under:
+
+  * `simplified/part-1/`
+  * `simplified/part-2/`
+  * `simplified/part-3/`
+  * `simplified/part-4/`
+  * `simplified/Conclusion.md` or `.mdx`
+* do NOT modify files under `simplified/`
+* do NOT modify anything under `full/`
+* do NOT modify config files, CSS, sidebars, or files outside `arabic/`
+
+━━━━━━━━━━━━━━━━━━━
+TERMINOLOGY RULES (CRITICAL)
+━━━━━━━━━━━━━━━━━━━
+
+* translate **“spirit”** as **روح**
+* translate **“spirits”** as **أرواح**
+* translate **“soul”** as **نفس**
+* do NOT translate “spirit” as “جن” or any equivalent
+* keep terminology consistent across ALL files
+
+━━━━━━━━━━━━━━━━━━━
+STYLE RULES
+━━━━━━━━━━━━━━━━━━━
+
+* use clear, modern standard Arabic (فصحى مبسطة)
+* keep sentences readable and natural
+* avoid overly classical or overly academic phrasing
+* do NOT summarize
+* do NOT expand
+* preserve meaning faithfully
+
+━━━━━━━━━━━━━━━━━━━
+STRUCTURE PRESERVATION (VERY IMPORTANT)
+━━━━━━━━━━━━━━━━━━━
+
+You MUST preserve:
+
+* YAML front matter structure exactly
+* all keys in front matter
+* all heading levels (#, ##, ###)
+* all numbering exactly
+* all paragraph breaks exactly
+* all lists exactly
+* all blockquotes exactly
+* all horizontal rules exactly
+* all IDs exactly
+* all anchors exactly
+* all className attributes exactly
+* ALL HTML/MDX tags exactly
+
+You may ONLY translate visible text content.
+
+━━━━━━━━━━━━━━━━━━━
+VERSE PARAGRAPH RULES
+━━━━━━━━━━━━━━━━━━━
+
+Each paragraph looks like:
+
+<p id="2-6-13" className="verse">
+  <a href="#2-6-13" className="verse-link" aria-label="Link to verse 2.6.13">
+    <span className="verse-num">2.6.13</span>
+  </a>
+  A spirit may want to hasten reincarnation to advance.
+</p>
+
+You MUST:
+
+* NOT modify `id`
+* NOT modify `href`
+* NOT modify `className`
+* NOT modify `aria-label`
+* NOT modify verse numbers
+* ONLY translate the sentence AFTER </a>
+
+Example output:
+
+<p id="2-6-13" className="verse">
+  <a href="#2-6-13" className="verse-link" aria-label="Link to verse 2.6.13">
+    <span className="verse-num">2.6.13</span>
+  </a>
+  قد ترغب الروح في تسريع إعادة التجسد من أجل التقدم.
+</p>
+
+━━━━━━━━━━━━━━━━━━━
+HEADINGS
+━━━━━━━━━━━━━━━━━━━
+
+* translate headings naturally into Arabic
+* preserve numbering exactly
+
+Examples:
+
+* `2.6 Spirit Life` → `2.6 حياة الروح`
+* `3.1 God’s Laws` → `3.1 قوانين الله`
+
+━━━━━━━━━━━━━━━━━━━
+FRONT MATTER
+━━━━━━━━━━━━━━━━━━━
+
+* translate:
+
+  * `title`
+  * `sidebar_label`
+
+* do NOT change:
+
+  * `id`
+  * `slug`
+  * `sidebar_position`
+
+━━━━━━━━━━━━━━━━━━━
+DO NOT
+━━━━━━━━━━━━━━━━━━━
+
+* do NOT merge paragraphs
+* do NOT split paragraphs
+* do NOT change structure
+* do NOT insert commentary
+* do NOT add notes
+* do NOT modify links or paths
+* do NOT change formatting
+* do NOT touch files outside `arabic/`
+
+━━━━━━━━━━━━━━━━━━━
+IMPLEMENTATION STEPS
+━━━━━━━━━━━━━━━━━━━
+
+1. Read files from `simplified/`
+2. Mirror directory structure into `arabic/`
+3. Translate content following ALL rules above
+4. Save translated files in `arabic/`
+5. Preserve file extensions (.md or .mdx)
+
+━━━━━━━━━━━━━━━━━━━
+TEST FIRST
+━━━━━━━━━━━━━━━━━━━
+
+Translate ONLY these files first:
+
+* `simplified/part-1/01-chapter-01.md`
+* `simplified/part-2/02-chapter-07.md`
+* `simplified/Conclusion.md` (or .mdx)
+
+After translation:
+
+* verify MDX structure is intact
+* verify verse numbers and anchors are untouched
+
+THEN proceed with full translation.
+
+━━━━━━━━━━━━━━━━━━━
+REPORT
+━━━━━━━━━━━━━━━━━━━
+
+Create:
+
+* `arabic/_translation-report.md`
+
+Include:
+
+* source file path
+* output file path
+* status (success/failure)
+* any terminology edge cases
+
+━━━━━━━━━━━━━━━━━━━
+
+Do not explain. Perform the translation carefully and preserve structure exactly.

@@ -1,0 +1,321 @@
+You are working in a Docusaurus MDX book project.
+
+Goal:
+Translate the entire `simplified` edition from English into Urdu, while preserving ALL MDX structure exactly, AND insert a reusable translation note component at the top of each translated chapter.
+
+Source:
+
+* `simplified/`
+
+Output:
+
+* write translated files to a new mirrored directory:
+
+  * `urdu/`
+
+━━━━━━━━━━━━━━━━━━━
+NEW REQUIREMENT (IMPORTANT)
+━━━━━━━━━━━━━━━━━━━
+
+At the top of EVERY translated file:
+
+1. Ensure the file is `.mdx` (convert from `.md` if needed)
+
+2. Insert this import immediately after front matter:
+
+   import TranslationNoteUrdu from '@site/src/components/TranslationNoteUrdu';
+
+3. Insert this component immediately after the import:
+
+   <TranslationNoteUrdu />
+
+Do NOT insert the note anywhere else.
+
+━━━━━━━━━━━━━━━━━━━
+TRANSLATION NOTE COMPONENT
+━━━━━━━━━━━━━━━━━━━
+
+Assume this component already exists:
+
+File:
+src/components/TranslationNoteUrdu.js
+
+Content:
+
+* Title: "نوٹ برائے ترجمہ"
+
+* Text:
+  یہ باب سادہ ایڈیشن سے مصنوعی ذہانت کے ذریعے تیار کیا گیا ہے اور اس میں غلطیاں ہو سکتی ہیں۔ براہ کرم ترجمے کے کسی بھی مسئلے کی اطلاع دیں۔
+
+* The word "اطلاع" or the phrase "اطلاع دیں" must link to:
+  https://abdullahyahya.com/contact-me/
+
+Do NOT modify the component.
+
+━━━━━━━━━━━━━━━━━━━
+RTL REQUIREMENTS (CRITICAL)
+━━━━━━━━━━━━━━━━━━━
+
+Urdu is right-to-left.
+
+You MUST:
+
+* preserve all Urdu visible text in natural RTL order
+* do NOT reverse numbers, IDs, anchors, slugs, paths, or code
+* do NOT translate filenames inside links
+* do NOT translate HTML/MDX attributes
+* do NOT alter Latin text used in code/imports/paths
+* keep verse numbers exactly as written
+* keep punctuation natural for Urdu where it is part of visible prose
+* leave structural markup exactly intact
+
+If a line mixes Urdu with preserved Latin characters, paths, imports, IDs, anchors, or verse numbers, keep the non-visible-code parts unchanged and translate only the visible prose.
+
+━━━━━━━━━━━━━━━━━━━
+TERMINOLOGY RULES (CRITICAL)
+━━━━━━━━━━━━━━━━━━━
+
+* translate **“spirit”** as **روح**
+* translate **“spirits”** as **ارواح**
+* translate **“soul”** as **نفس**
+* do NOT translate “spirit” as “بھوت” unless the English clearly means “ghost”
+* keep terminology consistent across ALL files
+
+━━━━━━━━━━━━━━━━━━━
+STYLE RULES
+━━━━━━━━━━━━━━━━━━━
+
+* use clear, natural modern Urdu
+* keep sentences readable and natural
+* avoid overly archaic, overly Persianized, or overly academic phrasing
+* do NOT summarize
+* do NOT expand
+* preserve meaning faithfully
+
+━━━━━━━━━━━━━━━━━━━
+STRUCTURE PRESERVATION (VERY IMPORTANT)
+━━━━━━━━━━━━━━━━━━━
+
+You MUST preserve:
+
+* YAML front matter structure exactly
+* all keys in front matter
+* all heading levels (#, ##, ###)
+* all numbering exactly
+* all paragraph breaks exactly
+* all lists exactly
+* all blockquotes exactly
+* all horizontal rules exactly
+* all IDs exactly
+* all anchors exactly
+* all className attributes exactly
+* ALL HTML/MDX tags exactly
+
+You may ONLY translate visible text content.
+
+━━━━━━━━━━━━━━━━━━━
+VERSE PARAGRAPH RULES
+━━━━━━━━━━━━━━━━━━━
+
+Each paragraph looks like:
+
+<p id="2-6-13" className="verse">
+  <a href="#2-6-13" className="verse-link" aria-label="Link to verse 2.6.13">
+    <span className="verse-num">2.6.13</span>
+  </a>
+  A spirit may want to hasten reincarnation to advance.
+</p>
+
+You MUST:
+
+* NOT modify `id`
+* NOT modify `href`
+* NOT modify `className`
+* NOT modify `aria-label`
+* NOT modify verse numbers
+* ONLY translate the sentence AFTER </a>
+
+Example output:
+
+<p id="2-6-13" className="verse">
+  <a href="#2-6-13" className="verse-link" aria-label="Link to verse 2.6.13">
+    <span className="verse-num">2.6.13</span>
+  </a>
+  ایک روح ترقی کے لیے جلد دوبارہ جسم اختیار کرنا چاہ سکتی ہے۔
+</p>
+
+━━━━━━━━━━━━━━━━━━━
+HEADINGS
+━━━━━━━━━━━━━━━━━━━
+
+* translate headings naturally into Urdu
+* preserve numbering exactly
+
+Examples:
+
+* `2.6 Spirit Life` → `2.6 روح کی زندگی`
+* `3.1 God’s Laws` → `3.1 خدا کے قوانین`
+
+━━━━━━━━━━━━━━━━━━━
+FRONT MATTER
+━━━━━━━━━━━━━━━━━━━
+
+* translate:
+
+  * `title`
+  * `sidebar_label`
+
+* do NOT change:
+
+  * `id`
+  * `slug`
+  * `sidebar_position`
+
+━━━━━━━━━━━━━━━━━━━
+DO NOT
+━━━━━━━━━━━━━━━━━━━
+
+* do NOT merge paragraphs
+* do NOT split paragraphs
+* do NOT change structure
+* do NOT insert commentary
+* do NOT add notes (EXCEPT the required component above)
+* do NOT modify links or paths
+* do NOT change formatting
+* do NOT touch files outside `urdu/`
+
+━━━━━━━━━━━━━━━━━━━
+IMPLEMENTATION STEPS
+━━━━━━━━━━━━━━━━━━━
+
+1. Read files from `simplified/`
+2. Mirror directory structure into `urdu/`
+3. Convert files to `.mdx` only if needed for the component
+4. Insert import + component at top
+5. Translate content following ALL rules
+6. Save files in `urdu/`
+
+━━━━━━━━━━━━━━━━━━━
+TEST FIRST
+━━━━━━━━━━━━━━━━━━━
+
+Translate ONLY:
+
+* `simplified/part-1/01-chapter-01.md`
+* `simplified/part-2/02-chapter-07.md`
+* `simplified/Conclusion.md` (or .mdx)
+
+Verify:
+
+* component renders correctly
+* MDX compiles
+* structure unchanged
+* RTL text displays correctly
+* verse anchors and numbers remain untouched
+
+THEN proceed with full translation.
+
+━━━━━━━━━━━━━━━━━━━
+REPORT
+━━━━━━━━━━━━━━━━━━━
+
+Create:
+
+* `urdu/_translation-report.md`
+
+Include:
+
+* source file path
+* output file path
+* status
+* any terminology edge cases
+* any RTL rendering concerns found during testing
+
+━━━━━━━━━━━━━━━━━━━
+
+Do not explain. Perform the translation carefully and preserve structure exactly.
+
+Update this Docusaurus project so the Urdu docs match the Arabic docs from a full RTL perspective.
+
+Context:
+
+* Arabic is already working correctly in RTL.
+* Urdu should behave IDENTICALLY to Arabic in layout and rendering.
+* This project does NOT use Docusaurus i18n locales (manual language folders are used).
+
+Goal:
+Make Urdu fully mirror Arabic RTL behavior across:
+
+* layout
+* typography
+* alignment
+* mobile rendering
+* sidebar
+* TOC
+* verse blocks
+
+Tasks:
+
+1. Inspect how Arabic RTL is currently implemented:
+
+   * custom.css
+   * any global styles
+   * HTML attributes (dir, lang)
+   * any MDX/front matter usage
+   * any component overrides
+
+2. Apply the SAME logic to Urdu:
+
+   * extend selectors from `lang="ar"` to include `lang="ur"`
+   * ensure both languages share the same RTL rules
+
+3. Ensure proper RTL enforcement:
+
+   * pages render RTL at layout level (not just text)
+   * if Arabic uses `dir="rtl"`, apply the same for Urdu
+   * ensure `<html lang="ur">` is handled consistently
+
+4. Update global CSS:
+
+   * unify rules like:
+
+     html[lang="ar"],
+     html[lang="ur"] {
+     direction: rtl;
+     }
+
+   * ensure body, headings, paragraphs align correctly
+
+   * fix any RTL-specific layout issues (sidebar, TOC, borders)
+
+5. Verify mixed content:
+
+   * verse numbers (e.g. 2.6.13) remain LTR
+   * links, IDs, and anchors are unaffected
+   * no reversed punctuation issues
+
+6. Typography:
+
+   * ensure Urdu uses a proper font if Arabic has one configured
+   * recommend adding "Noto Nastaliq Urdu" if not present
+
+7. Test:
+
+   * desktop layout
+   * mobile layout
+   * sidebar alignment
+   * TOC visibility
+   * verse formatting
+
+8. Do NOT:
+
+   * refactor unrelated code
+   * change routing or slugs
+   * modify content unnecessarily
+
+Output:
+
+* show CSS changes
+* show any HTML/MDX adjustments
+* confirm Urdu now matches Arabic RTL behavior
+* list any remaining edge cases (if any)

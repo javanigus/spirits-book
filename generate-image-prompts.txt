@@ -1,0 +1,327 @@
+You are working in a Docusaurus/MDX book project.
+
+Goal:
+Write a reusable Node.js script that generates structured JSON image prompts for the `simplified` edition, using **one image prompt per verse**, with chapter/section context and a fixed infographic visual system.
+
+Important:
+
+* We are starting with **chapter 1 first**
+* The script must support CLI arguments so I can choose:
+
+  * input file
+  * output file
+  * start verse
+  * end verse
+* A “section” means:
+
+  * content under an H3 heading if present
+  * otherwise content under an H2 heading
+
+Do NOT generate images.
+Do NOT modify any book files.
+Only generate JSON prompt files.
+
+━━━━━━━━━━━━━━━━━━━
+SOURCE / OUTPUT
+━━━━━━━━━━━━━━━━━━━
+
+Source files:
+
+* read from `simplified/`
+
+Initial use case:
+
+* test on `simplified/part-1/01-chapter-01.md`
+
+Output:
+
+* write JSON files under a new directory:
+
+  * `image_prompts/`
+
+Example initial output:
+
+* `image_prompts/part-1/chapter-01.json`
+
+━━━━━━━━━━━━━━━━━━━
+WHAT THE SCRIPT MUST DO
+━━━━━━━━━━━━━━━━━━━
+
+The script must:
+
+1. Read one chapter MD/MDX file
+2. Parse front matter
+3. Parse the body
+4. Detect:
+
+   * chapter title from front matter
+   * H2/H3 headings
+   * verse paragraphs in MDX like:
+     `<p id="1-1-1" className="verse"> ... <span className="verse-num">1.1.1</span> ... text ... </p>`
+5. Group verses into sections using this rule:
+
+   * if H3 headings exist under a current H2, each H3 block is a section
+   * otherwise each H2 block is a section
+6. Allow CLI filtering by verse range:
+
+   * e.g. start at verse 1.1.3 and end at verse 1.1.12
+   * compare verse numbers numerically, not lexicographically
+7. For each selected verse, generate:
+
+   * verse metadata
+   * chapter context
+   * section context
+   * concise section summary
+   * infographic image prompt
+8. Save all results in one JSON file per chapter
+
+━━━━━━━━━━━━━━━━━━━
+CLI REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━
+
+The script must be runnable like:
+
+```bash
+node scripts/generate-image-prompts.mjs \
+  --input simplified/part-1/01-chapter-01.md \
+  --output image_prompts/part-1/chapter-01.json \
+  --start-verse 1.1.3 \
+  --end-verse 1.1.12
+```
+
+Required CLI flags:
+
+* `--input`
+* `--output`
+
+Optional CLI flags:
+
+* `--start-verse`
+* `--end-verse`
+
+Behavior:
+
+* if no start/end are provided, process all verses in the chapter
+* if only start is provided, process from that verse to the end of the chapter
+* if both are provided, process only that inclusive verse range
+* parse verse numbers into arrays of integers (e.g. `1.1.12` -> `[1,1,12]`)
+* include verses where `start <= verse <= end`
+* validate verse ranges and fail clearly if out of range
+
+━━━━━━━━━━━━━━━━━━━
+JSON OUTPUT SHAPE
+━━━━━━━━━━━━━━━━━━━
+
+The JSON output should look like:
+
+```json
+{
+  "source_file": "simplified/part-1/01-chapter-01.md",
+  "chapter_title": "1.1 God",
+  "chapter_slug": "1.1",
+  "total_sections": 3,
+  "processed_verse_range": {
+    "start": "1.1.3",
+    "end": "1.1.12"
+  },
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "God and the Infinite",
+      "section_heading_level": "h3",
+      "section_summary": "Short summary here.",
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse_id": "1-1-1",
+          "verse_number": "1.1.1",
+          "verse_text": "God is the Supreme Intelligence, the First Cause of all things.",
+          "image_type": "infographic_diagram",
+          "image_prompt": "Prompt text here."
+        }
+      ]
+    }
+  ]
+}
+```
+
+━━━━━━━━━━━━━━━━━━━
+PROMPT GENERATION RULES
+━━━━━━━━━━━━━━━━━━━
+
+The script should generate one prompt per verse.
+
+Each verse prompt must include:
+
+* chapter title
+* section title
+* short section summary
+* current verse text
+* a fixed global style guide
+* a fixed spirit design guide
+
+The prompts are for **infographic / diagram** images, not photorealistic images.
+
+━━━━━━━━━━━━━━━━━━━
+GLOBAL VISUAL STYLE GUIDE
+━━━━━━━━━━━━━━━━━━━
+
+Every generated prompt must enforce this style:
+
+* minimalist educational infographic / diagram
+* dark background (charcoal, deep navy, or dark neutral)
+* clean layout
+* balanced spacing
+* simple shapes
+* soft gradients
+* subtle glow effects
+* modern educational diagram style
+* no clutter
+* clear visual hierarchy
+* suitable for later video adaptation
+* no text labels inside the image unless the verse clearly requires labeled relationships
+* no religious symbols unless explicitly required by the verse
+* no horror style
+* no photorealism
+* no painterly style
+
+━━━━━━━━━━━━━━━━━━━
+SPIRIT VISUAL SYSTEM
+━━━━━━━━━━━━━━━━━━━
+
+Every generated prompt must use this consistent spirit design:
+
+Spirits should always be represented as simplified human-like silhouettes, not realistic humans.
+
+Three states of spirits:
+
+1. Lower-level spirit
+
+* dark ruby red glow
+* dimmer aura
+* slightly hazy or heavier appearance
+* still a human silhouette, but less refined
+
+2. Mid-level spirit
+
+* soft white glow
+* semi-transparent
+* calm, balanced appearance
+* smooth edges
+
+3. High-level spirit
+
+* brighter white with subtle warm-gold glow
+* more luminous
+* smoother and more refined aura
+* calm, elevated presence
+
+Do NOT vary this system randomly.
+The prompt should choose the spirit state based on the verse meaning when relevant.
+If the verse does not explicitly involve visible spirits, do not force a spirit into the image.
+
+━━━━━━━━━━━━━━━━━━━
+SECTION SUMMARY RULES
+━━━━━━━━━━━━━━━━━━━
+
+The script must generate a short summary for each section:
+
+* 1–2 sentences
+* plain English
+* based only on the verses inside that section
+* concise but informative
+* used only as prompt context
+
+━━━━━━━━━━━━━━━━━━━
+PROMPT WRITING RULES
+━━━━━━━━━━━━━━━━━━━
+
+Each `image_prompt` should:
+
+* describe one clear visual concept for the verse
+* remain understandable as a standalone prompt
+* stay visually consistent with the section and chapter
+* use the infographic style guide above
+* mention the spirit visual system when relevant
+* avoid vague filler language
+* avoid repeating the full style guide word-for-word if it makes prompts too long, but preserve all essential style constraints
+
+Each prompt should aim for:
+
+* clarity
+* consistency
+* educational usefulness
+* later use as input to an image-generation pipeline
+
+━━━━━━━━━━━━━━━━━━━
+IMPLEMENTATION NOTES
+━━━━━━━━━━━━━━━━━━━
+
+Write the script in:
+
+* Node.js ESM
+* file name:
+
+  * `scripts/generate-image-prompts.mjs`
+
+Use:
+
+* robust file reading
+* clear parsing
+* comments where helpful
+* reasonable error handling
+
+You may use:
+
+* built-in Node libraries
+* existing project dependencies if already present
+
+If needed, you may use a markdown/front-matter parser, but prefer a simple, maintainable implementation.
+
+Do NOT call external image APIs.
+Do NOT generate images.
+This script is only for generating JSON prompt files.
+
+━━━━━━━━━━━━━━━━━━━
+FIRST DELIVERABLE
+━━━━━━━━━━━━━━━━━━━
+
+1. Create:
+
+* `scripts/generate-image-prompts.mjs`
+
+2. Run it for:
+
+* `simplified/part-1/01-chapter-01.md`
+
+3. Write output to:
+
+* `image_prompts/part-1/chapter-01.json`
+
+4. Process all verses of chapter 1 by default for the initial test
+
+5. Also print a short terminal summary:
+
+* source file
+* total sections found
+* processed verse range
+* total verses processed
+* output path
+
+━━━━━━━━━━━━━━━━━━━
+IMPORTANT CONSTRAINT
+━━━━━━━━━━━━━━━━━━━
+
+Do not modify any files under:
+
+* `simplified/`
+* `full/`
+* `arabic/`
+* `indonesian/`
+
+Only create or modify:
+
+* `scripts/generate-image-prompts.mjs`
+* `image_prompts/...`
+
+Do not explain the plan. Just implement the script carefully and run it for chapter 1.
