@@ -8,6 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
   stylesheets: [
     'https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap',
+    'https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap',
   ],
 
   future: {
@@ -82,6 +83,16 @@ const config = {
         editUrl: undefined,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'urdu',
+        path: 'urdu',
+        routeBasePath: 'urdu',
+        sidebarPath: require.resolve('./sidebarsSimplified.js'),
+        editUrl: undefined,
+      },
+    ],
   ],
 
   themeConfig: {
@@ -116,6 +127,10 @@ const config = {
             {
               label: 'Español',
               to: '/spanish/part-1/chapter-01',
+            },
+            {
+              label: 'اردو',
+              to: '/urdu/part-1/chapter-01',
             },
           ],
         }

@@ -138,52 +138,65 @@
   border-radius: 6px;
 }
 
-/* Arabic docs pages only (non-i18n setup) */
+/* Arabic/Urdu docs pages only (non-i18n setup) */
 html.plugin-id-arabic .theme-doc-markdown,
-html.plugin-id-arabic .markdown {
+html.plugin-id-arabic .markdown,
+html.plugin-id-urdu .theme-doc-markdown,
+html.plugin-id-urdu .markdown {
   direction: rtl;
   text-align: right;
 }
 
-/* Sidebar on Arabic docs (desktop only, avoid mobile drawer issues) */
+/* Sidebar on Arabic/Urdu docs (desktop only, avoid mobile drawer issues) */
 @media (min-width: 997px) {
-  html.plugin-id-arabic .theme-doc-sidebar-menu {
+  html.plugin-id-arabic .theme-doc-sidebar-menu,
+  html.plugin-id-urdu .theme-doc-sidebar-menu {
     direction: rtl;
     text-align: right;
   }
 }
 
-/* Arabic mobile navbar drawer: RTL content only */
+/* Arabic/Urdu mobile navbar drawer: RTL content only */
 @media (max-width: 996px) {
   html.plugin-id-arabic .navbar-sidebar .menu__list,
   html.plugin-id-arabic .navbar-sidebar .menu__link,
   html.plugin-id-arabic .navbar-sidebar .menu__caret,
   html.plugin-id-arabic .navbar-sidebar .menu__list-item-collapsible,
-  html.plugin-id-arabic .navbar-sidebar__back {
+  html.plugin-id-arabic .navbar-sidebar__back,
+  html.plugin-id-urdu .navbar-sidebar .menu__list,
+  html.plugin-id-urdu .navbar-sidebar .menu__link,
+  html.plugin-id-urdu .navbar-sidebar .menu__caret,
+  html.plugin-id-urdu .navbar-sidebar .menu__list-item-collapsible,
+  html.plugin-id-urdu .navbar-sidebar__back {
     direction: rtl;
     text-align: right;
   }
 
-  html.plugin-id-arabic .navbar-sidebar .menu__list-item-collapsible {
+  html.plugin-id-arabic .navbar-sidebar .menu__list-item-collapsible,
+  html.plugin-id-urdu .navbar-sidebar .menu__list-item-collapsible {
     flex-direction: row-reverse;
   }
 }
 
-/* TOC on Arabic docs */
-html.plugin-id-arabic .table-of-contents {
+/* TOC on Arabic/Urdu docs */
+html.plugin-id-arabic .table-of-contents,
+html.plugin-id-urdu .table-of-contents {
   direction: rtl;
   text-align: right;
 }
 
-/* Verse blocks in Arabic docs */
-html.plugin-id-arabic .verse {
+/* Verse blocks in Arabic/Urdu docs */
+html.plugin-id-arabic .verse,
+html.plugin-id-urdu .verse {
   padding-right: 3.75rem;
   padding-left: 0.75rem;
   text-align: right;
 }
 
 html.plugin-id-arabic .verse-num,
-html.plugin-id-arabic .verse-link {
+html.plugin-id-arabic .verse-link,
+html.plugin-id-urdu .verse-num,
+html.plugin-id-urdu .verse-link {
   left: auto;
   right: 0.75rem;
 }
@@ -191,14 +204,21 @@ html.plugin-id-arabic .verse-link {
 /* Keep code blocks left-to-right */
 html.plugin-id-arabic code,
 html.plugin-id-arabic pre,
-html.plugin-id-arabic .prism-code {
+html.plugin-id-arabic .prism-code,
+html.plugin-id-urdu code,
+html.plugin-id-urdu pre,
+html.plugin-id-urdu .prism-code {
   direction: ltr;
   text-align: left;
 }
 
-/* Arabic font only on Arabic docs */
+/* RTL font stack on Arabic/Urdu docs */
 html.plugin-id-arabic body {
   font-family: "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif;
+}
+
+html.plugin-id-urdu body {
+  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif;
 }
 
 .admonition {
