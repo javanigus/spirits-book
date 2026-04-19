@@ -115,7 +115,7 @@ sidebar_label: 2.6 Spirit Life
 
 <p id="2-6-38" className="verse"><a href="#2-6-38" className="verse-link" aria-label="Link to verse 2.6.38"><span className="verse-num">2.6.38</span></a> For this reason, spirits sometimes speak of heat or cold. These expressions often come from vivid memory or serve as images of their moral condition. They may retain the impression of bodily suffering even after the body is gone.</p>
 
-## Theoretical Explanation on Sensation in Spirits
+## Theoretical Explanation of Sensation in Spirits
 
 <p id="2-6-39" className="verse"><a href="#2-6-39" className="verse-link" aria-label="Link to verse 2.6.39"><span className="verse-num">2.6.39</span></a> The body is the instrument of pain. The soul perceives pain, but is not itself physically wounded. Heat and cold do not burn or freeze the soul.</p>
 

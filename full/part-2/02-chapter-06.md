@@ -157,7 +157,7 @@ For the same reason, some spirits complain of heat or cold. Such expressions usu
 
 A useful comparison is the lingering impression left after removing a heavy garment. Even after the burden is gone, one may still seem to feel its weight. In a similar way, spirits may retain the impression of former bodily suffering without any longer possessing a body that literally undergoes it.
 
-## Theoretical Explanation on Sensation in Spirits
+## Theoretical Explanation of Sensation in Spirits
 
 The body is the instrument of pain. Even when it is not the first cause, it is at least the immediate one. The soul perceives pain, and that perception is the effect. The memory it retains of pain may be extremely vivid, but that does not mean the soul itself undergoes physical sensation in the bodily sense. Cold and heat do not damage the soul’s substance. A soul neither freezes nor burns.
 
