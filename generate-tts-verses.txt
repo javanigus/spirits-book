@@ -1,0 +1,245 @@
+Update the existing Node.js script that builds the TTS manifest so it generates **section-level** TTS items instead of verse-level items.
+
+Goal:
+
+* Keep verse metadata available
+* But create ONE TTS item per heading section
+* The section TTS should sound natural when narrated
+* Use SSML with pauses after headings and between verses
+* Then rerun the script against `simplified/`
+
+Do NOT call the ElevenLabs API yet.
+Do NOT generate audio yet.
+Only update the manifest-building script and regenerate the JSON manifest.
+
+━━━━━━━━━━━━━━━━━━━
+NEW TTS STRATEGY
+━━━━━━━━━━━━━━━━━━━
+
+We are no longer generating one TTS item per verse.
+
+We now want:
+
+* ONE TTS item per heading section
+
+A section means:
+
+* content under an H4 if present
+* otherwise content under an H3
+* otherwise content under an H2
+
+In other words:
+
+* use the nearest heading block as the narration unit
+
+Each section-level TTS item should include:
+
+1. the heading
+2. a pause after the heading
+3. all verses under that heading
+4. short pauses between verses
+
+This is required so narration sounds natural and continuous instead of resetting tone on every verse.
+
+━━━━━━━━━━━━━━━━━━━
+SCRIPT TO UPDATE
+━━━━━━━━━━━━━━━━━━━
+
+Update:
+
+* `scripts/build-tts-manifest.mjs`
+
+Regenerate:
+
+* `tts_manifest/simplified.json`
+
+━━━━━━━━━━━━━━━━━━━
+NEW OUTPUT SHAPE
+━━━━━━━━━━━━━━━━━━━
+
+Top-level structure can remain similar, but replace verse-level `items` with section-level `items`.
+
+Each item should look like this:
+
+```json
+{
+  "source_file": "simplified/part-1/01-chapter-01.mdx",
+  "book_title": "1.1 God",
+  "chapter_slug": "1.1",
+  "heading_level": "h3",
+  "heading_text": "Eternal",
+  "section_index": 4,
+  "verse_start": "1.1.15",
+  "verse_end": "1.1.16",
+  "verse_ids": ["1-1-15", "1-1-16"],
+  "verse_numbers": ["1.1.15", "1.1.16"],
+  "verse_count": 2,
+  "verses": [
+    {
+      "verse_id": "1-1-15",
+      "verse_number": "1.1.15",
+      "verse_text": "God is eternal."
+    },
+    {
+      "verse_id": "1-1-16",
+      "verse_number": "1.1.16",
+      "verse_text": "If God had a beginning, God would have come either from nothing or from some prior being. Neither is possible."
+    }
+  ],
+  "tts_text": "Eternal. God is eternal. If God had a beginning, God would have come either from nothing or from some prior being. Neither is possible.",
+  "tts_ssml": "<speak>Eternal.<break time=\"800ms\"/> God is eternal.<break time=\"350ms\"/> If God had a beginning, God would have come either from nothing or from some prior being. Neither is possible.<break time=\"1200ms\"/></speak>",
+  "output_relpath": "part-1/1.1.15-1.1.16.mp3"
+}
+```
+
+━━━━━━━━━━━━━━━━━━━
+SECTION GROUPING RULE
+━━━━━━━━━━━━━━━━━━━
+
+Group verses by the nearest active heading:
+
+* H4 starts a new section
+* otherwise H3 starts a new section
+* otherwise H2 starts a new section
+
+Every section should become exactly one TTS item.
+
+Ignore:
+
+* `<SectionImage ... />`
+* other MDX components
+
+━━━━━━━━━━━━━━━━━━━
+SSML RULES
+━━━━━━━━━━━━━━━━━━━
+
+Generate BOTH:
+
+* `tts_text` (plain text fallback/debug)
+* `tts_ssml` (for ElevenLabs)
+
+SSML rules:
+
+* wrap the full narration in `<speak>...</speak>`
+* add a pause after the heading:
+
+  * H2 → `1200ms`
+  * H3 → `800ms`
+  * H4 → `600ms`
+* add a pause between verses:
+
+  * `350ms`
+* do NOT add a heading before every verse
+* heading appears once at the start of the section only
+
+Example for H3 section:
+
+```xml
+<speak>Eternal.<break time="800ms"/> God is eternal.<break time="350ms"/> If God had a beginning, God would have come either from nothing or from some prior being. Neither is possible.</speak>
+```
+
+━━━━━━━━━━━━━━━━━━━
+PLAIN TEXT RULES
+━━━━━━━━━━━━━━━━━━━
+
+`tts_text` should be the non-SSML equivalent of the same section narration.
+
+Example:
+
+```text
+Eternal. God is eternal. If God had a beginning, God would have come either from nothing or from some prior being. Neither is possible.
+```
+
+━━━━━━━━━━━━━━━━━━━
+OUTPUT PATH RULES
+━━━━━━━━━━━━━━━━━━━
+
+Use future audio filenames based on verse range:
+
+Examples:
+
+* `part-1/1.1.1-1.1.5.mp3`
+* `part-1/1.1.15-1.1.16.mp3`
+* `part-2/2.3.1-2.3.7.mp3`
+
+If a section contains only one verse:
+
+* use `part-x/1.1.14.mp3`
+
+━━━━━━━━━━━━━━━━━━━
+TOP-LEVEL SUMMARY FIELDS
+━━━━━━━━━━━━━━━━━━━
+
+At the top level of the JSON include:
+
+* `source_root`
+* `total_files`
+* `total_sections`
+* `total_verses`
+* `items`
+
+Where:
+
+* `total_sections` = total number of section-level TTS items
+* `total_verses` = total number of verses across all items
+
+━━━━━━━━━━━━━━━━━━━
+PRESERVE
+━━━━━━━━━━━━━━━━━━━
+
+Keep:
+
+* recursive scan of `simplified/`
+* `.md` / `.mdx` support
+* front matter parsing
+* heading detection
+* verse extraction
+* source order
+* CLI support:
+
+  * `--input`
+  * `--output`
+
+Defaults:
+
+* input = `simplified`
+* output = `tts_manifest/simplified.json`
+
+━━━━━━━━━━━━━━━━━━━
+DO NOT MODIFY
+━━━━━━━━━━━━━━━━━━━
+
+Do not modify files under:
+
+* `simplified/`
+* `full/`
+* `arabic/`
+* `indonesian/`
+* `spanish/`
+* `urdu/`
+
+Only create or modify:
+
+* `scripts/build-tts-manifest.mjs`
+* `tts_manifest/simplified.json`
+
+━━━━━━━━━━━━━━━━━━━
+VALIDATION
+━━━━━━━━━━━━━━━━━━━
+
+After updating the script and rerunning it:
+
+1. Print terminal summary:
+
+* input root
+* total files processed
+* total sections found
+* total verses found
+* output path
+
+2. Verify:
+
+* each item is section-level, not verse-level
+* headings appear once per section
+* `tts_ssml` includes proper heading pause and verse pauses
+* verse order is preserved
