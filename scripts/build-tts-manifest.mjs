@@ -146,9 +146,9 @@ function deriveChapterSlug(frontMatter) {
 }
 
 function getHeadingPause(level) {
-  if (level === 'h2') return '1200ms';
-  if (level === 'h3') return '800ms';
-  if (level === 'h4') return '600ms';
+  if (level === 'h2') return '1.2s';
+  if (level === 'h3') return '0.8s';
+  if (level === 'h4') return '0.6s';
   return null;
 }
 
@@ -182,7 +182,7 @@ function buildTtsFields(headingText, headingLevel, verses) {
   verses.forEach((verse, idx) => {
     ssmlParts.push(` ${escapeXml(verse.verse_text)}`);
     if (idx < verses.length - 1) {
-      ssmlParts.push('<break time="350ms"/>');
+      ssmlParts.push('<break time="0.35s"/>');
     }
   });
 
