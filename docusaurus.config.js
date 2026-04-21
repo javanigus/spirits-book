@@ -17,8 +17,8 @@ const config = {
     },
   },
 
-  url: 'https://javanigus.github.io',
-  baseUrl: '/spirits-book/',
+  url: 'https://lifedeathbeyondbook.com',
+  baseUrl: '/',
 
   organizationName: 'javanigus',
   projectName: 'spirits-book',
