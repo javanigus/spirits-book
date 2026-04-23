@@ -5,37 +5,41 @@ sidebar_label: The First Light
 
 # The First Light
 
+## The Young Spirits
+
 Aras awoke to brightness without direction.
 
-He did not open eyes, because he had no body. He did not draw breath, because there was no air. Yet he woke as surely as any child startled from sleep. Awareness gathered around him all at once, and with it came astonishment: he existed.
+Aras did not open eyes, because there was no body to open them with. Aras did not draw breath, because there was no air. Yet the awakening was as real as any child startled from sleep. Awareness gathered all at once, and with it came astonishment: existence.
 
-He was suspended in a wide luminous expanse, though suspended was not the right word. Nothing held him up; nothing could have let him fall. The place around him seemed less like a place than a condition of clarity. Light flowed through everything without casting shadow. Distance had no sharp edges. Other presences moved far off like living notes in a song too large to hear in full.
+The luminous expanse around Aras seemed less like a place than a condition of clarity. Light moved through everything without casting shadow. Distance had no sharp edges. Other presences traveled far off like living notes in a song too large to hear in full.
 
-He did not know what he was, but he knew he was not alone.
+Aras did not know what Aras was, but knew at once that Aras was not alone.
 
-A little way from him, if distance could still be spoken of, another new awareness turned toward him. It was delicate and steady where his own was quick and searching. If his first impression of himself was motion, his first impression of her was quiet.
+A little way off, if distance could still be spoken of, another new awareness turned toward Aras. It was delicate and steady where Aras was quick and searching. If Aras's first impression of self was motion, the first impression of that other presence was quiet.
 
-Neither had names yet, but recognition came before language. Something within him leaned toward that other being as naturally as warmth leans toward flame.
+Recognition came before language. Something within Aras leaned toward that other being as naturally as warmth leans toward flame.
 
 They drew near.
 
-No words passed. Even so, each felt the other as distinct. She was not an extension of him, nor he of her. They were two centers of life, fresh and unscarred, different already in temperament. He felt in her a receptivity that seemed almost like listening before anything had been said. She felt in him a forward impulse, a desire to move, to touch, to know. Neither quality was fault; neither was yet virtue. They were beginnings.
+No words passed. Even so, each felt the other as distinct. Neither was an extension of the other. They were two centers of life, fresh and unscarred, different already in temperament. Aras felt in the other a receptivity almost like listening before anything had been said. The other felt in Aras a forward impulse, a desire to move, touch, and know. Neither quality was fault; neither was yet virtue. They were beginnings.
 
 When sound did come, it did not arrive from outside them. It unfolded inside the brightness that held them both.
 
 "Be at peace."
 
-The words were gentle, but they carried such steadiness that Aras ceased his restless turning at once.
+The words were gentle, but they carried such steadiness that Aras ceased the restless turning at once.
+
+## Gabriel
 
 A figure approached through the radiance.
 
-At first Aras thought he was seeing light take a human outline because his own mind needed shape. Later he would wonder whether all forms are mercies granted to understanding. The being before them bore the likeness of a man only in the broadest sense: upright, robed in whiteness that was not cloth, face serene, presence greater than any form could contain. His brightness did not wound. It clarified.
+At first Aras thought it was light taking a human outline because a young mind needed shape. Later, Aras would wonder whether form itself is often a mercy granted to understanding. The being before them bore the likeness of a man only in the broadest sense: upright, robed in whiteness that was not cloth, face serene, presence greater than any form could contain. His brightness did not wound. It clarified.
 
 The new spirits turned toward him as flowers turn toward the sun.
 
-"Who are we?" Aras asked, and was surprised to discover that asking itself gave his thought a kind of speech.
+"Who are we?" Aras asked, surprised to discover that asking itself gave thought a kind of speech.
 
-The luminous stranger regarded him with affection.
+The luminous stranger regarded Aras with affection.
 
 "You are living spirits," he said. "You have begun."
 
@@ -49,23 +53,29 @@ The answer should have confused them, but something in it settled naturally into
 
 "Do you have a name?" Aras asked.
 
-"Many," the guide said. "The one that will be easiest for you now is Gabriel."
+"Many," the guide said. "The one that will be easiest for you now is Gabriel. Some in later worlds would call a being like me a messenger. Some would say angel. Some would say pure spirit. All would only be naming a servant of the Most High, never the Most High Himself."
 
-The other spirit held the name with silent care, as if setting a lamp in a room.
+The other spirit held the name in silence, as if setting a lamp in a room.
 
-"And us?" she asked.
+"And us?" came the next question.
 
-Gabriel looked at them in turn. "You will receive many names in many worlds. But names are also useful in beginnings. You," he said, turning to Aras, "may be called Aras. And you," he said to the quiet one, "may be called Sela."
+Gabriel looked at them in turn. "You will receive many names in many worlds. Names are useful in beginnings. You may be called Aras," he said, turning to the first, "and you may be called Sela," he said to the quiet one.
 
-Aras repeated his name inwardly and felt its edges settle around him. Sela did the same, though in her it seemed less like claiming and more like receiving.
+Aras repeated the name inwardly and felt its edges settle into place. Sela received the name in stillness, almost as if accepting a gift rather than claiming it.
 
-Around them the luminous region opened in widening layers. Aras began to perceive that it was not empty at all. Countless spirits moved there, some dimmer than Gabriel, some brighter, many near his own state, newly awakened and learning. Some clustered in attentive circles around elder guides. Some went forth toward regions that shimmered at the farthest edge of sight. Some returned from those distances changed, carrying a gravity Aras could not yet understand.
+Gabriel seemed to understand the thought that had not yet formed into words.
 
-"Is all this ours?" he asked.
+"These names do not make either of you male or female," he said. "You are spirits. Sex belongs to bodily life, and bodily life is only one of the garments a spirit wears. In one life you may be born a son, in another a daughter. What matters is not the garment, but what the soul learns while wearing it."
+
+## The First Questions
+
+Around them the luminous region opened in widening layers. Aras began to perceive that it was not empty at all. Countless spirits moved there, some dimmer than Gabriel, some brighter, many near their own state, newly awakened and learning. Some clustered in attentive circles around elder guides. Some went forth toward regions that shimmered at the farthest edge of sight. Some returned from those distances changed, carrying a gravity Aras could not yet understand.
+
+"Is all this ours?" Aras asked.
 
 "It is given," Gabriel answered. "Not possessed. Nothing is truly known by seizing it. Everything is entered by becoming fit for it."
 
-Aras did not fully understand. He felt, however, that the words mattered.
+Aras did not fully understand, but felt that the words mattered.
 
 Sela looked beyond Gabriel, where wide streams of color moved like thoughts through crystal. "Why are some brighter than others?"
 
@@ -73,35 +83,37 @@ Gabriel turned, and for a moment they all watched the passing multitude.
 
 "Because life unfolds," he said. "No spirit begins complete. Light grows according to what is welcomed. The generous become capable of more light. Those who curve inward cast shadow over themselves. But shadow is not the end. What darkens may learn to turn again."
 
-Aras felt the first faint movement of unease. "Can we fail?"
+Aras felt the first faint motion of unease. "Can we fail?"
 
 Gabriel answered with unusual softness. "You can delay yourselves. You can wound and be wounded. You can mistake what is small for what is great. But you are not made for ruin. The law beneath all worlds tends upward."
 
-Aras took comfort in that, though not enough to quiet the new hunger rising in him. He wanted to know everything at once: what worlds were, what shadow was, why spirits dimmed, how they brightened, where Gabriel had come from, whether there was a highest place, and what lay beyond even that.
+Aras took comfort in that, though not enough to quiet the new hunger rising within. Aras wanted to know everything at once: what worlds were, what shadow was, why spirits dimmed, how they brightened, where Gabriel had come from, whether there was a highest place, and what lay beyond even that.
 
-Gabriel seemed to hear not the details of his thoughts but their shape.
+Gabriel seemed to hear not the details of the thought, but its shape.
 
-"You will learn in order," he said. "Wisdom given too early is only wonder, and wonder alone does not transform."
+"You will learn in order," he said. "Wisdom given too early becomes only wonder, and wonder alone does not transform."
+
+## The First Glimpse of Worlds
 
 They began to move.
 
-If movement still relied on space, it did so more by intention than by distance. Gabriel led them through regions whose beauty deepened without becoming strange. Aras saw structures that appeared woven from song and geometry together, halls that were not built but grown out of harmonious will. He saw gatherings of spirits studying what looked like living histories suspended in light. He saw others preparing for descent into denser realms, though he did not yet understand what descent meant.
+If movement still relied on space, it did so more by intention than by distance. Gabriel led them through regions whose beauty deepened without becoming strange. Aras saw structures that appeared woven from song and geometry together, halls that were not built but grown out of harmonious will. Aras saw gatherings of spirits studying what looked like living histories suspended in light. Aras saw others preparing for descent into denser realms, though did not yet understand what descent meant.
 
-Sela lingered over different things. She noticed how the brighter spirits attended the lesser without contempt. She noticed the calm with which questions were received. She noticed that no one there seemed eager to dominate. Greatness, in that place, did not announce itself.
+Sela noticed different things. Sela saw how brighter spirits attended lesser ones without contempt. Sela saw the calm with which questions were received. Sela noticed that no one there seemed eager to dominate. Greatness, in that place, did not announce itself.
 
-At length Gabriel brought them to a height, or what the mind called height because below them stretched a spectacle of worlds.
+At length Gabriel brought them to what the mind called a height, because beneath them stretched a spectacle of worlds.
 
 Aras recoiled in awe.
 
-Great orbs turned in darkness threaded with light. Some blazed. Some glimmered blue or green or amber. Some were wreathed in storm. Some were raw with fire, others silvered with frost. Around many of them moved living currents he could not name.
+Great orbs turned in darkness threaded with light. Some blazed. Some glimmered blue or green or amber. Some were wreathed in storm. Some were raw with fire, others silvered with frost. Around many of them moved living currents Aras could not name.
 
-"All these are homes?" he whispered.
+"All these are homes?" Aras whispered.
 
 "Schools," Gabriel said. "Workshops. Fields of experience. Places where what is hidden in the spirit is brought forth."
 
 "Must we go there?" Sela asked.
 
-Gabriel's gaze remained on the worlds. "In time."
+Gabriel's gaze remained on the turning worlds. "In time."
 
 Aras felt excitement rise before caution could restrain it. "Then let us go now."
 
@@ -113,19 +125,19 @@ Gabriel smiled, though there was something grave within the smile.
 
 "Because knowledge that cannot survive forgetfulness has not become character," Gabriel said. "You must choose the good not only when it is obvious, but when it is costly, dimly seen, or opposed by desire."
 
-The words settled more deeply into Sela than into Aras. She looked at the turning worlds and sensed not adventure, but need. Something in her understood that life below would be difficult in a way she could not yet describe.
+The words settled more deeply into Sela than into Aras. Sela looked at the turning worlds and sensed not adventure, but need. Something in Sela understood that life below would be difficult in a way that could not yet be described.
 
-"Will we be alone?" she asked.
+"Will we be alone?" Sela asked.
 
 "Never," Gabriel said. "Though there will be times when you believe you are."
 
-Aras watched a world of cloud and sea pass beneath them, then another where vast plains shone under reddish light. An unfamiliar longing moved through him, sharp and bright. It was not homesickness, for he had no memory of home before this. It was the desire to act.
+Aras watched one world of cloud and sea pass beneath them, then another where vast plains shone under reddish light. An unfamiliar longing moved through Aras, sharp and bright. It was not homesickness, for there was no older home remembered before this. It was the desire to act.
 
-Gabriel turned to him.
+Gabriel turned to Aras.
 
 "That impulse in you will one day become courage," he said. "Or pride. It depends on what you love more: truth, or your own force."
 
-Then he turned to Sela.
+Then Gabriel turned to Sela.
 
 "And your gentleness will one day become mercy," he said. "Or fear of pain. It depends on whether you choose love, or only safety."
 
@@ -137,17 +149,17 @@ At last Gabriel extended his hand, not to command but to invite. Between his ope
 
 "Not yet," he said, as Aras leaned forward. "But soon. Your first lesson will not be in splendor. It will be in need."
 
-Aras stared at the rough world, trying to imagine himself within it.
+Aras stared at the rough world, trying to imagine existence within it.
 
-Sela felt a tremor pass through her new being.
+Sela felt a tremor pass through the newly formed self.
 
-"Will we remain together?" she asked.
+"Will we remain together?" Sela asked.
 
 Gabriel looked on them both with a tenderness that contained sorrow, patience, and certainty all at once.
 
 "Again and again," he said. "Not always in peace. Not always in recognition. But no true bond is wasted. What is begun in light may pass through shadow and still be led toward greater light."
 
-Then the vision faded, and the young spirits stood once more in the luminous country of their birth, carrying in themselves the first outline of destiny.
+Then the vision faded, and the young spirits stood once more in the luminous country of their birth, carrying within themselves the first outline of destiny.
 
 For the first time, Aras and Sela understood that joy was not the whole of existence.
 
