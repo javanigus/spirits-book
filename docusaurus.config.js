@@ -93,6 +93,16 @@ const config = {
         editUrl: undefined,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'story',
+        path: 'story',
+        routeBasePath: 'story',
+        sidebarPath: require.resolve('./sidebarsStory.js'),
+        editUrl: undefined,
+      },
+    ],
   ],
 
   themeConfig: {
@@ -107,6 +117,11 @@ const config = {
           label: 'Introduction', 
           position: 'right',
           exact: true 
+        },
+        {
+          label: 'Story',
+          to: '/story/prologue',
+          position: 'right',
         },
         {
           label: 'Languages',
