@@ -27,17 +27,21 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-/* ONE accent color for dark mode */
-[data-theme='dark'] {
   --accent-green: #25c2a0;
 }
 
+/* Shared markdown heading typography */
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4 {
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
+
 /* Headings */
-[data-theme='dark'] .markdown h2,
-[data-theme='dark'] .markdown h3,
-[data-theme='dark'] .markdown h4 {
+[data-theme='dark'] .markdown h1,
+[data-theme='dark'] .markdown h2 {
   color: var(--accent-green);
 }
 
@@ -73,12 +77,6 @@
   color: #fdba74;
 }
 
-.markdown h3,
-.markdown h4 {
-  font-weight: 500;
-  letter-spacing: 0.2px;
-}
-
 .verse {
   position: relative;
   padding-left: 3.75rem;  /* keeps number spacing */
@@ -112,11 +110,6 @@
 
 .verse:hover {
   background: rgba(255, 255, 255, 0.03);
-  border-radius: 6px;
-}
-
-.verse:hover::after {
-  opacity: 0.6;
 }
 
 .verse + .verse {
@@ -135,7 +128,6 @@
 
 .verse:target {
   background: rgba(255, 255, 255, 0.04);
-  border-radius: 6px;
 }
 
 /* Arabic/Urdu docs pages only (non-i18n setup) */

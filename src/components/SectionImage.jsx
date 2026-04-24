@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-export default function SectionImage({ src, alt, maxWidth = 720 }) {
+export default function SectionImage({ src, alt, maxWidth = 720, disableLightbox = false }) {
   const [open, setOpen] = useState(false);
   const resolvedSrc = useBaseUrl(src);
 
@@ -11,13 +11,13 @@ export default function SectionImage({ src, alt, maxWidth = 720 }) {
       width: '100%',
       maxWidth: typeof maxWidth === 'number' ? `${maxWidth}px` : maxWidth,
       borderRadius: '8px',
-      cursor: 'zoom-in',
+      cursor: disableLightbox ? 'pointer' : 'zoom-in',
     }),
-    [maxWidth],
+    [disableLightbox, maxWidth],
   );
 
   useEffect(() => {
-    if (!open) {
+    if (disableLightbox || !open) {
       return undefined;
     }
 
@@ -40,10 +40,16 @@ export default function SectionImage({ src, alt, maxWidth = 720 }) {
   return (
     <>
       <div style={{ textAlign: 'left', marginBottom: '2rem' }}>
-        <img src={resolvedSrc} alt={alt} loading="lazy" style={inlineStyle} onClick={() => setOpen(true)} />
+        <img
+          src={resolvedSrc}
+          alt={alt}
+          loading="lazy"
+          style={inlineStyle}
+          onClick={disableLightbox ? undefined : () => setOpen(true)}
+        />
       </div>
 
-      {open && (
+      {!disableLightbox && open && (
         <div
           role="dialog"
           aria-modal="true"

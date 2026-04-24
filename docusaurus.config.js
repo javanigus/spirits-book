@@ -119,12 +119,7 @@ const config = {
           exact: true 
         },
         {
-          label: 'Story',
-          to: '/story/prologue',
-          position: 'right',
-        },
-        {
-          label: 'Languages',
+          label: 'Doctrine',
           position: 'right',
           items: [
             {
@@ -148,6 +143,16 @@ const config = {
               to: '/urdu/part-1/chapter-01',
             },
           ],
+        },
+        {
+          label: 'Story',
+          to: '/story/prologue',
+          position: 'right',
+        },
+        {
+          label: 'Videos',
+          to: '/videos',
+          position: 'right',
         }
       ],
     },
