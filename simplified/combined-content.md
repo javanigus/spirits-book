@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # 1.1 God
 
 ## God and the Infinite
