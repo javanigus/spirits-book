@@ -105,6 +105,21 @@ const config = {
     ],
   ],
 
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: true,
+        docsRouteBasePath: ['full', 'simplified', 'indonesian', 'arabic', 'spanish', 'urdu', 'story'],
+        docsDir: ['full', 'simplified', 'indonesian', 'arabic', 'spanish', 'urdu', 'story'],
+        docsPluginIdForPreferredVersion: 'simplified',
+        searchBarPosition: 'right',
+      },
+    ],
+  ],
+
   themeConfig: {
     navbar: {
       title: 'Life, Death, and Beyond - Based on Conversations with Spirits',
