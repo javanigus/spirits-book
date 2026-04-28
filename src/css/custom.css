@@ -223,3 +223,25 @@ html.plugin-id-urdu body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.docs-doc-id-one-page-summary .markdown li > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.docs-doc-id-one-page-summary .markdown ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.docs-doc-id-one-page-summary .markdown ul + ul {
+  margin-top: 0.25rem;
+}
+
+.docs-doc-id-one-page-summary .markdown li + li {
+  margin-top: 0.2rem;
+}
+
+.docs-doc-id-one-page-summary .summary-subtopic-gap {
+  height: 0.85rem;
+}
