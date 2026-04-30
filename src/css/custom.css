@@ -245,3 +245,14 @@ html.plugin-id-urdu body {
 .docs-doc-id-one-page-summary .summary-subtopic-gap {
   height: 0.85rem;
 }
+
+.docs-doc-id-one-page-summary .markdown h3 {
+  margin-top: 1.35rem;
+  margin-bottom: 0.45rem;
+}
+
+.docs-doc-id-one-page-summary .markdown h4 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.3rem;
+  font-size: 1.02rem;
+}
