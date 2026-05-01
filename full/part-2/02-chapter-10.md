@@ -5,120 +5,72 @@ sidebar_label: 2.10 The Work and Purpose of Spirits
 
 ## Occupations and Missions of Spirits
 
-Spirits do not occupy themselves only with their own improvement.
+Spirits concur in the harmony of the universe and act as ministers in fulfilling God’s will. Spirit life is one of continuous occupation, but it is not arduous like life on earth, because it is not subject to bodily fatigue or the anguish of need.
 
-They cooperate in the harmony of the universe and serve as ministers of the divine will. Spiritual life is therefore one of continuous activity. Yet this activity is not burdensome in the way earthly labor is burdensome, because it is free from bodily fatigue and from the anxieties created by material need.
+Less evolved spirits also perform a useful role in the universe. All have duties to fulfill. The humblest mason contributes to the construction of a building no less than the architect.
 
-Even the least advanced spirits have a useful role. All have duties to fulfill. In the universal order, the humblest worker contributes to the whole no less truly than the one who directs it.
+In this sense, each spirit has its own aptitudes: all must inhabit every place and acquire knowledge of all things, successively carrying out functions on all the planes of the universe. As Ecclesiastes says, there is a time for everything. Thus, one spirit is now fulfilling its destiny in this world, while another will fulfill, or has already fulfilled, its destiny at another time—on earth, in the water, in the air, and so forth.
 
-No spirit is confined forever to one fixed function. All must, in succession, pass through different conditions, learn about different spheres of existence, and acquire knowledge of all things according to their degree. There is a time for every function. A spirit may now fulfill a task in one world, while in another period it may have fulfilled, or will fulfill, duties connected with other realms and other forms of life.
+The functions spirits perform in the order of things are not permanent for any one spirit, nor do they belong exclusively to the attributes of certain orders. All spirits must ascend the various degrees of the scale in order to perfect themselves. Since God is just, God could not have given knowledge without effort to some while others acquired it only through painful labor.
 
-For this reason, the functions exercised by spirits are not permanently attached to any one of them as an exclusive privilege. Since all spirits must rise through the degrees of development, each must gain knowledge by effort. None are granted complete understanding without having earned it. As in human arts, no one reaches mastery without first practicing the simplest tasks.
+Likewise, among human beings, no one reaches the highest degree of skill in any art without first acquiring the necessary knowledge through practice in its most elementary functions.
 
-## Continuous Activity in Spiritual Life
+Spirits of the highest order, although they have nothing more to acquire, are not in a state of absolute repose. Eternal idleness would be eternal torture. Their occupations consist in receiving orders directly from God, transmitting them throughout the universe, and supervising their execution.
 
-Even the most advanced spirits are not in a state of absolute repose. Eternal idleness would be a kind of torment. Their occupations remain active and purposeful.
+The occupations of spirits are unceasing, if it is understood that their thought is always active, for they live by thought. Yet these occupations must not be compared to the material occupations of human beings. Their activity is itself a delight, because they know they are being useful.
 
-Their activity consists in receiving divine directives, transmitting them throughout the universe, and watching over their execution. Thought is always alive in them; in that sense, their occupations are unceasing. But this activity should not be imagined as material labor like that of embodied life. It is a delight, because they know they are useful.
+The same is true of less evolved spirits, though only in occupations suited to their nature. The work of cultivated minds is not entrusted to manual laborers.
 
-The same principle applies at every level, though according to each spirit’s nature. Less advanced spirits also have occupations suited to their condition. Functions differ according to capacity. One would not entrust the work of the highly cultivated to those fit only for simpler tasks.
+Among spirits there are some who are idle, or who do not occupy themselves with anything useful, but this is temporary and depends on the development of their intelligence. As among human beings, there are those who live only for themselves. Such idleness nonetheless weighs on them, and sooner or later the desire to progress awakens the need for activity, and they are glad to make themselves useful again. This applies to spirits who have reached the necessary point of self-consciousness and free will, for at their origin they are like newborn children, acting more from instinct than from determined will.
 
-Some spirits do pass through periods of idleness, living only for themselves. But this condition is temporary and belongs especially to spirits whose intelligence and will are still developing. Such idleness eventually becomes burdensome. Sooner or later, the desire to advance awakens in them the need for useful activity. At the beginning of their existence, spirits are like newborn children, acting more by instinct than by deliberate choice. Self-conscious labor comes later.
+A spirit who had a particular specialty on earth, such as painting or architecture, takes an interest in the works that were the object of its preference during earthly life only insofar as those works help the evolution of souls toward God, if the spirit is good. Everything blends into an overall objective. Spirits who practiced one art in the lifetime by which they are known may have practiced another in a previous lifetime, because they must know everything in order to perfect themselves. Thus, according to their degree of advancement, nothing may remain a specialty for them. This is what is meant by saying that everything blends into an overall objective. What is sublime in a backward world is no more than child’s play compared with what exists in more advanced worlds. The spirits who inhabit those worlds, where there are arts unknown on earth, would not admire what would appear to them as the work of a schoolchild. They examine whatever may indicate elevation and progress.
 
-## Spirits and Human Works
+For more ordinary spirits who have not yet risen above earthly ideas, the case is different. Their point of view is more limited, and they may admire what human beings themselves admire.
 
-Spirits take interest in whatever reveals elevation and progress.
+Spirits sometimes interfere in our occupations and pleasures. Ordinary spirits are unceasingly around human beings and at times take a very active part in all they do, according to their nature. It is well that they do so, in order to urge men and women forward in their different walks of life, either stimulating or moderating their passions.
 
-They examine human works of art and thought to the degree that such works express the growth of intelligence and the advancement of the soul. A spirit who, while incarnate, had been devoted to painting, architecture, or another art does not necessarily remain attached to that specialty alone. As spirits advance, all particular pursuits are gathered into a broader understanding. What matters is the contribution such works make to the upward movement of souls.
+Spirits concern themselves with the things of this world according to whether they are more or less evolved. High-order spirits undoubtedly have the ability to consider such things in the smallest detail, but they do so only insofar as it is useful to progress. Low-order spirits attach importance to such things only in proportion to the memories still present within them and to material ideas not yet extinguished.
 
-A good spirit values artistic or intellectual productions in proportion to their usefulness for moral and spiritual progress. Moreover, what appears sublime in a less advanced world may seem childish beside what exists in more elevated worlds. Highly advanced spirits therefore do not admire human productions for their brilliance alone, but for the signs they contain of genuine progress.
+Spirits who have missions to fulfill may do so while either errant or incarnate. For certain errant spirits, this is a great occupation.
 
-More ordinary spirits view such things differently. Because they remain closer to earthly habits and memories, they may admire what human beings themselves admire.
+The missions entrusted to errant spirits are so varied that it would be impossible to describe them. Besides, some could not be comprehended by human beings. Spirits fulfill the will of God, and human beings cannot grasp all the divine designs.
 
-## Spirits and Human Activity
+Spirits’ missions always have the good as their purpose. Whether as spirits or as human beings, they are charged with helping the progress of humankind, nations, or individuals, within a range of ideas that may be broader or more specialized, in order to prepare the way for certain events and oversee the accomplishment of certain things. Some have more restricted missions of a personal or wholly local character, such as helping the sick, the dying, and the afflicted, and, as guides, watching over those under their protection and directing them through counsel or the good thoughts they suggest. There are as many kinds of missions as there are kinds of interests to watch over, whether in the material realm or the moral realm. A spirit advances according to how well it has performed its duty.
 
-Common spirits often intervene in human occupations and pleasures. They remain continually around embodied beings and at times take a very active part in what people do, according to their own character.
+Spirits do not always understand the designs they are charged with carrying out. Some are merely blind instruments, while others fully understand the purpose for which they act.
 
-This influence may serve to stimulate or restrain human passions, and through this action people are often impelled along the various paths of life. Higher spirits can consider earthly matters in the smallest detail, but they do so only when such attention is useful to progress. Less advanced spirits, by contrast, attach importance to worldly things in proportion to the material ideas and memories they still retain.
+Advanced spirits are not the only ones who have missions to fulfill. A mission’s importance is in proportion to the spirit’s ability and elevation. The courier who carries a dispatch also fulfills a mission, though not that of a general.
 
-## Missions of Spirits
+A spirit’s mission is not imposed upon it; it asks for it and is happy to receive it. The same mission may be requested by several spirits. There are always several candidates, but not all are accepted.
 
-Spirits may fulfill missions either while errant or while incarnate.
+The mission of incarnate spirits includes instructing human beings, helping them advance, and improving their institutions by direct and material means. Missions vary in scope and importance. The one who cultivates the soil fulfills a mission no less surely than the one who rules or teaches. Everything in nature is linked together. At the same time that a spirit is purifying itself through incarnation, it is also working to fulfill the designs of Providence. Each person has a mission in this world because each can be useful for something.
 
-For errant spirits, missions are often a major occupation. These missions are extremely varied, so varied that they cannot be fully described in human terms. Many would remain beyond ordinary understanding, because spirits execute designs whose full scope belongs to divine wisdom.
+There are people who live only for themselves and do not know how to make themselves useful in any way. They are unhappy beings who should be pitied, because they will painfully expiate their deliberate uselessness, and their chastisement often begins even in this world through weariness and dissatisfaction with life.
 
-All true missions have the good as their purpose. Whether in the spiritual state or in bodily life, spirits work for the progress of human beings, peoples, and nations. Sometimes their mission concerns broad movements of history; sometimes it is more limited and personal. Some prepare the way for events. Some oversee the accomplishment of particular things. Others assist the sick, the dying, and the afflicted. Others act as guides and protectors, watching over those entrusted to them and helping through counsel or through the suggestion of good thoughts.
+Since they had the right to choose, they may have preferred a life that could be of no use to them, because among spirits there are lazy ones who shrink from a life of work. God allows them to do so. Later, and at their own expense, they will understand the impropriety of their uselessness, and they will be the first to ask to make up for lost time. They may also perhaps have chosen a more useful life to begin with, but once engaged in it they drew back, allowing themselves to be misled by the suggestions of spirits who incited them to idleness.
 
-There are as many kinds of missions as there are interests to be watched over in the moral and material order. A spirit advances according to how faithfully it fulfills its duty.
+Common occupations would seem to be duties rather than missions properly so called. According to the ordinary idea associated with the word, a mission carries a sense of importance that is less exclusive and especially less personal. From that point of view, those who truly have an important mission on earth are recognized by the great things they accomplish and by the progress they enable their fellow beings to make.
 
-Not all spirits fully understand the designs they help to execute. Some serve as instruments without seeing far; others know very clearly the end they are helping to bring about.
+Those who have an important mission are predestined for it before birth, and sometimes they have knowledge of it, though more often they do not. They may have only a vague intuition of it when they come to earth. Their mission is traced out after birth and according to circumstances, as God leads them along the path by which they must fulfill the divine designs.
 
-## The Importance of Missions
+When individuals do something useful, it is not always by virtue of a previous and predestined mission. They are often the instrument a spirit uses in order to accomplish something it considers useful. For example, a certain spirit may think it would be good to write a book, which it would itself write if incarnate; it then seeks the writer most capable of understanding its thought and carrying it out. It suggests the idea and directs the execution. Thus, the individual did not originally come to earth with the mission of doing that particular work. The same applies to certain works of art and certain discoveries. During the body’s sleep, the incarnate spirit communicates directly with the discarnate spirit in order to discuss how the task is to be carried out.
 
-Only advanced spirits receive the most important missions, but missions are not limited to advanced spirits alone.
+A spirit can fail in its mission through its own fault, if it is not a high-order spirit. It must then begin the work again, and that is its punishment. It will also suffer the consequences of the evils it has caused.
 
-The importance of a mission is always proportioned to the spirit’s elevation and ability. The one who carries a message also fulfills a mission, though not the same mission as the one who commands an army.
+When a spirit receives its mission from God, an important mission of general interest does not depend on one who might abandon the work midway. God knows whether the general will be victorious or defeated. The divine plans, when they are important, do not rest on those who might leave the work unfinished. For human beings, the whole difficulty lies in their lack of knowledge of the future, which God possesses but does not grant to them.
 
-A mission is not forced on a spirit in the sense of blind compulsion. A spirit asks for it and is happy to receive it. Many may desire the same task, but not all are accepted.
+A spirit who incarnates to fulfill a mission does not have the same apprehensions as one who incarnates to undergo a trial, because it has experience.
 
-## The Mission of Incarnate Spirits
+Those who are the lights of humankind, who enlighten human beings by their genius, obviously have a mission. But among them are some who are mistaken and who, instead of spreading great truths, spread great errors. Their mission has been distorted by themselves. They have fallen below the task they undertook. Yet circumstances must be taken into account. Men and women of genius must speak according to the time in which they live. Thus, a teaching that appears erroneous or childish in a later age may have been sufficient in its own time.
 
-When spirits incarnate, they continue to serve useful purposes.
+Parenthood may be considered a mission. It is, without doubt, a mission, and at the same time a very great duty—one that involves parents far more than they may think in regard to their responsibility for the future. God has placed children in the care of their parents so that they may guide them on the path of goodness, and has made the task easier by giving children a frail and delicate organization that renders them accessible to all kinds of impressions. Yet there are those who are more concerned with tending the trees in their orchards and making them bear fine fruit than with forming the character of their children. If their children go astray because of such neglect, the parents will bear the penalty, and the sufferings of their children will return to them in a future life because they did not do what was incumbent upon them for their children’s advancement on the path of good.
 
-Their mission may be to instruct human beings, help them advance, and improve institutions through direct and material means. These missions differ greatly in extent and visibility. The ruler, the teacher, and the cultivator of the soil each fulfill a mission. Everything in nature is interconnected. While a spirit purifies itself through bodily life, it also helps fulfill the designs of Providence. Every person has a mission in the world because every person can be useful in some way.
+If a child goes astray despite the care of the parents, the parents are not responsible. But the more a child is inclined toward evil, the heavier the task and the greater the merit if the parents succeed in turning that child away from the path of evil.
 
-There are, however, individuals who seem deliberately useless, living only for themselves and seeking no benefit for anyone else. Such souls deserve compassion. Their uselessness brings consequences, often beginning even during earthly life through weariness, emptiness, and dissatisfaction.
+If a child becomes a good adult despite the negligence or bad example of the parents, the parents derive no benefit from it. God is just.
 
-Some spirits, before incarnating, recoil from lives of labor and choose easier paths. They are allowed to do so, but later learn at their own expense the poverty of such a choice and desire to recover the lost time. Others may originally have chosen a useful life but then, once embodied, abandon it and surrender themselves to suggestions of idleness.
+The missions of conquerors whose only aim is to satisfy their ambition, and who, to reach that goal, do not shrink from any calamity they may cause, are most often nothing more than those of instruments used by God in the fulfillment of the divine designs. Such calamities are often the means of enabling a people to advance more rapidly.
 
-## Recognizing a Mission on Earth
+If those who serve as the instruments of such temporary calamities are unaware of the good that may result from them, because they inflicted them from a personal motive, they nevertheless do not profit from the good that results. All are rewarded according to their deeds, the good they intended to do, and the honesty of their intentions.
 
-Ordinary occupations are often duties rather than what people usually call a mission. Yet genuine missions may still be discerned.
-
-They are recognized by the great things individuals accomplish and by the progress they enable others to make. Some persons are marked out before birth for important roles. Sometimes they know this; more often they do not. On arriving on earth, they have only a vague sense of their purpose. Their path unfolds after birth, according to circumstances and under divine guidance.
-
-Not everything useful that someone does comes from a mission fixed in advance. A person may also become the instrument of a spirit who wishes to accomplish something beneficial. A writer, for example, may receive an idea from a spirit who, if incarnate, would have written the work itself. The spirit seeks the individual best able to understand and express the thought, inspires the project, and directs its execution. In such a case, the embodied person did not necessarily come to earth with that specific task already assigned.
-
-The same may occur in works of art and in discoveries. During bodily sleep, the incarnate spirit may communicate directly with discarnate spirits to confer about the execution of such undertakings.
-
-## Failure in a Mission
-
-A spirit can fail in its mission through its own fault, unless it belongs to a very high order.
-
-When this happens, it must begin again. That necessity is itself part of its punishment. It also suffers the consequences of the disorders and delays caused by its failure.
-
-Yet important divine designs do not depend ultimately on instruments who might abandon their task. Providence does not expose the success of great purposes to uncertainty. What appears doubtful to human beings is not doubtful to the divine foresight that sees the end from the beginning.
-
-A spirit incarnating for a mission does not experience the same kind of apprehension as one incarnating mainly for expiation or trial. It brings with it experience.
-
-## Great Figures, Error, and Historical Limitation
-
-Those who illuminate humanity through genius often do have real missions. But some spread serious error along with the truths they teach.
-
-In such cases, their mission has been distorted by them. They prove themselves unequal to the task they undertook. Even so, judgment must take circumstances into account. Great minds must speak in language suited to their time. A teaching that later generations regard as incomplete or mistaken may nevertheless have been sufficient for the age in which it appeared.
-
-## Parenthood as a Mission
-
-Parenthood is unquestionably a mission and a very great duty.
-
-Parents bear a responsibility far greater than they usually imagine for the future of their children. Children are entrusted to them so they may guide them along the path of the good. Their very fragility and impressionability make this task possible, because they are open to deep influence.
-
-Many people take more care in cultivating the trees in their orchard than in forming the character of their children. If children go astray through parental neglect, the parents bear responsibility. The sufferings resulting from that neglect will return to them later, because they failed to do what was required for their children’s moral advancement.
-
-If, however, a child goes wrong despite sincere care and effort, the parents are not accountable for that outcome. Indeed, the more difficult the child’s tendencies, the greater the merit of those who succeed in turning the child away from evil.
-
-If a child becomes good despite parental negligence or bad example, no injustice remains. Divine justice gives to each according to what is truly deserved.
-
-## Conquerors and Instruments of Providence
-
-There are historical figures whose ambition causes calamities and devastation. In many cases they are no more than instruments employed in the unfolding of larger purposes.
-
-Such disasters may become the means by which a people advances more rapidly. Yet those who inflict them for selfish ends do not gain merit from the good that eventually emerges. Each is rewarded according to deeds, intentions, and the good one truly meant to do.
-
-## The Range of Spiritual Occupations
-
-Incarnate spirits have the occupations proper to bodily life. In the errant state, their occupations vary according to their advancement.
-
-Some travel from world to world, learning and preparing for a future incarnation. More advanced spirits work for progress by guiding events and suggesting fruitful ideas. They assist the men and women of genius who contribute to the advancement of humanity. Others reincarnate with missions of progress. Others watch over individuals, families, communities, cities, and peoples, becoming guardian angels, protecting spirits, or familiar spirits. Others preside over the phenomena of nature and serve as their direct agents.
-
-Common spirits mingle with human occupations and amusements. Impure or imperfect spirits remain in suffering and distress, waiting for the moment when they will be granted the means to advance. If they do evil, it is often from resentment at not yet being able to enjoy the good.
+Incarnate spirits have occupations inherent to corporeal existence. In the errant state, or dematerialized condition, their occupations are in proportion to their degree of advancement. Some journey from world to world, learning and preparing for a new incarnation. Others, more advanced, devote themselves to progress by directing events and suggesting favorable thoughts; they assist the spirits of genius who contribute to the advancement of humankind. Others still reincarnate on missions of progress. Others take under their care individuals, families, communities, cities, and peoples, becoming guardian angels, protector spirits, and familiar spirits. Finally, others preside over the phenomena of nature, of which they are the direct agents. Ordinary spirits meddle in our occupations and amusements. Impure or imperfect spirits remain in suffering and anguish while awaiting the moment when it pleases God to grant them the means of advancing. If they practice evil, it is out of spite at not yet being able to enjoy the good.

@@ -5,162 +5,74 @@ sidebar_label: 3.5 The Instinct to Survive
 
 ## The Self-Preservation Instinct
 
-The instinct of self-preservation is a law of nature.
+The self-preservation instinct is a law of nature. All living beings possess it, regardless of their degree of intelligence. In some it is purely mechanical; in others it is deliberate.
 
-Every living being possesses it, whatever its degree of intelligence. In some creatures it operates almost mechanically, as an automatic tendency to avoid destruction and preserve life. In others, it is more reflective and deliberate, joined to thought and intention. Yet in all cases it expresses the same fundamental law: life seeks to continue.
-
-This instinct is not accidental. It serves a purpose within the order of creation.
-
-All beings take part in a providential design, and for that reason they are given the need to remain alive. The drive to preserve life is one of the means by which each being fulfills its role within that wider order.
-
-Life is also necessary for progress. A living existence provides the conditions through which beings develop, mature, and gradually perfect themselves. Even when they do not clearly understand this aim, they are inwardly drawn toward it. The instinct of self-preservation is therefore more than a response to danger. It is one of the natural forces that supports growth, continuity, and the fulfillment of life’s deeper purpose.
+God’s purpose in granting the instinct of self-preservation to all living beings is that all may collaborate in the designs of Providence. That is why God has given them the need to live. Besides, life is necessary for beings to perfect themselves; they sense this instinctively without clearly perceiving it.
 
 ## The Means of Self-Preservation
 
-The need to preserve life is matched by the means of doing so.
+Since God has given human beings the need to live, God always provides them with the means of doing so. If they do not find them, it is because they do not understand them. God could not have given humans the need to live without also giving them the means. Hence, the Creator has caused the earth to produce in such a way as to provide for the needs of all its inhabitants, for only what is necessary is useful; the superfluous never is.
 
-If human beings are given the instinct to live, the conditions necessary for life are also provided. The earth produces what is needed for all who inhabit it. What is truly necessary is useful; excess is not. Want does not come from a failure in creation, but from a failure to understand and rightly use what has been given.
+The earth does not always produce enough to provide for human needs because people are ungrateful and neglect it. Nevertheless, it is an excellent mother. Frequently, they blame nature for the consequences of their own incompetence or lack of foresight. The earth would always produce what is needed if humans knew how to be content. If it does not supply all their needs, it is because they use it to provide themselves with superfluities instead of necessities. The nomads in the desert always find enough to live on because they do not create imaginary needs. But when half of all that is produced is wasted on satisfying fanciful desires, people should not wonder at finding nothing the next day, or pity themselves at being deprived in times of scarcity. Nature is not stingy; rather, people do not know how to control themselves.
 
-The earth does not fail by nature. More often, people fail through ingratitude, negligence, poor judgment, or lack of foresight. They accuse nature of barrenness when the real cause lies in their own misuse of its gifts. If people knew how to be content with what is necessary, the earth would provide enough. Scarcity is often intensified because so much is consumed in pursuit of superfluous desires rather than real needs.
+The fruits of the earth are not only the products of the soil. The soil is the original source from which all other resources derive because, in the last analysis, such resources are only transformations of the products of the soil. For that reason, the fruits of the earth include everything humans can enjoy in this world.
 
-A simple life makes this clearer. Those who create fewer artificial wants more easily find the means to live. When much of what is produced is wasted on vanity or fantasy, deprivation follows, and the suffering that results is then blamed on circumstances. Nature is not miserly. Human beings too often do not know how to govern their appetites.
+The means of subsistence are frequently lacking for certain individuals, even in the midst of abundance around them. This is due primarily to human selfishness, because people do not always do what they should. Next, and most often, it is due to human action itself. “Seek and you shall find”: these words do not mean that it is enough simply to look to the earth in order to find what you desire. Instead, you must seek with ardor and perseverance, without indifference and without allowing yourselves to be discouraged by obstacles that are quite often no more than means of putting your tenacity, patience, and firmness to the test.
 
-The fruits of the earth include more than crops alone. The soil is the first source from which all other resources ultimately come, since what seems distinct from it is, in the end, only a transformation of its products. In that sense, the fruits of the earth are everything in the world that human beings are able to enjoy and use.
+If civilization multiplies our needs, it also multiplies the sources of labor and the means of living, but in this respect there is still much to be done. When civilization has accomplished its task, no one will be able to say that they lack what is needed except through their own fault. For many, misfortune comes when they choose a path nature has not traced out for them—and that is when they lack the intelligence required to succeed. There is a place in the sun for all, but on the condition that each takes their own place and not that of others. Nature cannot be responsible for the vices of social organization or for the consequences of ambition and vanity.
 
-### Why Some Lack What Others Have in Abundance
+It would be blindness not to recognize the progress that the most advanced societies have made in this respect. Thanks to the laudable efforts that philanthropy and science together have unceasingly made for the improvement of humankind’s material conditions, and notwithstanding the constant increase in population, insufficiency of production has been reduced—at least for the most part—and the most calamitous years bear no comparison to those of former times. Public hygiene, that element so essential to energy and health but unknown to our ancestors, is now the object of enlightened care. The unfortunate and suffering find places of refuge, and science has been put to work everywhere, contributing to the growth of everyone’s well-being. We have certainly not yet attained perfection. But what has been accomplished so far gives an idea of what can be done with perseverance if men and women are sensible enough to seek contentment in real and serious things rather than in utopias that cause them to go backward instead of advancing.
 
-When some individuals lack the means of subsistence even in the midst of abundance, the first cause is often human selfishness. People do not always do what they ought to do for one another. Beyond that, human beings themselves are frequently responsible for their own hardship.
+There are situations in which the means of subsistence do not depend solely on human will, and in which the lack of the barest necessities is a consequence of circumstances. These situations are often cruel trials that humans must undergo, and to which they know they will be exposed. Their merit lies in submission to God’s will if their intelligence does not furnish them with some means of escaping their difficulty. If death must touch them, they should submit to it without complaint, remembering that their hour of true freedom has arrived, and that despair at the final moment may cause them to lose the fruit of their resignation.
 
-To seek is not merely to cast one’s eyes upon the earth and expect provision to appear. It is to labor with persistence, energy, and patience. Obstacles must not lead to discouragement, for they often serve as trials of endurance, firmness, and resolve.
+Those who, in critical situations, were obliged to sacrifice their fellow beings to appease their hunger have committed a crime. If it was a crime, it was not lessened by the need to live that the instinct of self-preservation has given them. There is more merit in undergoing all the trials of life with selflessness and courage. In this case, there is homicide and a crime against nature, and it must be doubly punished.
 
-Civilization multiplies needs, but it also multiplies sources of labor and the means of livelihood. Much remains unfinished, yet as social life becomes more orderly and just, fewer will be able to claim deprivation except through their own fault. Many suffer because they choose a course unsuited to their abilities or to the natural place open to them. There is room for all, provided each accepts an honest place rather than trying to seize the place of another. Nature is not responsible for the disorders created by ambition, vanity, and defective social organization.
-
-Even so, real progress has been made. More advanced societies have improved material conditions through the combined efforts of generosity and science. Production has grown, public hygiene has become an object of careful attention, and institutions of shelter and relief have been created for the poor and suffering. Science has been increasingly directed toward the common good. Perfection has not been reached, but what has already been achieved shows what perseverance can accomplish when people seek lasting and serious goods instead of chasing illusions that hinder progress.
-
-### Trials of Want and the Duty of Resignation
-
-There are circumstances in which the lack of even the bare necessities does not depend entirely on human will. Such situations may be severe trials. Human beings may find themselves exposed to them despite their efforts.
-
-In these moments, if intelligence and effort do not reveal a means of escape, merit lies in submission to the divine will. If death comes, it should be met without rebellion. The hour of release is not to be darkened by despair, because despair at the final moment can destroy the moral fruit of patient resignation.
-
-This does not praise passivity or excuse indifference. One must still seek every honorable means of preservation. But when no path remains, courage, selflessness, and acceptance have a moral value greater than revolt.
-
-### Hunger and Crime
-
-Extreme need does not transform an evil act into a rightful one.
-
-If someone, driven by hunger, sacrifices another human being in order to survive, the act remains a homicide and an offense against nature. Necessity does not erase its character. Greater merit belongs to the one who endures the trial of life with courage and self-denial rather than preserving life through violence against another.
-
-### Nourishment on Other Worlds
-
-Living beings on worlds of a purer physical condition also require nourishment, but it is suited to their nature.
-
-Their food is more refined, just as their bodily organization is more refined. What nourishes them would be insufficient for dense earthly bodies, and earthly food would be unsuitable for them. Nourishment exists everywhere in harmony with the condition of the beings who receive it.
+On worlds where physical constitutions are purer, living beings still need nourishment, but their food is in keeping with their nature. Such food would not be substantial enough for your dense digestive systems; likewise, they would not be able to digest yours.
 
 ## The Enjoyment of Material Things
 
-The use of the fruits of the earth belongs to all human beings.
+The use of the fruits of the earth is a right of all human beings. That right is a consequence of the need to live. God would not impose a duty without granting the means to fulfill it.
 
-That right follows from the necessity of preserving life. No duty would be imposed without the means to fulfill it. Since human life must be sustained, the resources needed for that sustenance are rightly available for human use.
+God has made the enjoyment of material things attractive in order to lead humans to fulfill their mission and also to test them through temptation. The purpose of such temptation is to develop their reason so that they may learn to guard themselves against excess.
 
-The enjoyment connected with material things is not accidental. It has been made attractive for a purpose.
+If humans had been driven to use the fruits of the earth only because of their usefulness, their indifference might have compromised the harmony of the universe. God has given them the attraction of pleasure, and this in turn incites them to accomplish the designs of Providence. However, through this same attraction, God also wills to test them through temptation, which incites them to abuse; nonetheless, their reason should free them from it.
 
-Pleasure encourages human beings to make use of what is necessary for life and to carry out their earthly mission. Attraction to enjoyment helps move them toward the fulfillment of the larger order of existence. Without that attraction, indifference might lead them to neglect what is required, and the harmony of life would suffer.
+Enjoyments have bounds traced out by nature, showing the limit of what is necessary. But through excess, humans bring on satiety and thus punish themselves.
 
-Yet that same attraction also serves as a trial.
+Those who seek to satisfy their tastes through all kinds of excess are unfortunate creatures whom we should pity, not envy, because they are very close to death, both physical and moral.
 
-Temptation develops reason by teaching restraint. Human beings are not meant to be dragged blindly by appetite, but to learn how to govern desire. Enjoyment has its place, but reason must prevent it from becoming excess.
-
-### The Natural Limit of Enjoyment
-
-Nature itself marks the boundary of what is necessary.
-
-There is a proper measure in the use of material things. When that measure is exceeded, the result is satiety, and this satiety becomes a form of self-inflicted punishment. Excess carries its own consequences. What was given for support and balance turns into a source of discomfort, weakness, and suffering when used without moderation.
-
-The law written into nature shows both permission and limit: material things may be enjoyed, but not without measure.
-
-### The Abuse of Pleasure
-
-Those who seek to satisfy their tastes through every kind of excess are not to be envied, but pitied.
-
-Their condition brings them close to death in both senses, physical and moral. Physical decline follows from abuse of the body. Moral decline follows from surrendering reason to appetite. The more a person yields to excess, the more dominion is given to the animal side of nature over the spiritual.
-
-In this respect, unrestrained indulgence lowers human beings beneath the animals, for animals at least stop when their needs are met. Human beings, endowed with reason for their guidance, degrade that gift when they use it to multiply cravings instead of mastering them.
-
-The illnesses, ailments, and even death that result from excess are not merely accidents of behavior. They are consequences built into the violation of divine law. Abuse becomes its own punishment.
-
-Material enjoyment, then, is neither evil nor absolute. It is a rightful part of earthly life, given to sustain existence and support human activity. But it must remain within the bounds of necessity and be governed by reason. Only then does pleasure serve its true purpose instead of becoming a cause of ruin.
+Those who seek to satisfy their tastes through excess of every kind place themselves below the animals, because animals at least know how to limit themselves to satisfying their needs. Such persons deny the reason God has given them for their guidance, and the greater their excesses, the greater is the dominion they give to their animal nature over their spiritual nature. The illnesses, ailments, and death that result from abuse are also punishments for transgressing God’s law.
 
 ## Necessary and Superfluous Things
 
-The boundary between what is necessary and what is superfluous is not always easy to define.
+Those who are sensible know the limit of what is necessary by intuition, but many recognize it only through their own experience.
 
-A sensible person often perceives it by intuition. Many others learn it only through experience, sometimes after suffering the consequences of excess, waste, or false wants.
+Nature has traced out the limits of human needs in physical organization, but people are insatiable. Their vices alter their constitution and create artificial needs.
 
-Nature itself has marked out the limits of genuine need in the human body. Physical organization shows what is required for life and health. Yet human beings are often not content with these limits. Their vices distort their habits and create artificial needs that do not arise from nature, but from appetite, vanity, or indulgence.
+Those who monopolize the fruits of the earth in order to procure for themselves what is superfluous, at the expense of others who lack what is necessary, do not understand God’s law and will have to answer for the privations they have caused.
 
-For that reason, what is called necessary cannot be measured by a rigid and universal line. Much depends on condition, circumstance, and degree of social development. Civilization has introduced needs that do not exist in more primitive states of life, and this does not mean that people should abandon civilization and return to simpler forms of existence. Everything must be judged relatively, with reason assigning each thing its proper place.
-
-Civilization, rightly used, refines moral feeling as well as material life. It can deepen charity and strengthen the sense that human beings should support one another. When that happens, progress serves the good.
-
-The abuse of civilization appears when some people use its advantages only for themselves, while others are deprived even of what is necessary. To monopolize the fruits of the earth in order to secure superfluity for oneself, while others lack the essentials of life, is a violation of divine law. Such conduct shows a failure to understand justice and responsibility. Those who cause these privations will answer for them.
-
-There are people who enjoy the outward polish of civilized life while lacking its true moral substance. They possess only the appearance of civility, just as others possess only the appearance of religion. Real progress is not measured by refinement in comfort, but by the wise use of what one has and by a sincere concern that no one is deprived of what is needed to live.
+The line between what is necessary and what is superfluous is not absolute. Civilization has created necessities that do not exist in the primitive state, and the Spirits who dictated these precepts do not mean for civilized humans to live like primitives. Everything is relative, and it is up to reason to place each thing in its proper place. Civilization develops moral sense and, at the same time, the sentiment of charity, which leads people to support one another. Those who live at the expense of others’ privations exploit the benefits of civilization for their own profit. They have only the varnish of civility, just as there are persons who possess no more of religion than its outward appearance.
 
 ## Voluntary Privations and Mortifications
 
-The law of self-preservation requires care for the body as well as the soul.
+The law of self-preservation obliges us to provide for our physical needs, because without energy and health, labor is impossible.
 
-Physical needs are not opposed to spiritual life. Energy and health are necessary for work, and work is part of human duty. Seeking well-being is therefore not a fault in itself. The desire for well-being is natural.
+We are not culpable if we seek our own well-being. Well-being is a natural desire. God prohibits only abuse because it is contrary to self-preservation. God does not consider it a crime to seek one’s own well-being if it is not gained at another’s expense and if it does not weaken either moral or physical strength.
 
-What is condemned is abuse. Well-being becomes disordered when it is pursued at another person’s expense, or when it weakens moral or physical strength instead of sustaining them. True balance does not reject legitimate human needs, but governs them.
+Voluntary privations undertaken for an equally voluntary expiation have no merit in God’s sight. Do good to others, and there will be greater merit.
 
-### Voluntary Privations
+There are, however, meritorious voluntary privations: the privation of meaningless pleasures, because it frees one from matter and elevates the soul. Merit lies in resisting the temptation that drives one to excess and the taste for useless things, and in taking from one’s own necessities in order to give to those in need. If privation is nothing more than pretense, it is only a mockery.
 
-Voluntary privation has value only when it serves a real good.
+A life of mortification through asceticism has been practiced since ancient times and among different cultures. Its merit depends on whom it is useful for. If it serves only the one who practices it and hinders that person from doing good to others, it is selfish, whatever pretext may disguise it. Submitting oneself to privation by working for others is true mortification and is in accord with Christian charity.
 
-There is little merit in suffering for its own sake. Greater merit is found in doing good to others. The most worthy renunciations are those that free a person from enslavement to matter, restrain excess, and loosen attachment to useless pleasures. Such discipline can elevate the soul when it is sincere and measured.
+Abstention from certain foods, as prescribed among various cultures, is based on reason. Everything that humans can eat without harming their health is permitted. Lawmakers, however, have prohibited certain foods with a useful end in mind, and in order to give greater weight to their laws, they have represented them as coming from God.
 
-Its highest form appears when a person gives up part of what is personally needed in order to help someone in greater need. Then privation becomes charity.
+Humankind’s use of animals for food is not contrary to the law of nature. With the present physical constitution, flesh nourishes flesh; otherwise, humans would perish. The law of self-preservation imposes the duty of preserving energy and health so that the law of labor may be fulfilled. One should therefore eat according to the requirements of one’s own physical organization.
 
-When self-denial is only outward appearance, however, it loses all value. If it is a display, a pose, or a way of seeming more virtuous than one is, it becomes empty pretense.
+Abstention from foods, animal or otherwise, is meritorious as an expiation if one deprives oneself for the sake of others. But God cannot see mortification where there is no serious and useful privation. This is why those who only seem to deprive themselves are hypocrites. (See no. 720)
 
-### Mortifications
+Mutilations practiced on the body of humans or animals are useless and harmful. What is useless cannot be pleasing to God, and what is harmful is always displeasing. God is sensitive only to sentiments that raise the soul toward God. It is by practicing the divine laws instead of violating them that one can shake off the burden of terrestrial matter.
 
-Ascetic practices and bodily mortifications have appeared in many times and cultures, but their worth depends entirely on their usefulness.
+If the sufferings of this world enable us to evolve according to the manner in which we bear them, only natural sufferings enable such progress because they come from God. Intentional sufferings serve no purpose when they have no value for the good of others. Those who shorten their lives through superhuman hardships—the bonzes, fakirs, and certain fanatics of various sects—do not advance on their path. They should labor for the good of their neighbors, visit the indigent, comfort those who mourn, work for those who are infirm, and endure privations to help the unfortunate; then their life will be useful and pleasing to God. When one has only oneself in mind in the intentional hardships one imposes on oneself, it is selfishness; when one suffers for others, it is the practice of charity. Such are the precepts of Christ.
 
-If they benefit only the person who practices them, and especially if they hinder that person from doing good to others, they remain a form of selfishness, whatever noble name may be given to them. Real mortification is not found in deliberate harshness toward the body, but in sacrifice accepted for the sake of serving others. To endure privation while laboring for others is a truer discipline than any severe austerity performed in isolation.
-
-God is not pleased by what is useless, and still less by what is harmful. What matters is not external suffering but the inner disposition that raises the soul toward what is good. Progress comes through living in harmony with divine law, not through violating the body in the hope of becoming holy by pain alone.
-
-Mutilations practiced on human beings or animals have no spiritual merit. What is useless cannot be pleasing, and what is harmful is contrary to the order established for life.
-
-### Food and Abstinence
-
-No food is forbidden in itself when it can be taken without harm to health.
-
-Human beings may eat whatever their physical constitution allows without injury. Some religious or civil laws have prohibited certain foods for practical reasons, and these rules were often given sacred authority in order to secure obedience. Their origin may therefore be social or hygienic rather than absolute.
-
-The use of animals as food is not contrary to the law of nature under present human conditions. Human bodily organization requires nourishment suited to it, and the duty of self-preservation includes maintaining the strength needed for labor and life.
-
-Abstaining from food, whether animal food or any other kind, has merit only when the deprivation is serious, useful, and directed toward the good of others. If a person deprives himself or herself in order to give to others, that renunciation has value. If the abstinence is only apparent, symbolic, or empty of practical good, it becomes hypocrisy rather than sacrifice.
-
-### Suffering and Progress
-
-Not every suffering contributes to spiritual growth.
-
-The sufferings that help a person advance are the natural trials of life, especially when they are borne with patience, courage, and moral insight. These belong to the human condition and can become occasions for purification and progress.
-
-Intentional sufferings that serve no one do not have the same value. To shorten life by excessive austerities, to impose pointless hardships on oneself, or to seek pain as though pain itself were holy does not lead upward. Such practices are barren when they are disconnected from charity.
-
-A more fruitful path is clear: visit the poor, comfort those who mourn, work for the sick, and accept privations in order to assist the unfortunate. Suffering accepted for others becomes charity. Suffering invented for oneself alone tends toward selfishness.
-
-### The Right Mortification
-
-Human beings are not asked to invent new torments for themselves, but neither are they told to neglect prudent care in the face of danger.
-
-The instinct of self-preservation was given to all living beings so that they might guard themselves against suffering and destruction. Foreseen dangers should therefore be avoided when possible.
-
-The truest discipline is inward. One must whip the spirit rather than the body, mortify pride rather than the flesh, and stifle selfishness, that inner serpent that consumes the heart. Conquering vanity, self-love, and attachment to excess does more for real progress than bodily self-inflictions.
-
-Spiritual growth is not measured by how much pain one can impose on oneself. It is measured by sincerity, self-mastery, useful sacrifice, and charity.
+Since we should not create intentional sufferings for ourselves that are of no use to others, we should nevertheless protect ourselves from those we foresee or that threaten us. The instinct of self-preservation has been given to all beings against dangers and sufferings. Discipline your spirit and not your body; mortify your pride and stifle your selfishness—that serpent devouring your heart—and you will do more for your progress than through self-inflictions that no longer have a place in this day and age.

@@ -5,206 +5,86 @@ sidebar_label: 3.2 Worship and Connection to God
 
 ## The Purpose of Worship
 
-Worship is the lifting up of thought toward God.
+Worship is the lifting up of thought toward God. Through worship, the soul draws nearer to its Creator.
 
-In worship, the soul turns toward its Creator and draws nearer to the source of its life. It is not merely an outward act or a formal practice. Its deepest reality lies in the movement of the inner being toward what is higher than itself.
+Worship results from an innate sentiment, like that of the Divinity. Awareness of human weakness leads people to bow before the One who can protect them.
 
-This impulse is innate. It does not arise only from education, custom, or tradition, though these may shape how it is expressed. Human beings carry within themselves a natural sentiment that leads them toward the Divine. A sense of fragility and dependence leads them to bow before the One who can sustain and protect them.
+There have never been peoples entirely devoid of the sentiment of worship, because there have never been wholly atheistic peoples. All have understood that there is a Supreme Being above them.
 
-For that reason, no people have ever been entirely without some form of worship. Humanity has always recognized, however imperfectly, that there is a Supreme Being above it. Forms vary across cultures and ages, but beneath those differences lies the same fundamental intuition.
-
-Worship belongs to natural law.
-
-Because it springs from an inborn sentiment placed within humanity, it appears everywhere. Its expressions may differ widely, yet its origin remains the same: the soul’s instinctive movement toward God.
+Worship has its source in natural law because it is the result of an innate sentiment in humankind. That is why it is found among all peoples, although expressed in different forms.
 
 ## Outward Forms of Worship
 
-Worship does not depend first on visible forms, but on the inner disposition of the soul.
+True worship comes from the heart. In all your actions, always remember that the Lord is watching you.
 
-True worship comes from the heart. What gives it value is sincerity, remembrance of God, and a life shaped by good actions. In every act, what matters most is the intention to honor God through humility, justice, and charity.
+Outward forms of worship are useful if they are not a vain pretense. They are useful for setting a good example. But those who practice such forms only out of affectation and vanity, while belying their appearance of piety by their conduct, set a bad example rather than a good one and do more harm than they can imagine.
 
-Outward expressions of worship are not without value. They can be useful when they are genuine and when they help elevate thought, strengthen devotion, or offer a good example to others. Visible practices, ceremonies, and signs of reverence may support the inner life, but only when they correspond to what is actually felt.
+God prefers those who sincerely worship from the depths of their heart, doing good and avoiding evil, to those who think they honor God through ceremonies that do not make them any better than their neighbors.
 
-When outward worship becomes mere display, it loses its worth. If someone adopts religious forms out of vanity, affectation, or the desire to appear devout while living in contradiction to that appearance, the example given is harmful rather than beneficial. A false appearance of piety can mislead others and deepen self-deception.
+All are brothers and sisters, children of the same God, and God calls all those who follow the divinely established laws, whatever form their expression may take.
 
-God does not prefer one external manner of worship simply because of its form. What is pleasing is sincere worship joined to doing good and avoiding evil. Ceremonies by themselves do not make a person better. No ritual has value if it leaves the heart unchanged and conduct untouched.
+Those who only put on an appearance of piety are hypocrites. Those for whom worship is only a pretense contradicted by their actual conduct set a bad example.
 
-All human beings are children of the same God and are called according to the divine laws, whatever form their worship may take. Differences in language, rite, or custom do not establish superiority before God. Asking which outward form is most acceptable is much like asking whether one language is more pleasing to God than another. Hymns and prayers rise only through the door of the heart.
+Those who profess to worship Christ, but who are proud, envious, and jealous; who are hard and unforgiving toward others; or who are ambitious for worldly things, have religion on their lips only and not in their heart. God, who sees everything, will say: those who know the truth are a hundred times guiltier for the evil they do than the unknowing nomad in the desert, and they will be treated accordingly on judgment day. If a blind person passing by accidentally knocks you down, you forgive it; but if it is a person with perfect sight, you rightly take offense.
 
-Hypocrisy in religion carries particular seriousness. Those who wear the appearance of devotion without living by it are not merely mistaken; they betray what they claim to honor. A religion that remains only on the lips and never enters the heart has no real life in it.
+There is no particular form of worship that is most acceptable, since that would be like asking whether it is more pleasing to God to be worshiped in one language rather than another. Hymns do not reach God except through the door of the heart.
 
-This is especially grave when someone knows better. Pride, envy, jealousy, hardness, unforgiveness, and ambition for worldly things are all signs that worship has not become inward. One who possesses moral light and still acts against it bears a heavier responsibility than one who acts in ignorance. Faults committed in full awareness weigh more than those arising from blindness.
+It is not wrong to practice a religion that is not believed in from the depths of the heart if this is done out of human respect and in order not to offend those who think differently. As in so many other things, intent is the rule. Those whose sole aim is to show respect for the beliefs of others do no wrong; in fact, they do better than those who would ridicule such beliefs, for ridicule would show a lack of charity. However, those who practice a religion out of ulterior motives or ambition are contemptible in the sight of God and humankind. God cannot be pleased with those who only put on a show of humility in order to gain the approval of others.
 
-There are also cases in which a person takes part in a religion without inward belief, not out of ambition, but simply to avoid offending others and to show respect for their convictions. In such a case, the moral value depends on the intention. Respectful participation done from charity is not wrong. It is better than mocking the beliefs of others, because ridicule reveals a lack of kindness.
-
-But when religious practice is adopted for ulterior motives—for social advantage, reputation, influence, or ambition—it becomes empty and degrading. A show of humility designed to win human approval does not honor God. Worship used as a means of self-promotion corrupts both religion and character.
-
-### Group and Individual Worship
-
-Worship may be offered alone or together with others, and both have value.
-
-Worship in common has a special strength because people united in thought and feeling create a more powerful harmony. When many gather with sincere intention, they more easily attract good spirits. Shared worship can therefore deepen recollection, encourage devotion, and strengthen noble impulses.
-
-Yet individual worship is not inferior for that reason. Each person can turn inwardly and sincerely toward God, even in solitude. Thought directed to God does not require a crowd. A single heart that prays with truth may worship fully.
-
-In every case, the essential thing remains the same: sincerity, charity, and moral transformation. Whether worship is expressed publicly or in silence, through simple prayer or solemn ceremony, its value depends on the truth of the heart and the goodness of the life that follows from it.
+Collective worship is preferable to individual worship in that those who assemble in communion of thought and sentiment have more power to attract good spirits; the same applies when they gather to worship God. But individual worship is not therefore less effective, for each person can worship God with sincere thought.
 
 ## The Contemplative Life
 
-A life withdrawn into contemplation alone has no special merit simply because it avoids wrongdoing and turns its thoughts toward God.
-
-To do no evil is not enough. Good must also be done. Failing to do the good one is capable of doing is itself a moral fault.
-
-Thought directed toward God has value, but human life was not given for inward devotion alone. Each person has duties to fulfill. Reflection, prayer, and contemplation are not meant to replace those duties, but to enlighten and strengthen them.
-
-When a person spends all of life in meditation without being useful to others, that life remains centered on the self. It produces no service to humankind and therefore lacks true merit.
-
-Divine judgment concerns not only the wrong one has committed, but also the good one has neglected. A person will be called to account for the good left undone.
+Those who dedicate themselves to the contemplative life, doing no evil and thinking only of God, have no merit in the divine sight. Even though they do nothing evil, neither do they do any good. Moreover, not doing good is itself evil. God wants men and women to think about God, but does not want them to do only that, for God has given them duties to fulfill. Those who spend all their time in meditation and contemplation do nothing meritorious before God, since their life is entirely personal and of no use to humankind. God will ask them to account for the good they did not do.
 
 ## Prayer
 
-Prayer is pleasing to God when it rises from the heart.
+Prayer is always pleasing to God when it rises from the heart, for intent is everything to God. A prayer from the heart is preferable to one that is read, no matter how beautiful it may be, if it is read more with the lips than with thought. Prayer is pleasing to God when it is offered with faith, fervor, and sincerity. God is not touched by the prayer of the vain, proud, or selfish unless that prayer represents an act of sincere repentance and true humility.
 
-Its value does not lie in beautiful wording or in the mere recitation of set formulas, but in intention. A sincere prayer, offered with faith, fervor, and honesty, is worth more than words spoken only with the lips. God is not moved by vanity, pride, or selfish display. Yet even the prayer of a flawed person may be welcomed when it expresses genuine repentance and true humility.
+Prayer is an act of worship. To pray to God is to think of God, draw nearer to God, and put oneself in communication with God. Through prayer one may do three things: praise, ask, and thank.
 
-### The Nature of Prayer
+Prayer does make people better, because those who pray fervently and confidently strengthen themselves against the temptations of evil, and God sends them good spirits to assist them. Such help is never refused when sincerely asked.
 
-Prayer is an act of worship.
+What is essential is not to pray a great deal, but to pray rightly. Certain people who pray a great deal are nevertheless jealous, envious, cantankerous, lacking in benevolence and forbearance, and even cruel, because they imagine that all merit lies in the length of the prayer while closing their eyes to their own defects. For them, prayer is an occupation, a use of time, but not self-examination. It is not the remedy itself that is ineffectual, but the way in which it is applied.
 
-To pray is to think of God, draw near to God, and place oneself in communion with God. In prayer, three movements are joined together: praise, petition, and thanksgiving. One may honor God, ask for help, and give thanks for what has been received.
+One may ask God to forgive one’s sins, but God knows how to discern between good and evil, and prayer does not hide sins. Those who ask God to forgive their sins do not receive forgiveness unless they change their conduct. Good deeds are the best prayers, for deeds are worth more than words.
 
-Prayer is not merely speech. It is an inward turning of thought and will toward what is higher. Its reality is measured by sincerity, not by duration.
+One may pray effectively for others. The spirit of the one who prays acts out of a will to do good. Through prayer it attracts good spirits who cooperate in the good it desires to do.
 
-### Prayer and Moral Transformation
+Through thought and will there is an inner power of action that extends far beyond the limits of the corporeal sphere. A prayer for others is an act of that will. If it is ardent and sincere, it can call good spirits to the aid of those for whom it is offered, so that those spirits may suggest good thoughts to them and give them the needed strength for body and soul. But even then, prayer from the heart is everything; prayer from the lips is nothing.
 
-Rightly practiced, prayer helps make people better.
+Prayers offered for oneself cannot modify the nature of trials or change their course. Trials are in God’s hands, and some must be endured to the very end; however, God always takes resignation into account. Prayer attracts good spirits who give strength to endure trials courageously; thus, they seem less difficult. Prayer is never useless when rightly offered, because it provides strength, which is itself a good result. Heaven helps those who help themselves. Besides, God cannot change the workings of nature to suit the preference of each individual, since what may appear a great evil from a narrow point of view and for ephemeral life is often a great good within the general order of the universe. Furthermore, many misfortunes are brought about by people themselves through their own improvidence or wrongdoing; they are punished for their own faults. Nevertheless, just requests are heard more often than might be supposed. One may think that God has not heard prayer because there has been no miracle, while divine assistance has in fact been received through means so natural that it seems to have happened by chance or necessity. Most often, God suggests the thought needed for people to get themselves out of their predicament.
 
-Those who pray with fervor and confidence strengthen themselves against the temptations of evil. In response, good spirits come to assist them. Such help is not refused when it is sincerely sought.
+It is useful to pray for the dead and for suffering spirits. Prayer does not change God’s designs, but the soul for whom one prays experiences relief because it sees the interest shown in it, and because an unhappy soul is always consoled when it encounters charitable souls who share in its suffering. Through prayer one may encourage repentance and the desire to do what is needed to become happy. In this sense, its affliction can be shortened if, for its part, it contributes through its own goodwill. Aroused by prayer, such a desire to improve attracts to the suffering spirit other spirits who come to enlighten, console, and give it hope. Jesus prayed for the straying sheep. In doing so, he showed that one is culpable if one does not pray for those who are most in need.
 
-This does not mean that everyone who prays often is necessarily morally transformed. Some pray at great length and remain jealous, harsh, envious, impatient, or cruel. The problem is not prayer itself, but the way it is used. When prayer becomes a habit without self-examination, it loses much of its power. Long prayers do not compensate for uncorrected faults. Prayer is not effective as a mere occupation or outward practice; it becomes fruitful when joined to honest inner reform.
+The opinion that rejects prayer for the dead because it is not prescribed in the Gospels is answered by Christ’s words to all humankind: “Love one another.” This recommendation implies using all possible means to demonstrate love toward others, without going into detail regarding the way to reach this goal. If it is true that nothing can turn God aside from applying divine justice to every one of a spirit’s actions, it is no less true that prayer directed to God on behalf of those who inspire love is for them a testimony of remembrance that consoles them and contributes to relieving their sufferings. They can be helped when, and only when, they show the slightest repentance, but even then they never forget that a sympathetic soul has been concerned about them. This instills in them the sweet belief that such intercession has been useful. It necessarily results in a sentiment of love for the one who has shown this proof of friendship and piety. Consequently, the love recommended to humankind by Christ increases between them, and both have obeyed the law of love and union of all beings, the divine law that must lead to unity, the spirit’s objective and purpose.
 
-### Prayer and Forgiveness
-
-Prayer alone does not conceal faults or erase wrongdoing.
-
-God distinguishes clearly between good and evil. Asking for forgiveness has value only when accompanied by a real change of conduct. Good actions are the strongest prayers, because deeds carry more weight than words. Repentance must be lived, not simply spoken.
-
-### Prayer for Others
-
-Prayer offered for others can be effective.
-
-When someone prays for another person with a true desire to do good, that intention becomes an active force. Through prayer, the soul attracts good spirits who cooperate in the good that is sought. Human thought and will possess a field of action wider than the limits of bodily life, and intercessory prayer is one expression of that power.
-
-A sincere and ardent prayer for another may draw helpful spiritual assistance around that person. Good spirits may inspire better thoughts, strengthen courage, and provide support for both body and soul. Here again, what matters is not verbal form, but inward reality. Prayer from the heart acts; prayer from the lips alone does not.
-
-### Prayer, Trials, and Suffering
-
-Prayer does not abolish every trial, nor does it overturn the order established by God.
-
-Some trials must be endured to the end. Yet prayer is never useless when offered rightly, because it brings strength, resignation, and courage. By attracting good spirits, it helps a person bear suffering more calmly, and what once seemed unbearable may become lighter.
-
-Divine help does not usually appear through spectacular interruptions of natural law. God does not alter the order of nature to satisfy each individual preference. What seems a great evil from a narrow human point of view may serve a greater good within the wider order of life. Many misfortunes also arise from human imprudence or wrongdoing, and people often suffer the consequences of their own acts.
-
-Even so, just prayers are heard more often than people suppose. Help is frequently given through simple, natural means that appear to be chance or necessity. A needed thought, a wiser decision, a timely opportunity, renewed courage—these may all be forms of divine assistance. Heaven helps those who help themselves.
-
-### Prayer for the Dead and for Suffering Spirits
-
-Prayer for the dead and for suffering spirits has value.
-
-It does not alter divine justice or reverse the designs of God. But it does bring relief to the soul for whom one prays. A suffering spirit is consoled by the knowledge that it is remembered and loved. The sympathy of charitable souls eases loneliness and awakens hope.
-
-Such prayer can also encourage repentance. It may stir in the suffering spirit the desire to do what is necessary for its own improvement and peace. When this desire awakens, other spirits can draw near to enlighten, comfort, and strengthen it. In this way, affliction may be shortened—not by evading justice, but by helping the soul cooperate willingly in its own progress.
-
-To pray for those most in need is an act of charity. Neglecting those who wander or suffer is a failure of love.
-
-### Why Prayer for the Dead Is an Act of Love
-
-Love does not cease with bodily death.
-
-The command to love one another includes using every possible means to express that love. Prayer on behalf of the departed is one such means. Even if nothing can deflect divine justice from weighing each spirit’s actions, remembrance still matters. A prayer offered for a departed soul is a sign of affection and fidelity. It consoles, relieves suffering, and may help awaken repentance where even the smallest opening remains.
-
-Such prayer also deepens the bond of love between souls. The one who prays offers friendship and piety; the one who receives that remembrance responds with gratitude and affection. In this mutual exchange, the law of love is fulfilled more completely. All beings are called toward union, and love is one of the means by which that unity advances.
-
-### Prayer to Spirits
-
-Prayer may be addressed to good spirits.
-
-Good spirits are messengers of God and instruments of the divine will. Their power corresponds to their degree of advancement, but whatever power they have always comes from the Creator. Nothing is done independently of God.
-
-For that reason, prayers directed to good spirits are effective only insofar as they accord with the divine will. They are not prayers to beings acting by their own separate authority, but requests made to servants of a higher order who cooperate in God’s designs.
+One may pray to spirits. One may pray to good spirits since they are the messengers of God and the executors of the divine designs. Their power, however, is in proportion to their degree of evolution and always derives from the Creator of all things, without whose permission nothing is done. For this reason, prayers addressed to them are effective only if pleasing to God.
 
 ## Polytheism
 
-Polytheism arose naturally in the early stages of human thought.
+Polytheism is one of the most ancient and widespread beliefs, because the idea of one God could only have been conceived as human understanding developed. Incapable, in their ignorance, of conceiving an immaterial being without determinate form and acting upon matter, people attributed to God the properties of corporeal nature, that is, a form and a figure. From then on, everything that seemed to surpass the proportions of ordinary intelligence became for them a divinity. Whatever they did not understand had to be the work of a supernatural power, and from that to admitting as many distinct powers as there were effects was only a short step. Yet in all times there have been enlightened people who understood the impossibility of this multitude of powers governing the world without a superior direction, and who rose to the thought of one God.
 
-The idea of one God is not usually the starting point of religious understanding. It appears more clearly as the mind develops and becomes capable of conceiving an immaterial being without form, beyond matter and yet acting upon it. In earlier times, people struggled to imagine such a reality. They gave the divine attributes of bodily nature: shape, figure, and visible presence.
+Since spirit phenomena have occurred in all times and have been known from the earliest ages of the world, they may have contributed to belief in a plurality of gods. People called god everything that was superhuman; spirits were therefore gods to them. Likewise, whenever a person distinguished himself among others by actions, genius, or a secret power that the common people could not comprehend, he was made into a god and worshiped after death.
 
-From there, anything that seemed to exceed ordinary human power was treated as divine. Whatever could not be understood was attributed to a supernatural force, and it was easy to conclude that there must be as many distinct powers as there were different effects in the world.
+Among the ancients, the word god had a very broad meaning. It was not, as nowadays, a personification of the Lord of nature, but a generic designation given to every being outside the conditions of humanity. Since spirit manifestations had revealed to them incorporeal beings acting as powers of nature, they called them gods, just as we call them spirits. It is only a question of words, with the difference that in their ignorance, maintained by those who had an interest in maintaining it, they raised temples and altars to them that were very profitable, whereas for us spirits are only creatures like ourselves, more or less perfect, and stripped of their earthly envelope. If the various attributes of the pagan divinities are carefully studied, all those that characterize spirits at every degree of the spirit scale can easily be recognized in them, as can their physical state in more advanced worlds, all the properties of the perispirit, and the role they play in earthly affairs.
 
-Even so, there have always been more reflective individuals who perceived that such a multitude of powers could not govern the universe independently. They recognized the need for a higher direction above them all, and their thought rose toward one God.
-
-### Spirit Manifestations and the Many Gods
-
-The widespread belief in many gods was also reinforced by spirit manifestations, which have existed in every age.
-
-Human beings once called god everything that seemed more than human. Spirits, being invisible intelligences acting beyond ordinary material limits, were therefore regarded as gods. In the same way, certain individuals who stood out through their deeds, genius, or unusual power that the crowd could not explain were elevated after death into the rank of gods and became objects of worship.
-
-Among ancient peoples, the word god had a much broader meaning than it usually has now. It did not refer exclusively to the supreme Author of nature, but served as a general name for beings considered above the human condition. Since manifestations revealed incorporeal beings acting as forces within nature, those beings were called gods, much as they are now called spirits.
-
-The difference is largely one of language. Yet an important practical difference followed from ignorance, especially when that ignorance was maintained by those who profited from it. From that confusion came temples, altars, and forms of worship directed toward beings who were not the supreme God.
-
-Spirits, however, are not divinities in the absolute sense. They are created beings like us, though at different degrees of development and perfection, and no longer clothed in a physical body. Many attributes assigned to the gods of paganism can be understood in this light. Their various powers, ranks, modes of action, and relations with earthly life correspond closely to the different conditions of spirits, to their capacities, to the qualities of their spiritual envelope, and to the roles they may fulfill in relation to the world.
-
-### From Many Gods to One God
-
-The movement toward monotheism did not require the denial of all the phenomena that had helped generate polytheism. What changed was their interpretation.
-
-With the spread of clearer religious light, worship was redirected toward the One to whom it truly belongs. The reality of spiritual beings did not disappear. Their memory continued under different names and in different cultures, and their manifestations never ceased. What varied was the way these manifestations were understood.
-
-At times they were treated as miracles. At other times they were dismissed as fraud. They were often surrounded by secrecy, superstition, or exploitation. More careful and open study made it possible to separate the facts from the errors that had long obscured them.
-
-Seen in this way, the old belief in many gods is not simply a meaningless error. It reflects an imperfect reading of a real aspect of nature: the action of spiritual beings upon the world. The mistake lay in taking created spirits for divine powers and in giving to many what belongs only to God.
-
-A more mature understanding preserves what is true in the experience while correcting the interpretation. There is only one God, the supreme source and ruler of all. Spirits exist, act, and differ greatly among themselves, but they remain created beings subject to the universal order, never rivals of the One who governs all.
+When Christianity came to enlighten the world with its divine light, it could not destroy something rooted in nature; instead, it directed adoration to the One to whom it belongs. As for spirits, their remembrance has been perpetuated under various names according to different peoples. Their manifestations, never having ceased, have been interpreted in different ways and often exploited under the veil of mystery. Religion has seen in them miraculous phenomena; unbelief has regarded them as charlatanism. Today, through more serious study carried out in broad daylight, Spiritism, freed from the superstitious ideas that obscured it for centuries, reveals one of the greatest and most sublime principles of nature.
 
 ## Sacrifice
 
-Human sacrifice arose from ignorance about the divine nature.
+The practice of human sacrifice dates back to the remotest antiquity. Humankind was led to believe that such a thing could be pleasing to God, first because people did not understand God as the source of the good. Among primitive peoples, matter predominated over spirit. They yielded to their animal instincts, and that is why they were generally so cruel, for their moral sense had not yet developed. Second, primitive humans naturally believed that a living creature had much more value in God’s sight than an inert object. This led them first to immolate animals and later humans because, according to their erroneous belief, they thought the value of a sacrifice was in proportion to the importance of the victim. Usually, when you buy a gift for someone, you choose one whose value reflects the friendship and consideration you wish to show. The same applied to ignorant humans with respect to God.
 
-Early peoples did not yet understand God as the source of all good. Matter held greater sway over them than spirit, and they remained strongly subject to instinct. Because their moral sense was still undeveloped, cruelty was common. They also assumed that the value of an offering depended on the value of what was destroyed. A living being seemed to them more precious than an inert object, so they imagined that the more costly the victim, the more pleasing the sacrifice would be to God.
+The sacrifice of animals preceded that of human beings.
 
-This mistaken logic first led to the sacrifice of animals and only later to that of human beings. The original impulse was not necessarily cruelty in itself, but a false idea of what worship required. Over time, however, abuse grew worse, and people came to immolate enemies, whether national or personal. Yet God has never demanded sacrifices, animal or human. The useless destruction of living creatures cannot honor the One who created them.
+Human sacrifices did not originate from a sentiment of cruelty, but from a mistaken concept of what was pleasing to God, as in the case of Abraham. In time, people came to abuse the practice by immolating their national enemies and even their personal enemies. However, God has never demanded sacrifice, whether animal or human. God can never be honored by the useless destruction of God’s own creatures.
 
-### Human Sacrifice and Intention
+Human sacrifices could never have been pleasing to God, even if performed with pious intentions. But God does judge the intention. Since they were ignorant, those ancients may have believed they were performing a praiseworthy deed in immolating one of their fellow beings. In that case, God would have regarded the thought but not the deed. As they evolved, human beings had to recognize their error and reject such sacrifices, which could no longer be acceptable to enlightened spirits. Back then, spirits were shrouded by the veil of matter. By their free will, however, people were able to perceive their origin and their final purpose, and many already intuitively understood the evil they were committing, although, in order to continue gratifying their passions, they did not cease practicing it.
 
-No human sacrifice has ever been pleasing to God, even when offered with sincere devotion.
+So-called holy wars proceed from the same origin only insofar as fanatical peoples think they are pleasing God by exterminating the greatest possible number of those who do not share their beliefs. Such peoples are driven by evil spirits. By waging war on their fellow beings, they act against the will of God, who requires that people love their neighbors as themselves. All religions, or rather all peoples, worship the same God, whether under one name or another. There is no reason to wage a war of extermination because a religion is different or has not yet attained the religious progress typical of enlightened cultures. Peoples may be excused for not believing the word of the one who was animated by the Spirit of God and sent by God, especially when they have neither seen God nor witnessed the divine acts. They cannot be expected to believe that word of peace when they are approached by those bearing a sword. They must be educated and enabled to understand his doctrine by persuasion and kindness rather than by force and blood. Most do not believe in communications with certain mortals, so strangers cannot be expected to believe such words when acts belie the doctrine professed.
 
-Intention, however, is not ignored. In ages of ignorance, people could believe they were performing a worthy act by sacrificing one of their fellow beings. In such cases, what was regarded was the thought behind the action, not the action itself. As humanity advanced, it had to recognize the error and reject such practices. What might once have been done in blindness could no longer be excused once greater understanding had been attained.
+The offering of the fruits of the earth had more merit in God’s sight than the sacrifice of animals. God judges the intention; the deed itself has little importance. Offering the fruits of the earth rather than the blood of victims would obviously be more agreeable to God. A prayer spoken from the depths of the heart is a hundred times more pleasing to God than all the physical offerings that could be made. The intention is everything; the deed, nothing.
 
-Even in earlier times, many were not entirely without inner warning. Though still veiled by material influences, human beings could, by the use of free will, glimpse their origin and their destiny. Many already sensed the evil of what they were doing, yet continued because they did not want to renounce the passions that such acts served.
+Offerings would be more pleasing to God if they were consecrated to the relief of those who lacked the necessities of life. The sacrifice of animals, if directed toward such a useful end, would have been more meritorious than an abusive sacrifice that served no useful purpose or profited only those who lacked nothing. There would be something truly pious in consecrating to the poor the firstfruits of the earth that God has granted us.
 
-### Holy Wars
-
-The same false spirit that once inspired human sacrifice also appears in so-called holy wars.
-
-Whenever people imagine they please God by exterminating those who do not share their beliefs, they act against the divine will. Such violence does not come from God. It is stirred by lower influences and by the corruption of fanaticism. God requires human beings to love their neighbors as themselves, not to destroy them in the name of religion.
-
-All peoples direct their worship toward the same God, even when they use different names or remain at different stages of religious understanding. For that reason, wars of extermination in defense of belief are profoundly misguided. A people may be excused for not yet accepting a doctrine it does not know or understand. But no one should expect others to believe a message of peace when it is presented with violence. Truth must be taught through persuasion, patience, and kindness, never through bloodshed.
-
-Conduct matters as much as words. When actions contradict the doctrine one claims to uphold, they undermine any profession of faith.
-
-### The True Value of Offerings
-
-Material offerings have little value in themselves. What matters is the intention behind them.
-
-An offering drawn from the fruits of the earth is more fitting than one made through the shedding of blood, but even here the outward deed is secondary. A prayer rising sincerely from the heart is more pleasing to God than any external gift. The worth of worship lies in inward disposition, not in the material form it takes.
-
-### Charity as the Best Offering
-
-The most worthy consecration of earthly goods is their use for the relief of those in need.
-
-To devote the firstfruits of the earth to the poor, the afflicted, and those lacking necessities is a truer act of piety than destroying them in sacrifice. Even the offering of animals, if directed toward some genuine human need, would be better than wasteful ritual that serves no useful end or benefits only those who already have abundance.
-
-God blesses those who do good. Helping the poor and comforting the suffering is the best way to honor God. Ceremonies of worship are not condemned in themselves, but much that is spent on outward observance could often be used more wisely and more charitably.
-
-Simplicity accords with the divine order. To value externals above the movements of the heart is spiritual narrowness. What deserves priority is not display, but sincerity; not form, but depth.
+God always blesses those who practice good. Helping the poor and afflicted is the best means of honoring God. This does not mean that God disapproves of the ceremonies used in prayer; however, a great deal of money spent on such ceremonies could be employed more usefully. God loves simplicity in all things. The person who attaches importance to external acts and not to those of the heart is a narrow-minded spirit. God should be honored more through depth than through form.

@@ -5,384 +5,232 @@ sidebar_label: 2.7 Returning to Earthly Life
 
 ## Preludes to the Return
 
-Spirits generally sense that reincarnation is approaching, though they do not know the exact moment when it will occur. Their awareness resembles that of a blind person who feels the heat of a nearby fire: the approach is real and unmistakable, even if its precise instant remains hidden. In this way, reincarnation is as much a necessity of spirit life as death is a necessity of bodily life.
+Spirits can sense the time when they will have to reincarnate, much as a blind person senses the fire they are approaching. They know they must return to a body just as you know you must die someday, though without knowing when it will happen. Reincarnation is a necessity of spirit life, just as death is a necessity of corporeal life.
 
-Not all spirits concern themselves equally with this return. Much depends on their degree of advancement. Some barely think about it and do not clearly understand it. For less advanced spirits, uncertainty about the life ahead can itself be a punishment.
+Not all spirits concern themselves with their approaching reincarnation. Some never give it a thought and do not even comprehend it. This depends on their degree of advancement. For some, uncertainty about their future life is itself a punishment.
 
-A spirit may hasten reincarnation through a strong desire to advance. It may also try to delay the moment out of fear of the coming trial. Among spirits, as among human beings, there are those who recoil, hesitate, or remain indifferent. Yet delay carries consequences. Refusing a needed return is like refusing a remedy that could restore health: the postponement does not remove the need, but increases the suffering.
+Spirits may hasten the moment of reincarnation through strong desire. They may also delay it if they recoil from the upcoming trial, since among spirits there are cowardly and indifferent ones. However, they do not delay it with impunity; they suffer for it, like those who refuse the medicine that could restore them to health.
 
-No spirit can remain indefinitely in the wandering state between incarnations. Even if a spirit is relatively content in that condition and feels little ambition to improve, progress remains unavoidable. Sooner or later, every spirit feels the necessity of moving forward. Advancement is not optional; it belongs to the destiny of all.
+If a spirit felt content in an ordinary condition among discarnate spirits and had no ambition to evolve, it still could not prolong its errant state indefinitely. Advancement is a necessity, and spirits sense this sooner or later. All must evolve; it is their destiny.
 
-The connection between a spirit and a particular body is not improvised at the last instant. It is designated beforehand. When a spirit chooses the kind of trial it wishes to undergo, it thereby asks to reincarnate, and the union with a fitting body is foreseen within the universal order. In some cases, a spirit may also choose the body itself, because bodily limitations and imperfections can become part of the trial needed for growth. By overcoming the obstacles arising from such a body, the spirit advances.
+The union of a soul with a particular body is always designated beforehand. In choosing the trial it wishes to undergo, the spirit asks to reincarnate, and God, who sees and knows everything, sees and knows beforehand that a particular soul will unite with a particular body.
 
-This choice is not always fully in the spirit’s hands. It may ask, but it does not always decide freely. If, at the final moment, it refuses to enter the body it had accepted, the suffering that follows is even greater than that of a spirit that had not taken on a new trial at all.
+A spirit may also choose its body because that body’s imperfections will provide the trials that may aid its advancement if it overcomes the obstacles it encounters. This choice is not always left to the spirit, but it may at least ask for it.
 
-No child destined to be born alive is left without a soul. If no spirit willingly presented itself for a given incarnation, divine providence would still provide. Nothing is without design. In some cases, union with a particular body may even be imposed. This may happen when a spirit is not advanced enough to choose consciously, or as a form of expiation, when the conditions of that birth and the future position of the child in the world become a means of correction and just consequence.
+At the last moment, a spirit can refuse to enter the body it has chosen. But if it does refuse, it will suffer much more than one who had not undertaken a new trial in the first place.
 
-If several spirits desired the same body, the decision would not rest with them alone. Many may request the same incarnation, but the final determination belongs to God, who knows which spirit is best suited to fulfill the mission linked to that life.
+There cannot be a case in which no spirit is willing to incarnate in a particular unborn child. God would provide for this. When a child is to be born alive, it is always predestined to have a soul; nothing is created without design.
 
-The moment of incarnation is accompanied by a confusion greater and longer than the confusion following death. At death, the spirit leaves bondage; at birth, it enters it. Reincarnation is therefore a grave moment. It resembles the departure of a traveler embarking on a dangerous voyage, aware of the risks ahead but unable to know with certainty whether it will endure them well.
+The union of a spirit with a particular body may be imposed by God, just as other trials may be imposed, especially when the spirit is not yet able to make a conscious choice. As an expiation, a spirit may also be compelled to unite with the body of a particular child who, by birth and by the position it will occupy in the world, may become a means of punishment for that spirit.
 
-A spirit knows the general kind of trials that await, but not whether it will succeed or fail. This uncertainty naturally produces deep anxiety, because the trials of earthly existence may either delay or hasten progress according to how they are borne.
+If several spirits present themselves to occupy the same body, many may indeed request the same body. In such cases, God decides which one is best suited to fulfill the mission for which the child is destined. As already stated, the spirit is designated before the instant at which it is to join the body.
 
-There is a profound parallel between death and reincarnation. The death of the body is a rebirth for the spirit, while reincarnation is, for the spirit, a kind of death—more precisely, a kind of exile and confinement. It leaves the spirit world for the corporeal world just as, after earthly life, it leaves the corporeal world for the life of spirits. The spirit knows that it must return, just as a human being knows that death will come, but the full reality of the event is only felt at the appointed time. Then confusion overtakes it, similar to the final agony of death, and this state lasts until the new existence is firmly established. The beginning of reincarnation is thus like a death struggle for the spirit.
+The moment of incarnation is accompanied by a state of confusion similar to that following discarnation, but much greater and much longer. At death, a spirit escapes slavery; at birth, it enters it.
 
-For spirits belonging to more elevated spheres, this departure is often softened by affection. Spirits who love them may accompany them to the last moment, encouraging them as they prepare for incarnation. Some even continue to follow them during earthly life.
+The moment of incarnation is solemn for the spirit. It is like a traveler embarking on a dangerous voyage, not knowing whether death lies ahead on the waves.
 
-### The Return to Corporeal Life
+Travelers who set out on a voyage know they will be exposed to dangers, but they do not know whether they will run aground. The same applies to a spirit. It knows the kind of trials to which it will be submitted, but not whether it will fail.
 
-The spirit friends who accompany a person through life are often the very ones who appear in dreams with signs of affection, even when they are not physically recognized. They visit those they love much as one would visit a prisoner in confinement.
+Just as the death of the body is a kind of rebirth for the spirit, reincarnation is a kind of death—or rather, a kind of exile and confinement. The spirit leaves the spirit world for the corporeal world just as, after having been human, it leaves the corporeal world for the world of spirits. A spirit knows it will reincarnate, just as a human being knows they will die. Like human beings, however, the spirit becomes fully aware of it only at the last moment, when the appointed time has arrived. Then, in that supreme moment, confusion takes hold of it, similar to someone in the throes of death. This confusion lasts until the new existence is firmly established. Thus, the commencement of reincarnation is a kind of death throes for the spirit.
 
-Corporeal life is indeed a confinement for the incarnate spirit. Though necessary for progress, it places the spirit under limits it did not have in freedom. The presence of faithful spirit companions helps ease that condition. Their nearness is one of the consolations granted during earthly existence, and their affection may still be felt in sleep, when the soul is less tightly bound to the body.
+A spirit’s uncertainty about whether it will successfully endure the trials it will experience in life is a cause of great anxiety before incarnation, because the trials of existence will either delay or hasten its evolution, depending on whether they are borne well or badly.
 
-## The Joining of the Soul with the Body
+At the moment of reincarnation, the spirit may be accompanied by spirit friends who come to assist with its departure from the spirit world, just as they come to meet it when it returns. This depends on the sphere the spirit inhabits. If it belongs to a sphere in which affection reigns, spirits who love it accompany it to the last moment, encouraging it and often even following it during its lifetime.
 
-The union of the soul with the body begins at conception and is completed at birth.
+## The Return to Corporeal Life
 
-From conception onward, the spirit destined for a given body is linked to it by a fluidic bond that gradually tightens until the moment of birth. The newborn’s first cry marks its entrance into the world of the living.
+The spirit friends who follow us throughout life are often the same ones we sometimes see in dreams, showing their affection for us even though we do not physically recognize them. They come to visit us as one would visit a prisoner in jail.
 
-This union is definitive in one sense: no other spirit can take the place of the one designated for that body. Yet in the earliest stage, the bond is still very delicate. Because of that fragility, it may be broken if the spirit withdraws from the trial it had accepted. When this happens, the child does not survive.
+## The Joining of the Soul with the Body; Abortion
 
-If the body chosen by a spirit dies before birth, the spirit chooses another. Such premature deaths often result from the imperfections of matter. In some cases, the spirit attached to a body that lives only a few days after birth derives almost no personal consequence from that brief incarnation, because its consciousness of earthly existence is not yet sufficiently developed. These events are often allowed as a trial for the parents.
+The union begins at conception but is complete only at birth. From the moment of conception, the spirit designated to inhabit a given body is connected to it by a fluidic tie, which grows tighter and tighter until the child is born. The newborn’s cry announces that it has entered the number of the living and of the servants of God.
 
-A spirit may sometimes know in advance that the body it has chosen will not survive. If it chooses such a body for that reason, it may be seeking to avoid the trial that awaited it.
+The union between spirit and body is definitive from the moment of conception in the sense that no other spirit can replace the one designated for that particular body. However, since the ties that bind it are still very tenuous and easy to break, they may be severed by the will of a spirit that recoils from the trial it has chosen. In that case, the child does not survive.
 
-When an incarnation fails, another earthly existence is not always given immediately. The spirit may need time before making a new choice, unless an immediate reincarnation had already been determined.
+If the body a spirit has chosen dies before birth, the spirit chooses another. The imperfections of matter are frequently the cause of such deaths.
 
-Once a spirit is firmly united to a child’s body and can no longer withdraw, it does not regret the choice it made before incarnation, because it no longer remembers having made that choice. As an incarnate being, however, it may find life’s burden too heavy and may complain of its condition. In extreme weakness, it may even attempt to escape through suicide.
+A spirit can derive little benefit from incarnating in a body that dies a few days after birth. Such a being does not yet have a sufficiently developed consciousness of its existence; the importance of its death is almost null. Such cases are often meant as a trial for the parents.
 
-### The Spirit Between Conception and Birth
+A spirit sometimes knows beforehand that the body it has chosen will have no chance of surviving. If it chooses it for that reason, it does so in order to avoid its upcoming trial.
 
-Between conception and birth, the spirit does not enjoy the full exercise of its faculties. Its condition varies according to the stage of gestation.
+When a particular incarnation fails for a spirit for any reason, another existence is not always furnished immediately. The spirit may require time to make another choice, unless an immediate reincarnation had previously been decided.
 
-At conception, confusion begins to envelop the spirit, warning it that a new existence is about to start. This confusion increases as birth approaches. During that interval, its condition resembles that of an incarnate spirit during sleep: attached, present, but not yet fully engaged in bodily life.
+Once definitely united to the body of a child and no longer able to withdraw, a spirit may, as an incarnate spirit, complain about its life or wish to have another, but it does not regret the choice it made, because it no longer remembers having made it. Once incarnate, a spirit cannot regret a choice of which it has no awareness, but it may find the burden too heavy, and if it believes the burden exceeds its strength, it may resort to suicide.
 
-As birth nears, its ideas become obscured, and the memory of the past is erased from conscious awareness. Once earthly life has resumed, that memory is no longer available to it. It returns little by little only after the spirit reenters the spirit state.
+In the interval between conception and birth, spirits enjoy their faculties more or less, depending on the stage of gestation, because during that time they are not yet fully incarnated; they are only attached to the body. At conception, confusion begins to envelop the spirit, warning it that the time has come to begin a new existence. This confusion increases until birth. Meanwhile, its state is more or less that of an incarnate spirit during sleep. As the moment of birth approaches, its ideas are erased, as is its memory of the past, of which it is no longer conscious once it returns to life on Earth. But this memory returns little by little when it reenters the spirit state.
 
-At birth, the spirit does not instantly recover the full use of its faculties. These unfold gradually as the bodily organs develop. Entering a new existence, it must learn to use its new instruments. Its ideas reawaken progressively, like those of someone rising from sleep and finding himself in circumstances entirely different from those of the day before.
+At birth, spirits do not immediately recover the fullness of their faculties. The faculties develop gradually with the organs. Spirits find themselves in a new existence and must learn to use their bodily instruments. Their ideas return little by little, like those of people waking from sleep and finding themselves in a different situation from the one they were in the day before.
 
-### The Soul of the Fetus
+Since the union of a spirit with its body is not complete and definitively consummated until after birth, the fetus may be considered to have a soul only in the sense that the spirit who must animate it exists, so to speak, outside it. Strictly speaking, the fetus has no soul, since the current incarnation is only in the process of being accomplished. Nevertheless, the fetus is linked to the soul it will have.
 
-Because the union between spirit and body is not fully completed until birth, the fetus cannot, in the strictest sense, be said to possess a soul in the same way as a child already born. The spirit meant to animate it exists, as it were, outside it while the incarnation is still being accomplished.
+Intrauterine life is like that of a germinating plant. The fetus lives a corporeal, animal-like life. As a fetus, the human being already has within itself a vegeto-animal life, which at birth is completed by spiritual life.
 
-Even so, the fetus is linked to the soul that will belong to it.
+There are infants who, even in their mother’s womb, have no possibility of surviving. This is common, and God permits it as a trial either for the parents or for the spirit appointed to animate the child.
 
-Intrauterine life may be understood by comparison with a germinating plant. The fetus lives an animal-like corporeal life. Before birth, the human being possesses vegetative and animal life, and at birth this is completed by spiritual life.
+There are stillborn infants who were not meant for a spirit to incarnate in them in the first place. Some never had a spirit destined for their bodies; nothing would have been accomplished in them. In such cases, the child is delivered solely for the parents.
 
-### Infants Who Cannot Survive
+A being of this nature may sometimes be carried to term, but it does not survive. Every child that survives necessarily has a spirit incarnated in it. Without a spirit, it would not be a human being.
 
-Some infants, even in the womb, have no possibility of surviving. Such cases are common and are permitted as a trial either for the parents or for the spirit appointed to animate the child.
+The consequences of abortion for a spirit are that its existence is nullified and must be begun again.
 
-There are also stillborn infants for whom no spirit was ever destined to incarnate. In such cases, nothing would have been accomplished through that body. Their birth occurs solely as a trial for the parents. Such a body may sometimes be carried to term, but it does not survive.
+Artificial abortion is a crime regardless of the stage of conception. A crime is always committed when the law of God is transgressed. The mother, or any other person involved, commits a crime by taking the life of a child before birth because this prevents a soul from undergoing the trials for which the unborn child’s body was to have been the instrument.
 
-Every child that survives has an incarnated spirit within it. Without a spirit, it would not be a human being.
+In cases where the mother’s life would be endangered by the birth of the child, it is better to sacrifice the being who does not yet exist than the one who already exists.
 
-### Abortion
-
-For the spirit, abortion nullifies the existence that was being prepared, and that existence must be begun again.
-
-Artificial abortion is a moral wrong whenever it deliberately violates divine law. To take the life of a child before birth is to prevent a spirit from undergoing the trials for which that body was meant to serve as the instrument.
-
-There is, however, an exception in the case where the mother’s life is endangered by the birth. In that circumstance, it is better to sacrifice the being who does not yet fully exist than the one who already exists.
-
-### Respect for the Fetus
-
-It is reasonable to treat the fetus with reverence, just as one would honor the body of a child already born.
-
-The work of God deserves respect in all its stages. No part of creation should be treated lightly, even when it appears incomplete. What is unfinished may still exist according to a divine purpose. Everything unfolds according to a higher order, and human judgment is not the measure of the value of life in formation.
+It is reasonable to treat the fetus with the same respect as the body of a child who has already survived. The will of God and the divine handiwork should be seen in everything, and what ought to be respected should not be treated lightly. All the works of creation should be respected, even those that are sometimes incomplete by the will of the Creator. Everything unfolds according to God’s designs, and no one is called upon to judge them.
 
 ## The Moral and Intellectual Faculties of Humankind
 
-A person’s moral qualities come from the qualities of the incarnate spirit.
+A person’s good or evil moral qualities reflect the qualities of the incarnate spirit. The purer the spirit, the more the person is inclined toward the good.
 
-The more purified the spirit, the stronger the inclination toward the good. When the spirit is still imperfect, moral weakness appears more easily in human character. Goodness, cruelty, generosity, selfishness, gentleness, and harshness are not accidental traits detached from the inner being. They reflect the degree of advancement of the spirit embodied in the person.
+A moral person is the incarnation of a good spirit, and a cruel person that of an imperfect spirit. It is better to say an imperfect spirit; otherwise, one might suppose there are spirits who will remain evil forever, those called demons.
 
-For that reason, it is more accurate to speak of imperfect spirits than of spirits that are evil in an absolute and permanent sense. No spirit is destined to remain forever in wrongdoing. Imperfection is a condition of incompleteness, not an eternal nature.
+Individuals in whom frivolous and foolish spirits are incarnated are thoughtless, cunning, and sometimes malicious.
 
-When frivolous and foolish spirits are incarnated, the resulting character is often marked by thoughtlessness, cunning, and at times malice. Such persons may act without seriousness or moral depth, and their behavior may show instability and poor judgment.
+Spirits do not possess passions that do not belong to humankind; otherwise, they would have passed them on.
 
-Spirits do not possess passions foreign to humankind. The passions seen in human life are the same tendencies carried by spirits themselves. If spirits had passions entirely unlike those of people, those passions would have been communicated in human existence as well. Human moral life and spirit life are therefore continuous, not separate realms governed by different emotional laws.
+It is one and the same spirit that gives an individual both moral and intellectual qualities, and these qualities depend on the degree of the spirit’s evolution. Individuals do not have two spirits within them.
 
-### One Spirit, One Individuality
+The most intelligent individuals, displaying a highly evolved spirit incarnated in them, may at times also be extremely cruel because the incarnate spirit is not sufficiently purified and because the person yields to the influence of other spirits who are even worse. A spirit progresses in an imperceptible ascending movement, but this progress is not accomplished simultaneously in every respect. During one period a spirit may advance in knowledge; during another, in morality.
 
-The same spirit gives a person both moral and intellectual qualities.
+The opinion that the various moral and intellectual qualities of humans are the product of many different spirits incarnated in them, each possessing a special aptitude, is absurd. A spirit must possess all aptitudes, and to progress it needs a unified will. If a person were a collection of spirits, this unified will would not exist. There would be no individuality, because at death all those spirits would be like a flock of birds escaping from a cage. People often complain that they do not understand certain things, yet they multiply their difficulties when a very simple and natural explanation lies close at hand. This notion is another example of taking the effect for the cause: it attributes to the human being what the pagans attributed to God. They believed in as many gods as there were phenomena in the universe. Yet even among them, sensible persons saw in those phenomena only effects whose cause was one God.
 
-Human beings do not contain one spirit for intelligence and another for morality. Knowledge, feeling, character, will, and aptitude all belong to a single center of being: the soul, or incarnate spirit. These qualities vary according to the spirit’s degree of evolution.
-
-This unity is necessary. Progress requires a unified will. If a person were made up of several spirits, each with its own special aptitude, there would be no true individuality. Personal identity would dissolve into a collection of partial influences, and moral responsibility would become impossible.
-
-At death, such a theory would imply that the supposed component spirits would separate like birds escaping from a cage. In that case, the person would never have been a real person at all, but only a temporary grouping. That idea conflicts with the permanence of identity shown by spirits in their manifestations, where they reveal themselves as distinct and continuous beings.
-
-### Uneven Development of the Faculties
-
-A highly intelligent person may still be deeply cruel.
-
-This does not mean that intelligence and morality come from different spirits. It means that the incarnate spirit has advanced more in one direction than in another. A spirit may make progress in knowledge without having achieved the same progress in moral purification. Intellectual development and moral development do not always proceed together.
-
-At the same time, a person may yield to the influence of spirits who are even more imperfect. Such influence can strengthen harmful tendencies already present, though it does not create a second self within the individual. The incarnate spirit remains one, but it may be more or less receptive to outside influences according to its own condition.
-
-Progress takes place through a gradual and almost imperceptible ascent. It is not accomplished simultaneously in every faculty. During one period, a spirit may advance especially in understanding; during another, especially in morality. This explains the mixed characters often found in human life: brilliance joined to pride, refinement joined to coldness, or kindness joined to limited understanding.
-
-### The Error of Multiple Spirits in One Person
-
-The opinion that different moral and intellectual qualities come from many spirits incarnated in one person does not withstand reflection.
-
-It confuses effects with causes. Diversity of faculties does not require a plurality of souls any more than diversity of sounds requires a plurality of kinds of air. Just as many tones can come from the same current passing through an organ, many faculties can proceed from the same spirit expressing itself in different ways.
-
-A useful comparison may be drawn from the study of matter. For a long time, people imagined a multiplicity of distinct substances because they judged only by outward appearances. Later, it became possible to understand that many varied phenomena could be produced by modifications of a single elementary matter. In the same way, the many qualities and faculties seen in a human being are manifestations of one and the same cause: the soul, or incarnate spirit.
-
-If a person’s abilities and tendencies came from separate spirits, then gaining or losing an aptitude would mean that one spirit had departed and another had arrived. The human being would become a multiple entity without stable individuality, and therefore without true responsibility. Such a view makes the problem more complicated when a simpler and more natural explanation is already present.
-
-The unity of the person rests on the unity of the spirit. From that unity come both moral accountability and the possibility of steady progress. A single being learns, errs, struggles, improves, and preserves identity through all its stages of development.
+The physical and moral realms both offer many points of comparison in this respect. Humankind believed in the multiplicity of matter as long as examination was confined to the appearance of phenomena. Nowadays it is understood that such varied phenomena may be only modifications of a single elementary matter. The various qualities and faculties are manifestations of the same cause, which is the soul, or incarnate spirit, and not several souls, just as the different sounds of an organ result from the same kind of air, not from as many kinds of air as there are sounds. The theory in question would mean that when a person loses or acquires certain aptitudes or tendencies, certain spirits have left and others have arrived, making that person a multiple being without individuality and therefore without responsibility. Moreover, this theory is contradicted by the many manifestations in which spirits prove their personality and identity.
 
 ## The Influence of the Organism
 
-When a spirit joins a body, it does not become matter.
+Upon joining the body, a spirit does not identify itself with matter. Matter is only the spirit’s envelope, just as clothing is the body’s envelope. Upon joining the body, a spirit preserves the attributes of its spirit nature.
 
-Matter is only an envelope, just as clothing is an envelope for the body. In union with the body, the spirit retains the attributes of its spiritual nature.
+A spirit does not exercise its faculties with full liberty after union with a body. The exercise of its faculties depends on the organs serving as instruments. They are weakened by the density of matter.
 
-Its essential faculties remain its own. Incarnation does not create them, replace them, or reduce the spirit to something purely material. What changes is the way those faculties are manifested during bodily life.
+Accordingly, the material envelope is an obstacle to the free manifestation of the spirit’s faculties, like opaque glass obstructing the free emission of light.
 
-### The Body as Instrument and Obstacle
+One may further compare the action of the body’s matter upon a spirit to that of muddy water, which hinders the free movement of an object immersed in it.
 
-Once united with a body, a spirit cannot exercise its faculties with complete freedom.
+The free exercise of the soul’s faculties is subordinate to the development of the bodily organs. The organs are the instruments for the manifestation of the soul’s faculties. This manifestation depends on the degree of development of the respective organs, just as the excellence of a piece of work depends on the excellence of the tool.
 
-The organs of the body are the instruments through which those faculties are expressed. Because matter is dense, it weakens their manifestation. The body may be compared to opaque glass that obstructs light, or to muddy water that hinders the movement of something immersed in it. In the same way, the material organism limits the spirit’s freedom of action.
+One must not infer from the influence of the organs that the development of cerebral structure itself produces moral and intellectual faculties. The organs do not give the faculties. One must not confuse effect with cause. The spirit always possesses the faculties proper to it. Thus, it is not the organs that give it its faculties, but rather the faculties that stimulate the development of the organs.
 
-This helps explain why spiritual capacities do not appear with equal clarity in embodied existence. A spirit may possess far more than the body can outwardly express. What becomes visible depends partly on the condition and development of the organs through which the inner faculties operate.
+According to this view, the diversity of aptitudes among individuals does not stem solely from the condition of the spirit. More precisely, the qualities of the spirit, whether more advanced or less advanced, are the basis of this diversity; however, one must also take into account the influence of matter, which hinders the exercise of these faculties to a greater or lesser degree.
 
-### The Development of the Organs
-
-The free exercise of the soul’s faculties is connected with the development of the bodily organs, because those organs are the tools of manifestation.
-
-The quality of what is expressed depends on the quality of the instrument, just as the excellence of a work depends on the excellence of the tool used to produce it. An organ that is poorly adapted or insufficiently developed can restrict expression without altering the true nature of the spirit.
-
-This must be understood carefully. The organs do not produce the faculties. They only make their expression possible under the conditions of bodily life.
-
-### Cause and Effect
-
-Cause must not be mistaken for effect.
-
-The spirit always possesses the faculties that belong to its degree of advancement. The organs do not generate intelligence, moral sense, or aptitude. On the contrary, the faculties of the spirit stimulate the development of the organs needed for their expression.
-
-Differences of aptitude among individuals are rooted chiefly in the qualities of the spirit itself, whether more or less advanced. Matter also plays a part, however, because it can hinder the exercise of those faculties to a greater or lesser extent.
-
-A spirit enters bodily life with its own predispositions. If certain parts of the brain correspond to particular aptitudes, their development should be understood as an effect of the spirit’s faculties in action, not as the source of those faculties.
-
-### Why Faculties Cannot Originate in the Organs
-
-If faculties originated in the organs alone, the human being would be nothing more than a machine.
-
-Free will would disappear, and moral responsibility with it. Genius would become a mere accident of physical structure. Scientists, poets, and artists would owe their gifts solely to the arrangement of the brain. Without a certain bodily organization, a great mind could not exist; with it, anyone might become a Newton, a Virgil, or a Raphael.
-
-The same difficulty appears even more clearly in moral life. If virtue or vice came only from bodily structure, then a saint would be saintly by anatomy alone, and a criminal would be criminal only because of a physical defect. One person would have been noble had the brain been formed differently, while another would have become depraved for the same reason. Such a view destroys the meaning of moral effort and removes true accountability from human conduct.
-
-A more coherent understanding is that the organs bear the imprint of the faculties they serve. The activity of the spirit shapes the bodily instrument, just as repeated exercise develops the muscles.
-
-### The Imprint of Habit and Faculty
-
-Certain features of the face may reveal habitual drunkenness. Yet those features do not cause the addiction; the addiction produces the features. In the same way, bodily organs may reflect the exercise of the spirit’s faculties without being their source.
-
-The organism receives the mark of the spirit’s tendencies and powers. It is shaped for expression, not for origination.
-
-The body is therefore both a vehicle and a restraint: a necessary means of manifestation in earthly life, yet never the true source of intelligence, character, or moral worth.
+When the spirit incarnates, it brings certain predispositions with it, and if there is a corresponding area in the brain for each one, the development of these areas is an effect, not a cause. If the faculties originated in the organs themselves, human beings would be machines without free will and without responsibility for their actions. One would then have to accept that the greatest geniuses—scientists, poets, artists—owe their talents to chance, which has given them a special brain structure. Consequently, without this structure they would not be geniuses, and the simplest person could have been a Newton, a Virgil, or a Raphael if supplied with a certain brain structure. This assumption becomes even more absurd when applied to moral qualities. Thus, according to this theory, if Saint Vincent de Paul had been endowed by nature with a particular brain structure, he might have been a scoundrel, whereas the greatest scoundrel would only lack a certain brain structure to become someone like Saint Vincent de Paul. On the other hand, if such special structures, if they exist, are effects developed by the exercise of faculties, like muscles developed by movement, then nothing seems unreasonable. A simple comparison, though a true one, may be made: by certain facial traits one recognizes that a person is given to alcohol. These traits do not make the person an alcoholic; alcoholism produces the traits. Thus one may safely say that the organs receive the imprint of the faculties.
 
 ## Mental Impairment and Insanity
 
-Mental impairment does not mean that a person has a lesser soul.
+There is no basis for the opinion that mentally impaired individuals have a soul of a less evolved nature. They have a human soul that is often more intelligent than one might think, and that suffers immensely from the insufficiency of its means of communication, just as a mute person suffers from being unable to speak.
 
-A human being in such a condition still possesses a human soul, and that soul may be far more intelligent than outward appearances suggest. Its suffering can be profound, because it may be unable to communicate through the bodily means available to it, much as a mute person suffers from being unable to speak.
+The aim of Providence in creating unfortunate beings such as the mentally impaired is that the spirits dwelling in such bodies are expiating past wrongs. They suffer from their constraints and from the impossibility of expressing themselves because of undeveloped or defective brains.
 
-Such conditions are understood as trials and expiations. The spirit inhabiting a body affected by severe limitation may be enduring the consequences of past misuse of its faculties. The suffering comes not only from the bodily condition itself, but from the inability to express thought and will through an undeveloped or damaged brain.
+It is inaccurate to say that organs do not exercise any influence on the faculties. Organs exercise a very great influence on the manifestation of the faculties, but they do not produce the faculties; that is the difference. A good musician will not make good music with a bad instrument, but that does not mean they are not a good musician.
 
-This does not mean that the organs create the faculties of the soul. The faculties belong to the spirit. But the organs strongly influence how those faculties are manifested in bodily life. A skilled musician does not cease to be skilled because the instrument is poor; yet with a damaged instrument, the music cannot be properly expressed. In the same way, a soul may possess intelligence and capacity that the body cannot adequately transmit.
+It is necessary to distinguish between the normal state and the pathological state. In the normal state, mental ability may overcome material obstacles. However, there are cases in which matter offers so much resistance that manifestations are hindered or distorted, as in mental impairment and insanity. These are pathological cases, and in such states the soul is not in possession of its full reasoning ability. This is why human law exempts such persons from responsibility for their acts.
 
-It is important to distinguish the normal state from the pathological state. Under ordinary conditions, the soul can often overcome material obstacles to some degree. But in certain cases matter resists so strongly that expression becomes hindered, distorted, or nearly blocked. Mental impairment and insanity belong to this pathological order. In such conditions, the soul is not in full possession of its reasoning power as expressed through the body. For that reason, human law rightly recognizes diminished responsibility for acts committed in such states.
+The existence of beings who, like the mentally impaired, can do neither good nor evil and therefore cannot progress, has the character of an expiation imposed for the abuse of certain faculties in a former life; it is a temporary pause.
 
-A life marked by mental impairment is not spiritually useless. Even where a person seems unable to do either good or evil in the ordinary sense, the embodied state may still serve as an expiation and as a temporary interruption in active progress. It can be a pause imposed after the abuse of particular faculties in an earlier life.
+The body of a mentally impaired person may confine a spirit that perhaps animated the body of a genius in a preceding existence. Genius sometimes becomes a curse when it is abused.
 
-For this reason, a spirit confined in the body of a mentally impaired person may once have animated the body of someone brilliant. Genius itself can become a source of suffering when misused. Intellectual greatness is not the same as moral superiority, and the most gifted minds may still carry grave debts to resolve. A present life that appears diminished may follow earlier lives of remarkable intellectual distinction.
+Moral superiority does not always imply intellectual superiority, and the greatest geniuses may have much to expiate. Consequently, they often live a present existence that is inferior to those they have already lived, and this is a source of great suffering. The impediments these spirits experience when they try to express themselves are for them like chains that fetter the movements of an active person. One may say that the mentally impaired are disabled in the brain, just as others are disabled in their limbs or eyes.
 
-The resulting suffering can be intense. For such spirits, the inability to express themselves is like being bound in chains. Their condition may be compared to bodily disability: as some are limited in movement, sight, or hearing, others are limited in the brain through which thought and will are manifested.
+In the spirit state, the mentally impaired are often conscious of their condition. They understand that the chains hindering their development are a trial and an expiation.
 
-### Consciousness of Their Condition
+The situation of the spirit in insanity is as follows: when freed from the body, the spirit receives impressions directly and acts directly upon matter. Once incarnated, however, it finds itself under entirely different conditions and needs to act with the help of special organs. If one part, or a group, of these organs is altered, the spirit’s action is interrupted: defective eyes cause blindness, defective ears cause deafness, and if the organ presiding over the manifestations of intelligence and will is partially or entirely damaged or modified, the use of such an incomplete or distorted organ results in an affliction of which the spirit is fully aware, but whose course it is powerless to stop.
 
-In the spirit state, those who lived with mental impairment are often fully aware of what their condition meant. They understand that the restraints which hindered their development were part of a trial and an expiation.
+It is always the body, not the spirit, that is disordered. But it must not be forgotten that just as a spirit acts upon matter, matter reacts upon the spirit to a certain degree. Thus, a spirit may find itself momentarily controlled by the alteration of the organs through which it manifests and receives impressions. It may happen that, with time, after insanity has lasted a long while, the repetition of the same acts ends up exerting on the spirit an influence from which it will not be freed until complete separation from every material effect.
 
-This awareness helps explain why the outward appearance of diminished intelligence can be misleading. The interior life of the spirit may remain active, lucid, and painfully conscious, even when the body provides little or no means of expression.
+Insanity sometimes leads to suicide because the spirit suffers immensely from its constraints and from the powerlessness to manifest itself freely. It then seeks in death a way to break its ties.
 
-### The State of the Spirit in Insanity
+After death, the spirit of a mentally impaired person may continue to feel the derangement of its faculties for some time, until it is completely disconnected from matter, like a person who, upon awakening, still feels the confusion into which sleep had immersed them.
 
-Insanity is understood primarily as an affliction connected with the bodily organs through which the spirit acts.
-
-Freed from the body, the spirit receives impressions directly and acts directly upon matter. In bodily life, however, it must operate through specialized organs. If one of these organs is altered or damaged, the corresponding manifestation is interrupted. Damaged eyes produce blindness; damaged ears produce deafness. In the same way, when the organs involved in the expression of intelligence and will are disturbed, the spirit can no longer use them properly. The result is a condition of confusion or derangement that the spirit experiences clearly, even though it is powerless to stop its course while embodied.
-
-In this sense, the disorder lies in the body rather than in the spirit itself. Yet the relationship is not one-sided. Just as the spirit acts upon matter, matter also reacts upon the spirit to a certain extent. A prolonged alteration in the bodily organs may temporarily dominate the spirit’s expression and impressions. When insanity lasts a long time, the repeated disorder can leave a strong effect on the spirit, and that effect is not entirely removed until the spirit is fully separated from material influence.
-
-### Suicide and the Suffering of Constraint
-
-Insanity sometimes leads to suicide because the spirit suffers deeply under its confinement.
-
-Unable to manifest itself freely, and overwhelmed by the constraint imposed by the body, it may seek in death a way to break those bonds. The act is linked to intense suffering and powerlessness rather than to freedom.
-
-### After Death
-
-After death, the spirit of a mentally impaired or insane person does not always recover immediately from the effects of its former condition.
-
-It may continue for some time to feel the derangement of its faculties, much as a person waking from sleep may still experience lingering confusion. The spirit carries a remembrance of the affliction. That memory weighs upon it, especially because it did not fully understand everything that occurred during the disordered state.
-
-The longer insanity lasted during earthly life, the longer the distress and constraint may continue after death. Even when separated from the body, the spirit can still feel, for a time, the impression of the bonds that held it. Full release comes gradually, as the connection with matter is completely dissolved and the spirit becomes fully aware of its new condition.
+The impairment of the brain can react upon the spirit after death as a remembrance. A weight bears down upon the spirit, and since it was not aware of everything that took place during its insanity, it needs time to understand its current state. That is why the longer insanity lasts during life, the longer the affliction and constraint endure after death. Once disconnected from the body, the spirit continues for some time to feel the impression of its bonds.
 
 ## Childhood
 
-The spirit animating a child’s body is not necessarily less developed than that of an adult. It may even be more advanced. What limits its expression is not the spirit itself, but the imperfection and immaturity of the bodily organs through which it must act. The spirit can only manifest itself according to the instrument available to it.
+The spirit who animates the body of a child may be as developed as, or even more developed than, the spirit of an adult if it is more evolved. Only its imperfect organs keep it from fully manifesting itself. It must act according to the instrument that serves it.
 
-In very early life, the spirit does not think with the full clarity of adult intelligence while joined to a child’s body. Since the organs of intelligence are still undeveloped, they cannot provide the same range of expression or intuition available later. For that reason, intelligence is restricted until age matures reason. The confusion that accompanies incarnation does not end abruptly at birth. It gradually clears as the organs develop.
+In a very young child, despite the obstacle imposed by the imperfection of its organs, the spirit does not think as an adult. While it is a child, it is natural that the as-yet undeveloped organ of intelligence cannot provide all the intuition of an adult. Its intelligence is therefore quite limited until age matures its reason. The confusion accompanying incarnation does not cease suddenly at birth, but dissipates gradually with the development of the organs.
 
-A child’s dreams reflect this condition. They usually do not have the character of adult dreams, but are almost always childlike in their objects and concerns. This indicates the limited mode in which the spirit’s preoccupations are then expressed.
+Observation supports this: a child’s dreams do not have the character of an adult’s dreams. Their content is almost always childish, which indicates the nature of the spirit’s preoccupations.
 
-When a child dies, the spirit should regain its former vigor once freed from the physical envelope. Even so, full lucidity does not return immediately. It is only restored completely when separation is complete and every connection between spirit and body has ceased.
+At the death of the child, the spirit should immediately regain its former vigor, since it has been freed from its physical envelope. Nevertheless, it does not regain its former lucidity until the separation is complete, that is, until there is no connection at all between spirit and body.
 
-Childhood is not a punishment for the incarnate spirit, nor does the spirit suffer merely because its manifestation is constrained by immature organs. Childhood is a necessity. It is natural, in harmony with Providence, and serves as a period of repose for the spirit.
+The incarnate spirit does not suffer from the constraint imposed by the imperfection of its organs during childhood. Childhood is a necessity. It is natural and corresponds to the designs of Providence. It is a time of repose for the spirit.
 
-### The Usefulness of Childhood
+The usefulness of a spirit’s passing through childhood lies in this: a spirit incarnates in order to perfect itself, and during childhood it is more accessible to the impressions it receives, which may assist in its progress. Those charged with its education should contribute toward this goal.
 
-A spirit incarnates in order to perfect itself, and childhood serves that purpose in a special way. During this stage, the spirit is more open to the impressions it receives. It is more pliable, more accessible to guidance, and therefore more capable of benefiting from influences that may aid its progress. For that reason, those entrusted with a child’s education bear a serious responsibility. They are meant to help the spirit advance.
+A child’s first expressions are cries, intended to awaken the mother’s interest and ensure the care the child needs. If it expressed only joy while still unable to speak, few would be concerned about its needs. One should therefore admire the wisdom of Providence in everything.
 
-A child’s first expressions are cries because crying secures the attention and care necessary for survival. If infants expressed only contentment before they could speak, many of their needs would go unnoticed. Even this simple fact reveals an underlying wisdom in the ordering of life.
+The change that occurs in a child’s character at a certain age, particularly on leaving adolescence, happens because the spirit recaptures its true nature and reveals what it really was before the present incarnation. The secrets hidden behind children’s innocence are unknown. One does not know what they are, what they have been, or what they will be. Nevertheless, they are loved and cherished as though they were a part of those who care for them, to such a degree that a mother’s love for her child is reputed to be the greatest love one being can have for another. Even strangers feel a sweet affection and show tender benevolence toward a child.
 
-### Why Character Changes with Age
+Children are beings whom God has sent into a new existence. So that God may not be accused of excessive severity, God gives them all the appearance of innocence. Even in children of an evil nature, their misdeeds are covered because they are unaware of the quality of their acts.
 
-The change often seen in character at a certain age, especially after adolescence, does not mean that a new spirit has replaced the former one. Rather, the spirit is recovering more fully its true nature and gradually revealing what it really was before the present incarnation.
+However, this innocence does not truly reflect their degree of advancement in relation to what they previously were. In reality, it is an image of what they ought to be, and if they are not, the blame falls on them alone.
 
-The innocence of childhood does not necessarily reflect the spirit’s actual degree of advancement. It is, instead, an image of what the spirit ought to be. If the spirit has not truly reached that state, the fault lies in its own imperfections, not in the law that grants the appearance.
+Nevertheless, it is not only for the children’s sake that God gives them this appearance; it is also, and especially, for their parents, whose love is necessary during their fragility. That love would be greatly weakened if parents were confronted with a quarrelsome and bad-tempered character. But because parents suppose their children to be good and gentle, they give them all their affection and surround them with the tenderest care. When children no longer need the protection and assistance given to them for fifteen or twenty years, however, their true and individual character emerges in full. Their character remains good if it was fundamentally good, but it will always display shades that were hidden during early childhood.
 
-Children are sent into a new existence under a merciful veil. Even when a spirit has harmful tendencies, its faults are covered during the early years because it does not yet fully understand the moral quality of its acts. This apparent innocence softens the beginning of earthly life.
+God’s ways are always the best, and to a pure heart they are easily understood.
 
-That veil is given not only for the child’s sake, but also for the parents. A child’s fragility requires loving protection, and that love might be greatly weakened if parents were immediately confronted with a difficult and fully exposed character. Believing their children gentle and good, they surround them with care and tenderness. This affection is necessary. It sustains the child during the period of dependence.
+The spirit of the child born among you may have come from a world in which it had acquired habits altogether different from yours. This new being could not remain in your midst with passions so different from yours, with inclinations and tastes entirely opposed to yours, except in the way God intended: after passing through the sieve of childhood. In this phase are mingled all the thoughts, characteristics, and varieties of beings generated by the multitude of worlds on which individuals develop. Upon dying, you yourselves will also be in a sort of childhood among new family members. In your new non-terrestrial existence, you will be ignorant of the habits, customs, and forms of relationship proper to that world, and you will have difficulty managing a language you are not accustomed to speaking, a language more alive than your thought is today.
 
-Later, when protection and assistance are no longer needed in the same way, the spirit’s individual character emerges more openly. If its underlying nature is good, it remains good, though with traits that were once hidden. If it carries serious imperfections, these too become more visible as the restraint of childhood falls away.
+Childhood serves yet another purpose: spirits enter corporeal life only to improve and purify themselves. The fragility of the early years renders them flexible and accessible to the counsels of experience and of those who should aid their progress. That is the time when one may best reform their character and curb their evil tendencies. Such is the duty that God entrusts to parents, a sacred mission for which they will have to answer.
 
-### Childhood as Adaptation to a New Existence
-
-A spirit may come from a world where it acquired habits, inclinations, and ways of feeling very different from those of its new earthly environment. Childhood serves as a kind of transition. Through it, the spirit is gradually adapted to the setting into which it has been reborn.
-
-Without this period of softening and adjustment, a newly incarnated being might appear among others with passions, tastes, and tendencies too foreign to harmonize with family and society. Childhood acts as a sieve through which these diverse elements are moderated, allowing the spirit to integrate into its new surroundings.
-
-Something similar occurs after bodily death. Entering a new mode of existence among unfamiliar beings, the spirit passes through a kind of beginning in which it must learn new conditions, new forms of relation, and new ways of expression. This helps explain why childhood is part of a broader law of transition and adaptation.
-
-### The Duty of Parents and Educators
-
-One of the deepest purposes of childhood is moral improvement. Spirits enter bodily life in order to become better and purer. In the early years, their weakness makes them more flexible and more open to the counsel of experience and to the influence of those who should guide them.
-
-That is the time when character can be most effectively corrected and harmful tendencies restrained. Parents therefore receive a sacred trust. Their mission is not only to preserve the child’s body, but to assist the progress of the spirit. They are accountable for how they fulfill this responsibility.
-
-Childhood is therefore useful, necessary, and indispensable. It is the natural result of the laws that govern life and express divine wisdom throughout the universe.
+Consequently, childhood is not only useful, necessary, and indispensable; it is also the natural result of the laws God has established to govern the universe.
 
 ## Earthly Sympathies and Antipathies
 
-People who have known and loved one another in a previous life may meet again in a new bodily existence without outwardly recognizing each other. Recognition in the ordinary sense is not the rule, but attraction often remains.
+Two individuals who have known and loved each other in another corporeal existence do not recognize one another, but they do feel drawn to one another. Often, intimate bonds founded on sincere affection arise from no other cause. Two people are drawn together by apparently fortuitous circumstances, but in reality this is the result of the attraction of two spirits who have been searching for each other amid the crowd.
 
-A sincere and intimate bond may arise between two people for reasons that seem accidental, while in reality it expresses the attraction of two spirits that have long sought one another amid the multitude of human lives.
+They would not always find it beneficial to recognize one another. The memory of past lives might have greater disadvantages than one might suppose. After death, they will recognize each other and remember the time they spent together. (See no. 392.)
 
-The inability to consciously recognize a former companion is not necessarily a loss. Clear memory of past lives could bring more difficulties than benefits. Full recognition belongs more naturally to life after death, where spirits know one another again and remember the time they shared.
+Sympathy is not always the result of spirits having known each other previously. Two spirits with natural affinities seek one another out even if they were not previously acquainted as incarnates.
 
-Sympathy does not always come only from a previous earthly relationship. Two spirits may be naturally akin and drawn to one another even if they have never before been acquainted while incarnated. Their harmony comes from affinity of nature, feeling, and tendency.
+The encounters that sometimes occur between certain persons, and that are attributed to chance, may be the effect of a kind of sympathetic relationship. Among thinking beings there are connections not yet known. Magnetism lies at the root of this science, which will later be better understood.
 
-Many encounters that seem to happen by chance are connected with laws still imperfectly understood. Among thinking beings there are subtle relationships that escape ordinary perception. Magnetism belongs to this order of phenomena and points to a deeper science of invisible attraction.
+The instinctive repulsion that arises when certain individuals meet for the first time comes from their being antipathetic spirits who perceive and recognize each other without ever having spoken.
 
-Antipathy follows a similar principle. Certain people feel an instinctive repulsion on first meeting because their spirits perceive one another and recognize a lack of harmony even before any words are exchanged. This does not mean that both are necessarily evil. Antipathy may arise simply from a difference in their ways of thinking and feeling. As spirits advance, these contrasts become less sharp, and the antipathy fades.
+Instinctive antipathy is not always a sign of an evil nature. Two spirits are not necessarily evil simply because they are not sympathetic. Antipathy may arise from a dissimilarity in their ways of thinking. As they evolve, however, these differences are erased and the antipathy disappears.
 
-When one spirit is morally inferior and the other more elevated, the same antipathy appears in both, though not in the same way.
-
-The imperfect spirit feels aversion toward anyone capable of judging it clearly and exposing what it is. At the first meeting, it senses disapproval and reacts with resentment. That resentment may deepen into hatred and envy, and from there comes the impulse to harm.
-
-The good spirit also feels repelled by the evil one, but for a different reason. It understands that no true sympathy is possible and that its sentiments will not be shared. Yet because it is guided by higher moral principles, it does not respond with hatred or jealousy. It simply keeps its distance and regards the other with pity.
+The antipathy between two individuals arises in both, but the causes and effects differ. An evil spirit feels antipathy toward anyone who may be able to judge and unmask it. On seeing a person for the first time, it perceives that it will be disapproved of. Its dislike then turns into hatred and envy, inspiring the desire to do evil. The good spirit, on the other hand, is repulsed by the evil one because it knows it will not be understood by the other and that they do not share the same sentiments. However, conscious of its higher moral principles, it feels neither hatred nor jealousy: it is content simply to avoid and pity the other.
 
 ## Forgetfulness of the Past
 
-Incarnated spirits ordinarily lose the precise memory of their former lives. This forgetfulness is not an accident, but part of a wise order.
+The incarnate spirit loses the memory of its past because human beings cannot and must not know everything. In divine wisdom, God wills it so. Without the veil that hides certain things, they would be dazzled, like someone passing suddenly from darkness into light. By forgetting the past, they are more fully themselves in the present.
 
-Human beings cannot, and should not, know everything at once. If the hidden things of their past were suddenly exposed, they would be overwhelmed, like someone passing abruptly from darkness into full light. The veil over previous existences allows a person to live the present life more fully and to act within it freely.
+Individuals remain responsible for their deeds and may redeem their wrongs even though they do not remember them. With each new existence, spirits gain more intelligence and can better distinguish good from evil. Their merit would be diminished if they remembered their whole past. When spirits enter their original life, spirit life, their previous life unfolds before them. They see the wrongs they committed, which are the cause of their suffering, as well as what would have kept them from committing them. They understand the justice of the position assigned to them, and they then desire a new existence capable of redeeming the one that has elapsed. They seek trials similar to those they have already experienced, or struggles they believe suitable for their advancement. They ask higher-order spirits to help them in the new task they are about to undertake, for they know that the spirit given to them as guide in that new existence will endeavor to help them repair the wrongs of the past by giving them a sort of intuition about them. This intuition is the thought, the wrongful desire, that often assails you and that you instinctively resist, most often attributing your resistance to the principles you received from your parents. Yet it is the voice of conscience speaking to you, and this voice is a memory of the past, a voice warning you not to fall again into the errors previously committed. In that new existence, if a spirit endures its trials with courage and resists them, it evolves and rises in the hierarchy of spirits when it returns among them.
 
-Yet the loss of explicit memory does not mean that the past has disappeared without effect. A spirit carries forward what it has become. With each new existence, it gains greater intelligence and a clearer ability to distinguish good from evil. During life in the spirit state, the whole of its previous conduct becomes known to it. It sees the wrongs it committed, understands the suffering that follows from them, and recognizes what could have prevented those errors. From that clearer vision, it accepts the justice of its condition and desires a new existence in which it may repair the past.
+During corporeal life, even without a precise memory of what we were or of the good and evil we did in previous lifetimes, we nevertheless have an intuition of them. Our instinctive tendencies are thus a reminiscence of our past, and our conscience—which represents the desire we formed not to commit the same wrongs again—warns us that we must resist them.
 
-For that reason, spirits choose trials suited to their needs and ask higher spirits to assist them in the work ahead. The guide assigned to them does not restore literal memory, but helps awaken an inner moral awareness. What appears in earthly life as a troubling impulse, a wrongful desire, or a spontaneous temptation may be linked to former faults. The resistance that rises against such impulses is not merely habit or education, though these may help; it is also the voice of conscience. Conscience preserves a living memory of the past in moral form. It warns the spirit not to fall again into the same errors.
+On worlds more advanced than ours, two different cases apply regarding whether their inhabitants know themselves to be happier than we are. There are worlds among those under discussion whose inhabitants have a clear and exact memory of their past lives. These can and do appreciate the happiness that God allows them to enjoy. But there are other worlds whose inhabitants, though placed in conditions better than ours, are nonetheless subject to great annoyances and even misfortunes. They do not appreciate their happiness because they do not remember an even unhappier state. Still, if they do not appreciate it as incarnates, they will do so as spirits.
 
-If a spirit bears its trials courageously and resists harmful tendencies, it progresses and rises when it returns to spirit life.
+In the forgetfulness of past existences, especially when they were painful, there is something providential in which divine wisdom is revealed. On more highly evolved worlds, when the memory of unhappy lives is nothing more than a bad dream, the memory of such lives resurfaces. On less evolved worlds, present misfortunes would be increased by the memory of everything endured in the past. Everything God has made is well made, and it is not for us to criticize the divine works or to say how God ought to have ordered the universe.
 
-### Why Forgetfulness Does Not Cancel Responsibility
+The remembrance of our former personalities would entail serious inconveniences. In some cases it could cause great humiliation; in others, it could exalt our pride and thus hinder our free will. God has given us only what is necessary and sufficient for improvement: the voice of conscience and the instinctive tendencies that keep us from what might harm us. If we remembered our former personal acts, we would also remember those of other people, and such knowledge could have the most unpleasant effects on social relationships. Since we do not always have good reason to be proud of our past, it is almost always a blessing that a veil has been cast over it. This agrees perfectly with the doctrine of spirits concerning worlds more evolved than ours. On those worlds, where only good reigns, there is nothing painful in remembering the past. That is why previous lifetimes are often remembered there as easily as we remember what we did yesterday. As for the sojourn one may have had on less evolved worlds, the memory of it is nothing more than a bad dream.
 
-At first glance, it may seem unjust to hold a person responsible for faults no longer remembered. But responsibility does not depend on retaining a detailed recollection of every previous act. What matters is the moral state the spirit has formed, the tendencies it still carries, and the freedom with which it responds to present choices.
+Revelations about former lives cannot always be obtained. Nevertheless, many know who they were and what they did. If they were allowed to speak openly, they would make curious revelations about the past.
 
-Each existence is not a meaningless new beginning. The spirit does not start from nothing. It returns with a broader intelligence, with lessons already absorbed, and with an inward sense of what it must overcome. Its instinctive tendencies are remnants of the past, and conscience urges resistance to what would harm it. In this way, forgotten experience still bears fruit.
+Some people believe they have a vague memory of an unknown past. It appears as a fleeting image from a dream, which they try in vain to retain. Sometimes this is real, but much more often it is an illusion against which one should be on guard; it may simply be the effect of an overexcited imagination.
 
-Merit would also be diminished if all former lives were fully remembered. The spirit would often act under the pressure of obvious recollection rather than through freely awakened moral conviction. Growth depends on choosing the good in the present, not merely on remembering old punishments.
+In corporeal existences of a more evolved nature than ours, the memory of previous lives is more precise. As the body becomes less material, previous lives are easier to remember. Memory of the past is clearer for those who inhabit worlds of a higher order.
 
-### Intuition, Instinct, and Conscience
+Since people’s instinctive tendencies are a reminiscence of the past, by studying those tendencies they may know, to a certain extent, the wrongs they committed. However, one must take into account the improvement that may have taken place in the spirit and the resolutions it made in the errant state. Its present existence may in fact be much better than the preceding one.
 
-Although precise remembrance is absent during bodily life, there is often an intuition of what has gone before. Instinctive tendencies are a kind of reminiscence. They reveal inclinations already formed, whether toward good or toward error.
+It could also be worse. A person may commit wrongs in the present existence that were not committed in the preceding one. That depends on the spirit’s advancement. If it does not yet know how to resist trials, it may be drawn into new wrongs as a consequence of the position it has itself chosen. But such wrongs indicate a stationary state rather than a regressive one, because spirits may advance or remain stationary; they do not regress.
 
-Conscience stands beside these tendencies as a corrective light. It represents the resolve made in the spirit state not to repeat former wrongs. When a person feels inwardly warned against pride, selfishness, harshness, or some other fault, that warning may arise from this deeper memory. The past is veiled as history, but remains active as moral direction.
+Since the tribulations of corporeal life are at once expiations for past wrongs and trials for the future, it often follows from their nature that the kind of preceding existence we lived may be inferred, because individuals are punished for particular faults. Nevertheless, this cannot be made an absolute rule. Instinctive tendencies are a more certain indication, because the trials a spirit undergoes refer as much to the future as to the past.
 
-By studying present tendencies, individuals can learn something about the faults that burdened them before. This discernment is real, though limited. It must be tempered by the recognition that the spirit may already have improved and that present conduct may be much better than what came before.
+When the end marked by Providence for an errant life has arrived, spirits choose for themselves the trials to which they wish to submit, and which will hasten their advancement—that is, the kind of existence they believe most suitable for furnishing the means to evolve. Such trials are always related to the wrongs they must expiate.
 
-A present life may even include faults not committed in an earlier one. If the spirit has not yet learned to withstand certain trials, it may still be drawn into new errors. Such failures do not mean a true backward movement in the essential life of the spirit. Spirits advance or remain stationary; they do not regress in the sense of losing the development already acquired.
+If they triumph over them, they advance; if they succumb, they must begin again.
 
-### More Evolved Worlds and the Memory of the Past
+Spirits always retain their free will. By virtue of this freedom, in the spirit state they choose the trials of their forthcoming corporeal life, and in the incarnate state they deliberate over what they will or will not do, choosing between good and evil. To deny human beings free will would be to reduce them to the condition of a machine.
 
-On worlds more advanced than Earth, memory of previous lives is often clearer. As the body becomes less material, remembrance becomes easier. The inhabitants of higher-order worlds may recall former existences with considerable precision.
+Once integrated into corporeal life, spirits momentarily lose the remembrance of former lives, as though a veil hid them. Nevertheless, they sometimes retain a vague awareness of them, and under certain circumstances they may even be revealed. But this does not happen except by the will of higher-order spirits, who may allow it spontaneously for some useful purpose, never to satisfy vain curiosity.
 
-Two situations must be distinguished. On some such worlds, beings retain a clear and exact memory of their past lives and therefore appreciate more fully the happiness they now enjoy. They know by comparison what has been left behind.
+Future existences can never be revealed, since they depend both on the way the present existence is completed and on the later choice of the spirit.
 
-On other worlds, though life is better than ours, the inhabitants may still undergo serious troubles and do not necessarily remember an even less happy state. In that condition, they may not fully appreciate their relative happiness while incarnated, though they will understand it later in the spirit state.
+Forgetfulness of wrongs committed is not an obstacle to improvement because, although spirits do not retain a precise memory of them, the knowledge they had during the errant state, together with the desire then conceived to repair them, guides them by intuition and inspires the thought of resisting evil. This thought is the voice of conscience, and it is seconded by the spirits who assist them if they heed good suggestions.
 
-Where good predominates and painful memories no longer wound, the past may be remembered as easily as one remembers yesterday. Lives spent on less advanced worlds are then like a bad dream. But on inferior worlds, where suffering and imperfection are still strong, a full remembrance of all former trials would often increase present distress rather than help.
+Even though people do not know the acts they committed in previous lives, they can always know the kinds of wrongs of which they were guilty and what their dominant characteristics were. They need only study themselves in the present, and they will be able to discern what they were in the past—not by what they are in themselves, but by their tendencies.
 
-### The Providence in Forgetfulness
+The tribulations of corporeal life are at the same time expiations for past wrongs and trials for the future. They purify and elevate us if we endure them with resignation and without complaint.
 
-The concealment of former lives is a mercy.
-
-If people clearly remembered previous personalities and actions, the consequences could be severe. Some would be crushed by humiliation. Others would become inflated with pride. In either case, freedom would be hindered. God has given what is necessary for progress and withheld what would often obstruct it.
-
-There is also a social reason for this veil. If each person remembered not only personal actions but also the deeds of others from former lives, human relationships could become unbearably burdened. Resentments, shame, superiority, and distrust would poison ordinary life.
-
-For that reason, the concealment of the past is usually a blessing. What is needed for self-improvement remains accessible through conscience and through the tendencies that must be disciplined. What would nourish vanity, despair, or social conflict is ordinarily hidden.
-
-Everything in this arrangement points to wise design. Present misfortunes are not made lighter by complete historical knowledge; often they would be made heavier. The order of forgetfulness is suited to the condition of less advanced worlds.
-
-### Partial Memories and Exceptional Revelations
-
-It is possible, in some cases, to receive a glimpse of a former life. Certain persons have a vague and passing impression of an unknown past, like an image from a dream that fades when they try to hold it. Sometimes such impressions are genuine; far more often, however, they are illusions produced by an overexcited imagination. Caution is therefore necessary.
-
-There are also cases in which some people truly know something of who they were and what they did. But such revelations are not regular, and they are not granted to satisfy curiosity. If the past is disclosed, it is only by permission of higher spirits and only for a useful purpose.
-
-Future lives, however, cannot be revealed. They depend both on how the present life is completed and on the later choice made by the spirit.
-
-### Free Will and the Choice of Trials
-
-Spirits always retain free will.
-
-In the spirit state, before a new bodily existence, they choose the kinds of trials most suited to their advancement and expiation. In earthly life, they remain free to decide what they will do, choosing between good and evil at each step. Without freedom, a human being would be reduced to a machine.
-
-The trials chosen are related to the wrongs that must be repaired. They are also suited to the growth still needed for the future. If the spirit overcomes them, it advances. If it fails, the work must be taken up again.
-
-For this reason, the tribulations of bodily life have a double character: they are expiations for the past and tests for the future. Endured with resignation and without complaint, they purify and elevate.
-
-### What Present Trials Can Reveal About the Past
-
-The nature of a person’s tribulations may often suggest the general type of faults that preceded them, though no rigid rule can be made from this. Punishment is frequently connected to the fault, but outward suffering alone does not provide certain judgment. Instinctive tendencies are usually a safer indication, because trials concern future development as well as past repair.
-
-Even so, there is often a moral correspondence between fault and consequence. Pride may be corrected through humiliation and subordination. Self-indulgence and greed may be met by poverty. Harshness toward others may return as harsh treatment endured. Tyranny may lead to slavery. A bad child may later suffer the ingratitude of children. Laziness may be corrected by forced labor.
-
-These correspondences should not be used to judge others with certainty. They are better understood as illustrations of moral justice than as tools for accusation. Their real value lies in self-examination.
-
-### How to Read the Past in the Present
-
-Even without knowing the exact acts of former lives, individuals can still discover much about what they have been. They need only study themselves carefully.
-
-Not everything in present character reveals the past in a simple way, because improvement may already have taken place. But dominant tendencies, recurring weaknesses, spontaneous attractions, and habitual inner struggles often disclose the direction from which the spirit has come.
-
-The important thing is not to recover old names, places, and outward circumstances. What matters is to recognize what must be corrected now. The past survives most usefully in the form of moral work still to be done.
-
-Forgetfulness, then, is not a loss of guidance. It is a safeguard. The spirit does not remember everything, but it remembers enough in the form that matters most: conscience, inclination, trial, and the freedom to choose differently.
+The nature of the trials and tribulations we undergo may also enlighten us about what we were and what we did, just as in this world we judge the acts of a criminal by the punishment inflicted by the law. Thus, the proud will be punished by the humiliation of a subordinate position; the self-indulgent and greedy, by poverty; those who were harsh toward others, by the harsh treatment they themselves will suffer; the tyrant, by slavery; the bad child, by the ingratitude of their own children; and the lazy, by forced labor.

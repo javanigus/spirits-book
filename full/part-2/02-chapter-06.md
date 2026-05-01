@@ -5,572 +5,320 @@ sidebar_label: 2.6 Spirit Life
 
 ## Errant Spirits
 
-A spirit does not always return immediately to bodily life after leaving the body.
+The soul sometimes reincarnates immediately after separation from the body, but most often only after an interval of greater or lesser duration. On more highly evolved worlds, reincarnation is almost always immediate. Since the corporeal matter of those worlds is less coarse, an incarnate spirit there enjoys nearly all of its spiritual faculties. Its normal state resembles that of lucid somnambulists.
 
-Sometimes reincarnation follows at once. More often, there is an interval of shorter or longer duration between one existence and the next. On more advanced worlds, this return is almost always immediate, because the matter of those worlds is less dense. In such conditions, an incarnate spirit retains nearly all the faculties of spirit life, and its ordinary state resembles that of a lucid somnambulist.
+During the intervals between incarnations, the soul becomes an errant spirit, aspiring to and awaiting a new destiny.
 
-Between incarnations, the soul exists as an errant spirit, awaiting a new destiny and aspiring toward a new existence.
+Such intervals may last from a few hours to thousands of centuries. Strictly speaking, there is no fixed outer limit assigned to the errant state. It may last for a very long time, but never forever. Sooner or later, a spirit always has the opportunity to begin another existence, which serves for the purification of its previous ones.
 
-This interval may last only a few hours, or it may extend through thousands of centuries. No fixed outer limit is assigned to the errant state, though it is never eternal. Sooner or later, every spirit is given the opportunity to begin another life, and that new existence serves to purify what remains from earlier ones.
+The length of the interval is a consequence of the spirit’s free will. Spirits know full well what they are doing in prolonging it, but for some, extending it is also a punishment inflicted by God. Others ask for it to be extended in order to pursue studies that cannot be carried out productively except in the spirit state.
 
-The duration of this interval is connected with free will, though it may also involve expiation. Some spirits knowingly prolong it. For some, that delay is a punishment. Others ask that it be extended so they may continue studies that can be pursued more fruitfully in the spirit state than in bodily life.
+The errant state is not, in itself, an indication of lesser evolution, since there are errant spirits of every degree. Incarnation is the transitory state. In their normal state, spirits are disengaged from matter.
 
-The errant state is not, by itself, a mark of inferiority. Spirits of every degree may be errant. Incarnation is the temporary condition; the spirit’s normal state is to be disengaged from matter. In a broad sense, all spirits who are not incarnate and who must return to bodily life are errant. Pure spirits alone are not errant, because their condition is final and they no longer need reincarnation.
+All spirits who must reincarnate are errant, but pure spirits, having reached perfection, are not errant: their state is definitive.
 
-Spirits may therefore be considered in three states. They may be incarnate, joined to a material body. They may be errant, freed from the body while awaiting a new incarnation through which they may improve themselves. Or they may be pure, perfected, and beyond the need for further embodiment.
+Regarding their inmost qualities, spirits belong to different orders or degrees through which they pass successively as they purify themselves. Regarding their condition as spirits, they may be incarnate, that is, connected to a body; errant, that is, disconnected from the material body while awaiting a new incarnation in order to improve themselves; or pure, that is, perfected and having no further need of incarnation.
 
-### Learning in the Errant State
+Errant spirits learn by studying their past and seeking ways to evolve. They watch and observe what is going on in the realms through which they pass. They listen to the discourse of enlightened individuals and to the counsels of spirits more evolved than themselves, and this provides them with ideas they do not yet possess.
 
-Errant spirits continue to learn, though not in the same way embodied human beings do.
+Upon losing their corporeal envelope, high-order spirits leave evil passions behind and retain only the ideals of the good. Low-order spirits, however, retain their passions; otherwise, they would belong to the First Order.
 
-They study their own past and seek means of advancing. They observe what takes place in the environments through which they pass. They listen to the teachings of enlightened beings and to the counsel of spirits more advanced than themselves. In this way, they acquire ideas and insights they did not yet possess.
+When they leave the earth behind, spirits do not abandon their evil passions merely because they can see the trouble such passions cause. In your world there are persons who are excessively jealous, for instance, and they do not lose that defect upon leaving. After death, since they are not entirely freed from matter, especially if they displayed strong passions, they retain a sort of atmosphere around them infused with all their evil qualities. They only occasionally glimpse the truth, so that the moral path may be revealed to them.
 
-Progress in the errant state is real and can be considerable. It depends on the spirit’s will and desire to improve. Yet the application of newly acquired understanding belongs especially to bodily life. Incarnate existence remains the field in which many resolutions are tested and transformed into action.
+A spirit may improve itself a great deal while in the errant state; it always depends on its own will and desire. However, it puts its newly acquired ideas into practice only during corporeal life.
 
-### Passions After Death
+The degree of happiness or unhappiness experienced by errant spirits depends on what they have merited. They either suffer from the passions whose essence they have retained, or they are happy according to their degree of dematerialization. In the errant state, a spirit realizes what it lacks in order to be happier and thus searches for the means to attain it. However, it is not always permitted to reincarnate when it wishes. This, in itself, is a punishment.
 
-The shedding of the body does not instantly free every spirit from its passions.
+While in the errant state, spirits may visit other worlds, depending on their condition. When the spirit leaves the body, it is still not completely disconnected from matter. Hence, it still belongs to the world on which it has lived, or to one of the same degree, unless it has progressed sufficiently during its lifetime. Progress is the purpose to which it must hold, for it will never perfect itself unless it progresses. Nevertheless, it may go to certain more highly evolved worlds, but as an outsider. It can gain only glimpses of such worlds, and these glimpses are what drive it to improve itself so that it may become worthy of the happiness enjoyed there and able to inhabit them later.
 
-Spirits of a high order leave evil passions behind and retain only aspirations toward the good. Lower spirits, however, continue to carry their passions with them. If they had already overcome them, they would no longer belong to the lower ranks.
-
-This persistence is easy to understand. A person who has been deeply consumed by jealousy, pride, or some other disorder does not necessarily lose it merely by dying. After leaving earthly life, such a spirit is not yet wholly freed from matter. Especially when passions have been strong, the spirit retains a kind of atmosphere still impregnated with those tendencies. It sees the truth only intermittently, enough to perceive the moral road that must be followed, but not yet with the clarity needed to walk it fully.
-
-### Happiness and Suffering Among Errant Spirits
-
-The condition of errant spirits varies according to their moral state.
-
-Their happiness or unhappiness depends on what they have merited. Some suffer from the passions whose essence they still retain. Others are happy in proportion to their dematerialization. In the errant state, a spirit understands what it lacks in order to be happier, and this awareness leads it to seek the means of attaining a better condition.
-
-Yet a spirit is not always permitted to reincarnate at the moment it wishes. The inability to return immediately to a new life may itself be a punishment.
-
-### Relations with Other Worlds
-
-Errant spirits are not confined in exactly the same way embodied beings are, but neither are they entirely free from every limitation.
-
-When a spirit leaves the body, it is still not completely disengaged from matter. It remains connected to the world where it lived, or to another world of the same degree, unless it has advanced enough during its last life to rise beyond that sphere. Such progress is the purpose toward which it must strive, since perfection is never reached without advancement.
-
-A spirit may visit certain more advanced worlds, but only as a stranger. It receives no more than a glimpse of them. Those glimpses are valuable because they awaken the desire to improve and to become worthy of the happiness enjoyed there, so that one day the spirit may dwell in such worlds rather than merely behold them from afar.
-
-Purified spirits often go to less advanced worlds in order to help them progress. Without the assistance of such spirits, those worlds would be left without guides to direct and support their development.
+Spirits who are already purified frequently go to less evolved worlds in order to help them progress. Without these spirits, such worlds would be left to themselves, without guides to direct them.
 
 ## Transitional Worlds
 
-There are worlds that serve as temporary dwellings for errant spirits. They are places especially suited to beings who are between one stage and another, where they may remain for a time during a prolonged errant state. Since that condition is always somewhat wearying, these worlds offer a kind of repose.
+There are worlds intended particularly for errant beings, worlds they may temporarily inhabit: a type of campsite, a place where they can repose during a very long errant state, a state that is always somewhat wearisome. These are intermediary positions between worlds and are gradated according to the nature of the spirits who have access to them, where they enjoy a greater or lesser sense of well-being.
 
-They stand as intermediary stations between other worlds and differ according to the nature of the spirits who are able to enter them. The well-being found there is greater or lesser in keeping with the degree of advancement of those who inhabit them.
+Spirits who temporarily inhabit those worlds can leave them whenever they wish in order to follow their destiny. They are like migrating birds that descend on an island in order to regain strength before continuing on their way.
 
-Spirits who temporarily occupy such worlds are not confined there. They may leave when the time comes to follow the course prepared for them. Their condition may be compared to migrating birds that pause on an island to recover their strength before resuming their journey.
+Spirits progress during their layovers on these transitory worlds. Those who gather there do so with the purpose of educating themselves in order to more easily obtain permission to go to better and better places until they reach the position of the elect.
 
-### Progress During the Stay
+Due to their special nature, these transitional worlds are not destined forever to be layovers for errant spirits; that function is only temporary.
 
-These temporary stays are not idle. Spirits continue to progress there.
+They are not inhabited by corporeal beings at the same time. Their surface is barren, and those who inhabit them need nothing.
 
-Those who gather in such places do so in order to learn and to prepare themselves, so that they may more easily gain access to better worlds and advance step by step toward the condition of the elect.
+This barrenness is not permanent and is only transitory, though connected to their special nature.
 
-### The Temporary Character of Transitional Worlds
+These worlds are not destitute of natural beauty. Their nature is expressed in the beauties of their immensity, beauties no less admirable than what is ordinarily called natural beauty.
 
-The role of these worlds is not permanent. They are not destined forever to serve as resting places for errant spirits. Their function is temporary, just as the condition of those who pass through them is temporary.
+The earth itself has already been among these worlds. It was so during its formation.
 
-They are not inhabited at the same time by embodied beings. Their surface is barren, and those who dwell there do not need material provisions.
-
-That barrenness is not everlasting. It does not belong to their nature in any absolute sense, but only to a passing phase.
-
-Yet they are not deprived of beauty. Their grandeur belongs to another order. The vastness proper to them has its own splendor, no less admirable than the forms of beauty commonly associated with nature.
-
-### Earth Among the Transitional Worlds
-
-Earth itself has already passed through such a condition. It belonged to that state during the period of its formation.
-
-Nothing in nature is useless. Everything has a purpose and a destination. There is no empty void where life is wholly absent. Life unfolds everywhere in forms suited to the conditions in which it appears.
-
-During the immense ages before humankind appeared on Earth, during those long transitional eras recorded in the geological layers, and even before the first organic beings were formed upon the still-shapeless mass, life was not absent from that arid chaos where the elements were mingling together. Beings existed there who were not subject to our needs or our physical sensations, and they found in that state a place suited to them.
-
-Even in its imperfection, the world was useful. Divine wisdom leaves nothing without purpose.
-
-The thought that only one world among the countless billions scattered through space should have the exclusive privilege of being inhabited is difficult to reconcile with the order and wisdom visible throughout creation. It is far more fitting to understand that worlds not yet suitable for material life may nevertheless be populated by beings appropriate to their condition.
-
-In that view there is something vast and elevating. It opens the way to resolving more than one difficulty by showing that existence is not limited to the narrow forms of life familiar to human experience.
+Nothing in nature is useless; each thing has its purpose and its destination. There is no empty space. Everything is inhabited, and life expands everywhere. Thus, during the long series of ages that elapsed before the appearance of humankind on the earth, during the long periods of transition attested to by the geological layers, and even before the formation of the first organic beings upon that formless mass, there was no absence of life in that arid chaos in which the elements were being mixed together. Beings who did not have our needs or our physical sensations found a refuge there. Even in that imperfect state, God willed it to be useful for something. Therefore, among the billions of worlds that spin through the immensity of space, not only one—one of the smallest, lost in the crowd—has the exclusive privilege of being populated. All the others were not made merely as entertainment for our eyes. Such a presumption is incompatible with the wisdom that shines in all God’s works, and unacceptable once we consider all those that cannot be seen. In this notion of worlds still unsuitable for material life and yet populated with beings appropriate to their conditions, there is something grand and sublime in which perhaps the solution to more than one problem may be found.
 
 ## Perceptions, Sensations, and Sufferings of Spirits
 
-### Perceptions of Spirits
+Once in the world of spirits, the soul still has the perceptions it had in this life, along with others it did not have because its body was like a veil that obscured them. Intelligence is a natural attribute of the spirit, but it is expressed more freely when unshackled.
 
-After separation from the body, the soul retains the perceptions it had during earthly life and also gains others that were obscured while embodied. The body acts like a veil, limiting expression. Intelligence belongs naturally to the spirit, and it manifests more freely when no longer constrained by material organs.
+The perceptions and understanding of spirits are not unlimited. The nearer they approach perfection, the more they know. High-order spirits know much; low-order spirits are more or less ignorant on all subjects.
 
-These perceptions are not unlimited. Spirits know in proportion to their degree of advancement. The nearer they are to perfection, the more they understand. Spirits of a high order possess vast knowledge, while those of a lower order remain ignorant in many respects.
+Whether spirits comprehend the beginning of things depends on how evolved and purified they are. Low-order spirits know no more than humans.
 
-The same principle applies to the deepest questions. Spirits do not all comprehend the origin of things. Less evolved spirits know no more about such matters than human beings do. Knowledge expands with purification, but no created spirit possesses absolute understanding.
+Spirits do not perceive time as we do, and that is what causes misunderstandings when it comes to setting dates or epochs.
 
-### Time, Present, Past, and Future
+Spirits live outside of time as we know it; for them, duration practically does not exist. The centuries that are so long for us are to them only instants that disappear into eternity, in the same way that the unevenness of the ground would fade and disappear to someone high in space.
 
-Spirits do not perceive time as human beings do. Existing outside bodily conditions, they do not experience duration in the same measured way. What appears long to people may seem only an instant to them, much as irregularities on the ground disappear from view when seen from a great height.
+Spirits have a more or less correct and precise idea of the present than we do, just as someone who sees clearly has a more correct idea of things than a blind person. Spirits see what we do not see, and they judge differently than we do; but again, it depends on how evolved they are.
 
-Their perception of the present is often more accurate than ours, just as clear sight judges more accurately than blindness. Spirits see what escapes bodily senses, and they evaluate things from a broader standpoint. Yet this too varies according to their development.
+Their knowledge of the past is not unlimited. When they concern themselves with it, the past is present, in much the same way we remember something that impressed us during our exile. However, since they are no longer hampered by the material veil that clouds our minds, they remember things that have disappeared from our memory. Spirits, however, do not know everything, especially not their own creation.
 
-Knowledge of the past is possible because, for spirits, what has been can become present again when they turn their attention to it. Freed from the material veil that clouds human memory, they recall much that incarnate life has hidden. Even so, this knowledge is not boundless. Spirits do not know everything, including the mystery of their own creation.
+Whether spirits know the future depends on how purified they are. Most of the time, they may glimpse it, but they do not always have permission to reveal it. When they do see it, it appears to them as the present. A spirit sees the future more clearly the more it approaches God. After death, the soul sees and takes in its past migrations at a glance, but it cannot see what God has in store for it. For that, it is necessary to have become one with God after many lives.
 
-Their knowledge of the future is also limited. According to their purity, they may glimpse what is to come, but they are not always permitted to reveal it. When they do perceive future events, these may appear to them almost as present realities. The clearer a spirit’s union with the divine order, the clearer this perception becomes. Still, complete foreknowledge belongs to God alone. Even the most advanced spirits do not share divine sovereignty.
+Spirits who have reached perfection do not possess complete knowledge of the future. Indeed, complete is not the right term, because God alone is sovereign; no one can equal God.
 
-### Perception of God and Divine Direction
+Only high-order spirits see and understand God; low-order spirits feel and intuit God.
 
-Only spirits of a high order truly see and understand God. Spirits of a lower order do not perceive God directly, but they feel and intuit the divine presence and authority.
+When a low-order spirit says that a thing is forbidden or permitted to it by God, it does not see God, but senses the divine sovereignty; and when something must not be done, or a word must not be spoken, it receives a sort of intuition, a secret warning, which keeps it from proceeding. The same happens with humans, but to a higher degree in spirits, since the essence of spirits is subtler than ours and they can more easily receive divine warnings.
 
-When a less evolved spirit says that something is permitted or forbidden by God, this does not mean it has seen God face to face. Rather, it receives an inward impression, a secret warning, a kind of spiritual presentiment that restrains or guides it. What human beings experience faintly as intuition, spirits receive with greater subtlety because their nature is less dense.
+The order is not transmitted by God directly, because to communicate with God directly one must deserve it. God transmits divine orders through spirits more advanced in purification and instruction.
 
-Such direction does not ordinarily come to lower spirits directly from God. Divine commands are transmitted through spirits more advanced in purification and knowledge. Direct communication with God belongs only to those capable of it.
+Spirits’ sight is not circumscribed as it is in corporeal beings; it resides in the entire spirit.
 
-### Sight and Hearing of Spirits
+Spirits do not need light in order to see. They see with their own light, without the need for any outside light. There is no darkness for them, except that in which they may find themselves due to expiation.
 
-A spirit’s sight is not confined to a single organ or limited as bodily vision is. It belongs to the whole spirit. Spirits do not need external light in order to see; they see by a light proper to themselves. Darkness exists for them only as part of a condition of expiation.
+Spirits do not need to move about in order to see in different places. Since spirits travel at the speed of thought, it may be said that they see everywhere at once. Their thought can radiate and be directed to many points at the same time, but this faculty depends on their purity: the less pure they are, the more limited their sight. Only high-order spirits can see everything as a whole.
 
-They do not need to move from place to place in order to perceive what is happening elsewhere. Because they travel with the speed of thought, their perception can extend with extraordinary rapidity. Thought may radiate toward many points at once. Still, this capacity depends on purity. The less advanced the spirit, the more restricted its perception. Only spirits of a high order apprehend things in a broad and unified way.
+Among spirits, the faculty of sight is inherent to their nature and permeates their whole being like light in a luminous object. It is a kind of universal lucidity extending to everything, simultaneously embracing space, time, and things, and for which there are no darkness or material obstacles. It must indeed be this way, because in human beings sight functions through an organ that receives light; thus, without light they remain in darkness. In spirits, however, since the faculty of sight is an inherent attribute independent of any outside agent, sight does not depend on light.
 
-Spiritual sight may be understood as a kind of universal lucidity. It extends through space, time, and things without depending on material light or overcoming material obstacles in the human way. Human sight relies on an organ that receives light from outside; spiritual sight is an inherent faculty.
+Spirits see things more distinctly than we do, for their sight penetrates what ours cannot. Nothing obscures it.
 
-For that reason, spirits perceive things more distinctly than we do. Their vision penetrates what bodily sight cannot reach, and nothing material obscures it.
+Spirits perceive sounds, including those our limited senses cannot detect.
 
-The same is true of hearing. Spirits perceive sounds, including those beyond the range of human senses. Hearing, like sight, is not localized in one part of them. All perceptions are attributes of the spirit itself. While incarnate, the spirit receives impressions through bodily organs; when free, these perceptions are no longer confined in that way.
+The faculty of hearing, like that of sight, is present in their whole being. All perceptions are attributes of the spirit and are part of its being. When it is clothed with a material body, perceptions arrive only through organic channels. In the state of freedom, however, they are no longer localized.
 
-### Use of Perception
+Since perceptions are attributes of the spirit itself, it can suspend their use. A spirit sees and hears only what it wants to, at least this is generally the case, especially for more evolved spirits. Less evolved ones frequently must hear and see what may be useful for their improvement, whether they want to or not.
 
-Because perception belongs to the spirit, a spirit can generally direct it. It sees and hears what it wishes to see and hear. This is especially true of the more advanced. Less evolved spirits, however, may be compelled to perceive what is useful for their correction and progress, even when they would prefer not to.
+Spirits are sensitive to music. Human music is like primitive chant when compared with a soft melody set beside celestial music, that harmony of which no one on earth can have any idea. Nevertheless, ordinary spirits may take a certain pleasure in listening to human music because they are not yet able to appreciate anything more sublime. For spirits, music has infinite charm due to their highly developed sensitive qualities. This refers to celestial music, which is everything the spiritual imagination can conceive as the most beautiful and delicate of all.
 
-### Sensitivity to Music and Beauty
+Spirits are sensitive to the beauties of nature. The beauties of nature on different globes are so diverse that spirits are far from knowing them all. They are sensitive to them according to their aptitude for appreciating and comprehending them. Evolved spirits enjoy the beauty of the whole, before which the beauty of details fades, so to speak.
 
-Spirits are sensitive to music, but spiritual music differs immeasurably from earthly music. Celestial harmony surpasses anything human ears can imagine. What is heard on earth stands to it as the simplest chant stands to a refined and beautiful melody. Ordinary spirits may still take pleasure in human music because they are not yet capable of fully appreciating what is more sublime. For spirits, especially as their sensibility develops, music has a profound and expansive charm.
+Spirits know our physical needs and sufferings, for they have endured them, but they do not experience them physically as we do, because they are spirits.
 
-They are also sensitive to the beauties of nature. The forms of beauty throughout different worlds are so varied that no spirit knows them all. Appreciation depends on aptitude and advancement. More evolved spirits delight in the whole, in the larger harmony within which individual beauties take their place.
+Spirits cannot feel fatigue as we understand it and therefore do not need corporeal rest, because they possess no organs whose energies must be restored. However, spirits do rest, in the sense that they do not remain in a state of constant activity. They do not act physically, because their action is entirely intellectual, and their rest is entirely mental. There are moments when their thought decreases in activity and is no longer directed toward any object in particular. This is true repose for them, but it cannot be compared to that of the body. The kind of fatigue spirits can experience is in proportion to how evolved they are: the more purified they are, the less rest they need.
 
-### Needs, Fatigue, and Rest
+When a spirit says that it is suffering, the nature of such suffering is mental anguish, which tortures it more acutely than physical suffering.
 
-Spirits know physical needs and bodily sufferings because they have undergone them, but they no longer experience them physically as incarnate beings do. Once freed from the body, they are no longer subject to hunger, pain, or organic necessity in the same manner.
+Some spirits complain of cold or heat because it is a remembrance of what they suffered during life, a feeling as painful as the reality itself. Frequently, they use these expressions to describe their situation. When they remember their body, they experience a sensation similar to that of one who takes off a heavy coat and still feels its weight on the shoulders.
 
-They do not feel fatigue as human beings understand it, and they do not require bodily rest, since they have no organs whose strength must be restored. Yet they do have a form of repose. Their activity is intellectual rather than physical, and their rest is a temporary quieting of thought. There are times when thought is less active and is not fixed on any particular object. This is true rest for a spirit, though it is not comparable to sleep or bodily recovery.
+## Theoretical Essay on Sensation in Spirits
 
-The need for such repose decreases as spirits become more purified. The more advanced they are, the less rest they require.
+The body is the instrument of pain; if not its primary cause, then at least its immediate cause. The soul perceives such pain, and this perception is the effect. The memory it preserves of pain can be very acute, but this does not imply any physical sensation. In fact, cold and heat cannot disorganize the soul’s tissues; a soul can neither freeze nor burn. Every day, do we not see the memory of, or anxiety about, a physical illness producing its effects, even to the point of causing death?
 
-### Sufferings of Spirits
+We all know that individuals who have undergone an amputation feel pain in the limb that no longer exists. The limb is obviously neither the site nor the starting point of the pain; the brain has simply retained the impression. Likewise, there is something similar in the sufferings of spirits after death. An in-depth study of the perispirit, which plays such an important role in all spirit phenomena—such as vaporous or tangible apparitions, the state of the spirit at the moment of death, the very frequent notion that it is still alive, the frightening situation of suicides, those who have undergone capital punishment, those who have overindulged in material pleasures, and many other facts—has shed light on this question and provided the explanations presented here in summary.
 
-The sufferings of spirits are moral rather than physical. When a spirit says it suffers, the pain is mental anguish, often more acute than bodily pain. Interior torment, remorse, confusion, longing, and similar states belong to spiritual suffering more than any physical sensation.
+The perispirit is the link that unites the spirit with the matter of the body. It is drawn from the environment, from the universal fluid. At the same time, it contains electricity, magnetic fluid, and, to a certain extent, inert matter. It is the quintessence of matter. It is the beginning of organic life, but not of mental life, because that belongs to the spirit. The perispirit is also the agent of external sensations. In the body, these sensations are localized in the organs that serve as their channels. When the body is destroyed, the sensations become generalized, and that is why a spirit does not say that it suffers more in its head than in its feet. Moreover, one must guard against confusing the sensations of the perispirit, once independent of the body, with those of the body itself; the latter can serve only as a point of comparison, not as an analogy. Freed from the body, the spirit may suffer, but this suffering is not the same as bodily suffering. Still, it is not exclusively mental suffering either, like remorse, because the spirit may complain of being hot or cold. Nevertheless, it suffers no more in summer than in winter. Spirits have been seen passing through flames without feeling any pain, showing that temperature has no effect on them. The pain they feel, then, is not physical pain strictly speaking, but a vague inner sensation of which the spirit is not always fully aware, because the pain is neither localized nor produced by an outside agent. It is a memory rather than a reality, but a very painful memory nonetheless. At times, however, it is more than a memory.
 
-For the same reason, some spirits complain of heat or cold. Such expressions usually arise from memory. They recall what they endured while living in the body, and the remembrance affects them so vividly that it becomes like a real sensation. Often these images are also a way of describing their condition.
+Experience has taught that the perispirit disengages itself more or less slowly from the body at the moment of death. During the first few moments, the spirit does not comprehend its situation; it does not think it has died, because it feels alive. It sees its body beside it and knows that it is its own, but does not understand why they are separate. This state lasts as long as there is a link between the body and the perispirit. A suicide once said, “No, I’m not dead,” and added, “yet I can feel the worms devouring me.” Of course, the worms were not devouring the perispirit, much less the spirit, but only the body. Since the separation between body and perispirit was not yet complete, there continued to be a kind of mental repercussion that transmitted the sensation to the spirit. Repercussion is not quite the right term, however, since it may imply too physical an effect. It was rather the sight of what was happening within the body itself, while the perispirit was still attached, that produced an illusion taken as real. Thus, it was not a memory of a past event, since the body had never been devoured by worms during life; it was a current sensation.
 
-A useful comparison is the lingering impression left after removing a heavy garment. Even after the burden is gone, one may still seem to feel its weight. In a similar way, spirits may retain the impression of former bodily suffering without any longer possessing a body that literally undergoes it.
+During life, the body receives impressions and transmits them to the spirit through the perispirit, which probably comprises what is called the neural fluid. Once dead, the body no longer feels anything because it has neither spirit nor perispirit. When disengaged from the body, the perispirit experiences sensation, but since sensation no longer reaches it through a limited channel, it becomes generalized. Since the perispirit is only an agent of transmission, because only the spirit possesses consciousness, it may be deduced that if the perispirit could exist without the spirit, it would feel no more than the dead body. Likewise, if the spirit had no perispirit, it would be inaccessible to any painful sensation whatever, as is the case with completely purified spirits. The more a spirit purifies itself, the more etherealized the essence of its perispirit becomes, so that material influences diminish as the spirit progresses—that is, as its perispirit becomes less coarse.
 
-## Theoretical Explanation of Sensation in Spirits
+If pleasant sensations are transmitted to the spirit through the perispirit, so are unpleasant ones. If a pure spirit is inaccessible to some, it must be equally inaccessible to others. This is true, but only of sensations that come from the influence of the matter with which we are familiar. The sound of our instruments and the smell of our flowers make no impression on a pure spirit, yet it enjoys inner sensations of indefinable enchantment of which we do not have the slightest idea, because they are as imperceptible to us as light is to those born blind. We know they exist, but beyond that our knowledge ends. It is known that spirits have perception, sensation, hearing, and sight, but these faculties are attributes of their whole being, not of specific organs, as in human beings. But how this occurs is not known. Spirits themselves cannot explain it, because our language was not made to express ideas we cannot conceive, just as the language of primitive tribes contains no terms for expressing our arts, sciences, and philosophical doctrines.
 
-The body is the instrument of pain. Even when it is not the first cause, it is at least the immediate one. The soul perceives pain, and that perception is the effect. The memory it retains of pain may be extremely vivid, but that does not mean the soul itself undergoes physical sensation in the bodily sense. Cold and heat do not damage the soul’s substance. A soul neither freezes nor burns.
+In saying that spirits are inaccessible to the impressions of matter, reference is made to the most evolved spirits, whose etherealized envelope has no analogy in this world. It is different with spirits whose perispirit is denser, because they perceive our sounds and our odors, though not through a limited part of their organism as when alive. It may be said that molecular vibrations are felt throughout their entire being and therefore in their *sensorium commune*, the spirit itself, but in a different way, perhaps producing a different impression and thus a modification in perception. They hear the sound of our voice, and yet they can understand us without speech, because the mere transmission of thought is sufficient. This proves that mental acuity becomes greater the more dematerialized they become. The faculty of sight is independent of light; it is an essential attribute of the soul, for which darkness does not exist, and it becomes broader and more penetrating in those who are more purified. Therefore, the soul or spirit possesses within itself the faculty of all perceptions. During corporeal life, these perceptions are obscured by the density of our organs; during extra-corporeal life, they become increasingly liberated as the semi-material envelope becomes ever more etherealized.
 
-This becomes easier to understand when one considers how powerfully memory and expectation can affect incarnate life itself. The recollection of an illness, or anxiety about one, may disturb a person profoundly and even contribute to death. In the same way, those who have suffered an amputation often still feel pain in the missing limb. The absent member is plainly neither the seat nor the source of the pain. The impression remains in the nervous system and is still experienced.
+Drawn from the surrounding environment, the perispirit varies according to the nature of different worlds. In passing from one world to another, spirits change this envelope as we change our clothes when moving from summer to winter, or from pole to equator. When they come to visit us, the more evolved spirits assume a terrestrial perispirit, and then their perceptions are similar to those of ordinary spirits. However, all spirits, whether highly evolved or not, hear and feel only what they wish to hear and feel.
 
-Something similar may occur after death.
+Since they do not have sensory organs, they can render their perceptions active or inactive at will, although there is one thing they are compelled to hear: the counsels of good spirits. Their sight is always active, but they can make themselves invisible to one another. Depending on the class to which they belong, they can conceal themselves from those who are less purified, but not from those who are more so. In the first moments after death, a spirit’s sight is always dim and confused, but it becomes clearer as the spirit frees itself from the body, and can become even clearer than it was during life, including the ability to penetrate objects opaque to us. As for the extension of a spirit’s sight into indefinite space, the future, and the past, that depends on the spirit’s degree of purity and evolution.
 
-A clearer understanding depends on the perispirit, which plays a central role in spirit phenomena: vaporous and tangible apparitions, the condition of the spirit at death, the frequent impression among the newly dead that they are still alive, and the disturbing state of suicides, the executed, and those who were deeply attached to bodily pleasures.
+This entire theory is not very reassuring. Once freed from our dense envelope, the instrument of our pains, we might think we would not suffer anymore. Yet we can continue to suffer; whether in one way or another, suffering remains suffering. Alas, we can still suffer a great deal and for a long time, though we may also cease to suffer from the moment we leave corporeal life behind.
 
-The perispirit is the link between spirit and body. It is formed from the surrounding universal fluid. It contains elements comparable to electricity, magnetic fluid, and, to some extent, inert matter. It may be regarded as the quintessence of matter. It is the principle of organic sensation, though not of intelligence, which belongs to the spirit alone.
+The sufferings of this world are sometimes the result of a cause outside ourselves, but more often they result from our own will. Traced back to their origin, most are due to causes we could have avoided. How many ills and infirmities do people owe solely to their excesses and ambitions—in a word, to their passions? If individuals always lived wisely and abused nothing, if they always had simple tastes and modest desires, they would spare themselves many tribulations. The same applies to spirits: the sufferings they undergo always result from the way they lived on the earth. Of course, they no longer have gout or rheumatism, but they experience other sufferings that are no less real. Such sufferings are the result of the links that still exist between the spirit and matter. The more the spirit is freed from the influence of matter—that is, the more dematerialized it is—the fewer painful sensations it suffers. Starting in its present life, it depends on the spirit itself to break free from the influence of matter, because it has free will and therefore the ability to choose to act or not. Let the spirit conquer its animal passions; let it entertain no hatred, envy, jealousy, or pride; let it cease to be dominated by selfishness; let it purify itself through good sentiments; let it practice the good; let it assign to the things of this world no more importance than they deserve. Then, even while still in its corporeal envelope, it will already have purified itself by detaching from matter, and when it leaves the body behind, it will no longer suffer from matter’s influence. The physical sufferings endured in the past will leave no painful memory or disagreeable impression, because they affected only the body. The spirit is happy to be relieved of them, and its peaceful conscience exempts it from all mental anguish.
 
-In earthly life, sensations are localized through the organs of the body. After the destruction of the body, they are no longer confined to separate organs but become generalized. That is why a spirit does not say that it suffers more in one bodily part than in another. Still, the sensations of the perispirit must not be confused with bodily sensations. Bodily pain can serve as a comparison, but not as an exact analogy.
-
-Freed from the body, a spirit may suffer, but not in the same way a body suffers. Yet this suffering is not merely moral in the narrow sense, as though it were only remorse. A spirit may complain of heat or cold, but not because temperature physically acts on it as it acts on flesh. Spirits have been seen passing through flames without pain, which shows that ordinary temperature has no effect on them. What they experience is not physical pain properly speaking, but an inner and often indistinct suffering. It is not always localized, nor does it always come from an external cause. Often it is a memory more than a present reality, though a deeply painful memory. At times, however, it is more than memory.
-
-Experience shows that the perispirit separates from the body more or less slowly at death. During the first moments, the spirit often does not understand its state. It does not think itself dead because it still feels alive. It sees its body nearby, knows it belongs to it, yet does not understand why it is separated from it. This condition continues as long as some bond remains between body and perispirit.
-
-One suicide expressed this condition by saying, “No, I am not dead,” and then added that he could feel worms devouring him. The worms were not acting on the spirit, nor even on the perispirit, but only on the body. Yet because separation was incomplete, what was occurring in the corpse was still reflected to the spirit through the remaining connection. It was not merely the recollection of something once suffered in life. It was the present impression of what was happening to the body, mistakenly taken as direct experience.
-
-During incarnate life, the body receives impressions and transmits them to the spirit through the perispirit, likely by means of what may be called the neural fluid. After death, the body feels nothing because it no longer has either spirit or perispirit. When detached from the body, the perispirit still serves as the vehicle of sensation, but sensation no longer passes through limited bodily channels and therefore becomes diffused through the whole being.
-
-The perispirit, however, is only a transmitting agent. Consciousness belongs to the spirit alone. If the perispirit could exist without the spirit, it would feel no more than a corpse. And if the spirit had no perispirit, it would be inaccessible to painful sensation, as happens with fully purified spirits. The more a spirit purifies itself, the more etherealized its perispirit becomes, and the less it is subject to material influence.
-
-This raises a natural question: if pleasant sensations reach the spirit through the perispirit, do not unpleasant ones do so as well? And if a pure spirit is inaccessible to some, must it not also be inaccessible to the others? It is so, but only with respect to sensations that arise from the kind of matter familiar to us. The sound of human instruments and the fragrance of flowers make no impression on a pure spirit. Yet it enjoys inward sensations of a delight impossible for us to define, because they are as inaccessible to our present faculties as light is to one born blind. We know such perceptions exist, but not how they are experienced.
-
-Spirits possess perception, sensation, hearing, and sight, but these belong to their whole being rather than to separate organs as in human beings. How this occurs cannot be fully expressed in human language, which was formed for the world of incarnate experience and lacks terms for realities beyond ordinary conception.
-
-When spirits are said to be inaccessible to the impressions of matter, this applies above all to the most advanced, whose etherealized envelope has no true counterpart in the physical world. The case is different with spirits whose perispirit is denser. Such spirits perceive sounds and odors, though not through specialized organs. Vibrations are felt throughout their whole being and thus in the common seat of sensation, the spirit itself, but in a manner different from earthly perception and perhaps producing different effects.
-
-They hear the human voice, yet they can also understand without speech, for the transmission of thought is enough. This shows that spiritual perception becomes more penetrating as dematerialization increases. Sight, too, is independent of light. It is an essential faculty of the soul, for which darkness does not exist. Among more purified spirits, it is broader and more penetrating. The soul, or spirit, therefore contains within itself the faculty of perception in general. During bodily life these faculties are obscured by the density of material organs; in the extra-corporeal state they are gradually liberated as the semi-material envelope becomes more refined.
-
-Because the perispirit is drawn from the surrounding environment, it varies according to the nature of different worlds. As a person changes clothing according to climate, spirits change their envelope when passing from one world to another. When more advanced spirits come to a world like ours, they assume a terrestrial perispirit, and under those conditions their perceptions resemble those of ordinary spirits. Yet all spirits, whether more or less advanced, hear and feel only what they choose to hear and feel.
-
-Since they do not depend on bodily sense organs, they can make their perceptions active or inactive by an act of will. There is, however, one thing they cannot refuse to hear: the counsels of good spirits. Their sight remains active, though they may render themselves invisible to one another. According to their degree of advancement, they may hide themselves from less purified spirits, though not from those who are more purified.
-
-In the first moments after death, a spirit’s vision is often dim and confused. It becomes clearer as the spirit disengages from the body and may eventually surpass the clarity of earthly sight, even to the point of penetrating what is opaque to human eyes. How far that sight extends through space, and how much it grasps of past and future, depends on the spirit’s degree of purity and advancement.
-
-These ideas may seem unsettling. Many imagine that once freed from the dense envelope that served as the instrument of pain, they will no longer suffer. Yet suffering may continue after death, and sometimes very intensely and for a long time. Still, it may also cease altogether from the moment bodily life ends.
-
-The sufferings of earthly life sometimes come from causes outside us, but more often they arise from our own choices. Traced back to their origin, many human troubles would be found to come from excess, ambition, and the passions. Much illness and misery are the result of misuse, imbalance, and disordered desire. Simplicity, moderation, and self-command spare a person many afflictions.
-
-The same law applies after death. The sufferings of spirits are always connected to the way they lived on earth. They no longer endure gout or rheumatism, but they may experience other forms of suffering no less real. These sufferings persist only insofar as the spirit remains bound to matter. The more the spirit frees itself from material influence, the more dematerialized it becomes, and the less it is exposed to painful sensations.
-
-This liberation depends, even now, on the use of free will. A spirit can begin in present life to loosen the hold of matter by overcoming its lower passions, renouncing hatred, envy, jealousy, pride, and selfishness, and cultivating good feelings. It advances by practicing what is good and by assigning worldly things only the importance they truly deserve. In that way, even while still in a body, it purifies itself through detachment from matter.
-
-Then, when it leaves the body behind, it no longer suffers from material influence. The physical pains once endured in life leave no bitter trace in the spirit, because they affected only the body. The spirit rejoices to be freed from them, and the peace of a clear conscience preserves it from moral anguish.
-
-The destiny of spirits confirms this law. Their sufferings always correspond to their conduct, and they endure the consequences of what they have chosen. For those who have followed the path of good, the life beyond the grave is a source of deep and inexpressible happiness. For those who suffer, the cause lies in themselves, as it often did during incarnate life. In both worlds, they bear responsibility for the direction they have taken.
+On this subject, many thousands of spirits belonging to every social class and condition have been questioned. They have been studied at every period of their spiritual life, from the moment they left the body. They have been followed step by step in that life beyond the grave in order to observe the changes that took place in their ideas and sensations. In this respect, the most ordinary individuals furnished the most precious elements of study. Their sufferings are always related to their conduct; they must suffer the consequences. This new existence is a source of ineffable happiness for those who have taken the path of good. Hence, for those who suffer, it is because they have wanted to, and they have only themselves to blame in the other world as in this one.
 
 ## The Choice of Trials
 
-Before entering a new bodily existence, a spirit in the errant state has awareness enough to choose the kinds of trials it will undergo. In this freedom lies its responsibility. It is not abandoned to blind fate, nor is every sorrow arbitrarily imposed as a punishment.
+While in the errant state, and before a new corporeal existence, a spirit has awareness and foresight of what will happen during its new lifetime. The spirit itself chooses the kinds of trials it will undergo. Its free will consists in doing so.
 
-Nothing occurs outside divine permission, because the laws governing the universe come from God. Yet within those laws, spirits are given freedom to choose. They may take the path of good or the path of error, and they must bear the consequences of what they choose. If they fail, all is not lost. Divine goodness allows them to begin again where they fell short.
+It is not God who imposes the tribulations of life as a chastisement. Nothing happens without God’s permission, because God established all the laws that govern the universe. In giving a spirit freedom of choice, God leaves it the entire responsibility for its acts and their consequences. Nothing bars its future. The path of good and the path of evil are both open. If the spirit succumbs in its trials, it still has the consolation that not all is lost, because God, in divine goodness, allows it to start over where it failed. It is necessary to distinguish between what belongs to God’s will and what belongs to human will. If a danger threatens you, it is not you who created it, but God. However, you willingly exposed yourself to it because you saw in it a means of advancement, and God allowed it to happen.
 
-A necessary distinction must be made between what belongs to God’s will and what belongs to the spirit’s will. A danger may exist within the order of things permitted by God, but a spirit may voluntarily place itself in circumstances where that danger serves as a means of progress. In that case, the exposure was chosen, even though the law allowing it belongs to God.
+If our spirit chooses the kinds of trials it will undergo, it does not follow that all the tribulations of life are foreseen and chosen by us, because it cannot be said that we have chosen and foreseen everything that happens in the world, not even the smallest things. We have chosen the kind of trial; the details are consequences of the position we have chosen and, frequently, of our own actions. If a spirit is born among evildoers, for example, it already knows what kind of temptations it will face, but it does not know how it will act in each specific situation; its actions are the products of its volition or free will. In choosing a particular path, a spirit knows it must endure the struggles that arise there and knows the nature of the tribulations it will encounter, but it does not know what events await it. The details spring from circumstances and from the force of things. Only the major events that will influence its destiny are foreseen. If you walk down a path full of ruts, you know you must be very cautious because you run the risk of tripping, but you do not know when you will trip, and perhaps you will not trip at all if you are sufficiently on guard. If you are walking down the sidewalk and a tile falls on your head, you must not think that it was “written beforehand,” as is commonly said.
 
-### What Is Chosen, and What Is Not
+A spirit may wish to be born among evildoers because it must be sent into the environment in which it can undergo its requested trial. To that end, it must find an analogous situation. For example, in order to struggle against the instinct of thievery, it must dwell among thieves.
 
-A spirit does not foresee and select every detail of an earthly life. It chooses the type of trial, not every incident. The details arise from circumstances, from the conditions into which it has placed itself, and often from its own actions.
+If there were no longer any evil individuals on earth, spirits would not need to find there the necessary conditions for certain trials. That is what happens on highly evolved worlds, where evil has no access; thus, only good spirits dwell on them. Every effort should be made to ensure that the same happens as soon as possible on earth.
 
-If a spirit chooses to be born among corrupt people, it knows the sort of temptations it will meet there, but it does not know beforehand each act it will perform. Those acts are still the result of its own will. It knows that by taking a certain road it will encounter a certain kind of struggle, but not every event that will happen along the way. Only the major events that bear strongly on its destiny are foreseen.
+In the trials it must undergo to reach perfection, a spirit does not have to experience every possible type of temptation. Some, from the beginning, have taken a road that spares them many trials, but those who allow themselves to be led along the evil road risk all its dangers. For instance, a spirit may ask for wealth and receive it. Then, depending on its character, it may become greedy or wasteful, selfish or generous, or it may indulge in all the pleasures of sensuality. This, however, does not mean that it had to succumb to all those tendencies.
 
-A person who walks a rough and dangerous path knows that caution will be needed and that a fall is possible, but does not know the exact moment of a stumble—or even whether one will occur at all. Much depends on vigilance. In the same way, not every accident of life has been individually written in advance.
+A spirit that is, at its origin, simple, ignorant, and inexperienced can consciously choose an existence and be responsible for its choices because God compensates for its inexperience by outlining the path it should follow, as one does for a child from birth. However, as the spirit’s free will develops, God gradually leaves it free to choose its own way. It is at this point that the spirit may choose the wrong path if it does not listen to the advice of good spirits. This is what may be called the fall of man.
 
-### Why Spirits Seek Difficult Conditions
+When a spirit enjoys its free will, the choice of its next corporeal existence does not always depend solely on its own will, because God may impose a certain existence on a spirit when, due to impurity or ill will, it is not capable of determining what would be most useful, and when God sees that such an existence could serve for its purification and advancement and, at the same time, its expiation. God knows how to wait and never hastens expiation.
 
-A spirit may ask to be born in surroundings where evil is present because that is the fitting environment for the trial it has requested. To struggle against an impulse, it must often be placed where that impulse can be awakened. If it needs to resist theft, it may be born among thieves.
+Spirits do not make their choice immediately after death, because many of them believe in eternal punishment, and that belief is itself a punishment.
 
-There is no reason to regret the disappearance of evil from any world. On more advanced worlds, evil no longer finds access, and only good spirits dwell there. Earth itself is meant to advance in the same way.
+What guides a spirit in choosing the trials it wants to bear is whatever may serve as expiation according to the nature of its wrongs and whatever might enable it to evolve more quickly. Some spirits may impose on themselves a life of poverty and hardship in order to try to bear it with courage. Others may wish to experience the temptations of fortune and power, which are much more dangerous than poverty because of the abuse and misuse that may be made of them and because of the base passions they encourage. Still others may desire to be tested in the struggles they must endure through contact with various vices.
 
-A spirit does not need to undergo every possible temptation. It does not have to pass through all conditions that might provoke pride, jealousy, greed, or sensuality. Many avoid entire ranges of suffering by taking a better road from the outset. But if a spirit allows itself to be drawn into evil, it exposes itself to the dangers attached to that path.
+If some spirits choose contact with vice as a trial, others choose it out of affinity and from the desire to live in surroundings that cater to their tastes, or where they may give free rein to their materialistic tendencies. Such spirits exist, but only among those whose moral sense is still underdeveloped. The trial then proceeds naturally, and they must endure it for a longer time. Sooner or later, they will understand that satisfying their crude passions has deplorable consequences, which they will have to endure for a period that will seem like an eternity. God may leave them in this state until they understand their wrongs and themselves ask for the means to redeem them through profitable trials.
 
-A spirit may ask for wealth, for example. Wealth can become a trial of greed, selfishness, waste, pride, or sensual indulgence. Yet this does not mean the spirit must give in to all of those tendencies. The trial creates the opportunity for victory or failure; it does not predetermine the outcome.
+It would be natural for human beings to choose the least painful trials possible, but not for the spirit. Once freed from matter, illusion disappears and it thinks differently.
 
-### The Growth of Freedom
+Human beings, subjected on earth to the influence of carnal ideas, see only the painful side of their trials. That is why it seems logical to them that they would choose those trials that, from their point of view, can coexist with material pleasures. But in spiritual life they compare such crude and fleeting pleasures with the unchangeable happiness of which they catch a glimpse. What importance, then, are a few temporary hardships? A spirit may therefore choose the hardest trial, and consequently the most painful existence, in the hope of reaching a better state more quickly, just as a patient often chooses the most unpleasant medicine in order to be healed sooner. Explorers who aspire to have their name linked to the discovery of an unknown country do not choose a path strewn with flowers; they know the dangers they must face, but they also know the glory awaiting them if they succeed.
 
-At its origin, a spirit is simple, ignorant, and inexperienced. It could not guide itself wisely without help. God compensates for this inexperience by indicating the path to follow, as a child is guided in early life. As the spirit develops, God gradually leaves it more fully to its own freedom.
+The doctrine of freedom to choose our lives and the trials we must undergo ceases to seem unusual when we consider that spirits, once disengaged from matter, judge things differently than we do. They foresee the goal, and that goal seems far more important than the fleeting pleasures of the world. After each existence, they see the steps already taken and understand what they still lack in purity to reach the goal. That is why they willingly submit to all the vicissitudes of corporeal life, even requesting those that may help them arrive more quickly. It should therefore not be surprising that a spirit may not prefer a softer life. In its state of imperfection, it cannot enjoy life without suffering. It catches only a glimpse of the goal, and it is to reach it that it seeks to improve itself.
 
-The wrong choice begins when a spirit no longer listens to the counsel of good spirits and follows a mistaken path of its own will. In that sense, the fall comes from the misuse of freedom.
+We see similar examples every day. Individuals who work part of their life without rest or respite in order to accumulate what is necessary for their well-being impose on themselves a task with a view to a better future. Soldiers who volunteer for a perilous mission, and explorers who confront dangers no less formidable in the interest of science or fortune, willingly submit themselves to trials that will bring them honor and profit if they overcome them. People undertake and expose themselves to much for their own gain or glory. Competitive examinations are voluntary trials for advancement in a chosen career. No one reaches a highly important social position in the sciences, arts, or industry without passing through a series of lower positions, each of which is itself a kind of trial. Human life is thus a copy of spirit life; the incidents of the latter are found in the former, only on a smaller scale. If during our time on earth we often choose the most difficult trials with a view to rising further, then a spirit, who sees even farther ahead and for whom earthly life is only a fleeting incident, may choose a painful and laborious existence if it will lead to eternal happiness. Those who say that, if they could choose their existence, they would ask to be princes or millionaires are like the near-sighted who cannot see beyond what they touch. They are like gluttonous children who, when asked what they want to be when they grow up, answer, “a cake baker” or “a candy maker.”
 
-Even so, the choice of a future existence does not always rest entirely with the spirit. When a spirit’s impurity or obstinacy makes it incapable of choosing what would truly benefit it, God may impose a particular existence. Such an existence serves at once as expiation, purification, and advancement. God does not hasten expiation unnecessarily, but neither does God leave a spirit forever to choices that would only prolong its disorder.
+Likewise, hikers in the depths of a fog-obscured valley see neither the length nor the breadth of their path, but upon reaching the top of a mountain, they behold the path they have traveled, how far they still must go, and the obstacles they must yet overcome. Hence, they choose the surest means to reach their goal. Incarnate spirits are like hikers in the depths of the valley; when freed from earthly ties, it is as though they have reached the mountaintop. For the hiker, the goal is rest after a wearisome trek; for the spirit, it is supreme happiness after trials and tribulations.
 
-### Delay After Death
+All spirits say that in the errant state they search, study, and observe in order to make their choices. An example of this exists in corporeal life. We often spend years searching for a career, which we eventually choose because we think it best suited to our goals. If we fail in one, we seek another. Each career we embrace is a phase, a period of our life. Each day we choose what we will do tomorrow. Different corporeal lives are, for a spirit, phases, periods, and days of its spiritual life, which is the normal life. Corporeal life is nothing more than transitory and temporary.
 
-The choice of a new existence is not always made immediately after death. Many spirits are delayed by their own beliefs and mental states. Some remain under the burden of the idea of eternal punishment, and that belief itself becomes a source of suffering.
+A spirit can choose its next corporeal life during its present one. Its desire may have an influence, depending on its intention. In the spirit state, however, it often sees things very differently. It is the spirit as such that makes the choice, but it may still make it during material life because a spirit always has moments when it is independent of the matter it inhabits.
 
-### What Guides the Choice
+Many individuals desire greatness and wealth, not as expiation or trial. It is the flesh that desires greatness and wealth in order to enjoy them, but it is the spirit that desires them in order to experience the tribulations they may cause.
 
-In choosing trials, a spirit seeks what may serve as expiation for past wrongs and what may help it progress more quickly.
+Until it reaches the state of perfect purity, a spirit must constantly undergo trials, but these are not material tribulations in the ordinary sense. Even though it may not yet be perfect, a spirit that reaches a certain degree has no more trials to endure. However, it still has duties free from suffering, consisting in helping others improve themselves; these, in turn, help it evolve further.
 
-One may choose poverty and hardship in order to learn endurance and courage. Another may choose fortune and power, though these are often more dangerous than poverty because of the abuses they invite and the passions they excite. Others may seek the harsh schooling that comes through contact with vice.
+A spirit can be mistaken as to the effectiveness of a trial it chooses. It may choose one that exceeds its strength, and then it succumbs. It may also choose one that will not be profitable at all, such as a kind of idle and useless life. In such a case, however, upon returning to the spirit world it realizes that it has gained nothing and asks to make up for lost time.
 
-Not all who live amid vice are there by way of noble trial. Some are drawn to such conditions by affinity. They seek surroundings that suit their still-crude tastes and allow material inclinations free rein. These spirits remain in such states until the bitter consequences of their passions teach them what they refused to learn otherwise. Sooner or later, they understand their wrongs and ask for better trials through which they may repair them.
+Certain vocations, or the desire to follow one career rather than another, result from everything said about the choice of trials and the progress accomplished in a preceding existence.
 
-### Why Spirits Do Not Choose the Easiest Life
+When a spirit in the errant state studies the conditions that will enable it to progress, it could imagine that it might do so by being born among cannibals only if it is not already advanced. Spirits who have already advanced are not born among cannibals, only those of the same nature as cannibals, or those even less evolved.
 
-From an earthly point of view, it seems natural to prefer the least painful trials. But once free of the body, a spirit sees differently. Material illusion fades. Fleeting pleasures are weighed against the lasting happiness glimpsed ahead, and temporary hardship no longer seems so decisive.
+Our cannibals are not at the lowest degree of the scale, and there are worlds where brutality and ferocity have no comparison on earth. Such spirits are therefore even less evolved than the least evolved on our world. To be among our cannibals is progress for them, just as it would be progress for our cannibals to exercise a profession among us that would require them to shed blood. If they aim no higher, it is because their moral impurity does not allow them to comprehend a more complete progress. A spirit can advance only gradually; it cannot simply leap over the gap between barbarity and civility. In this lies one of the necessities of reincarnation, clearly showing it to be in accord with God’s justice. Otherwise, what would become of the millions of beings who die every day in the ultimate state of degradation if they had no means of lifting themselves out of it? Why would God withhold from them the favors granted to others?
 
-A spirit may therefore choose a difficult and painful life in the hope of reaching a better state more quickly, just as a patient accepts an unpleasant remedy for the sake of healing. Those who undertake dangerous explorations in search of discovery do not choose the easiest route; they accept hardship because they see beyond it.
+Spirits who come from a world less evolved than earth, or from a much less advanced people such as cannibals, can be born among civilized people. Some go astray by wanting to ascend too quickly, but they are out of place among the civilized. They display habits and instincts that clash with those around them.
 
-When viewed from the spirit state, the freedom to choose one’s life and trials no longer appears strange. Spirits perceive the goal more clearly than incarnate beings do. After each existence, they see how far they have come and what still remains to be purified. That is why they may willingly submit to the hardships of bodily life and even ask for those that will hasten their progress.
+Such beings present the sad spectacle of ferocity in the midst of civility. Returning to live among cannibals would not be a regression for them, because it would be no more than a resumption of their proper place, perhaps even with some advantage.
 
-In its imperfect condition, a spirit cannot enjoy existence without suffering. It sees enough of the goal to understand that improvement is worth the cost.
+A person belonging to a civilized culture could reincarnate into a less advanced one as an expiation. It would depend on the kind of expiation. Masters who had been cruel to their servants might become servants themselves and suffer the harsh treatment they once inflicted on others. Those who gave orders at one time might, in a new existence, obey those who formerly bent to their will. This would be an expiation if they had abused their power, and God may impose it on them. Furthermore, a good spirit may choose an influential life among such a people in order to help them advance; in that case, it is a mission.
 
-### Earthly Images of the Same Law
+## Relationships beyond the Grave
 
-Human life already offers many reflections of this principle. People labor for years, deprive themselves, and accept exhausting efforts in view of a future good. Soldiers volunteer for dangerous missions. Explorers face severe risks for knowledge, success, or honor. Students choose demanding examinations to advance in a profession. No one reaches a high place in science, art, or industry without passing through many lower stages, each with its own discipline and difficulty.
+The different orders of spirits establish a hierarchy of powers, and there is subordination and authority among them. Spirits have authority over one another relative to their degree of evolution and exert it through an irresistible moral ascendancy. Low-order spirits cannot evade the authority of those more evolved.
 
-Bodily life mirrors spirit life on a smaller scale. If people often choose difficult paths on earth to secure a greater future, there is nothing unreasonable in a spirit choosing a laborious existence when it can see farther ahead and knows that earthly life is brief.
+The power and influence that individuals enjoy on earth do not secure them any supremacy in the spirit world, because the lowly will be exalted and the great will be abased. Spirits belong to different orders according to their merits. The greatest on earth may be in the last class among spirits, while their servants may be in the first. Whoever humbles themself shall be exalted, and whoever exalts themself shall be humbled.
 
-Those who imagine they would naturally choose only rank, luxury, or riches see only the immediate surface. Such judgments belong to shortsightedness. The child who wants to grow up only to live among sweets does not understand what life requires. In the same way, the incarnate spirit often mistakes pleasure for happiness.
+Those who were great on earth but find themselves abased among spirits almost always feel deeply humiliated, especially if they had been proud and jealous.
 
-### The Mountain and the Valley
+After a battle, a soldier who meets a general in the spirit world does not acknowledge the general as superior. Title is nothing; true superiority is everything.
 
-The condition of an incarnate spirit resembles that of a traveler walking through a valley filled with fog. From below, the road seems narrow and confused, and the destination is not clearly seen. Upon reaching the summit, the traveler sees both the road already taken and the one still to come, together with its obstacles and the surest route forward.
+The spirits of different orders are both mixed and separate. They may see one another, but they are distinguished from one another. They avoid or approach one another according to the similarity or dissimilarity of their sentiments, just as humans do. It is a complete world in itself, of which the human world is only a dim reflection. Those of the same order are drawn together by a kind of affinity, and they form groups or families of spirits united by sympathy and purpose: the good by their desire to do good; the evil by their desire to do evil, by shame for their wrongs, and by the need to be among others like themselves.
 
-Freed from earthly ties, the spirit sees from this higher point. For the traveler, the goal is rest after fatigue. For the spirit, it is supreme happiness after trials and tribulations.
+It is exactly like a large city, where individuals of every social class and condition see and meet one another without truly mixing, where societies are formed by similarities of taste, and where vice and virtue jostle each other without speaking.
 
-### Study Before Choosing
+Not all spirits have mutual access to one another. The good go everywhere, because it must be so in order that they may bring their influence to bear upon the evil. Nevertheless, the realms inhabited by the good are forbidden to imperfect spirits, so that the latter cannot bring their evil passions there.
 
-In the errant state, spirits search, study, and observe before making their choices. This too has an earthly likeness. People may spend years examining possible careers before deciding which best suits their ends. If one path proves mistaken, they turn to another.
+The relation between good and evil spirits is this: the good seek to combat the evil tendencies of the others in order to help them evolve. It is a mission.
 
-Each bodily existence is like a phase in the broader life of the spirit. Spirit life is the normal life; bodily existence is temporary and passing. From that wider perspective, successive incarnations are like periods or days within a much larger journey.
+Certain low-order spirits take pleasure in inducing humans to evil out of spite for not having deserved to be among the good. Their desire is to prevent inexperienced spirits, as much as possible, from attaining the supreme good. They want others to experience what they themselves are experiencing.
 
-### Desire During Earthly Life
+Spirits communicate with one another by seeing and comprehending one another. Speech is material; it is a reflection of the spirit. The universal fluid establishes constant communication among them. It is the vehicle for the transmission of thought, as air is for humans the vehicle for sound. It is a kind of universal telegraph that connects all worlds, enabling spirits to communicate from one world to another.
 
-A spirit may influence its future existence even while still incarnate. Its desires can have an effect, according to their sincerity and direction. Yet once it returns to the spirit state, it often judges things quite differently. Strictly speaking, the choice belongs to the spirit as spirit, though moments of relative independence from the body can already orient that choice during earthly life.
+Spirits cannot disguise their thoughts or hide themselves from one another. Everything is open to them, especially when they are perfect. They may be apart from each other, but they always see one another. This is not an absolute rule, however, since certain spirits can very easily make themselves invisible to others if they deem it useful.
 
-Many people desire greatness and wealth. Often this desire belongs to the bodily side, which longs to enjoy them. But the spirit may desire wealth or power for a very different reason: as a trial, in order to face the dangers and responsibilities they bring.
+Since spirits no longer have a body, they retain their individuality and make themselves recognizable to one another by means of the perispirit, which distinguishes them from one another as bodies do among humans.
 
-### Trials Continue Until Purity Is Reached
+Spirits recognize each other after having lived on earth. The son recognizes his father, the friend recognizes her friend, and so on from generation to generation. Those who knew each other on earth recognize each other in the spirit world by seeing their past life and reading it as if it were a book. As they watch the friends and enemies of their past, they also witness their passage from life to death.
 
-Until perfect purity is attained, a spirit continues to have duties and occasions for progress. Yet these are not always trials in the ordinary earthly sense of material suffering. A spirit that has reached a certain degree may no longer need painful expiatory conditions. Still, it is not inactive. It has duties that involve helping others to improve, and in fulfilling those duties it continues to advance.
+Upon leaving its mortal remains behind, the soul does not always immediately see the relatives and friends who had preceded it into the spirit world. It requires some time to recognize its situation and shake off the material veil.
 
-### Mistaken Choices
+Upon returning to the spirit world, the soul of the just is received as a beloved and long-awaited brother or sister; the soul of the wicked, as a despised being.
 
-A spirit can be mistaken about the usefulness of a trial. It may choose one beyond its strength and succumb under it. It may also choose a life that proves sterile—idle, unproductive, and spiritually empty. On returning to the spirit world, it sees that it has gained nothing and asks for an opportunity to recover lost time.
+Impure spirits are pleased at the sight of another evil spirit newly arrived. Evil spirits are pleased at seeing beings who resemble them and who are deprived, as they are, of infinite happiness. It is, just as on earth, a rascal among equals.
 
-### Vocations and Inclinations
+Relatives and friends sometimes come to meet us when we leave the earth. They come to meet the soul they love. If it has escaped the dangers of the road, they congratulate it as though it were returning from a journey, and they help it break free from its corporeal bonds. It is a blessing granted to good spirits when those who love them come to meet them. On the other hand, those who are blemished remain in isolation or are surrounded only by spirits like themselves. This is a punishment.
 
-The attractions people feel toward certain careers and forms of life are often linked to the progress achieved in prior existences and to the kinds of trials previously chosen. Present vocations do not arise at random. They continue an earlier history.
+Relatives and friends are not always reunited after death. That depends on how evolved they are and on the path they are following in their advancement. If one is more advanced and progresses more quickly than the other, they cannot remain together. They may see each other occasionally, but they will not be reunited until they can walk side by side, or until they have reached equality of purification. Moreover, being kept from seeing relatives and friends is sometimes a punishment.
 
-### Gradual Progress Through Different Conditions
+## Sympathies and Antipathies among Spirits. Eternal Halves
 
-A spirit does not progress by leaps that bypass the necessary stages of growth. More advanced spirits are not born among cannibals. Only spirits of a similar or lower moral development would belong there.
+Besides a general sympathy resulting from various similarities, there are also special affections among spirits, just as among humans. However, the link that unites spirits is stronger in the absence of the body because they are no longer exposed to the vicissitudes of the passions.
 
-Even so, for spirits of a very degraded order, incarnation among less brutal earthly peoples may already be a step upward. Progress must be gradual. A being cannot pass at once from barbarity to full civilization. This gradual ascent shows the justice of reincarnation. Without repeated opportunities suited to each level, the vast number of deeply degraded beings would have no practical means of rising.
+There is no hatred among spirits except among impure ones, and these are the spirits who sow enmity and dissension among you.
 
-### Passing Too Quickly Into Higher Conditions
+Two beings who were enemies on earth will not usually retain their resentment in the spirit world. Usually they understand that their hatred was senseless and its motive childish. Only imperfect spirits retain a kind of animosity until they are purified. If it was nothing more than a material interest that separated them, they no longer think about it, however little dematerialized they may be. If there is no antipathy between them, and if the cause of their dissension no longer exists, they can meet again with pleasure.
 
-Spirits from worlds or peoples less advanced than those of civilized societies may sometimes be born among more developed populations. But some attempt this ascent too quickly and do not fit their surroundings. Their instincts and habits remain discordant with the environment into which they have come.
+The remembrance of the wrongs two individuals committed against each other is an obstacle to sympathy and makes them keep their distance.
 
-Such cases produce the troubling spectacle of ferocity appearing in the midst of civilization. If such a being were to return to a less advanced environment, that would not necessarily be a regression. It could simply be a return to conditions more suited to its current level, perhaps now with some benefit from what it had partly encountered.
+Those whom we have wronged in this world experience, after death, forgiveness if they are good, according to our repentance. If they are evil, they may hold on to resentment and at times even pursue us in another existence. God may allow this as a chastisement.
 
-### Reincarnation Into a Less Advanced Culture as Expiation or Mission
+Spirits’ personal affections are not susceptible to change because they cannot be mistaken about one another; they can no longer deceive one another. They no longer wear the mask behind which hypocrites hide, and that is why their affections are unchangeable when they are pure spirits. The love that unites them is a source of supreme bliss.
 
-A person from a civilized society may be reborn in a less advanced one as an expiation. This may happen, for example, when someone abused power in a former life. A cruel master may become a servant and suffer the harsh treatment once inflicted on others. One who commanded arrogantly may later have to obey. In such cases, the reversal teaches justice through lived experience, and God may impose it.
+The affection two beings had for each other on earth always continues in the spirit world if it is based on true sympathy. However, if physical attraction had more influence than sympathy, it ceases with its cause. Affections among spirits are more solid and lasting than on earth because they are not subject to the whims of material interests and selfishness.
 
-The same outward condition can have a very different inner meaning for another spirit. A good spirit may choose an influential life among a less advanced people, not as punishment but as a mission, in order to help that people advance. In that case, the difficult environment is accepted for the sake of service.
+Souls who must come together are not predestined from their origin for such a union, and none of us has, somewhere in the universe, “our other half,” whom we will someday inevitably join. There is no particular and predestined union between two souls. Unity exists among all spirits, but in different degrees, according to the order they occupy, that is, according to their degree of purification. The greater their purification, the more united they are. All the ills of humankind are born from discord; concord gives rise to complete happiness.
 
-## Relationships Beyond the Grave
+The term *other half*, which certain spirits use to designate sympathetic spirits, should be understood as an inaccurate expression. If one spirit were another’s other half, each would be incomplete when separate from the other.
 
-Spirits do not exist in a state of equality.
+When two perfectly sympathetic spirits are united, they remain so throughout eternity; they do not separate in order to unite with other spirits. All spirits are mutually united, meaning those who have already reached perfection. In less evolved spheres, once a spirit has improved itself, it no longer has the same sympathy for those it has left behind.
 
-Among them there is a real hierarchy of powers, with authority and subordination corresponding to their degree of advancement. This authority is not based on force, rank, or outward distinction, but on moral ascendancy. The more advanced naturally prevail over the less advanced through a superiority that cannot truly be resisted.
+Two sympathetic spirits are not each other’s complement. Such sympathy results from the perfect harmony of their tendencies and instincts. If one were necessary to complete the other, it would lose its individuality.
 
-Lower-order spirits cannot escape this authority. However rebellious they may be, they remain subject to the influence of those who are more advanced.
+The affinity required for perfect sympathy does not consist only in similarity of thoughts and sentiments. It also consists in similarity of degree of evolution.
 
-### True Superiority in the Spirit World
+Spirits who are not sympathetic today can become more so later. All will become so someday. Thus, when a spirit who now inhabits a less evolved sphere is perfected, it will reach the sphere where the other dwells. Their reunion will occur more quickly, however, if the more evolved spirit has remained at a standstill because it has poorly borne the trials to which it submitted itself.
 
-Earthly importance gives no automatic superiority beyond bodily life.
+Two sympathetic spirits may cease to be sympathetic if one of them becomes idle.
 
-Those who were powerful, honored, or exalted in the world may find themselves among the least advanced spirits, while those who were obscure, humble, or socially lowly may be far above them. Human titles disappear there. What remains is merit.
-
-For that reason, one who was great on earth may feel deep humiliation on discovering a lower condition in the spirit world, especially if pride and jealousy shaped that earthly life. The pain comes not from the loss of title itself, but from the recognition that what seemed greatness was not true elevation.
-
-Even the distinctions that seemed unquestionable during life lose their meaning after death. A soldier who meets his general no longer measures superiority by command, uniform, or social position. Titles are nothing. True superiority is everything.
-
-### Affinity, Separation, and the Gathering of Spirits
-
-Spirits of different orders are not isolated from one another in an absolute way, yet neither are they mingled without distinction.
-
-They may see one another, but they remain clearly differentiated. They approach or avoid one another according to the resemblance or opposition of their sentiments. Like attracts like. Similar tendencies create affinity; contrary tendencies create distance.
-
-From this affinity arise groups or families of spirits united by sympathy and purpose. Good spirits gather through their desire to do good. Evil spirits gather through their desire to do evil, through the shame that follows wrongdoing, and through the need to remain among beings like themselves.
-
-The spirit world contains every degree of condition and character, yet these degrees do not blend into confusion. Virtue and vice exist side by side without true union.
-
-### Access Among Spirits
-
-The good can go everywhere.
-
-This freedom is necessary so that they may exercise a beneficial influence upon spirits who are still imperfect. Their mission requires access, guidance, and the ability to oppose evil tendencies wherever they are found.
-
-The realms inhabited by good spirits, however, are closed to imperfect spirits. Those lower spirits are prevented from entering places where their passions would disturb the harmony they have not yet learned to share.
-
-### The Relationship Between Good and Evil Spirits
-
-Good spirits labor to oppose the evil inclinations of lower spirits in order to help them advance.
-
-This struggle is not one of hatred, but of restoration. It is part of their mission to restrain, correct, and influence those who are still attached to evil.
-
-Evil spirits, by contrast, often seek to draw human beings into wrongdoing. They do this out of spite. Having failed to attain the company and happiness of the good, they try to keep inexperienced souls from reaching the good they themselves lack. They want others to undergo what they endure.
-
-This destructive impulse springs from envy, frustration, and a painful awareness of their own condition.
-
-### Communication Among Spirits
-
-Spirits communicate directly through thought.
-
-They see and understand one another without needing spoken language. Speech belongs to material life and is only a rough reflection of spiritual exchange. Among spirits, communication takes place through a universal fluid that serves as the vehicle of thought, much as air carries sound in the physical world.
-
-This creates a constant communication linking spirits to one another, even across different worlds. It is like a universal network through which thought is transmitted instantly.
-
-### Transparency and Visibility
-
-Thought among spirits is ordinarily open.
-
-They do not conceal themselves from one another in the way human beings do. For spirits, especially the more perfect, everything is largely laid bare. Even when they are separated, they remain visible to one another.
-
-This openness is not without exception. Certain spirits can make themselves invisible to others when there is a useful reason for doing so. Still, concealment is far more limited in the spirit state than in earthly life.
-
-### Individuality and Recognition
-
-A spirit remains distinct and recognizable after the loss of the physical body.
-
-Its individuality is preserved by the perispirit, which distinguishes one spirit from another just as the body distinguishes incarnate beings during earthly life.
-
-Spirits who knew one another on earth recognize one another after death. A son recognizes his father, and friends recognize each other. This recognition is not uncertain or vague. They perceive their past life and read it clearly, as though it were written before them. In one another they see not only the memory of former relationships, but also the course each has taken since bodily death.
-
-### The Return to the Spirit World
-
-Recognition after death is not always immediate.
-
-A soul newly separated from the body does not necessarily see relatives and friends at once. It often needs time to understand its new state and to free itself from the lingering influence of material life.
-
-Once returned, the soul is received according to its condition. The just soul is welcomed like a beloved and long-awaited brother or sister. The wicked soul is received as a being held in contempt.
-
-Impure spirits feel satisfaction at the arrival of another evil spirit who resembles them and who, like them, is deprived of the happiness enjoyed by the good. Their companionship does not bring peace, only the grim comfort of likeness.
-
-### The Welcome of Relatives and Friends
-
-Those who loved us may come to meet us when we leave the earth.
-
-Good spirits are often received by relatives and friends who preceded them into the spirit world. These loving spirits greet them with joy, as one welcomes a traveler returning safely from a difficult journey. They help them loosen the bonds that still connect them to bodily life.
-
-Such a welcome is a blessing. It belongs especially to souls whose condition allows reunion with those who love them.
-
-A blemished spirit does not receive the same consolation. It may remain isolated, or find itself surrounded only by spirits of a similar nature. This isolation, or this companionship among the impure, forms part of its punishment.
-
-### Reunion After Death
-
-Relatives and friends are not always reunited immediately or permanently after death.
-
-Everything depends on their degree of advancement and on the path each is following. If one spirit has advanced more rapidly than another, they cannot remain together continuously. They may see one another at intervals, but full reunion waits until they are able to walk side by side, having reached a similar degree of purification.
-
-The temporary loss of familiar companionship is not arbitrary. It reflects the law of spiritual progress. Sometimes the inability to see loved ones is itself a punishment, especially when it helps a spirit understand what it has lost and what it must become in order to regain it.
-
-Love persists, but harmony requires likeness of condition. Lasting reunion belongs to spirits who are united not only by memory and affection, but by shared advancement toward the good.
-
-## Sympathies and Antipathies Among Spirits. Eternal Halves
-
-Among spirits, sympathy does exist, and it is stronger than among people on earth.
-
-Freed from the body, spirits are no longer subject in the same way to the disturbances and fluctuations of the passions. Similarity of character, feeling, and degree of advancement creates a real bond between them, and this bond is more direct and more powerful when material influences no longer obscure it.
-
-Antipathy also exists, but only among impure spirits. These are the ones who foster enmity and division and who often encourage the same tendencies among human beings.
-
-### Resentment, Forgiveness, and Reunion
-
-Enemies on earth do not ordinarily remain enemies in spirit life.
-
-Once separated from bodily life, they usually recognize how senseless their hatred was and how childish its motive had been. Only imperfect spirits preserve a kind of animosity until they are purified. If the conflict arose merely from material interests, it fades as soon as those interests no longer matter. When there is no deeper antipathy and the cause of dissension has disappeared, they may meet again with pleasure.
-
-The memory of wrongs can, however, delay sympathy. It may cause spirits to keep their distance from one another.
-
-Those who were wronged respond according to their moral state. Good spirits forgive in proportion to sincere repentance. Spirits who are still evil may cling to resentment and, at times, even pursue the one who harmed them into another existence. Such a pursuit is not outside divine justice; it may be permitted as a form of chastisement.
-
-### Lasting Affections Among Spirits
-
-Personal affections among spirits can change in lower conditions, but among pure spirits they do not.
-
-Spirits no longer deceive one another. No mask remains behind which hypocrisy may hide. Because they see one another as they truly are, their affections, when pure, are stable and unalterable. The love that unites them becomes a source of deep happiness.
-
-The affection that two beings felt for each other on earth continues after death when it rested on true sympathy. But if what seemed to be affection depended chiefly on physical attraction, it ends with its cause. Affections among spirits are firmer and more enduring than earthly attachments because they are not subject to selfish interest or the instability of material life.
-
-### The Error of “Eternal Halves”
-
-No spirit has a single predestined counterpart created as its necessary other half.
-
-There is no exclusive and inevitable union established from the origin between two souls. Unity exists among all spirits, but in different degrees according to the order they occupy and the degree of purification they have reached. The purer they are, the more united they become. Discord is the source of human misery; concord is the source of complete happiness.
-
-The expression “other half,” sometimes used to describe two highly sympathetic spirits, must therefore be understood as figurative rather than literal. If one spirit were truly the missing half of another, each would be incomplete apart from the other, which is not the case. Every spirit preserves its individuality.
-
-When two spirits are perfectly sympathetic, their union may be lasting; but this does not mean that one completes the being of the other. Their sympathy arises from the perfect harmony of their tendencies, instincts, thoughts, and sentiments. It depends on affinity, not on incompleteness.
-
-Perfect sympathy also corresponds to the degree of advancement reached. It is not founded merely on similarity of ideas, but on similarity of moral and spiritual development.
-
-### Progress and Changing Sympathy
-
-Spirits who are not sympathetic today may become so later.
-
-As a less advanced spirit improves, it rises toward the sphere inhabited by a more advanced one. Reunion becomes possible when their development draws them into harmony. If, however, one spirit remains idle and fails in the trials it has undertaken, it may delay this reunion. Sympathy can weaken when one advances and the other does not.
-
-Thus even two sympathetic spirits may cease to be so, at least temporarily, if one remains spiritually inactive.
-
-The image of “eternal halves” expresses the union of kindred spirits, but it should not be taken literally. It belongs to a limited way of speaking shaped by earthly language and imagination. What truly exists is not a pair of beings created exclusively for one another, fated to recover a lost unity, but an ever-widening communion among spirits in proportion to their purification. The more they advance, the more fully they enter into concord, and the more complete their happiness becomes.
+The theory of “eternal halves” is an image representing the union of two sympathetic spirits. It is an expression used even in ordinary speech and must not be taken literally. The spirits who use it certainly do not belong to the highest order. The sphere of their ideas is necessarily limited, and they express their thought through the terms they used in corporeal life. The idea of two spirits created for each other, who must someday inevitably be reunited in eternity after having remained separated for a longer or shorter span of time, must therefore be rejected.
 
 ## The Remembrance of Corporeal Existence
 
-A spirit does remember its corporeal existences.
+The spirit remembers its corporeal existence. Having lived many times as a human being, it remembers what it has been and sometimes laughs, pitying its former behavior.
 
-Having lived many times in human form, it retains the memory of what it has been. At times, seeing its former conduct from a clearer height, it looks back with a kind of pity and even smiles at its past behavior.
+The memory of its last corporeal existence does not return completely and suddenly to the spirit after death. It returns little by little, like something emerging from the fog, and in proportion as the spirit fixes its attention on it.
 
-This remembrance does not return all at once after death. It comes back gradually, like something emerging from fog, and in proportion to the spirit’s attention. As it becomes more aware of itself and less bound to the confusion of its recent departure from earthly life, its past becomes clearer.
+The spirit remembers the events of its life according to the consequences they hold for its situation as a spirit. There are circumstances to which it attributes no importance whatever and which it does not even try to remember.
 
-The memory of earthly life is not a complete and indiscriminate review of every detail. A spirit recalls events according to the consequences they bear on its present condition. What contributed to its progress, purification, or suffering stands out. What had no real value may remain dim, fall into the background, or be left unexamined.
+It can recall the minutest details and incidents, events, or even thoughts, but when such things are of no use, it does not do so.
 
-If it wishes, it can recover even very small details, including incidents and thoughts. Yet it does not ordinarily do so when no useful purpose would be served. Memory is governed less by curiosity than by meaning.
+It sees and understands the purpose of its past earthly life in relation to its future life much better than when it lived in the body. It understands the need for purification in order to reach the infinite, and it knows that in each existence it frees itself from a few impurities.
 
-From the spiritual state, the purpose of earthly life is understood far better than during incarnation. The spirit sees why purification is necessary in order to advance toward the infinite. It recognizes that each existence helps remove some imperfection, and that earthly life, with all its trials and experiences, belongs to a larger movement of growth.
+Its past life unfolds in memory both through an effort of imagination and like a picture before its eyes. All the actions it has an interest in remembering are as if present. The others remain more or less at the back of memory or are entirely forgotten. The more dematerialized it is, the less importance it attributes to material things. One often evokes an errant spirit that has just left the earth and does not remember the names of the people it loved or details that seem important to humans. That is because it is no longer concerned with them, and they have fallen into oblivion. What it remembers very well, however, are the principal events that aided its progress.
 
-The past may unfold in two ways at once. Some actions appear as though present before the spirit, while others are recalled only by an inner effort. What matters for advancement is vivid. What was merely material tends to fade. The more dematerialized the spirit becomes, the less importance it gives to earthly details.
+The spirit remembers all the lives that preceded the one it has just left, in the sense that its entire past unfolds before it like the stages of a journey. However, it does not recall all its actions with absolute precision, and remembers them only according to the influence they have on its present state. As for its earliest existences, those that may be regarded as the spirit’s infancy, they are lost in the void and disappear into the night of forgetfulness.
 
-For that reason, a spirit newly separated from the body may not remember names, personal circumstances, or facts that seem precious to those still living. Such things may already have fallen into forgetfulness because they no longer concern it. Yet the decisive events that aided its improvement remain clearly remembered.
+The spirit regards the body it has just left as an ill-fitting garment that inconvenienced it, and it feels happy to have gotten rid of it.
 
-The same principle applies to earlier lives. The whole past can open before the spirit like the stages of a long journey. Still, it does not recover every action with equal precision. Earlier existences, especially those belonging to the spirit’s first stages of development, sink into obscurity and disappear into forgottenness.
+At the sight of its decomposing body, it almost always feels indifference. It is a thing it no longer cares about.
 
-### The Body After Death
+After a certain amount of time has elapsed, the spirit may sometimes recognize its bones or other things that belonged to it, depending on the more or less evolved way in which it regards terrestrial things.
 
-Once separated from the body, the spirit commonly regards it as one would regard an ill-fitting garment that caused discomfort and has finally been laid aside. It is often glad to be rid of it.
+The respect we show for the material things a spirit has left behind attracts its attention to them, and it regards such respect with pleasure. A spirit is always glad to be remembered. The things we preserve that once belonged to it awaken its memories, but it is the thought that attracts it, not the objects themselves.
 
-When it sees the body decompose, it usually feels indifference. The body has become something external, no longer part of its true being.
+Spirits often retain the memory of the sufferings they bore during their last corporeal existence, and this memory enables them better to appreciate the happiness they now enjoy as spirits.
 
-After some time, a spirit may sometimes recognize its bones or objects that once belonged to it, but this depends on the degree of its advancement and on the value it still gives to earthly things.
+Humans who were happy on earth regret the pleasures they left behind only if they are low-order spirits. Such spirits regret the pleasures corresponding to the impurities of their nature, and these they must expiate through suffering. For more evolved spirits, eternal happiness is a thousand times preferable to the fleeting pleasures of earth.
 
-Respect shown toward the belongings a spirit has left behind may draw its attention, but not because of the objects themselves. What reaches the spirit is the remembrance and affection connected with them. The thought is what attracts it, not the material thing.
+Those who began great works intended for a useful purpose, but which they saw interrupted by death, do not lament having left them unfinished, because they understand that others are meant to complete them. On the contrary, they try to influence other human spirits to continue them. Their aim on earth was the welfare of humankind; that aim remains the same in the spirit world.
 
-### Memory of Suffering and Pleasure
+Those who leave their works of art or literature behind retain the love they had for them during life, depending on how much they have evolved, and they often judge them differently, sometimes disapproving of what they most admired.
 
-Spirits often retain the memory of the sufferings they endured during their last corporeal life. That remembrance helps them appreciate more fully the happiness they now experience as spirits.
+The spirit still takes an interest in the works being done on earth for the progress of the arts and sciences, depending on how much it has evolved or on the mission it may have to fulfill. What appears magnificent to human beings is often a small matter indeed to certain spirits, who admire it as a scholar admires the work of a student. They examine only what can demonstrate the elevation and progress of incarnate spirits.
 
-Those who were happy on earth do not all look back in the same way. Spirits of low order may regret pleasures that matched the impurities of their nature, and those attachments become causes of suffering for them. More advanced spirits do not regret such pleasures, because the enduring happiness of the spiritual state far surpasses the brief enjoyments of earthly life.
+After death, spirits retain love for their native land according to the same principle: for high-order spirits, their native land is the universe; on earth, it is the place where there is the greatest number of persons sympathetic to them.
 
-### Unfinished Works and Human Activity
+Spirits’ ideas change considerably in spiritual life. Their ideas undergo great modification as they become more dematerialized. They may sometimes hold to the same ideas for a long time, but little by little the influence of matter diminishes and they see things more clearly. It is then that they seek ways to improve.
 
-Those who began important works for a useful end and saw them interrupted by death do not lament having left them unfinished. They understand that others are meant to continue what they began. Far from turning away, they often try to influence incarnate spirits to carry the work forward. Their aim remains the good of humankind, both in earthly life and beyond it.
-
-The same detachment often appears in relation to artistic and literary works. According to their degree of advancement, spirits may judge their own productions very differently after death. They frequently disapprove of what they most admired during life.
-
-Their interest in the arts and sciences also depends on their development or on the mission they may have. What seems magnificent from an earthly point of view may appear small to more elevated spirits, as the work of a student appears to a scholar. They value above all what reveals the elevation and progress of incarnate spirits.
-
-### Native Land and Changing Ideas
-
-Love of native land also changes according to spiritual advancement. For highly elevated spirits, the true homeland is the universe. On earth, they feel especially drawn to the places where they find the greatest number of sympathetic souls.
-
-A spirit’s ideas change greatly in spiritual life. As it becomes less influenced by matter, its former views undergo significant modification. Some ideas may persist for a time, but gradually the hold of material life weakens and the spirit sees more clearly. With clearer sight comes the desire to improve.
-
-### Astonishment on Returning to the Spirit World
-
-If spirits lived in the spiritual state before incarnation, it may seem strange that they are astonished when they return to it. That astonishment belongs chiefly to the first moments after death, when the spirit awakens in a state of confusion. As the memory of the past returns and the impression of earthly life fades, it recognizes its true condition more fully.
-
-The return to spiritual awareness is therefore not usually instantaneous. It is a recovery of self, gradual and ordered, in which memory, judgment, and perspective are restored according to the spirit’s degree of advancement.
+Although it had already lived the spirit life before its incarnation, the spirit is astonished when it re-enters the spirit world, but only because of the first moments and the state of confusion following its awakening. Later, it recognizes its condition perfectly as the memory of the past returns and the impression of earthly life fades.
 
 ## The Commemoration of the Dead. Funerals
 
-The remembrance of the dead reaches spirits more deeply than is often imagined.
+Spirits are much more sensitive to being remembered by those who loved them on earth than might be supposed. Being remembered adds to their happiness if they are already happy and consoles them if they are despondent.
 
-When a spirit is already happy, being remembered adds to that happiness. When a spirit is troubled or despondent, the memory of those who loved it brings consolation. Affection does not end with death, and sincere recollection continues to act as a bond between the living and those who have passed on.
+Memorial Day has no more solemn meaning for spirits than other days, for spirits answer the call of thought on that day as on all others. They assemble in greater numbers at gravesides on that day because the number of persons who call them is greater, but each spirit attends only to its friends and not to the crowd of indifferent people. If they could make themselves visible, they would appear as they did while alive.
 
-### Memorial Days and the Call of Thought
+Forgotten spirits, whose graves are visited by no one, may still come despite that fact, but they are not troubled by seeing no friends remember them. The earth is nothing to them. They are linked to it only by the heart. If no one loves them any longer, there is nothing to connect them to the earth. They have the whole universe before them.
 
-Days set apart for remembering the dead do not possess a special power in themselves, yet they acquire solemnity because many minds turn their thoughts in the same direction.
+A visit made to a grave provides no more satisfaction to a spirit than a prayer made on its behalf in someone’s home. A visit to the grave is a way of showing that one is thinking of the absent spirit; it is the outward expression of thought. It is the prayer that blesses the act of remembrance. The place itself is of little importance if the memory comes from the heart.
 
-Spirits respond to the call of thought on such days just as they do on any other. What changes is not the law governing their presence, but the greater number of people who remember them. For that reason, spirits may gather in larger numbers near graves and places of remembrance, though each is chiefly drawn to its own friends rather than to a crowd moved by habit or indifference.
+The spirits of individuals who are honored with statues or monuments often attend their inaugurations and watch them when they can, but they are less sensitive to the honors paid them than to the memories.
 
-If they could make themselves visible, they would generally appear as they did during earthly life. Recognition would come through the familiar form by which they were known.
+A spirit’s attachment to certain places is a sign of moral impurity. One piece of earth means no more than another to an evolved spirit, which knows that its soul will be reunited with its loved ones even though their bones may be far apart.
 
-### Forgotten Graves and Lasting Bonds
+Gathering together the mortal remains of all the members of a family should not be considered meaningless. It is a pious custom and a witness to the sympathy of loved ones. If such gatherings mean little to spirits, they are nonetheless useful to humans; their memories are better concentrated.
 
-A spirit whose grave is neglected is not necessarily made unhappy by the lack of visits.
+A soul that has returned to life as a spirit may be sensitive to the honors paid to its mortal remains. When a spirit has already reached a certain degree of purification, it has no more earthly vanity and understands the futility of all these things. Nonetheless, there are spirits who, in the first moments after death, take great satisfaction in the honors paid to them. Others become disturbed if they see that their envelope is being forgotten, because they still cling to some of the prejudices of this world.
 
-Its true link to the earth is not a piece of ground but the affection that survives in hearts. If no one loves or remembers it, nothing binds it strongly to the place where its remains were laid. Earthly locations lose importance when compared with the wider life now opened before the spirit.
+Spirits often watch their own burial, though at times they do not perceive what is happening if they are still in a state of confusion. They may feel more or less flattered by a large gathering at their burial, according to the sentiments of the people assembled there.
 
-This is why forgotten graves do not, by themselves, condemn a spirit to sorrow. The loss that matters is not the absence of flowers or monuments, but the absence of loving remembrance.
+The spirit almost always attends the meetings of its heirs. God wills this both for its instruction and as punishment for the guilty. There the spirit judges what its heirs’ declarations of affection are truly worth. All sentiments become plain to the spirit, and the disappointment it feels on seeing the greed of those dividing the spoils makes their true sentiments unmistakably clear. Yet their time shall also come.
 
-### Graves, Prayer, and the Value of Remembrance
-
-A visit to a grave has value because it expresses the thought of the absent one outwardly. It is a visible sign of remembrance.
-
-Yet the place itself has little importance. A prayer offered at home for a departed spirit may be just as meaningful, and often more so, because what blesses the act of remembrance is not the location but the sincerity of the heart. The grave is only a symbol; the true offering is loving thought.
-
-### Monuments, Honors, and Earthly Vanity
-
-Some spirits witness the dedication of statues or monuments raised in their honor. Many observe such events when circumstances permit, but they are generally less touched by public honors than by genuine memories.
-
-Attachment to burial in one place rather than another reveals an imperfect detachment from material things. To a more advanced spirit, one patch of earth is no more important than another. Such a spirit understands that reunion with loved ones does not depend on the nearness of bones or the arrangement of tombs.
-
-Even so, family burial places are not without value. Gathering the mortal remains of relatives in one place is a pious custom and a sign of mutual affection. Though such arrangements matter little to spirits themselves, they are meaningful for the living because they help focus memory and sustain family feeling.
-
-A spirit that has reached a certain degree of purification no longer cares about honors paid to its remains. It sees the futility of earthly vanity. But in the first moments after death, some spirits still take pleasure in the honors shown them, while others are troubled if their body seems forgotten. These reactions come from lingering attachment to the ideas and prejudices of earthly life.
-
-### Burial and the Gathering of Heirs
-
-Spirits often witness their own burial.
-
-Sometimes, however, they do not clearly perceive what is taking place, especially when they remain in a state of confusion immediately after death. When they do observe the ceremony, the effect produced depends less on outward display than on the feelings of those present. A large attendance flatters only in proportion to the sincerity, grief, respect, or affection carried by the gathering.
-
-Spirits also often attend the meetings of their heirs. This presence serves both as instruction and, in some cases, as punishment. There they see clearly what professions of affection were worth. Hidden motives become plain. Greed, impatience, rivalry, and calculation reveal the true sentiments of those dividing an inheritance. In such moments, the spirit judges with painful clarity the difference between spoken love and real love.
-
-### Respect for the Dead
-
-The instinctive respect shown to the dead among peoples of every age is rooted in the natural sense that life does not end with the body.
-
-If human beings had no intuition of a future existence, such universal reverence would have little meaning. Honor paid to the dead arises from the deep and widespread perception that the one who has departed has not been reduced to nothingness. Memory, prayer, mourning, burial rites, and care for graves all bear witness to that enduring conviction.
+The instinctive respect people have shown for the dead in all times and among all cultures is the natural consequence of the intuition of a future life. Without that intuition, such respect would have no meaning.

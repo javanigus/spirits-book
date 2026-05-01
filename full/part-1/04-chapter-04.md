@@ -5,128 +5,74 @@ sidebar_label: 1.4 The Principle of Life
 
 ## Organic and Inorganic Beings
 
-Organic beings possess an inner source of activity that gives them life. They are born, grow, reproduce, and die. Their structure includes organs fitted to the various functions required for life, adaptation, and self-preservation. Human beings, animals, and plants all belong to this category.
+Organic beings are those possessing an inner source of activity that gives them life. They are born, grow, reproduce, and die. They are provided with special organs in order to accomplish the various life functions appropriate to their needs and self-preservation. They include human beings, animals, and plants. Inorganic beings possess neither vitality nor their own power of movement. They are formed solely by the aggregation of matter: minerals, water, air, and so on.
 
-Inorganic beings have neither vitality nor self-generated movement. They are formed only by the aggregation of matter. Minerals, water, and air are examples of this order of existence.
+One and the same force unites the material elements in both organic and inorganic bodies: the law of attraction, which is the same for all.
 
-The material elements that compose both organic and inorganic bodies are united by the same force: the law of attraction. In that respect, nature follows a common principle throughout. The difference does not lie in a separate kind of matter. Matter remains fundamentally the same, but in organic bodies it is animalized.
+The matter of organic and inorganic bodies is always the same matter, but in organic bodies it is animalized.
 
-### The Vital Principle
+The cause of the animalization of matter is its union with the vital principle.
 
-The animalization of matter results from its union with the vital principle. Life appears through this union. The vital principle acts upon matter, and life is the effect produced by that action.
+The vital principle is both cause and effect. Life is an effect produced by the action of this agent upon matter. However, without matter, the agent is not life, just as matter cannot be alive without the agent. It gives life to all beings that absorb and assimilate it.
 
-Taken by itself, the agent is not life; without matter, it does not produce a living being. Matter by itself is also not alive. Life arises only when the two are joined. The vital principle gives life to beings capable of absorbing and assimilating it.
+The vital principle is certainly one of the elements required in the composition of the universe, but it has its origin in the modifications of the one universal matter. It may be regarded as an element like oxygen or hydrogen, though even these are not truly primitive elements, because they both derive from one and the same principle.
 
-Although spirit and matter are the two universal elements, the vital principle is also necessary in the constitution of living beings. Yet it is not a separate primitive principle standing alongside spirit and matter in an absolute sense. Its origin lies in modifications of universal matter. It may be regarded as an element in the way one speaks of oxygen or hydrogen, though such elements are themselves derived from a deeper unity.
+Vitality does not result from a separate primitive agent, but rather from a special property of universal matter that has undergone certain modifications.
 
-Vitality, then, does not come from an independent primitive source. It results from a special property of universal matter after certain modifications have taken place.
+The source of the vital principle is in the universal fluid; it is what is called the magnetic fluid, or the animalized electric fluid—an intermediary, the link between spirit and matter.
 
-### The Source and Function of Vitality
+The vital principle is the same for all organic beings, but it is modified according to each species. It is this principle that enables all species to move and act. It also distinguishes them from inert matter, because the movement of matter per se is not life. Matter is moved; it does not produce movement by itself.
 
-The source of the vital principle is in the universal fluid. It is associated with what has been called the magnetic fluid or the animalized electric fluid. In this role, it serves as an intermediary, a link between spirit and matter.
+Vitality develops only as the body develops. Without matter, this agent is not life per se. The union of the two is necessary to produce life.
 
-The vital principle is the same in all organic beings, though modified according to each species. Through these modifications, each kind of living being receives the capacity to move and act according to its nature. This principle distinguishes living beings from inert matter. Matter may be moved, but movement alone is not life. Inert matter does not produce movement from itself.
+Vitality is in a latent state whenever the vital agent is not united with a body.
 
-Vitality is not a permanent attribute existing in full independence from bodily organization. It develops only as the body develops. The union of organized matter and the vital principle is necessary for life to appear.
-
-When the vital principle is not united with a body, vitality may be understood as remaining in a latent state. It exists as potential, not as active life.
-
-### Organs and the Motive Force of Life
-
-The organs of a living being form a kind of mechanism set in motion by the inner activity of the vital principle residing within them. This principle is the motive force of organic bodies.
-
-It gives impulse to the organs, and the action of the organs in turn maintains and develops the vital principle. Their relationship is reciprocal. Life is sustained by this ongoing interaction, somewhat as friction generates heat.
-
-Living organization, therefore, is neither a mere arrangement of matter nor the action of an isolated force. It is the result of a dynamic union: matter organized for life, animated by the vital principle, and maintained through the continuous cooperation of both.
+The organs as a whole comprise a sort of mechanism driven by the inner activity, or vital principle, residing within them. This vital principle is the motive force behind all organic bodies. It gives impulse to the organs, whose action reciprocally maintains and develops the vital principle—somewhat as friction develops heat.
 
 ## Life and Death
 
-Death in organic beings results from the wearing out of their organs.
+The death of organic beings is caused by the wearing out of their organs.
 
-The body may be compared to a machine. When a machine is badly assembled, it breaks down; when the body becomes diseased or its essential structures fail, life departs. This comparison is useful so long as it is not taken too narrowly, because no single organ alone explains the whole mystery of life.
+Death may be compared to the cessation of movement in a machine that has broken down. If the machine has been badly assembled, it breaks down; likewise, if the body becomes diseased, life leaves it.
 
-The heart appears especially linked to death because it is one of the body’s essential organs and plays a central role in sustaining organic activity. Yet it is not the only organ whose injury can bring life to an end. Death may follow from damage to any part whose function is indispensable to the harmony of the whole organism.
+A lesion in the heart seems to cause death more often than one in any other organ, because the heart is a life-producing machine. Nevertheless, it is not the only organ in which a lesion causes death; it is only one of the body’s essential parts.
 
-After death, the material elements of the body do not vanish. Inert matter decomposes and enters into new combinations, becoming part of other beings. The vital principle, however, does not remain attached to the corpse. It returns to the universal vital source from which living beings draw the force of life and activity.
+After death, inert matter decomposes and is used to form other beings; the vital principle returns to the vital mass.
 
-This continual exchange gives organic life its place within a wider order. Bodies are formed from matter already used before and destined to be used again. Living beings draw the principle of vitality from a common reservoir, absorb and assimilate it for a time, and restore it once their own organic existence has ceased.
+After the death of an organic being, the elements that had formed its body undergo new combinations to form new beings. These new beings, in turn, draw the principle of life and activity from the universal source; they absorb and assimilate it, and restore it again to that source as soon as they themselves cease to exist.
 
-### The Action of the Vital Fluid
+The organs are impregnated, so to speak, with the vital fluid, which enables all the body’s components to actively communicate with one another when certain lesions occur and to restore functions that have temporarily ceased. However, when the elements essential for the functioning of the organs are destroyed or profoundly altered, the vital fluid cannot transmit this life-giving movement to them, and the organism dies.
 
-The organs are permeated by vital fluid, which allows the different parts of the body to communicate actively with one another. Through this reciprocal action, functions can sometimes be maintained or even restored after temporary disturbance. As long as the essential elements of the organism remain sufficiently intact, the vital fluid can continue transmitting the movement that sustains life.
+A body’s organs necessarily react upon one another to a greater or lesser extent, and this reciprocity of action results from their being in harmony as a whole. Their functions cease when something destroys this harmony, just as happens in a mechanism when its essential components break down, or like a clock worn out by use or broken by accident, in which there is no longer any motive force to keep it running.
 
-When those essential elements are destroyed or profoundly altered, this transmission can no longer occur. The organs then lose the coordinated activity that depended on their mutual harmony, and the organism dies.
+We have an even better image of life and death in an electrical device. Such a device receives electricity and stores it in a latent state, as do all bodies in nature. However, the electrical phenomenon does not manifest until the electric fluid is put in motion by a certain cause; only then can we say that the device is alive. When the cause of the activity ceases, so does the phenomenon: the device returns to a state of inertia. Organic bodies may thus be compared to batteries or electrical devices in which the activity of the vital fluid produces the phenomenon of life; the cessation of this activity causes death.
 
-Life, therefore, depends not only on the presence of organs, but on their agreement and cooperation as a whole. When this harmony is broken, bodily functions cease, much as the movement of a mechanism stops when its key parts are worn out or broken. A clock no longer runs when the force that drives it can no longer act through its structure; likewise, the body no longer lives when the principle of activity can no longer operate through its organs.
+The amount of vital fluid is not the same in all organic beings. It varies according to species and is not constant in the same individual or among different individuals of the same species. There are those who are saturated, so to speak, with this fluid, while others possess barely enough of it. That is why, for some, life is more active, more energetic, and, in a certain way, more abundant.
 
-### An Image Drawn from Electricity
+The amount of vital fluid may become depleted and insufficient for maintaining life if it is not renewed by absorbing and assimilating substances that contain it.
 
-A clearer comparison may be found in an electrical device. Such a device receives electricity and holds it in a latent state, as bodies in nature hold the principle necessary for life. The electrical phenomenon appears only when that fluid is set in motion by an appropriate cause. In the same way, life appears when the vital fluid is active within the organism.
-
-When the cause of the activity ceases, the visible phenomenon also ceases. The device returns to inertia; so too does the body when the action of the vital fluid comes to an end. Organic beings may thus be understood as bodies in which the activity of the vital fluid produces the phenomenon of life, and in which the cessation of that activity produces death.
-
-### Differences in Vital Force
-
-The quantity of vital fluid is not the same in all organic beings. It varies from species to species, and it is not even constant in the same individual or among individuals of the same species. Some are, as it were, richly supplied with it, while others possess only a smaller amount.
-
-From this come noticeable differences in vitality. In some beings, life is more active, more vigorous, and more abundant. In others, it is weaker and less energetic. Vital force can also become exhausted. If it is not renewed through the absorption and assimilation of substances that contain it, it may become insufficient to maintain life.
-
-### Transmission of Vital Fluid
-
-Vital fluid may also be transmitted from one individual to another. Those who possess it in greater abundance can give some of it to those who have less. In certain cases, this assistance can revive a life that is close to being extinguished.
-
-Life and death, then, are linked to the condition of the organs, the harmony of their functions, and the presence and action of the vital principle through the vital fluid. Matter is continually transformed, the vital principle returns to its source, and organic existence unfolds within a universal circulation of life.
+Finally, the vital fluid may be transmitted from one individual to another. Those who have a greater quantity of it can give it to those who have less, and in certain cases they can bring back a life on the verge of being extinguished.
 
 ## Intelligence and Instinct
 
-Intelligence is not an attribute of the vital principle.
+Intelligence is not an attribute of the vital principle. Plants are alive, but they do not think; they have only organic life. Intelligence and matter are independent of each other; a body may be alive yet lack intelligence, but intelligence can be expressed only through material organs. Only union with spirit endows animalized matter with intelligence.
 
-A living thing may possess life without possessing thought. Plants live, but they do not think; they have organic life only. Vitality and intelligence are therefore not the same. Matter and intelligence are also independent of one another. A body may be alive and still lack intelligence, while intelligence, in embodied beings, is expressed through material organs. In animalized matter, intelligence appears through its union with spirit.
+Intelligence is a special faculty possessed by certain classes of organic beings, which endows them with thought, the power of will, and awareness of their own existence and individuality. It also gives them the means to establish relations with the external world and to provide for their own needs.
 
-Intelligence is a special faculty belonging only to certain classes of organic beings. By it, they possess thought, the power to will and act, and awareness of their own existence and individuality. It also gives them the means of relating to the external world and providing for their needs.
+We may therefore distinguish the following: first, inanimate beings, formed of matter alone, without vitality or intelligence; these are the solid bodies of minerals. Second, animate, non-thinking beings, formed of matter and endowed with vitality but not intelligence. Third, animate beings, formed of matter, endowed with vitality, and possessed of an intelligent principle that gives them the ability to think.
 
-From this, three broad kinds of beings may be distinguished.
+The source of intelligence is the universal intelligence.
 
-### 1. Inanimate beings
+It would be only an imprecise comparison to say that every intelligent being draws and assimilates a portion of intelligence from the universal source in the same way that it draws and assimilates the principle of material life, because intelligence is a faculty proper to each being and comprises its mental individuality. Besides, there are matters that humans are not allowed to comprehend; this is one of them, for now.
 
-These are formed of matter alone, without vitality and without intelligence. Mineral bodies belong to this class.
+Instinct is not exactly something other than intelligence; it is a type of intelligence. Instinct is non-reasoning intelligence, through which all beings provide for their own needs.
 
-### 2. Animate, non-thinking beings
+A line cannot be drawn between instinct and intelligence so as to determine when one ends and the other begins, for they frequently commingle. However, the actions belonging to instinct can very well be distinguished from those belonging to intelligence.
 
-These are formed of matter and endowed with vitality, but not with intelligence.
+It is not correct to say that instinctive faculties decrease as intellectual faculties increase. Instinct is always present, but humans neglect it. Instinct can lead us to the good; it almost always guides us, sometimes more surely than our reason. It never errs.
 
-### 3. Animate beings possessed of an intelligent principle
+Reason is not always an infallible guide, because it may be distorted by pride, selfishness, and faulty education. Instinct does not reason, whereas reason calls for choice and endows human beings with free will.
 
-These are formed of matter, endowed with vitality, and possessed of an intelligent principle that gives them the ability to think.
+Instinct is a rudimentary intelligence. It differs from intelligence per se in that its manifestations are almost always spontaneous, while those of intelligence are the result of thought and deliberate action.
 
-### The Source of Intelligence
-
-The source of intelligence is universal intelligence.
-
-Yet it should not be imagined too simply, as though each intelligent being merely drew off a portion of intelligence from a common reservoir in the same way that living beings draw the vital principle from a common source. That comparison is only approximate. Intelligence is a faculty proper to each being and constitutes its mental individuality.
-
-Its deepest origin belongs among the realities not yet fully open to human understanding.
-
-### Instinct and Intelligence
-
-Instinct is not something wholly separate from intelligence. It is a type of intelligence: non-reasoning intelligence, through which beings provide for their own needs.
-
-No absolute line can be drawn between instinct and intelligence, because the two are often mingled. Even so, their expressions can be distinguished. Some actions belong mainly to instinct; others clearly belong to intelligence.
-
-Instinct may be understood as a rudimentary intelligence. It differs from intelligence properly so called in that its manifestations are almost always spontaneous, while the acts of intelligence arise from thought and deliberate intention.
-
-### Instinct, Reason, and Freedom
-
-It is not correct to suppose that instinct disappears as intellectual faculties develop. Instinct always remains present, though human beings often neglect it.
-
-Instinct can lead toward the good. It almost always guides rightly, and at times more surely than reason. It does not err.
-
-Reason would likewise be an unfailing guide if it were not so often distorted by pride, selfishness, and poor education. Instinct does not reason; reason, on the other hand, involves choice and gives human beings the exercise of free will.
-
-For that reason, instinct and reason do not oppose one another simply as lower and higher powers. Instinct acts directly and spontaneously. Reason judges, compares, and chooses. Where reason is sound, it can elevate action; where it is corrupted, it can mislead. Instinct remains a steady natural guide, while reason introduces freedom and responsibility.
-
-### The Varieties of Instinct
-
-Instinct manifests itself differently according to species and according to the needs proper to each one.
-
-In beings that possess consciousness and awareness of the external world, instinct joins itself to intelligence—that is, to will and freedom. In such beings, life is not governed by blind impulse alone. Instinct still operates, but it works together with the developing powers of thought, choice, and self-direction.
+Instinct manifests in various ways according to different species and their needs. In beings with consciousness and the perception of external things, it allies itself with intelligence—that is, with will and freedom.

@@ -5,340 +5,146 @@ sidebar_label: 3.10 Freedom of Choice
 
 ## Natural Freedom
 
-No one in the world enjoys absolute freedom.
+There are no conditions in the world in which persons can flatter themselves with the belief that they enjoy absolute freedom, because all people, the least as well as the greatest, need one another.
 
-Human beings depend on one another in every condition of life. The lowliest and the greatest alike need others, and this mutual dependence sets limits on complete independence.
+The only condition in which a human being could enjoy absolute freedom would be that of a hermit in the desert. As soon as two individuals are brought together, there are rights to respect, and they no longer possess absolute freedom.
 
-Absolute freedom could exist only in total isolation, such as that of a hermit alone in the desert. As soon as two people live in relation to one another, rights come into play. Each must respect the other, and absolute freedom disappears.
+The duty of respecting the rights of others does not deprive individuals of the rights that belong to them, for those rights have been granted by nature.
 
-Respecting the rights of others does not take away anyone’s own rights.
+Although some people intellectually understand natural law, the despotism they often exercise in their own homes and over those under their authority arises from pride and selfishness. They know what they ought to do, but they do not put it into practice; they make their principles into a calculated farce.
 
-The rights proper to each person are granted by nature. Because of that, honoring another’s rightful claims does not diminish one’s own. True freedom is not the power to ignore others, but the ability to act within the justice that belongs to all.
-
-A person may speak in favor of liberty in public life and yet act like a despot at home or toward subordinates.
-
-This contradiction comes from pride and selfishness. Some understand natural law intellectually, yet fail to live by it. They know what they ought to do, but do not put it into practice. Their professed principles become a calculated pretense rather than a rule of conduct.
-
-Such inconsistency carries moral responsibility.
-
-The more intelligence people have for understanding a true principle, the less excuse they have if they do not apply it to themselves. Sincere and simple persons who live according to what they genuinely grasp may be further advanced in the path of God than those who seek only to appear virtuous without being so.
+The principles they have professed during this life will be taken into account in the next. The more intelligence individuals have for understanding a principle, the less excusable they are if they have not applied it to themselves. Simple but sincere persons are more advanced on God’s path than those who try to appear to be what they are not.
 
 ## Slavery
 
-No human being is naturally meant to be the property of another.
+Every instance of one human being subjected to another is contrary to the law of God. Slavery is an abuse of power and will gradually disappear with progress, as all abuses do.
 
-Every form of subjection in which one person claims ownership over another violates the law of God. Slavery is an abuse of power. Like other abuses rooted in ignorance and domination, it is destined to disappear as humanity progresses.
+Any human law that establishes slavery is a law against nature, because it reduces persons to the level of animals and degrades them physically and morally.
 
-Any human law that establishes slavery stands against nature. It reduces a person to the level of an animal and degrades both body and soul.
+Evil is always evil. No sophistry can make an evil action good. However, responsibility for evil is relative to the means available for understanding it. Those who make use of slavery are always guilty of violating the law of nature, but here, as in all things, guilt is relative. Because slavery was a custom among certain peoples, it was practiced in good faith as something that seemed natural to them. But once reason, more developed and especially enlightened by the teachings of Christianity, showed them that the slave was their equal before God, they no longer had any excuse.
 
-### Custom Does Not Make Injustice Right
+The natural inequality of aptitudes places certain peoples under the guidance of more advanced ones so that they may develop, not so that they may be further demeaned through slavery. Human beings long regarded certain races as domesticated beasts of burden equipped with arms and hands, and believed they had the right to sell them as such. They considered themselves of purer blood. This is the folly of those who do not look beyond matter. It is not the blood that is more or less pure, but the spirit.
 
-When slavery is accepted as part of a culture’s customs, that acceptance does not make it good. Evil remains evil, even when it is defended by habit, convenience, or social approval.
-
-Moral responsibility, however, is measured in part by the degree of understanding available. Those who uphold slavery always violate the law of nature, but their guilt varies according to their ability to recognize the wrong they are doing. In societies where slavery had long been treated as normal, many accepted it in good faith because they had not yet clearly perceived its injustice. As reason developed, and as spiritual teaching made human equality before God more evident, that excuse could no longer stand. Once people understood that the enslaved person was their equal before God, continuing the practice became a more conscious wrongdoing.
-
-### Inequality of Aptitudes Does Not Justify Domination
-
-Differences in intelligence, capacity, or development do not give one people the right to enslave another.
-
-More advanced individuals or nations may assist those who are less developed, helping them grow and progress. But this does not authorize humiliation, exploitation, or bondage. Superiority in knowledge creates a duty of guidance, not a right of ownership.
-
-Human pride has often led some groups to treat others as if they were beasts of burden merely because they seemed less advanced in material or intellectual terms. People have imagined themselves to be of purer blood and therefore entitled to rule, buy, or sell others. This is a deeply material way of thinking. True superiority is not a matter of blood. What matters is the spirit.
-
-### Humane Treatment Does Not Remove the Injustice
-
-Some slaveholders provide well for those they enslave and persuade themselves that bondage is justified because freedom might leave those persons in greater hardship. This reasoning does not change the nature of the act.
-
-Such people may understand their own interests well. They preserve the health and comfort of those they own much as they would care for livestock they hope to profit from. They may be less blameworthy than those who abuse and mistreat their slaves, but they still treat human beings as merchandise. Even under mild conditions, slavery remains a denial of a person’s right to belong to himself or herself.
-
-The wrong lies not only in cruelty, but in possession itself. To claim ownership over another person is already to violate human dignity.
+There are those who treat their slaves humanely, allow them to lack nothing, and believe that freedom would expose them to even greater deprivation. They understand their own interests very well. They show the same care for their cattle and horses in order to obtain more profit at market. They are less culpable than those who mistreat their slaves, but they still use them as merchandise, depriving them of the right to belong to themselves.
 
 ## Freedom of Thought
 
-Human beings possess an inner domain that no external power can completely subdue: thought.
+In human beings, it is through thought that they enjoy unlimited freedom, for thought knows no obstacles. Its outward expression may be hindered, but thought itself cannot be erased.
 
-Thought enjoys unlimited freedom because it encounters no material barrier. A person may be prevented from speaking, writing, or acting, yet the movement of the mind itself remains beyond outward constraint. Its expression can be obstructed, but thought itself cannot be destroyed.
-
-This freedom gives thought profound moral importance. What is hidden from the world is not hidden from divine justice. Human beings are responsible for their thoughts, even when those thoughts are never expressed in words or deeds.
-
-God alone fully knows what passes within the conscience. For that reason, judgment does not rest merely on visible conduct, but also on the intentions, desires, and inner movements of the soul. Thought may be silent before others, yet it remains accountable before God, who alone can condemn or absolve with perfect justice.
+Humans are responsible for their thoughts before God. God alone can know those thoughts and condemn or absolve according to divine justice.
 
 ## Freedom of Conscience
 
-Freedom of conscience follows from freedom of thought.
+Freedom of conscience is a consequence of freedom of thought. Conscience is an inward thought that belongs to each person, as all other thoughts do.
 
-Conscience is an inward thought belonging to each person, just as other thoughts do. Because of this, no one has the right to erect barriers against freedom of conscience any more than against freedom of thought. Human laws may govern relations between individuals, but the relation between the individual and God belongs to a higher order of law.
+Humans have no more right to place barriers around freedom of conscience than around freedom of thought, because God alone has the right to judge conscience. If human laws regulate relations between individuals, the laws of God regulate relations between individuals and God.
 
-To violate freedom of conscience is to pressure people to act against what they truly think. This does not produce genuine conviction. It produces hypocrisy. For that reason, freedom of conscience is one of the marks of real civilization and progress.
+Barriers placed against freedom of conscience constrain individuals to act against their own way of thinking and thus make hypocrites of them. Freedom of conscience is one of the marks of true civilization and progress.
 
-### Respect for Belief
+Every belief is respectable when it is sincere and leads to the practice of good. Reproachable beliefs are those that lead to evil.
 
-Not every belief is equally true, but every belief deserves respect when it is sincere and leads to the practice of the good. What deserves reproach is not sincerity itself, but beliefs that lead to evil.
+To use our own beliefs to scandalize someone who does not think as we do shows a lack of charity and offends freedom of thought.
 
-It is therefore wrong to use one’s own convictions to scandalize, humiliate, or wound those who think differently. Such behavior shows a lack of charity and violates freedom of thought.
+It does not violate freedom of conscience to restrain beliefs whose outward acts may disturb society, because acts may be restrained while inner belief remains inaccessible.
 
-### Limits in Social Life
+Restraining the external acts of a belief when those acts cause harm to others does not violate freedom of conscience, for such restraint leaves the belief itself entirely free.
 
-Freedom of conscience does not mean that every outward act committed in the name of a belief must be tolerated.
+Out of respect for freedom of conscience, harmful doctrines need not be allowed to spread unchecked, and those led astray by erroneous principles may and should be guided back to the path of truth. But, following the example of Jesus, this must be done through gentleness and persuasion, not through force, which would be worse than the belief one seeks to correct. If anything is to be imposed, it is goodness and fraternity; but the means must never be violence, since conviction cannot be forced.
 
-Inner belief is beyond coercion. External actions, however, may be restrained when they disturb society or cause harm to others. Preventing harmful acts does not destroy freedom of conscience, because it does not reach into the inner forum where belief itself remains free.
-
-A clear distinction is needed here: belief as belief must remain unforced, while conduct that injures others may be lawfully checked.
-
-### Correcting Error Without Violence
-
-When harmful doctrines spread, there is nothing unjust in seeking to bring those led astray back toward what is true. More than permitted, this is a duty. But the means matter.
-
-Truth must be taught through gentleness, persuasion, goodness, and fraternity, never through force. Violence corrupts the very cause it claims to defend. Forced conviction is not conviction at all. If anything should be imposed, it is the example of love, not the pressure of compulsion.
-
-### The Sign of a True Doctrine
-
-Since many doctrines claim exclusive possession of truth, their value is known less by proclamation than by their fruits.
-
-A doctrine is recognized as good when it produces fewer hypocrites and a greater number of genuinely moral people—people who practice the law of love and charity with the greatest purity and the widest application. Wherever a teaching sows division, fosters hostility, and separates the children of God from one another, it bears the sign of error and harm.
-
-The truest teaching is the one that most fully strengthens charity, reduces hypocrisy, and unites human beings in the practice of the good.
+Among doctrines that all claim to be the sole expression of the truth, the one that truly has the right to present itself as such will be the one that produces the fewest hypocrites and the greatest number of moral persons—that is, persons who practice the law of love and charity in its greatest purity and widest application. By this sign the good doctrine is recognized, because any doctrine that sows disunion and establishes division among God’s children can only be erroneous and harmful.
 
 ## Free Will
 
-Human beings act with free will.
+Humans act with free will. Since they have freedom of thought, they also have freedom of action. Without free will, human beings would be machines.
 
-Because they possess freedom of thought, they also possess freedom of action. Without free will, a human being would be nothing more than a machine.
+People have freedom to act from the moment they have the will to act. During the first phases of life, freedom is almost nonexistent. It develops and changes its aims as the faculties develop. Since the thoughts of children are in proportion to the needs of their age, they apply their free will to what is necessary for them.
 
-Free will does not appear in its full strength at birth. It exists in proportion to the development of the will and of the faculties through which the spirit expresses itself. In the earliest stages of life, freedom is almost absent. It unfolds gradually, and its objects change as the person grows. A child’s thoughts are shaped by the needs of childhood, and free will is first applied to what is necessary at that age.
+The instinctive predispositions individuals bring at birth arise from the spirit’s condition before incarnation. Depending on the degree of the spirit’s advancement, these predispositions may incline the individual toward reprehensible acts, and spirits who sympathize with such tendencies may assist in that direction. However, there is no irresistible impulse when the individual has the will to resist. Remember: where there is a will, there is a way.
 
-Instinctive tendencies present at birth do not destroy freedom. They come from the spirit’s condition before incarnation. According to the degree of its advancement, these predispositions may incline a person toward blameworthy actions, and sympathetic spirits may reinforce such inclinations. Yet no impulse is irresistible where the will to resist is present. The power to choose remains, and with sincere resolve, resistance is possible.
+The organism certainly influences actions in earthly life. The spirit is undoubtedly affected by matter, which may hinder its manifestations. That is why, on worlds where bodies are less material than on Earth, the faculties develop with greater freedom; however, the instrument does not give faculties to the spirit. In this matter, it is necessary to distinguish between moral faculties and intellectual faculties. If individuals have an instinct for murder, it is assuredly their own spirit that possesses it and transmits it to them; it never arises from bodily organs. Those who suppress thought in order to immerse themselves in matter become like animals, and even worse, because they no longer think to guard themselves against evil. In this they become culpable, because they act in this way by their own free will.
 
-The body does influence the spirit’s expression during earthly life, but this influence does not abolish free will. Matter can hamper the spirit’s manifestations, which is why faculties unfold more freely in worlds where bodies are less dense and material than those of Earth. Still, the body is only an instrument; it does not create the spirit’s faculties.
+A distortion of the faculties can deprive humans of free will. Those whose intelligence is impaired by any cause are no longer in full control of their thought, and therefore no longer possess complete freedom. Such impairment is often a punishment for the spirit, which may have been vain and proud and may have made bad use of its faculties in another existence. It may be reborn in the body of a person with mental impairment, as the despot may be reborn in the body of a slave, and the spiteful rich person in that of a beggar. The spirit, however, remains perfectly conscious of this constraint and suffers from it. In this constraint one sees the action of matter.
 
-A necessary distinction must be made between intellectual faculties and moral faculties. If a person carries an impulse toward violence or murder, that tendency belongs to the spirit and is transmitted through incarnation; it does not arise from the bodily organs themselves. When people deliberately sink into material preoccupations and silence their higher thought, they degrade themselves. In doing so, they become responsible, because they have chosen that condition through the use of their own freedom.
+The distortion of the intellectual faculties through drunkenness does not excuse reprehensible acts, because drunkards intentionally deprive themselves of reason in order to satisfy crude passions; instead of one wrong, they commit two.
 
-### Limits on Responsibility
+In humans in the primitive state, instinct is the dominant faculty, yet this does not prevent them from acting with full freedom in certain things. Like children, they first apply this freedom to their needs; it develops later with intelligence. Consequently, those who are more enlightened than primitive peoples are more responsible for their acts.
 
-When intelligence is seriously impaired by some cause, free will is no longer complete. A person who no longer has full command of thought no longer has full freedom. Such distortions may sometimes be expiatory conditions for the spirit, especially where faculties were once misused through pride, vanity, or wrongdoing. A spirit may then find itself confined in a body marked by mental impairment, just as a tyrant may be reborn in the condition of a slave, or a selfish rich person in that of a beggar. Even under such restraint, the spirit remains conscious of the limitation and suffers from it. In that suffering, the constraining action of matter becomes evident.
-
-Voluntary drunkenness does not excuse wrongful acts. One who becomes intoxicated knowingly deprives oneself of reason in order to satisfy lower passions. That is not the removal of responsibility, but an added fault. The wrongdoing committed in drunkenness is joined by the deliberate act of having clouded one’s judgment.
-
-### Instinct, Development, and Accountability
-
-Among people in a more primitive state, instinct is the dominant faculty. Even so, instinct does not prevent them from acting freely in certain matters. Their freedom resembles that of children: it is first directed toward immediate needs and grows later with the development of intelligence. As intelligence expands, responsibility also increases. For that reason, those who are more enlightened are more accountable for their acts than those whose development is still rudimentary.
-
-Social position can also restrict the full outward exercise of freedom. Life in the world imposes demands, pressures, and constraints. Yet divine justice takes all of this into account. No one is judged without consideration of circumstances. Responsibility remains, however, for the effort made—or not made—to overcome the obstacles that stand in the way of what is right. The obstacle may diminish blame, but it does not justify moral laziness. What is weighed is not only the difficulty of the path, but also the sincerity and strength of the effort.
+Social position is sometimes an obstacle to the full exercise of freedom of action. The world undoubtedly has its demands. God is just and takes everything into account, but still holds human beings responsible for the small efforts they make to overcome such obstacles.
 
 ## Fatalism
 
-Fatalism exists only in a limited sense.
+Fatalism, in the usual meaning attached to the word, does not govern all the events of life in such a way that free will disappears. Fatalism exists only in relation to the choice made by spirits before incarnation to undergo this or that trial. By choosing a particular trial, they trace for themselves a kind of destiny, which is the natural consequence of the position in which they place themselves. This applies only to trials of a physical nature. As for moral trials and temptations, spirits retain free will to choose good or evil and are always able either to yield or to resist. When good spirits see individuals losing courage, they may hasten to help, but they cannot influence them to the point of eclipsing their will. An evil spirit, that is, one of a low order, may trouble and frighten them by exaggerating a physical danger. Whatever the circumstances, however, the incarnate spirit always retains full freedom of choice.
 
-It applies to the choice a spirit makes before incarnation, when it accepts a particular kind of life, with its trials and conditions. By choosing such a path, the spirit outlines for itself a kind of destiny, the natural consequence of the position it has chosen to occupy. This concerns physical trials.
+There are persons who seem pursued by fatality no matter what they do. These may indeed be trials that they themselves have chosen to endure. Yet once again, destiny is blamed for what is most often only the consequence of one’s own actions. In the midst of the hardships that afflict them, they should make sure their conscience is clear; they will then feel partly consoled.
 
-Moral life remains under the rule of free will. In temptations, struggles, and decisions between good and evil, the spirit always remains free to yield or to resist. Good spirits may encourage, strengthen, and help when courage falters, but they do not suppress the will. Inferior spirits may trouble, frighten, or intensify a danger, yet even then the incarnate spirit retains freedom of choice.
+The right or wrong ideas formed about things lead to success or failure according to character and social position. It is easier, and less humiliating to vanity, to attribute failures to fate or destiny rather than to one’s own fault. If the influence of spirits sometimes contributes to this, one can always free oneself from it by rejecting the evil ideas they suggest.
 
-Many hardships that people attribute to fate are, in reality, consequences of their own actions. It is often easier to blame destiny than to recognize personal error. Character, judgment, and conduct shape success and failure more than people usually admit. Even when spiritual influence is involved, harmful suggestions can be resisted.
+There are persons who escape one mortal danger only to fall into another and seem unable to avoid death. Fatalism, in the true meaning of the word, applies only to the moment of death. When that moment has come, in one form or another, it cannot be escaped.
 
-Some individuals seem relentlessly pursued by misfortune. At times this reflects trials they chose for themselves. Yet even in the midst of suffering, conscience remains decisive. When a person can say inwardly that they have not acted wrongly, that awareness brings real consolation.
+Whatever danger threatens, one will not die if one’s hour has not come. There are thousands of examples of this. But when the hour of departure comes, nothing can save a person. God knows beforehand what kind of death will mark each departure, and often the spirit also knows, because it was revealed when it chose that particular existence.
 
-### Fatalism and the Hour of Death
+From the certainty of the hour of death it does not follow that the precautions taken to avoid it are useless. Such precautions are suggested in order to prevent the death that might result from the dangers that threaten. They are among the means employed so that it does not occur.
 
-Fatalism, in the strict sense, applies above all to the moment of death.
+Providence permits dangers that have no fatal result so that, when life is in danger, the experience may serve as a warning the individual has desired, in order to turn away from evil and become better. Once the danger has passed, and while still under the impression of the risk incurred, the individual thinks more or less seriously—according to the strength of the action of good spirits—about becoming a better person. But when evil spirits return, evil being understood here as the evil still within the individual, the person thinks that other dangers can likewise be avoided and once more lets the passions loose. Through the dangers encountered, God reminds each person of weakness and of the fragility of existence. If one examines the cause and nature of such dangers, one will see that in most cases their consequences are the punishment of some wrong committed or some duty neglected. God thus warns individuals to reflect on and correct their faults.
 
-When the appointed time for departure arrives, death cannot be avoided. Until then, dangers may threaten without succeeding. Countless examples suggest that a person does not die before the hour has come. But once that hour arrives, no precaution can ultimately prevent the transition.
+The spirit knows beforehand that the kind of life chosen will expose it to dying more probably in one way than in another. But it also knows what struggles it must sustain in order to avoid that death, and that, if God wills, it will not succumb.
 
-This does not make prudence useless. The precautions taken against danger are themselves part of the means by which death is delayed until its proper time. The warning, the instinct to avoid harm, the impulse to step back, seek help, or choose safety—these also belong to the order of Providence.
+There are soldiers who face the perils of combat with a certain conviction that their hour has not yet come. Quite often, individuals have a presentiment of their end, and they may likewise have a presentiment that they will not yet die. This presentiment is given by their protecting spirits, who wish to warn them so that they may be ready to depart, or to strengthen their courage when necessary. It may also come from their own intuition of the life they have chosen or of the mission they have accepted and know they must fulfill.
 
-A spirit may know before incarnation that the life it has chosen exposes it more probably to one kind of death than another. It also knows that it will face struggles in which effort and vigilance matter. Knowledge of risk is not the same as absolute certainty regarding every circumstance. The spirit enters a life whose general conditions are known, while still preserving freedom within them.
+Those who foresee their death generally dread it less than others, because it is the human being who dreads death, not the spirit. Those who foresee it think more as spirit than as bodily being. They understand their deliverance and await it.
 
-### Dangers as Warnings
+If death cannot be avoided when its hour has come, it is not the same with all the accidents that occur in the course of life. These are generally minor enough that spirits can warn individuals by directing their thoughts in a way that helps them avoid such events, for spirits do not like physical suffering. However, this matters little in relation to the course of the life chosen. Strictly speaking, fatalism applies only to the times when one must enter and depart this world.
 
-Dangers are not always meaningless accidents.
+There are events that must necessarily occur and that the will of spirits cannot avert. These are events that, in the spirit state, individuals foresaw and anticipated when they made their choice. But not everything that happens is written, as some say. An event is almost always the consequence of something done through an act of free will, so that if it had not been done, the event would not have occurred. If one burns a finger, it is merely the consequence of imprudence and of the nature of matter. Only the great sorrows, those important events capable of influencing moral advancement, are foreseen by God because they are useful for purification and instruction.
 
-At times, when life is threatened and the danger passes, the experience serves as a warning. It can awaken reflection, humility, and the desire to become better. Under the influence of such a shock, a person may briefly see more clearly the fragility of life and the weakness of human pride. Good spirits support these moments of awakening.
+Humans can, through their own will and efforts, avoid events that were to occur, and vice versa, if this apparent deviation fits within the general order of the life they have chosen. Moreover, by doing good—which is their duty and the sole purpose of life—they can prevent evil, especially evil that might contribute to a greater evil.
 
-Yet the effect is often temporary. Once the fear passes, old passions may return. People may imagine that, because they escaped once, they can always escape. In that way, danger becomes a reminder that is neglected.
+When choosing their existence, those who commit a murder do not know at that time that they will become murderers. They know only that, in choosing a life of struggle, they incur the possibility of killing one of their fellow beings, but they do not know whether they will actually do so. Murderers almost always deliberate before committing the crime, and whoever deliberates is always free to act or not to act. If spirits knew beforehand that, as human beings, they would have to commit a murder, this would mean they were predestined to it. No one is ever predestined to commit a crime, and every crime, like every other act, is always the result of will and free choice. Two very distinct things are often confused: the material events of existence and the moral acts of life. If there is sometimes fatalism, it applies only to material events whose cause lies outside the individual and is independent of the will. As for the acts of moral life, they always proceed from the individual, who therefore always retains freedom of choice. There is never fatalism in such acts.
 
-Many dangers also have moral significance. Their cause is often linked to some fault committed, some imprudence, or some duty neglected. They are not always punishments in a crude sense, but warnings that invite correction.
+There are people who never seem to succeed and who appear pursued by a bad influence in all their undertakings. This may be called a kind of fatalism, but it results from the choice of the kind of existence. Such individuals wanted to experience a life full of disappointments in order to exercise patience and resignation. Yet this fatalism is not always unavoidable. It is often only the result of having taken a wrong path that does not accord with one’s intelligence and aptitudes. One who tries to swim across a river without knowing how to swim stands a great chance of drowning. So it is in most of the events of life. If people undertook only what suited their faculties, they would almost always succeed. What causes failure are self-love and ambition, which turn them from their proper path and make them mistake a vocation for the mere desire to satisfy certain passions. They fail, and it is their own fault; but instead of recognizing their error, they prefer to blame their horoscope. A person might have been a good worker, earning an honorable living, but became a poor poet instead and died of hunger. There would be a place for everyone if each knew how to occupy the place suited to them.
 
-### Presentiments of Death
+Social customs often seem to oblige people to follow one path rather than another, and individuals appear subject to the opinions of others in their choice of occupation. What is called human respect is nevertheless no obstacle to the exercise of free will. Social customs are made by humans, not by God. If people submit to them, it is because such customs suit them; this too is an act of free will, because they could reject them if they wished. They should not accuse social customs, then, but their own foolish vanity, which leads them to prefer dying of hunger to violating those customs. No one credits this sacrifice to public opinion, though God takes account of the sacrifice made to vanity. This does not mean they should needlessly oppose public opinion, like certain persons who possess more eccentricity than true philosophy. It is as absurd to parade oneself as an oddity as it is wise to descend willingly in social position without complaint when one cannot remain at the top.
 
-Some people seem to know that their end has not yet come. Others foresee that death is near.
+If there are people whom fate seems to oppose, others seem favored by it because everything succeeds for them. Usually this is because they are better at guiding themselves. Yet it may also be a kind of trial: success intoxicates them; they trust in their destiny, and later they often pay for success through cruel reversals that a little prudence might have avoided.
 
-Such presentiments may come from protector spirits, who warn in order to prepare the person for departure or to restore courage when courage is needed. They may also arise from the spirit’s own intuition concerning the life it chose or the mission it accepted and knows it must fulfill.
+The luck that seems to favor certain individuals in circumstances depending neither on will nor intelligence, such as games of chance, may be explained by the fact that certain spirits have chosen these kinds of pleasures beforehand, and the luck that favors them is a temptation. Those who win materially may lose spiritually. It is a trial for pride and greed.
 
-This helps explain the confidence sometimes seen in those who face extreme danger, such as soldiers in combat. At times that confidence is not mere bravado, but an obscure sense that the hour has not yet arrived.
+The fatalism that appears to govern destinies in material life is likewise the result of free will. Individuals themselves have chosen their trials. The more difficult these are, and the better they endure them, the more they advance. Those who spend their lives in the selfish enjoyment of abundance and personal well-being are cowardly spirits who remain stationary. Thus the number of the unfortunate greatly exceeds that of the fortunate, because most spirits have sought the trials that would be most useful to them. They see too clearly the vanity of earthly greatness and pleasures. Besides, the happiest life is still full of disturbances and troubles to be resolved, even apart from suffering.
 
-Those who foresee death often fear it less than others. In them, the spirit is less absorbed in bodily life. They understand death more as release than as annihilation, and for that reason may meet it with greater calm.
-
-### Everyday Accidents and the Limits of Necessity
-
-Not every event in life is fixed in advance.
-
-Many ordinary accidents are small enough that guidance may help a person avoid them. Spiritual influence can direct thought, awaken caution, or suggest a safer course, especially because unnecessary physical suffering is not desired. True fatalism applies only to entry into bodily life and departure from it, and to certain major events tied to the chosen path.
-
-There are events that must occur because they were foreseen and accepted before incarnation. Even so, it is mistaken to imagine that everything is written in detail. Much of what happens is the consequence of free acts. If a person is careless and suffers for it, the event follows from that imprudence, not from an irresistible decree.
-
-Only the great sorrows and decisive experiences—those capable of influencing moral growth—belong to the broader design foreseen for purification and education.
-
-### Can Events Be Avoided?
-
-Human effort can often avert events that seemed destined to occur, if such a change remains compatible with the overall course of the life chosen.
-
-Doing good has real power. By fulfilling duty and choosing rightly, a person can prevent much evil, especially the evil that would have led to still greater wrongs. Destiny does not remove responsibility. On the contrary, moral effort is one of the means by which many harmful outcomes are avoided.
-
-### No One Is Predestined to Commit Crime
-
-No one is ever predestined to commit a crime.
-
-A spirit choosing a life of struggle may know that it will encounter situations in which wrongdoing is possible, even probable. It may know that violent passions, harsh conditions, or severe conflicts will place it near the danger of grave faults. But it does not know that it must commit them.
-
-A murderer deliberates before acting. That inner deliberation proves freedom. If a person were bound in advance to commit murder, there would be no moral responsibility. Crime, like every moral act, results from volition.
-
-A necessary distinction must therefore be maintained between the material events of existence and the moral acts of life. If fatalism exists at all, it concerns certain material conditions independent of the will. Moral acts proceed from the individual and remain free.
-
-### Apparent Bad Luck in Human Affairs
-
-Some lives seem marked by constant frustration. This may result from the kind of existence chosen before incarnation, especially when the aim is to develop patience, resignation, or endurance. But such hardship is not always unavoidable.
-
-Failure often comes from taking the wrong path. People sometimes attempt what does not suit their abilities, temperament, or true calling. Vanity and ambition draw them away from the place where they might have done honest and useful work. Wanting brilliance instead of fitness, they choose a role that flatters self-love and then blame fate when they fail.
-
-There is wisdom in recognizing one’s proper work and limits. Many disappointments would be avoided if people sought a life in harmony with their real capacities instead of chasing illusions inspired by pride.
-
-### Social Customs and Free Will
-
-Social pressure does not destroy freedom.
-
-Customs are human creations, not divine decrees. If people submit to them, it is usually because they prefer the approval of others to the cost of independence. That too is a choice.
-
-Public opinion can become an obstacle when vanity makes people fear any lowering of social status. Some would rather endure ruin than accept honest work that appears beneath them. Yet the sacrifice made in such cases is often not a noble sacrifice, but a sacrifice to pride.
-
-This does not mean that wisdom consists in eccentricity or in defying convention for its own sake. There is no merit in becoming singular merely to appear philosophical. Better judgment lies in accepting, without complaint, a more modest place when circumstances require it.
-
-### Apparent Good Fortune
-
-Just as some seem pursued by bad luck, others seem favored by fortune.
-
-Often this is simply because they guide themselves better. Prudence, moderation, realism, and self-knowledge spare them many of the difficulties that afflict others. What appears to be luck may be sound judgment.
-
-Yet success can also be a trial. Prosperity intoxicates. People begin to trust blindly in their star, and later they may pay dearly for that confidence through reversals that prudence might have prevented.
-
-Even luck in matters such as games of chance can have moral meaning. It may be a temptation accepted beforehand. Material gain may conceal spiritual loss if it feeds greed, vanity, or pride.
-
-### The Real Meaning of Material Destiny
-
-What appears to govern material destiny is often the result of free choices made before and during earthly life.
-
-Spirits choose trials according to what will best contribute to their progress. The more difficult the trial, the greater the possible advancement if it is borne well. For this reason, the number of those who suffer exceeds the number of those who seem favored. Many spirits prefer useful trials to lives of ease.
-
-A life of abundance and selfish enjoyment is not necessarily enviable. It may reveal a timid spirit unwilling to face the struggles that foster growth. Even the most comfortable life contains its own anxieties, events, and hidden burdens.
-
-Earthly greatness and pleasure have little lasting value. What matters is how life is used: whether difficulties are turned into means of purification, whether freedom is used well, and whether the spirit grows in patience, wisdom, and goodness.
-
-### “Born Under a Lucky Star”
-
-The saying that someone is born under a lucky star comes from an ancient superstition that linked the stars to human destiny.
-
-At most, it survives as an allegory. Taken literally, it mistakes poetic imagery for reality.
+The expression “born under a lucky star” comes from an old superstition according to which the stars were connected with each human destiny—an allegory that some are foolish enough to take literally.
 
 ## Foreknowledge of the Future
 
-The future is, in principle, hidden from human beings. Only in rare and exceptional circumstances is its disclosure permitted.
+In principle, the future is hidden from human beings, and only in rare and exceptional cases does God permit it to be revealed.
 
-This concealment is not arbitrary. If people knew in advance what was to happen, they would often neglect the present. They would no longer act with the same freedom. If convinced that an event must occur, they might conclude that there is no reason to concern themselves with it. If the coming event seemed undesirable, they would try to prevent it. In either case, their conduct would be altered by the knowledge itself.
+The future is hidden because, if people knew it, they would neglect the present and would not act with the same freedom, since they would be dominated by the thought that, if a certain thing must happen, there is no use concerning themselves with it. Or else they would try to prevent it. God has willed it this way so that each person may contribute to the accomplishment of events, even those they would prefer to thwart. Thus, human beings themselves unknowingly prepare the events that will take place in the course of their lives.
 
-Providence has willed that events unfold in such a way that each person contributes to their accomplishment, even when attempting to resist them. Human beings thus prepare, often without realizing it, many of the events that will arise over the course of their lives.
+If it is useful for the future to remain hidden, God nevertheless sometimes allows it to be revealed when the foreseen event will facilitate the accomplishment of things rather than prevent it, and when it leads individuals to act differently than they would have acted without the revelation. Moreover, it is often a trial. The anticipation of an event may awaken thoughts that are more or less virtuous. For example, if a man knows that he will receive an unexpected inheritance, he may be seized by greed or by exultation at the prospect of increasing his earthly enjoyments. In order to obtain the inheritance sooner, he may even desire the death of the one who is to leave it to him. Or, on the contrary, the anticipation may awaken good sentiments and generous thoughts in him. If the prediction is not fulfilled, that too becomes a trial: the trial of how he bears disappointment. Yet he will still have acquired the merit or the blame for the good or evil thoughts the prediction aroused.
 
-### Why the Future Is Sometimes Revealed
+Since God knows everything, God knows whether a person will or will not fail in a given trial. The purpose of a trial is not to inform God of what a person deserves—God knows perfectly well—but to leave the individual wholly responsible for personal conduct, since the person remains free to act or not to act. Because each one can choose between good and evil, a trial places the person before the temptation of evil and leaves the full merit of resistance. Thus, although God knows very well in advance whether the person will triumph or fail, divine justice can neither punish nor reward for an act not yet committed.
 
-Although the future is generally hidden, there are circumstances in which its revelation serves a purpose. This occurs when the foreseen event helps bring about what must be accomplished rather than obstructing it, and when the knowledge leads a person to act differently than they would have acted without it.
+The same is true among humans. However capable candidates may be, and however certain one may be of their success, they cannot be granted a diploma without first being tested—that is, without undergoing trial. Likewise, a judge does not condemn the accused except on proof that a crime has actually been committed, not on the prediction that the accused might commit such an act in the future.
 
-Such revelations may also serve as a trial. The expectation of an event can awaken either noble or harmful impulses. A person who learns of an unexpected inheritance, for example, may be stirred by greed, vanity, or the desire to increase worldly pleasures. That person might even begin to wish for the death of the one from whom the fortune is expected. Yet the same anticipation might instead awaken gratitude, generosity, detachment, or a more upright use of what is to be received.
-
-Even when the prediction does not come to pass, the experience still has value. The disappointment becomes another test. What matters morally is not only the event itself, but the thoughts and intentions it aroused. In that way, the person acquires either merit or blame according to the good or bad dispositions brought to light.
-
-### The Purpose of Trial
-
-Since God knows all things, divine knowledge does not depend on trial. A trial does not exist to inform God of what a person is worth. That is already perfectly known.
-
-Its purpose is to leave human beings fully responsible for their own conduct. Because they are free to choose between good and evil, they must be placed in conditions where that freedom is exercised. Trial presents the temptation of evil and leaves them all the merit of resisting it.
-
-Even when the outcome is foreknown, justice requires that reward or punishment follow acts that have truly been committed, not acts only foreseen. No one can justly be condemned or rewarded for what has not yet been done.
-
-The comparison with ordinary human life makes this clearer. However capable a candidate may be, and however certain success may seem, no diploma is granted without examination. Likewise, a judge does not condemn an accused person because a crime might be committed, but only on the basis of proof that it has in fact been committed.
-
-The same principle applies to moral life. Human beings are not created already perfected in completed virtue. They advance toward it through development, choice, and experience. Trial belongs to that process.
-
-### The Wisdom of Concealment
-
-Reflection on the consequences of knowing the future shows the wisdom of its concealment. Certainty of a happy event would tend to produce inaction. Certainty of an unhappy one would often lead to discouragement. In both cases, effort would be weakened.
-
-Human beings are shown the future only in the sense of a goal to be reached through their own labor, without being given full knowledge of the difficulties that lie along the way. If every obstacle and incident were known beforehand, initiative would be diminished and free will would be paralyzed. Instead of acting with courage and intelligence, people would allow themselves to be carried passively along the slope of events.
-
-When success is guaranteed in advance, concern relaxes, vigilance fades, and effort declines. The hidden future preserves action, responsibility, and freedom. It keeps each person engaged in the work of the present moment, where character is formed and destiny is prepared.
+The more one reflects on the consequences that knowledge of the future would have for human beings, the more one sees how wise Providence was to conceal it. The certainty of a happy event would lead to inaction; the certainty of an unhappy event, to discouragement. In either case, effort would be paralyzed. This is why the future is shown only as a goal to be reached through one’s own efforts, without revealing the tribulations that must be undergone in order to reach it. To know all the incidents one might encounter along the way would deprive a person of initiative and of the use of free will. One would allow oneself to be carried down the fatal slope of events without exercising one’s faculties. When the success of some undertaking is assured, no one worries about it any longer.
 
 ## A Theoretical Summary on the Driving Force behind Human Actions
 
-Human beings are not fated into evil.
+The question of free will may be summarized as follows: humans are not fatally led into evil; their acts are not written beforehand; the crimes they commit are not the result of any decree of destiny. As a trial and an expiation, they may choose an existence in which they will feel drawn toward crime, whether through the surroundings in which they are placed or through the circumstances that arise; but they are always free to act as they wish. Free will exists in the spirit state in the choice of trials, and in bodily life in the ability to yield to or resist the temptations to which they have voluntarily exposed themselves. It is the duty of education to combat evil tendencies, and it will do so effectively when based on a deep study of human moral nature. Through knowledge of the laws that govern that moral nature, humans will be able to modify it, just as intelligence is developed through education and physical constitution through bodily care.
 
-Their actions are not written in advance, and the wrongs they commit do not result from an unchangeable decree of destiny. A spirit may choose, as a trial or an expiation, a life in which crime becomes more likely through circumstances, surroundings, or powerful tendencies. Even so, the person remains free to act.
+When separated from matter and in the errant state, the spirit chooses its future bodily existence according to the degree of perfection it has attained. It is chiefly in this, as already stated, that its free will consists. This freedom is not annulled by incarnation. If the spirit yields to the influence of matter, it fails in the trials it has chosen for itself. To help overcome them, however, it may invoke the assistance of God and of good spirits.
 
-Free will operates in two moments. In the spirit state, it appears in the choice of trials and of the kind of bodily life to be lived. In earthly life, it appears in the power to yield to temptation or resist it. Incarnation does not destroy freedom. If a spirit gives in to the influence of matter, it fails in a trial it had accepted. Yet help is never absent: God and good spirits may be invoked for strength.
+Without free will, humans would be neither guilty in evil nor deserving in goodness. This is so true that in the world blame or praise always depends on intention, that is, on the will of the individual. And whoever says will says freedom. Therefore, people cannot seek excuses for their wrongs in their physical makeup without abdicating reason and the human condition, and without putting themselves on the level of brute creatures. If this applies to evil, it applies equally to good. Yet when people do good, they take great care to attribute the merit to themselves. They do not assign it to their organs—a fact that proves, despite the opinion of some theorists, that they instinctively do not renounce the most glorious privilege of their species: freedom of thought.
 
-Without free will, there could be neither guilt in evil nor merit in goodness.
+Fatalism, as commonly understood, implies a prior and irrevocable ordaining of all the events of life, whatever their importance. If such were the order of things, human beings would be like machines deprived of will. What use would intelligence be if, in all actions, it were invariably overruled by the force of destiny? Such a doctrine, if true, would destroy all human freedom. Individuals would bear no responsibility for their actions, and consequently there would be no evil, no crime, and no virtue. God, being supremely just, could not chastise creatures for wrongs that did not depend on them, nor reward them for virtues in which they had no merit. Such a law would moreover be a denial of the law of progress, because people who depended on fate for everything would attempt nothing to improve their condition, since they could make it neither better nor worse.
 
-Praise and blame always rest on intention, and intention implies freedom. To excuse wrongdoing entirely by physical constitution would be to deny reason and reduce the human being to the level of an unthinking creature. The same principle applies to good actions. People rarely attribute their virtuous acts to their bodily organs. Instinctively, they recognize that freedom of thought and will belongs to the dignity of human nature.
+Fatalism, however, is not an empty word. It truly applies to the position of individuals on Earth and to the functions they perform there, as a consequence of the kind of existence their spirit chose as a trial, an expiation, or a mission. They inevitably undergo all the tribulations of that existence and all the good or bad tendencies inherent in it. But there fatalism ends, because it depends on their will whether they yield or do not yield to those tendencies. The details of events depend on circumstances that human beings themselves create by their actions, and on those that spirits may influence through the thoughts they suggest.
 
-### Fatalism and Moral Freedom
+There is fatalism, therefore, in the events presented to individuals as a consequence of the existence chosen by their spirit. But there can be no fatalism in the results of those events, because it may depend on the individual to alter the course of things through prudence. Furthermore, fatalism never applies to the acts of moral life.
 
-Fatalism, in its ordinary sense, means that all the events of life have been irrevocably ordained in advance. If that were true, human beings would be machines without real will. Intelligence would lose its purpose if every action were overruled by destiny.
+It is in death that human beings are subjected absolutely and inexorably to the law of fatalism, for they cannot evade the decree that has fixed the term of their existence or the kind of death that must interrupt its course.
 
-Such a doctrine would overturn moral responsibility. There could be no true evil, no real crime, and no genuine virtue. Reward and punishment would cease to be just, since no one could deserve either. Progress itself would become meaningless, because those who believed themselves wholly ruled by fate would see no reason to improve.
+According to common belief, human beings derive all their instincts from themselves. These instincts would proceed either from their physical organization, for which they would not be responsible, or from their own nature, in which they might seek an excuse by saying it is not their fault they were made that way. The Spiritist Doctrine is clearly more moral in its view, because it admits free will in all its fullness. It tells human beings that if they practice evil, or if they yield to an evil suggestion coming from outside themselves, they remain fully responsible, because it recognizes in them the power to resist—something obviously easier than struggling against one’s own nature. Thus, according to Spiritist Doctrine, there are no irresistible temptations. People can always close their ears to the secret voice that urges them toward evil, just as they can close them to the physical voice of someone speaking to them. They can do so by an act of will, asking God for strength and appealing for the assistance of good spirits. This is what Jesus teaches in the sublime plea of the Lord’s Prayer, when he teaches us to say: “Do not let us fall into temptation, but deliver us from evil.”
 
-There is, however, a limited sense in which fatalism exists.
+This theory of the driving force behind our acts stands out clearly among all the teachings given by the Spirits. It is not only sublime in its morality, but also elevates human beings in their own eyes, showing them free to shake off the yoke of an obsessor just as they can close their door to intruders. They are no longer machines acting under an impulse foreign to their own will, but rational beings who listen, judge, and freely choose between two counsels. Even so, humans are not deprived of initiative; they do not fail to act except by their own impulse, because in reality they remain incarnate spirits who preserve, beneath the bodily envelope, the qualities and defects they possessed as spirits. Thus, the wrongs we commit have their primary origin in the imperfections of our own spirit, which has not yet attained the moral superiority for which it is destined, yet which still possesses free will. Bodily life is given to the spirit so that it may purge itself of its imperfections through the trials it undergoes, and it is precisely those imperfections that weaken it and make it more accessible to the suggestions of other imperfect spirits, who take advantage of this in order to make it succumb in the struggle it has undertaken. If the spirit emerges victorious from this struggle, it advances; if it fails, it remains what it was—no worse, no better. It is a trial that will have to be begun again and may endure for a long time. The more the spirit purifies itself, the more it diminishes its weaknesses and the less accessible it becomes to those who tempt it toward evil. Its moral strength increases with progress, and evil spirits withdraw from it.
 
-A spirit may have chosen, before birth, a certain kind of earthly condition as a trial, an expiation, or a mission. In that sense, the broad circumstances of life and the tendencies connected with them may be said to be undergone necessarily. The person encounters the tribulations bound up with that chosen existence.
-
-But this necessity stops there. Whether one yields to those tendencies or resists them remains a matter of will. The details of events depend partly on the circumstances people themselves create through their actions, and partly on the influence of spirits who suggest thoughts and impulses. What is presented to a person may follow from a chosen life-plan; what results from those events is not fixed in the same absolute way.
-
-Prudence, effort, and moral decision can alter the course of things. For this reason, fatalism never governs the acts of moral life.
-
-### The Fatality of Death
-
-There is one point at which human beings submit absolutely to fatalism: death.
-
-No one can finally escape the term fixed for earthly life or the kind of death that will interrupt it. In this matter, the law is inexorable.
-
-### The Source of Human Actions
-
-A common view holds that all instincts arise solely from the individual, either from bodily organization or from an innate personal nature. That view easily becomes an excuse: one says, in effect, that wrongdoing is unavoidable because one was made that way.
-
-A moral view of human freedom rejects that excuse.
-
-Even when an evil suggestion comes from outside, the person remains responsible because the power to resist remains intact. Resistance to an external suggestion is easier, not harder, than struggling against an evil presented as one’s own nature. No temptation is irresistible. People can close their ears to the secret voice that urges evil just as they can refuse the spoken advice of a corrupt companion.
-
-This resistance is an act of will. It is strengthened by prayer, by asking God for support, and by seeking the help of good spirits. The prayer, “Do not let us fall into temptation, but deliver us from evil,” expresses exactly this struggle and this hope.
-
-### Imperfection, Influence, and Progress
-
-Human beings are not machines moved by a foreign impulse.
-
-They are rational beings who hear, judge, and choose between opposing counsels. Nor are they deprived of initiative. They act by their own impulse because they are incarnate spirits who retain, beneath the bodily covering, the qualities and defects they possessed before birth.
-
-The deeper source of wrongdoing lies in the imperfections of the spirit itself. The spirit has not yet attained the moral superiority toward which it is destined, but it still possesses free will. Bodily life is given so that these imperfections may be purified through trial.
-
-Those very imperfections weaken the spirit and make it more accessible to the suggestions of other imperfect spirits, who take advantage of its vulnerable points and try to make it fall in the struggle it has undertaken.
-
-If the spirit wins this struggle, it advances.
-
-If it fails, it remains what it was—no worse, but no better. The trial must be taken up again, and this may continue for a long time. As purification increases, weaknesses diminish. The more a spirit improves, the less open it becomes to the influence of those who tempt it toward evil. Moral strength grows with progress, and evil spirits withdraw.
-
-### Education and the Reform of Character
-
-Education has a serious duty in the struggle against evil tendencies.
-
-To fulfill that duty well, it must be grounded in a deep knowledge of human moral nature. Just as intelligence is cultivated by instruction and the body is improved by proper care, character can be modified through understanding the laws that govern moral life. Evil tendencies are not unchangeable sentences. They can be corrected, restrained, and gradually transformed.
-
-### Humanity and the Condition of the Earth
-
-All incarnate spirits, whether more advanced or less advanced, form the human species.
-
-Because the Earth is one of the less advanced worlds, it contains more imperfect spirits than good ones. Much of the wickedness seen here reflects that condition. Earthly life therefore carries the character of struggle, trial, and moral labor.
-
-The proper response is effort. Each person should strive not to return to such a world through continued imperfection, but to become worthy of rest in a better one, among those worlds where goodness prevails. Then earthly life will be remembered as a period of exile that served the work of purification and progress.
+All spirits, more or less good when incarnated, make up the human species, and since Earth is one of the least advanced worlds, there are more evil spirits here than good ones. That is why we see so much wickedness. Let us therefore make every effort not to return to this world after our present sojourn, and to deserve rest in a better world, one of those privileged worlds where goodness reigns fully, and where we will remember our stay on this planet as no more than a time of exile.

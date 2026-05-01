@@ -21,9 +21,11 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "dotenv": "^17.4.2",
+    "openai": "^6.35.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "zod": "^4.4.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.0",

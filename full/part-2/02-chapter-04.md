@@ -5,364 +5,208 @@ sidebar_label: "2.4 Reincarnation: Multiple Lives"
 
 ## Reincarnation
 
-A soul that has not reached perfection during bodily life completes its purification by undergoing the trial of a new existence.
+A soul that did not reach perfection during its corporeal life completes the work of its purification by submitting to the trial of a new existence.
 
-This renewal does not happen through spiritual change alone. The soul certainly transforms as a spirit, but that transformation requires the experience of embodied life. Embodied existence provides the conditions in which purification is tested, deepened, and made real.
+To purify itself, the soul undergoes a transformation, but for this to occur it needs the trial of corporeal life.
 
-For that reason, the soul lives many bodily lives. After leaving one body, it takes up another. It reincarnates into a new body and continues its journey.
+The soul lives many corporeal existences. We all live many lives, and those who say otherwise wish to keep others in the ignorance in which they themselves dwell.
 
-Reincarnation has a double purpose: expiation and the progressive improvement of humankind. Through repeated lives, souls repair the consequences of past faults and advance step by step. Without reincarnation, justice would be impossible, since a single life would not account for the immense differences in moral condition, suffering, opportunity, and development found among human beings.
+After leaving one body behind, the soul takes another; in other words, it reincarnates in a new body.
 
-These successive incarnations do not continue forever in the same condition. In each new life, a spirit takes another step along the path of progress. As it frees itself from impurities, it gradually outgrows the need for the trials of embodied existence.
+The purpose of reincarnation is expiation and humankind’s progressive improvement. Without reincarnation, there could be no justice.
 
-The number of incarnations is not the same for all spirits. Those who advance more quickly spare themselves many trials. Yet progress extends so far that many incarnations are generally necessary. Growth is continuous, and the path is long, even when it is faithfully followed.
+The number of corporeal lives is not unlimited. In each new life, a spirit takes another step on the path of progress. When it has stripped itself of all impurities, it has no further need of the trials of corporeal life.
 
-After its final incarnation, the spirit no longer needs to return to embodied life. Having completed its purification, it becomes a blessed spirit, a pure spirit.
+The number of incarnations is not generally the same for all spirits. Those who advance quickly spare themselves many trials. Nevertheless, since progress is almost infinite, a large number of incarnations is always required.
+
+After its final incarnation, the spirit becomes a blessed spirit, a pure spirit.
 
 ## The Justice of Reincarnation
 
-Reincarnation rests on two foundations: divine justice and revelation.
+The doctrine of reincarnation is based on the justice of God and revelation. A good father always leaves the door of repentance open to his children. It would be unjust to keep eternal bliss from those who have not enjoyed the opportunities needed to improve themselves. All people are God’s children. It is only among selfish human beings that iniquity, insatiable hatred, and unforgiving punishment are found.
 
-The principle is simple. God leaves every soul the possibility of repentance and progress. A just and loving God would not exclude beings forever from happiness when they have not yet had all the opportunities needed to improve. If all are children of God, then divine justice cannot resemble human hardness, selfishness, or unforgiving punishment.
+All spirits are en route to perfection, and God furnishes them with the means of accomplishing it through the trials of corporeal life. In divine justice, God permits them to accomplish in new existences whatever they could not do or complete in a previous trial.
 
-All spirits are moving toward perfection, and earthly life provides the trials through which that progress is made. When a spirit has not completed its work in one bodily life, divine justice allows it to continue in another. New existences make possible what could not be accomplished before.
+It would not be consistent with equity or with God’s goodness to punish forever those who, regardless of their will, encountered obstacles to their improvement within the surroundings in which they had been placed. If the fate of all human beings were irrevocably sealed after death, it would mean that God does not weigh the actions of all on the same scales and does not treat everyone impartially.
 
-Without this continuation, the inequalities of human life would be impossible to reconcile with perfect justice. Many meet obstacles they did not choose: limited education, harsh conditions, moral blindness, suffering, or environments that hinder development. It would not be consistent with fairness or goodness to condemn them without end for failures bound up with circumstances that restricted their growth.
+The doctrine of reincarnation, which consists in accepting that humans have many successive lives, is the only one in line with the idea of God’s justice toward those of lower moral condition. It is the only one that can explain our future and give us hope because it offers us the means of atoning for our errors through new trials. Reason confirms this, and it is what the Spirits have taught.
 
-If each person’s fate were fixed forever at death after only one life, then all would not be judged by the same measure. Such a view would imply a partiality inconsistent with divine equity.
-
-Reincarnation alone accords with the justice due to souls still at a lower stage of moral development. By admitting successive lives, it explains how the future remains open and how faults may be repaired through fresh trials, renewed effort, and gradual transformation. It offers not only an account of human destiny but also a real ground for hope.
-
-Reason supports this view. So does the inward sense that moral progress is rarely completed in a single lifetime. Human beings learn slowly. Many truths are understood only after long experience, and many virtues are formed only through repeated struggle.
-
-For those who feel their own imperfection, this teaching is deeply consoling. Anyone who truly trusts in divine justice cannot believe that those who have done less good must remain forever separated from the highest good while still desiring it and being capable of it. Imperfection is serious, but it is not final. Continued effort can lead upward.
-
-This hope strengthens courage. Regrets about lessons learned too late need not end in despair. Experience acquired at the close of one life is not lost. What has been understood, suffered, corrected, or begun can bear fruit later. In a new existence, the soul resumes its journey better prepared than before.
-
-Reincarnation therefore joins justice, mercy, and progress in a single law. It affirms responsibility without making punishment endless, and it preserves hope without excusing wrongdoing. Every life matters, every effort has value, and no sincere movement toward the good is ever wasted.
+Those who are aware of how imperfect they are derive consoling hope from the doctrine of reincarnation. If they truly believe in the justice of God, they cannot expect to be equal for all eternity to those who have done better than they. The thought that such imperfection will not exclude them forever from the supreme good, and that they will be able to reach it through continued effort, supports them and renews their courage. At the end of one’s career, one may regret having acquired a particular experience too late to have profited from it. Yet this newly acquired experience will not be lost; it will be of benefit in a new existence.
 
 ## Incarnation on Different Worlds
 
-Embodied existence does not unfold on earth alone.
+Not all of our corporeal existences are lived on Earth. They may be lived on other worlds as well. Those on this globe are neither the first nor the last, but they are among the most material and the farthest from perfection.
 
-A spirit may live on many different worlds, and earthly lives are neither the first nor the last in that larger journey. Earth belongs among the more material worlds and stands far from perfection. It is one stage in a much broader progression.
+With each new corporeal existence, the soul does not necessarily pass from one world to another, for it may live many lives on the same world if it has not evolved sufficiently to go to a more advanced one.
 
-A spirit may also return many times to the same world. If it has not advanced enough to pass to a more evolved world, it remains where further learning is still possible. For that reason, repeated lives on earth are natural. A spirit may even return here after having lived elsewhere, and many who now inhabit the earth may be here for the first time.
+We may reappear several times on Earth. We can also return to it after having lived on other worlds, and we may already have lived on worlds other than Earth.
 
-No outward sign reliably identifies such newcomers. Such knowledge would serve no useful purpose.
+It is not necessary to live again on Earth, but if one does not progress, one may go to another world that is no better, perhaps even worse.
 
-### Progression from World to World
+There is no special advantage in coming back to live on Earth unless one comes on a mission. In that case, one will progress nonetheless, just as on any other world.
 
-Passage from one world to another follows the spirit’s degree of advancement.
+It would not be better to remain a spirit, because that would keep one at a standstill. What one seeks is to evolve toward God.
 
-A spirit does not need to inhabit every world in the universe in order to reach perfection. Many worlds are of similar degree, and a spirit would gain nothing new by passing through each one in turn. What matters is not visiting every world, but acquiring the experience necessary for purification and growth.
+After having incarnated on other worlds, spirits can incarnate on this one without ever having come here before, just as one can incarnate on other globes. All worlds are in solidarity. What has not been accomplished on one may be accomplished on another.
 
-Several lives on the same world can still be necessary, because each life may place the spirit in very different conditions. Through those changing situations, it gains varied forms of experience and develops faculties that one existence alone could not provide.
+There are many who are on Earth for the first time, and at various degrees. There is no useful indication by which to recognize a spirit who is on Earth for the first time.
 
-A spirit may also incarnate on a world less advanced than one it has already known. This does not mean true regression. Spirits do not lose the progress they have made. Rather, such a return may occur for one of two reasons.
+To arrive at the perfection and supreme bliss that are humankind’s final aim, a spirit need not have lived on all the worlds in the universe, because there are many worlds of like degree where the spirit would learn nothing new.
 
-First, it may be accepted as a mission. In that case, the spirit enters a harsher environment in order to help others, and the very trials of that mission become a means of further advancement.
+The plurality of a spirit’s lives on the same globe is explained by the fact that it may find itself there each time in very different situations, which will provide many opportunities to acquire experience.
 
-Second, it may be the consequence of failure. When a spirit has misused former opportunities, failed in its trials, or neglected its mission, the punishment is not to fall backward in development, but to remain without further advancement and to begin again under conditions suited to its present state. The suffering lies in delay, not in loss of acquired intelligence.
+Spirits can be reborn corporeally on a world that is relatively less evolved than one on which they have already lived when they have a mission to fulfill that will aid their progress. In such a case, they joyfully accept the tribulations of this kind of existence because these furnish a means for further advancement.
 
-### Remaining a Spirit and Returning to Embodied Life
+This may also occur as expiation, in the sense that God may leave rebellious spirits on less evolved worlds. Spirits may remain at a standstill, but they never regress. Thus, their punishment consists in not advancing and in having to recommence badly used lives in an environment more suited to their nature.
 
-Embodied life is a means of progress.
+Those who must recommence the same existence are those who have failed in their mission or trials.
 
-To remain indefinitely in the purely spiritual state while still imperfect would mean stagnation rather than fulfillment. The spirit advances toward God by learning, acting, and undergoing the experiences required for its transformation. Incarnation is one of the principal instruments of that work.
+The beings who inhabit each world are not all at the same degree of purification. As on Earth, some are more advanced and some are less advanced.
 
-Returning to earth offers no unique privilege over other worlds, except when a spirit comes here for a mission. Even then, the progress gained follows the same universal law: sincere effort, trials well endured, and duties faithfully fulfilled lead upward wherever they are carried out.
+In passing from this world to another, a spirit retains the intelligence it possessed here, because intelligence is never lost. Such a spirit may not have the same means of expressing it, however. This depends both on its degree of purity and on the state of the body it acquires.
 
-### Solidarity Among Worlds
+The beings who inhabit different worlds have bodies, because the spirit must be clothed with matter in order to act upon matter. This envelope, however, is more or less material according to the degree of purity the spirit has reached. This determines the differences among the worlds through which we must pass, for there are many dwellings in God’s house, and therefore many degrees. Some recognize this and are conscious of it here on Earth, but others know nothing of it.
 
-All worlds are linked in a common order.
+The physical and moral state of different worlds cannot be accurately known by all, because Spirits can reply only according to the degree of evolution of those to whom they speak. These things must not be revealed to everybody, because not all are in the same position to comprehend them, and such revelations would be troubling to them.
 
-What is not accomplished on one may be accomplished on another. The universe is not divided into isolated domains, but ordered as a vast field of education for spirits at different stages. Movement from world to world reflects that solidarity.
+As spirits purify themselves, the bodies that clothe them also approach the spirit nature. Their matter becomes less dense, and they no longer painfully drag themselves around on the ground. The needs of their physical bodies are less coarse, and they no longer have to destroy other living beings in order to feed themselves. They are freer and have perceptions unknown to us, enabling them to see things far away; in other words, they can see through the eyes of the body what we can see only through thought.
 
-The inhabitants of a given world are not all at the same degree of purification. As on earth, some are more advanced and others less so. A world has a general character, but within it there are many levels.
+The purification of spirits is reflected in the moral perfection of the beings in whom they are incarnated. Animal passions become weaker, and selfishness gives way to a fraternal sentiment. Thus, on worlds more highly evolved than our own, wars are unknown, and there are no motives for hatred and discord, because no one would dream of harming a fellow being. Their intuition concerning the future, which is the assurance given by a conscience free of remorse, makes death no longer a cause for apprehension. Instead, they look upon it without fear, as a simple transformation.
 
-### Intelligence and the Body on Different Worlds
+The lifespan on different worlds appears to be proportionate to the spirit’s degree of moral and physical advancement, and this is perfectly logical. The less material the body, the less it is subject to the torments that disorganize it. The purer the spirit, the less it is subject to the passions that undermine it. This is another design of Providence, who desires suffering to be shortened as much as possible.
 
-When a spirit passes from one world to another, it retains its intelligence.
+In passing from one world to another, a spirit must experience a new childhood. Childhood is a necessary transition on all worlds, but it is not always as obtuse as it is on ours.
 
-Nothing truly acquired is lost. Yet the expression of intelligence depends partly on the body through which the spirit acts. If that body is more or less refined, the means of manifestation differ accordingly. The spirit remains itself, but its instrument changes.
+Spirits cannot always choose the new world they will inhabit, but they may ask for and receive what they desire if they deserve it, because spirits gain access to worlds only according to their degree of purification. If a spirit does not make a request, its degree of purification determines the world on which it will reincarnate.
 
-All embodied spirits must be clothed in matter in order to act upon matter. Still, that envelope varies according to the purity of the spirit and the nature of the world. Bodies on different worlds are therefore not identical to ours. Some are denser and more burdened by material conditions; others are lighter, more subtle, and better suited to more advanced forms of life.
+The physical and moral state of living beings on each globe is not perpetually the same. All worlds are subject to the law of progress. All began like ours, in an inferior state. Earth will undergo a transformation and will become a terrestrial paradise when all humankind chooses good over evil.
 
-As spirits purify themselves, the bodies that clothe them also become less dense and draw closer to the spirit nature. Matter grows less coarse. Movement is no longer so laborious. Physical needs become less harsh. Beings no longer need to destroy other living creatures for nourishment. Their perceptions become more extensive and more delicate, allowing forms of awareness unknown to us. They can perceive at a distance through faculties that, for us, belong only to thought.
+Thus, the race that populates Earth today will someday disappear and be replaced gradually by more highly evolved beings. Such races will succeed the current one, just as the current one succeeded others that were even less evolved.
 
-### Moral Condition of More Advanced Worlds
+There are worlds on which the spirit no longer lives in a material body and has only the perispirit as its envelope. That envelope itself becomes so etherealized that to us it is as if it did not exist at all. This is the state of pure spirits.
 
-The purification of spirits is reflected in the moral life of the worlds they inhabit.
+There is no precise line separating the state of the final incarnations from that of a pure spirit. The difference diminishes little by little, finally becoming imperceptible, like night fading at the first light of day.
 
-Where beings are more advanced, animal passions lose force. Selfishness gives way to fraternity. There, war is unknown, because the motives that sustain hatred, domination, and discord no longer hold power. No one even thinks of harming another.
+The perispirit’s substance is not the same on all globes. It is more etherealized on some than on others. When it goes from one world to another, a spirit clothes itself with the matter proper to each world at a speed faster than lightning.
 
-Such beings also regard death differently. A clear conscience and a surer intuition of what lies ahead remove much of the fear surrounding bodily dissolution. Death is seen not as annihilation or terror, but as a simple transformation.
+Pure spirits inhabit certain worlds, but they are not confined to them as people are to Earth. More than all others, they possess the power of ubiquity.
 
-Lifespan appears to correspond to moral and physical advancement. The less material the body, the less subject it is to the causes of deterioration and suffering. The purer the spirit, the less it is consumed by the passions that wear life away. In this way, suffering is shortened as development increases.
+According to some spirits, of all the globes that comprise our solar system, Earth is one of those whose inhabitants are the least physically and morally advanced. Mars, as a planet per se, is even less advanced, whereas Jupiter is far superior in every respect. The sun is not inhabited by corporeal beings, but is a meeting place for high-order spirits, who radiate their thought from there to other worlds, which they govern with the aid of low-order spirits by communicating with them through the universal fluid. Regarding its physical constitution, the sun could be a focus of electricity. It appears that all suns operate in the same way.
 
-### Childhood on Other Worlds
+Size and distance from the sun have no necessary bearing on the degree of the other planets’ development, because it appears that Venus is more evolved than Earth, and Saturn less so than Jupiter.
 
-Childhood exists on all worlds as a necessary transition.
+Many spirits who animated well-known personalities on Earth are said to have reincarnated on Jupiter, one of the worlds nearest to perfection. It may seem surprising that on a globe so advanced, persons may be found who might not have been considered so very evolved when they lived on Earth. However, this is less astonishing if one considers, first, that certain spirits who inhabit that planet could have been sent to Earth to fulfill missions that did not place them in prominent positions, at least by earthly standards; second, that between their earthly existence and their life on Jupiter they may have had intermediate ones in which they evolved further; and third, that on that world as on this one there are different degrees of development, and between those degrees there may be as much difference as that separating the primitive from the civilized individual on Earth. Thus, the fact that they inhabit Jupiter does not mean they are at the level of the most evolved beings, just as all persons are not on the same level as scholars at the Institute simply because they happen to live in Paris.
 
-Yet it does not everywhere have the same heaviness or obscurity that it has on earth. The early stages of embodied life remain a period of preparation and adaptation, but their form varies according to the nature of the world and the body assumed there.
+The conditions of longevity are not everywhere the same as they are on Earth; thus, an age-based comparison is not possible. A person who had died some years earlier was evoked through a medium and stated that he had reincarnated just six months earlier on a world whose name he withheld. When questioned about his age there, he replied that he could not calculate it, because time is not counted there as it is here; moreover, their way of life is not the same. They develop much more quickly, so that although only six of our months had passed since he arrived there, in intelligence he was already about thirty Earth years old.
 
-### Choice of World
-
-A spirit does not always choose the world where it will next incarnate.
-
-It may ask to go to a particular world, and the request may be granted if it has earned that right. But access is governed by purification. A spirit can inhabit only those worlds for which it is fit. When no request is made, its own degree of purification determines the destination.
-
-### The Progress of Worlds Themselves
-
-Worlds, like spirits, are subject to the law of progress.
-
-No world remains forever fixed in the same physical and moral condition. All begin in an inferior state. Over time they are transformed. Earth itself will change. When humanity freely chooses the good over evil, it will become a world of much higher order.
-
-Because of this law, the race now populating the earth will not endure unchanged forever. It will gradually give way to more advanced beings, just as earlier and less evolved races yielded to those that followed them.
-
-### Worlds Near the Spiritual State
-
-There are worlds where the spirit no longer lives in a gross material body.
-
-In such realms, the only envelope is the perispirit, and even that has become so ethereal that, from our point of view, it would seem almost nonexistent. This is the condition associated with pure spirits.
-
-No absolute line separates the last and most refined incarnations from the state of pure spirit. The transition is gradual. The difference diminishes little by little until it becomes nearly imperceptible, like darkness fading into dawn.
-
-The substance of the perispirit is not the same on every world. It becomes more or less ethereal according to the world. When a spirit passes from one world to another, it clothes itself in the matter appropriate to that new sphere with extraordinary rapidity.
-
-### Pure Spirits and Their Dwelling
-
-Pure spirits inhabit certain worlds, but they are not confined to them in the way embodied beings are confined to earth.
-
-Their freedom of action is far greater. They are capable, far more than we are, of being present wherever their activity is needed. Their relation to place is therefore very different from ours.
-
-### Knowledge of Other Worlds
-
-Exact knowledge of the physical and moral condition of other worlds is not given equally to everyone.
-
-Understanding depends on the degree of advancement of the one receiving it. Truths that one person can assimilate calmly may confuse or disturb another. Knowledge must therefore be proportioned to the capacity to comprehend it.
-
-Still, one general principle is clear: the universe contains many degrees of life, embodiment, and purification. Earth is only one among many dwellings in the divine order, and human life here is one moment in the wider education of the spirit.
+Many similar replies have been given by other spirits, and these statements contain nothing implausible. On Earth, animals reach full maturity in only a few months. Why it should not be the same with human beings on other spheres is not evident. On the other hand, the development acquired by a thirty-year-old person on Earth may be only a type of infancy compared with what could be reached elsewhere. It would be very shortsighted to consider ourselves the prototypes of creation, and it would be demeaning to the Divinity to believe that nothing else could have been created besides us.
 
 ## Progressive Transmigration
 
-Spirits do not come into being with the full development of their faculties.
+From the time it is first formed, a spirit does not enjoy the fullness of its faculties. Like a human being, a spirit has its infancy. When they first come into being, spirits have no more than an instinctive existence, possessing only consciousness of themselves and their actions. Their intelligence develops only little by little.
 
-Like human beings, they have an infancy. At first, their existence is largely instinctive. They possess consciousness of themselves and of what they do, but their intelligence unfolds only gradually.
+During its first incarnation, the soul resembles the state of infancy in corporeal life. Its intelligence is only beginning to unfold, and it tries its hand at life.
 
-The soul in its first incarnation is therefore in a condition comparable to childhood in bodily life. Its intelligence is only beginning to open, and it is, in a sense, trying its hand at life.
+The souls of primitive peoples are in a relative state of spiritual infancy, though they are already developed souls endowed with passions. Passions indicate development, but not perfection. They are a sign of activity and an awareness of the self. In the very young soul, intelligence and life exist only in a seedlike state.
 
-What appears among less advanced human beings as a kind of spiritual childhood is only relative infancy. Such souls are already developed enough to have passions. Passions are a sign of development in the sense of activity and self-awareness, but they are not a sign of perfection. In the very young soul, intelligence and life exist only as if in seed form.
+The life of spirits as a whole follows the same phases as corporeal life. A spirit passes gradually from the embryonic state to that of childhood. Over a succession of periods, it arrives at the adult state, which is that of perfection, with the difference that there is no decline or decrepitude as in corporeal life. Even though its life had a beginning, it will have no end, and from our point of view it needs an enormous amount of time to pass from spirit infancy to complete development. Furthermore, its progress does not all occur on one globe only, but on several. The life of the spirit is thus composed of a series of corporeal existences, each providing an opportunity for progress, just as each corporeal existence is composed of a series of days over which the individual acquires greater experience and knowledge. Nevertheless, just as in human life there are fruitless days, likewise in the life of a spirit there are corporeal existences that yield no improvement because the spirit did not know how to live them productively.
 
-The life of spirits follows a progression analogous to bodily life, though on a far larger scale. A spirit passes gradually from an embryonic state to childhood, and through a succession of stages reaches maturity, which is perfection. Unlike bodily life, however, this development is not followed by decline or old age. Spiritual life has a beginning, but no end.
+Through perfect conduct in this life, no one can leap over all the degrees and become a pure spirit without having passed through the intermediate ones, because what humans imagine as perfection is actually very far from it. There are qualities they neither know nor comprehend. They may be as perfect as their nature permits, but it is not absolute perfection. It is like certain children who, no matter how precocious they may be, must still pass through youth before arriving at maturity, or like ailing individuals who must go through convalescence before recovering their health. Furthermore, spirits must advance in knowledge as well as in morality, and if they have progressed in one sense only, they must do so in the other in order to reach the top of the ladder. Nevertheless, the more individuals advance in their present life, the shorter and less painful their subsequent trials will be.
 
-From a human point of view, the journey from spiritual infancy to full development requires an immense span of time. Nor does this progress occur on a single world. Spirits advance through a series of embodied existences on different worlds, and each existence offers fresh opportunities for growth. Just as a human life is made up of many days through which experience and knowledge are acquired, the life of a spirit is made up of many incarnations through which deeper progress becomes possible.
+Humans in this life can assure themselves of a less bitter future existence. They can reduce the length and difficulties of the path. Only the negligent remain at a standstill.
 
-Yet not every earthly life is used well. As there are wasted days in human life, there are also incarnations that produce little or no improvement because they were not lived productively.
+During new existences, humans can regress in social position, but as spirits they cannot. During a new incarnation, the soul of a moral individual cannot animate the body of a scoundrel, because a spirit cannot regress. The soul of a wicked individual may become the soul of a moral one. If it repents, that would be a reward.
 
-### Progress Through Degrees
+The evolution of spirits is progressive and never regressive. They raise themselves gradually through the hierarchy and do not descend from the level they have reached. In their different corporeal lives, they may descend as individuals but not as spirits. Thus, the soul of a powerful person may later animate a humble artisan, and vice versa, because positions among individuals are frequently the inverse of the elevation of their morality. Herod was a king; Jesus was a carpenter.
 
-No one leaps over all the intermediate degrees to become a pure spirit at once.
+The possibility of improving oneself in another existence does not justify persevering in the path of evil with the thought that one can always correct oneself later. Those who think that way do not truly believe. The idea of eternal punishment no longer restrains them because their reason rejects it; instead, it leads them to question everything. If only reasonable means were used to guide humans, there would be no such skeptics. During corporeal life, an imperfect spirit may indeed think in that way, but once released from matter it thinks very differently. It soon perceives that it has calculated badly, and to make up for it, it will carry an opposite sentiment into its new existence. Progress is accomplished in this way, which is why on Earth some are more advanced than others. Some have already had the experiences that others have yet to go through; the latter acquire such experiences little by little. It depends on each individual to hasten progress or to delay it indefinitely.
 
-Human beings often imagine that they can reach perfection in a single bound, but what they call perfection is still very far from absolute perfection. There are qualities beyond ordinary human awareness, qualities not yet understood by those still on the way. A person may become as perfect as present human nature permits, yet still remain far from the final goal.
+Persons who find themselves in a dreadful situation desire to change it as quickly as possible. Those who have convinced themselves that the tribulations of this life are the consequence of their own imperfections will seek to ensure a new existence that is less painful. This thought will draw them away from the path of evil much more readily than the thought of eternal fire, which they regard as nonsense.
 
-The process resembles the growth of a gifted child who, however precocious, must still pass through youth before reaching maturity. It also resembles recovery from illness: even when healing has begun, convalescence still has to run its course.
+Since spirits can improve only by undergoing the sufferings and tribulations of corporeal existence, material life may be seen as a type of sieve or filter through which the beings of the spirit world must pass in order to arrive at perfection. They improve during such trials by avoiding evil and practicing the good. However, it is only after many incarnations or successive purifications, and after a longer or shorter lapse of time according to their own efforts, that they reach the goal meant for them.
 
-Spirits must advance in two ways: knowledge and morality. If progress has been made in one but not the other, the remaining deficiency must still be overcome before the highest state can be reached. Even so, the more progress a person makes in the present life, the shorter and less painful future trials may become.
+The spirit influences the body. Your spirit is everything. Your body is a garment that rots; that is all.
 
-A less bitter future can therefore be prepared now. Human beings can reduce both the length and the difficulty of the road ahead. Only negligence leaves a spirit standing still.
-
-### Never Regressive as Spirits
-
-The evolution of spirits is progressive and never regressive.
-
-In a new earthly life, a person may occupy a lower social position than before, but as a spirit there is no falling back to an inferior degree once a true advance has been made. External conditions may vary greatly from one incarnation to another, yet spiritual attainment is not lost.
-
-For that reason, the soul of a morally upright person does not become the soul of a depraved one. A spirit cannot regress. By contrast, the soul of a wicked person may become that of a moral person if repentance has taken place. Such improvement is itself a reward.
-
-Spirits ascend gradually through the hierarchy and do not descend from the level they have reached. In bodily life they may appear to fall in worldly rank, but this concerns only social circumstance, not spiritual worth. A powerful ruler may return in a humble station, and someone once obscure may return in a position of prominence. Social position and moral elevation do not necessarily correspond. Earthly greatness is often the opposite of true spiritual worth.
-
-### Delay, Responsibility, and the Use of Freedom
-
-The possibility of future improvement does not justify postponing moral effort.
-
-Those who imagine that they may continue in wrongdoing because they can always correct themselves later do not truly hold any firm conviction. Mere threats do not transform them, especially when those threats offend reason and are dismissed. But once the spirit is freed from matter, it judges things differently. It quickly perceives that it has reasoned badly, and this recognition gives rise to a contrary disposition in a new existence.
-
-This is one of the ways progress is accomplished. Some people on earth are more advanced because they have already passed through experiences others have not yet undergone. Those who are still behind acquire such experience little by little. Each person can hasten progress, or delay it for an indefinite time.
-
-Anyone in a painful condition naturally desires a better one. When people understand that the tribulations of life are connected with their own imperfections, they are moved to seek a future existence that is less burdened by suffering. That conviction can turn them from evil more effectively than fear of punishments they no longer believe in.
-
-### Embodied Life as Trial and Purification
-
-Embodied life serves as a means of purification.
-
-Spirits improve through the sufferings and trials of embodied existence when they avoid evil and practice good. Through repeated incarnations and successive purifications, they move toward the goal set before them. The time required is longer or shorter according to their own effort.
-
-The body itself is not the true source of progress. The spirit is the essential being; the body is only a temporary garment that decays.
-
-A useful image for this purification may be found in the distillation of wine. The liquid contains alcohol, but mixed with many foreign elements that diminish its purity. Only through repeated distillations, each removing more impurities, does it approach complete refinement. In the same way, the body may be compared to the vessel through which the soul passes in order to be purified. The coarser elements surrounding the spirit are gradually shed, and as purification advances, the spirit approaches perfection ever more closely.
+There is a material image of the various degrees of the soul’s purification in the juice of the vine. It contains the liquor called spirits or alcohol, but it is weakened by the large quantity of foreign elements that alter its essence. It reaches absolute purity only after several distillations, each removing a portion of the impurities. The alembic represents the body into which the soul must enter to purify itself; the foreign elements are like the perispirit, which is more and more purified as the spirit approaches perfection.
 
 ## The Fate of Children After Death
 
-A child’s death does not determine the spirit’s true degree of advancement.
+The spirit of a child who dies very young is sometimes much more advanced than that of an adult, because the child may have had more existences and may therefore have acquired more experience, especially if it has progressed. The spirit of a child can very frequently be more evolved than that of its parent.
 
-A spirit incarnated in a young child may be as advanced as an adult spirit, and sometimes more advanced. It may already have lived many previous existences and gained greater experience, especially if it has made real moral progress. For that reason, a child’s spirit may be more evolved than that of its parents. This is not exceptional.
+The spirit of a child who dies very young without having done any evil does not, for that reason, belong to the higher degrees. If such a child has done nothing evil, it has also done nothing good. God does not relieve such a spirit of the trials it must undergo. If it is pure, it is not because it was a child, but because it was already advanced.
 
-Outward age does not measure inward development. The body may be at the beginning of life while the spirit inhabiting it is already far along in its journey.
+Life is so often cut short in childhood because the length of a child’s life can be, for its spirit, the remainder of a former life that had been cut short before its due term. Moreover, the death of a child is often a trial or an expiation for the parents.
 
-### A Child Who Dies Young
+The spirit of a child who dies very young begins a new existence.
 
-A child who dies before having done evil does not automatically belong to the higher degrees.
+If humans had only one life to live, and if afterward their fate were sealed for all eternity, half the human species, who die very young, would enjoy eternal bliss without having lived a full life of effort, and they would be exempt from the often painful conditions imposed on the other half. Such an order of things could not accord with the justice of God. Through reincarnation, absolute justice is the same for all. The future belongs to all, without exception and without favoritism, and those who arrive last will have only themselves to blame. Individuals must have the merit of their actions, for which they are justly responsible.
 
-To have done no wrong is not the same as having attained purity. If such a child has done nothing evil, it has also, in that brief life, done nothing good by which progress might be earned. God does not exempt any spirit from the trials necessary for its development. If the spirit is pure, that purity does not come from childhood itself, but from advancement achieved before that incarnation.
-
-Childhood, then, is not in itself a sign of innocence in the absolute sense, nor is early death a guarantee of spiritual elevation. The true condition of the spirit depends on what it already is, not merely on the shortness of the life it has just left.
-
-### Why Childhood Life Is Sometimes Short
-
-A life cut short in childhood may complete the remainder of an earlier existence that had itself been interrupted before its proper term. In such a case, the brief incarnation forms part of a larger continuity in the spirit’s history.
-
-The death of a child may also serve as a trial or an expiation for the parents. Sorrow, separation, and loss can become occasions of moral testing, responsibility, and inner transformation.
-
-As for the spirit of a child who dies very young, it enters a new existence. Its development is not ended; its path continues.
-
-### Reincarnation and Divine Justice
-
-Without successive lives, the fate of children who die young would raise a serious problem of justice.
-
-If human beings lived only once, and their eternal condition were fixed immediately afterward, then countless children who died before effort, struggle, and moral choice had unfolded would receive final blessedness without having shared the labor imposed on others. Meanwhile, those who lived longer would bear the burden of hardship, temptation, and responsibility under conditions not equally applied to all.
-
-Such inequality would be incompatible with divine justice.
-
-Reincarnation restores that justice by making the future open to all without exception or favoritism. No one is arbitrarily privileged, and no one is excluded. Each spirit advances through its own efforts and answers for its own actions. If some arrive later than others, the delay belongs to their own slower progress, not to partiality in the divine order.
-
-Merit must belong to the individual. Progress must be earned. Responsibility must follow action.
-
-### Childhood and the Persistence of Past Tendencies
-
-It is unreasonable to regard childhood as a state of complete innocence simply because education has not yet had time to shape character.
-
-Children can display strikingly different instincts from their earliest years, even when raised under the same conditions and surrounded by good examples. Some show generosity, gentleness, and openness. Others appear cunning, deceitful, treacherous, or drawn toward theft and violence long before education could have produced such tendencies.
-
-Human law may excuse their harmful acts on the grounds that they act without full discernment, moved more by instinct than deliberate intention. But the instincts themselves still require an explanation.
-
-Why do children of the same age, living in similar circumstances, differ so deeply in their moral tendencies? Why does serious waywardness appear so early in some and not in others? If education has not yet formed it, the cause must lie in the spirit.
-
-These precocious tendencies reflect the degree of advancement or imperfection already carried by the spirit from former lives. A spirit that remains deeply flawed brings those imperfections with it into a new incarnation. The child must therefore bear the consequences, not of acts committed during that present childhood alone, but of what was done and developed in previous existences.
-
-In this way, the same law applies to all, and divine justice extends equally to everyone.
+Moreover, it is unreasonable to consider childhood a state of innocence. Children are seen endowed with the worst instincts at an age at which education could not yet have exerted its influence. Some seem to be born cunning, deceitful, and treacherous, and even harbor instincts for theft and murder, in spite of the good examples surrounding them. Criminal law absolves them when they commit misdeeds by considering them to have acted without discernment, driven more by instinct than deliberate intent. Such instincts, which differ so widely among children of the same age, reared under the same conditions and subject to the same influences, come from the imperfect nature of the spirit, since education has nothing to do with it. Those who are truly wicked have progressed less and must therefore suffer the consequences, not of their acts during their present childhood, but of their previous lives. Thus, the law is the same for all, and the justice of God extends to all.
 
 ## Gender in Spirits
 
-Spirits are not male or female in the way embodied beings are.
+Spirits are not male and female as you understand it, because sex depends on organic composition. Love and sympathy exist among spirits, but they are based on affinity of sentiment.
 
-Sex belongs to bodily organization. It depends on the structure of the physical body, not on the essential nature of the spirit. Once free from material conditions, spirits are not divided by sex as human beings are.
+A spirit who has animated the body of a man can animate the body of a woman in a new existence, and vice versa, since the same spirit can animate both male and female bodies.
 
-This does not mean that all affection disappears. Love and sympathy remain, but they arise from harmony of feeling, character, and moral affinity rather than from sexual distinction.
+When we are spirits, it matters little whether we will incarnate in a male or a female body; it depends on the trials we must undergo.
 
-A spirit that has lived in the body of a man can later incarnate in the body of a woman, and the reverse is equally possible. The same spirit may animate either a male or a female body in different earthly lives.
-
-For the spirit itself, this difference is of little importance. Whether one incarnates as a man or a woman depends chiefly on the kind of trials, duties, and experiences needed for growth.
-
-Because spirits are sexless in their essence, they can pass through both forms of human existence. This serves a purpose in their development. Each sex brings its own responsibilities, limitations, relationships, and opportunities for learning. Progress requires experience in many conditions of life.
-
-A spirit that always incarnated as a man would know only the experiences proper to men. To advance more completely, it must also be able to know the conditions of womanhood. In this way, the spirit gradually acquires a broader and more balanced understanding through the variety of its incarnations.
+Because they are sexless, spirits can incarnate as either men or women. Since they must progress in every way, each sex, like each social position, offers special trials, duties, and new opportunities to acquire experience. One who always incarnated as a man would know only what men know.
 
 ## Kinship and Affiliation
 
-Parents do not transmit a portion of their soul to their children. They give only animal life, and a new soul later joins that life to bring moral being. The soul is indivisible. For that reason, unintelligent parents may have intelligent children, and the reverse is also true.
+Parents transmit only animal life to their children, since the soul is indivisible. Foolish parents may have intelligent children, and vice versa.
 
-Across many existences, kinship does not begin and end within a single earthly life. The succession of bodily lives creates bonds among spirits that reach back into former existences. Because of this, feelings of affinity may arise between people who seem to be strangers. What appears to be a new attachment may be the continuation of an older connection.
+Since we have had many existences, kinship reaches back to previous ones. It could not be otherwise. The succession of corporeal lives establishes ties among spirits dating from former existences. This often gives rise to the affinity between you and certain spirits whom you might think are strangers.
 
-Reincarnation does not destroy family ties. It extends them. If kinships may rest on former affections, then the bonds uniting members of the same family are less fragile than they appear. Family is not limited to one generation of bodies. It can express a longer history of relationships among spirits.
+According to some, the doctrine of reincarnation appears to destroy family ties by carrying them back to previous lives. Instead of destroying them, it extends them. Since kinships may be based on previous affections, the ties that unite members of the same family are less precarious. Moreover, reincarnation broadens the duties of fraternity because your neighbor or your servant may be a spirit who was formerly related to you by blood.
 
-This wider view also enlarges the duties of fraternity. A neighbor or a servant may be a spirit who was once joined by blood in another life. Human relationships therefore deserve more respect, not less, because outward position does not reveal the true history of souls.
+It does, however, diminish the importance some attach to familial affiliation, because one’s father may be a spirit who had previously belonged to a different race or occupied a very different social position. That is true, but such importance is founded on pride. What most people honor in their ancestors are title, class, and fortune. They would blush at having had an honest shoemaker for a grandfather, but boast if they had descended from a debauchee of noble birth. No matter what people say or do, they will not prevent things from being what they are, for God does not regulate the laws of nature according to their vanity.
 
-What it does weaken is the exaggerated importance some people attach to lineage. A father may be a spirit who once belonged to another race or held a very different social condition. Pride resists this idea because people often honor in their ancestors not virtue, but title, class, or fortune. Many would feel ashamed to descend from an honest shoemaker, yet boast of descent from a corrupt nobleman. Such judgments do not change reality. The laws governing life are not arranged to satisfy human vanity.
-
-Even if there is no direct spiritual descent among the members of a family line, honoring one’s ancestors is not foolish. There is good reason to be glad to belong to a family in which more advanced spirits have incarnated. Spirits do not proceed from one another, yet they may still feel affection for those linked to them by family ties. They are often drawn to a particular family through affinity or previous bonds.
-
-Respect for ancestors, however, has value only when it rises above pride. Spirits are not honored by empty family vanity. Their merits do not pass to descendants as an inheritance. Those merits benefit the living only when they try to follow the moral example left to them. In that way, remembrance becomes more than pleasant sentiment. It becomes useful both to those who remember and to those whose memory they keep.
+Since there may be no actual affiliation among the spirits of a particular family’s descendants, it would not be foolish for family members to honor their ancestors, because they should feel happy to belong to a family in which more highly evolved spirits have incarnated. Although spirits do not proceed from one another, they have no less affection for those who are linked to them by family ties, for they are often attracted to this or that family because of affinities or previous connections. You may be very sure that the spirits of your ancestors do not feel honored by respect rendered out of pride. Their merits do not benefit you except insofar as you strive to follow their moral example. Only in that way can your memories be not only pleasant but also useful to them.
 
 ## Physical and Moral Likeness
 
-Parents almost always pass physical traits to their children, because the body proceeds from the body. Moral likeness is different.
+Parents almost always transmit a physical likeness to their children, but they do not transmit a moral likeness, because their souls or spirits are different. The body proceeds from the body, but the spirit does not proceed from the spirit. There is no other link than blood kinship among descendants.
 
-The spirit of a child does not proceed from the spirit of the parents. Souls are distinct. Between ancestors and descendants, bodily generation creates blood kinship, but it does not create identity of spirit.
+The moral likeness that sometimes exists between parents and children comes from sympathetic spirits, attracted by similarity of inclination.
 
-When a moral resemblance appears between parents and children, it comes from affinity rather than transmission. Sympathetic spirits are drawn to one another by similarity of inclination. A child may therefore resemble the parents in character, not because the parents have produced that soul, but because a spirit with related tendencies has been attracted into that family.
+The spirits of the parents exert a very great influence on their children after birth because, as has already been said, spirits should aid one another’s progress. The spirits of the parents have the mission of developing their children through education. This is their task; if they fail in it, they are at fault.
 
-After birth, however, the influence of parents on their children is very great. Spirits are meant to help one another progress, and parents are entrusted with the task of developing their children through education. This responsibility is a true mission. To neglect it is a moral failure.
+Good and virtuous parents sometimes have wicked children because wicked spirits may ask for good parents in the hope that their counsels will guide them along a better path. God often grants their wish.
 
-This also explains why good and virtuous parents sometimes have wicked children. The goodness of the parents does not always attract a good spirit as their child. An imperfect spirit may seek good parents precisely in the hope that their counsel will guide it toward a better path, and that wish may be granted.
+Through their thoughts and prayers, parents cannot attract a good spirit instead of an imperfect one to indwell the body of their child. They can, however, improve the spirit of the child to whom they have given birth and who has been entrusted to them; it is their duty. Ill-natured children are a trial for their parents.
 
-Parents cannot, by thought or prayer alone, choose which spirit will incarnate in the body of their child. What they can do is help improve the spirit entrusted to them. That duty remains, whatever the child’s natural disposition. A difficult child may be a trial for the parents.
+The likeness of character that so often exists among siblings, especially between twins, comes from their being sympathetic spirits who are attracted by similar sentiments and who are happy to be together.
 
-A similar principle helps explain the likeness of character often seen among siblings, and especially among twins. They may be sympathetic spirits, attracted by similar feelings and happy to be together.
+In children whose bodies were born joined and who have some of their organs in common, there are two spirits, that is, two souls, but their resemblance often makes them seem as though there were only one.
 
-In the case of children born physically joined and sharing some organs, there are still two spirits, two souls. Their resemblance may be so close that they seem like one, but they remain distinct beings.
+## The Plurality of Existences
 
-### The Plurality of Existences
+If spirits incarnate as twins out of sympathy, the aversion that may sometimes be noted between them does not disprove this, because it is not a rule that twins must be sympathetic spirits. Evil spirits may desire to struggle together on the stage of life.
 
-Twins are not always sympathetic spirits. Sometimes aversion appears between them. This does not contradict their simultaneous birth. Evil spirits too may come together into the same circumstances of life, even to struggle against one another.
+Stories of children fighting in their mother’s womb are a figure of speech. To portray hatred as ingrained, it is figuratively set before birth. Humans usually do not make sufficient allowance for images that are intended to be merely poetic.
 
-Stories of children fighting in the womb should be understood as figurative. Such images express deep-seated hatred by placing it symbolically before birth. Poetry and metaphor are often mistaken for literal description.
+The distinctive character observed in each culture comes from the fact that, like humans, spirits also form families through similarity in tendencies. The purity of such tendencies depends on how evolved the spirits are. Additionally, cultures are large families where sympathetic spirits congregate, and the tendency that leads members of these families to gather is the source of the individual likenesses that exist within the distinctive character of each culture. Good and humane spirits would not seek to live among unrefined and cruel people. Spirits are attracted to like-minded cultures, just as they are attracted to like-minded individuals. They look for their own group.
 
-The distinctive character of a people or culture also has a spiritual dimension. Spirits, like human beings, form families through likeness of tendencies. The degree of purity in those tendencies depends on their level of advancement.
+In their new lives, individuals may retain traces of their moral character from former ones. However, as spirits evolve, they change, and their social position may change as well. If a master becomes a slave, his tastes will be very different and it will be difficult to recognize him. Since a spirit is the same spirit in its various incarnations, its manifestations can have certain likenesses from one incarnation to another. However, these are modified by the customs of its new position until notable improvement has completely changed its character. Thus, one who was proud and cruel can become humble and humane if it has repented.
 
-A culture can be understood as a large family in which sympathetic spirits gather. The tendency that draws them together produces the shared features of national or cultural character. Spirits are drawn toward environments that suit them, just as they are drawn toward like-minded individuals. More refined and humane spirits do not naturally seek out cruel and degraded surroundings; they gravitate toward their own moral atmosphere.
+During their different incarnations, individuals do not retain vestiges of their physical character from previous lives. The body is destroyed, and the new one has no connection with the old. Nevertheless, the spirit is reflected in the body. Although the body is only matter, it is molded by the spirit’s qualities, which impress it with a certain character, mainly visible in the face. For this reason, the eyes have rightly been described as the mirror of the soul, meaning that the face most particularly reflects the soul. Thus, individuals who are extremely unattractive physically can nevertheless project something pleasant if they are good, thoughtful, and humane spirits. On the other hand, there are very attractive faces that awaken nothing and may even seem repulsive. One cannot believe that only perfect bodies house high-order spirits, when every day morally upright individuals with deformed bodies are encountered. Although there may be no pronounced physical likeness, a similarity of tastes and tendencies can still pass on what is called an air of familiarity.
 
-### Continuity of Character Across Lives
-
-In a new life, a person may retain traces of moral character from former existences. Since the same spirit continues through its successive incarnations, certain tendencies can reappear. Yet these traces are never fixed or unchangeable.
-
-As spirits evolve, they change. Their social position may also change, and with it their outward habits and tastes. A spirit that once occupied a position of power may return in a condition of dependence, and its manner of expressing itself may be very different. For that reason, old traits may be difficult to recognize.
-
-What continues from one life to another is modified by the conditions of the new existence. Over time, significant moral improvement can transform character deeply. One who was once proud and cruel may become humble and humane through repentance and progress.
-
-### Vestiges of Physical Character
-
-No direct physical body passes from one incarnation to another. The old body is destroyed, and the new one has no necessary relation to it. It may come from an entirely different lineage.
-
-Even so, the spirit leaves its mark on the body it inhabits. Though the body is material, it is shaped as an instrument of expression by the qualities of the spirit. This influence is seen especially in the face.
-
-For that reason, the eyes have often been called the mirror of the soul, and the face most particularly reflects the inner being. A person who is physically unattractive may still convey something deeply pleasing if the spirit within is good, thoughtful, and humane. On the other hand, a beautiful face may awaken no sympathy, and may even repel, when it expresses a lower moral nature.
-
-A high spirit does not always inhabit a perfect body, nor does bodily deformity imply moral inferiority. Everyday life offers many examples of upright and admirable individuals in imperfect physical forms.
-
-There may therefore be no exact physical resemblance from one life to another. Still, similarities of taste, bearing, and tendency can remain, producing what is often felt as an air of familiarity.
-
-It would be unreasonable to try to identify a succession of lives by outward resemblance alone, since such resemblance may be accidental. Yet the spirit’s qualities almost always modify the organs through which it manifests itself, giving a distinctive stamp to the face and even to the general manner.
-
-Within the humblest exterior, one may find expressions of nobility and greatness of soul. Beneath the appearance of wealth and refinement, one may find vulgarity and dishonor.
-
-This helps explain why some people, though born in the lowest conditions, seem to acquire the habits and ease of higher society almost effortlessly, as though they had returned to their natural element. Others, despite birth and education, always appear ill at ease in such surroundings. The most natural explanation is that their present manner reflects what the spirit had become in former lives.
+The body that clothes a soul in a new incarnation does not necessarily have any relation to the previous one, since it can proceed from a very different origin. It would therefore be absurd to conclude that a succession of lives is connected by a likeness that is strictly fortuitous. Nevertheless, a spirit’s qualities almost always modify the organs that serve for its manifestation, impressing a distinctive stamp on the face and even on the general manner. Thus, inside the humblest envelope one might find expressions of greatness and nobility of spirit, while under the garment of a wealthy person one can often find vulgarity and dishonor. Some persons who have risen from the lowest positions acquire the habits and manners of high society with hardly any effort; they seem to have returned to their rightful element. Others, in spite of their birth and education, always feel out of place there. This fact can be explained only as a reflection of what the spirit was in former lives.
 
 ## Innate Ideas
 
-An incarnate spirit retains a vague memory of what it perceived and learned in previous lives. That lingering remembrance gives rise to what are called innate ideas.
+An incarnate spirit preserves a trace of the perceptions it had and the knowledge it acquired in previous lives. A vague memory remains, giving the incarnate spirit what are called innate ideas.
 
-Knowledge acquired in one existence is not lost. When free from matter, the spirit recalls what it has learned. During incarnation, that knowledge may be partially and temporarily veiled, but an intuitive residue remains, and this intuition helps the spirit move forward. Without it, each new life would require beginning again from the very start. Instead, every new existence resumes from the point reached in the previous one.
+The theory of innate ideas is not a myth, because the knowledge acquired in each existence is not lost. When a spirit is free of matter, it always recalls such knowledge. While incarnate, it may forget it partially and temporarily, but the intuition that remains helps it advance. Without it, it would always have to start over. Instead, with each new existence the spirit starts from the point at which it finished the preceding one.
 
-The connection between two successive lives is real, but it is not always as close or obvious as it may seem. The conditions of one life may differ greatly from those of another, and the spirit may also have progressed in the interval between them.
+The connection between two successive existences is not always as close as one might think, because the conditions of the two lives are often very different; also, the spirit may have progressed in the interval between them.
 
-### Extraordinary Aptitudes
+The origin of the extraordinary abilities of those who, without any previous learning, seem to have an intuition for certain areas of knowledge such as languages, mathematics, and so on, is a memory of the past and the soul’s previous progress, of which it now has no awareness. Bodies change, but the spirit does not; it merely changes its garment.
 
-Certain people display remarkable abilities in fields they have never studied, such as languages, mathematics, or other forms of knowledge. Such aptitudes arise from a memory of the past and from progress already achieved by the soul, even though the person is not consciously aware of it.
+In changing bodies, spirits can lose certain intellectual faculties if they dishonored that faculty or made bad use of it. Moreover, a faculty may remain dormant throughout an entire existence because the spirit wishes to exercise an unrelated one. In that case, it remains latent but reappears later.
 
-The body changes, but the spirit remains the same. It does not become another being; it simply takes on a new garment. What appears in one life as spontaneous talent is often the reemergence of capacities developed earlier.
+The instinctive sense of the existence of God and the presentiment of future life are due to a retrospective memory that humans have even in the primitive state. They retain a memory of what they knew as spirits before incarnating, but pride often stifles this sentiment.
 
-### Latent and Lost Faculties
-
-In passing from one body to another, a spirit can lose the active use of certain intellectual faculties. A taste for the arts, for example, may disappear for a time.
-
-This can happen when a faculty was dishonored or misused. It can also happen because the spirit has chosen, for a particular existence, to exercise another capacity instead. In such cases, the neglected faculty is not destroyed. It remains dormant throughout that life and may reappear later.
-
-### The Memory Behind Spiritual Intuition
-
-The instinctive sense of God’s existence and the presentiment of a future life come from a retained memory of what the spirit knew before incarnation. Even in a primitive state, this inward awareness persists. Yet pride often stifles it.
-
-The same underlying memory also helps explain why beliefs related to spiritual life appear among all peoples. Such ideas are ancient and widespread because they answer to something already known inwardly. The incarnate spirit preserves an intuitive awareness of its spiritual condition and of the invisible world.
-
-That awareness, however, is often altered by prejudice. Ignorance also gives rise to superstition, which distorts what intuition originally perceived more clearly. Even so, beneath these deformations, the inner memory remains a witness to the spirit’s prior knowledge.
+Certain beliefs related to Spiritist doctrine and found in all cultures are owed to that same memory. This doctrine is as old as the world. That is why it is found everywhere, which is proof of its truth. Since it preserves an intuition of its spirit state, the incarnate spirit possesses an instinctive awareness of the invisible world. This awareness, however, is frequently distorted by prejudice, as well as by superstitions arising from ignorance.

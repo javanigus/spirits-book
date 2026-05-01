@@ -5,196 +5,102 @@ sidebar_label: 2.11 Matter, Life, and Spirit
 
 ## Minerals and Plants
 
-Nature may be divided in different ways, and each division is valid from its own point of view.
+The division of nature into three kingdoms, or into two classes—organic beings and inorganic beings—is equally valid. Some also regard the human species as a fourth kingdom. It depends on one’s point of view: from a material point of view, there are only inorganic and organic beings. From the moral point of view, however, there are clearly four degrees.
 
-From the material point of view, there are two great classes: organic beings and inorganic beings. From the moral point of view, four degrees may be distinguished.
+These four degrees have well-marked characteristics, although their boundaries seem to blend into one another. Inert matter, which comprises the mineral kingdom, possesses only mechanical energy. Plants, although composed of inert matter, are endowed with vitality. Animals, composed of inert matter and endowed with vitality, also possess a kind of instinctive, limited intelligence, together with an awareness of their existence and individuality. Lastly, human beings possess everything found in plants and animals, and they dominate all the other classes through a special and unlimited intelligence that gives them awareness of their future, perception of extra-material things, and knowledge of God.
 
-These degrees are clearly marked, even though their boundaries seem to blend into one another.
+Plants do not have any awareness of their existence. They do not think; they have only organic life.
 
-Mineral matter is inert and possesses only mechanical force. Plants are formed from inert matter but are endowed with vitality. Animals, also formed from inert matter and possessing vitality, have in addition a kind of instinctive and limited intelligence, along with an awareness of their existence and individuality. Human beings possess all that exists in plants and animals, yet rise above the other degrees through a special and unlimited intelligence. This higher intelligence gives them awareness of the future, perception of what is beyond matter, and knowledge of God.
+Plants receive the physical impressions that act upon matter, but they do not have perceptions; consequently, they do not feel the sensation of pain.
 
-### Plants and Consciousness
+The force that attracts plants toward each other is independent of their will, because they do not think. It is a mechanical force of matter acting upon matter; they cannot oppose it.
 
-Plants do not have awareness of their existence. They do not think; they possess only organic life.
+Some plants—the mimosa and the dionaea, for example—show movements that indicate great sensitivity and, in some cases, a kind of will, like the latter, whose lobes seize the fly that lands on it in order to suck its juices, seeming to have set a trap to kill it. Everything in nature is transitional, in the sense that no one thing resembles another, and yet everything is linked together. Plants do not think and therefore have no will. The oyster, which opens itself, and all other zoophytes do not possess thought. They have only a blind and natural instinct.
 
-They receive physical impressions that act upon matter, but they do not perceive those impressions consciously. For that reason, they do not experience pain when mutilated.
+The human organism furnishes examples of analogous movements that do not involve any participation of the will, such as the digestive and circulatory functions. The pylorus closes itself on contact with certain substances to refuse them passage. The same applies to the mimosa, whose movements do not imply any perception at all, much less a will.
 
-The movements seen in plants are not produced by thought or will. When plants are drawn toward one another, the force involved is independent of any choice on their part. It is a mechanical action of matter upon matter, and they cannot resist it.
+In plants, as in animals, there is, if one wishes, a kind of instinct for self-preservation that leads them to seek what may be useful to them and to avoid what may harm them. This depends on the extent attributed to the word, but it is purely mechanical. When two bodies combine during a chemical reaction, it is because they harmonize with each other—that is, there is an affinity between them—but this is not called instinct.
 
-### Apparent Sensitivity in Certain Plants
-
-Some plants seem to display remarkable sensitivity. The mimosa folds in response to contact, and the dionea closes upon an insect in a way that can look intentional, almost as if it had laid a trap. Yet such movements do not imply thought or will.
-
-All of nature is connected through continuous transitions. One being does not exactly resemble another, yet all are linked. Even so, plants do not think and therefore do not will.
-
-Similar appearances are found in living organisms without any participation of conscious intention. In the human body, digestion and circulation proceed without an act of will. The pylorus closes itself in the presence of certain substances and refuses them passage. In the same way, the movements of the mimosa do not prove perception, much less deliberate choice.
-
-Even creatures such as the oyster and other simple life forms do not possess thought. What they display is only a blind and natural instinct.
-
-### Self-Preservation in Plants
-
-Plants may seem to seek what benefits them and avoid what harms them. If the word instinct is used here, it must be understood in a very limited sense.
-
-What appears in plants is purely mechanical. It resembles the affinity by which two substances combine in a chemical reaction because they are suited to one another. Such harmony does not imply conscious instinct in the proper sense.
-
-### Plants on More Advanced Worlds
-
-On more highly evolved worlds, plants are more perfect, just as other beings there are more perfect as well.
-
-Yet each kingdom remains itself. Plants are always plants, animals always animals, and human beings always human beings.
+On more highly evolved worlds, everything is more perfect, but plants are always plants, just as animals are always animals, and human beings are always human beings.
 
 ## Animals and Human Beings
 
-Human beings and animals share important points of contact, yet they are not the same order of being.
+If human beings are compared with animals in relation to intelligence, it seems difficult to establish a line of demarcation, because certain animals on this earth have an obvious superiority over certain humans. A precise line of demarcation cannot be established in that way. Philosophers are far from agreement on this subject. Some would make humans into animals, and others would make animals into humans. Both are mistaken. Humans are beings apart, who sometimes sink very low and who may sometimes rise very high. In their physical nature, humans are like animals, and less well endowed than many of them. Nature has given animals everything that humans are obliged to invent with their intelligence in order to provide for their needs and self-preservation. Their body is destroyed like that of animals; that is certain. But their spirit has a destiny that they alone can comprehend, because they alone are completely free. Poor human beings, who debase yourselves more than wild animals—recognize your humanity through your ability to think about God.
 
-In bodily life, humans resemble animals and are, in many respects, less naturally equipped than they are. Animals are often given by nature what human beings must discover, invent, and build through intelligence in order to survive and meet their needs. The human body perishes as the animal body does. But the human spirit has a destiny that human beings alone can fully understand, because they alone possess complete moral freedom.
+It is only a theory to say that animals act solely through instinct. It is quite true that instinct dominates most animals, but some act from a determined will because they possess limited intelligence.
 
-The clearest distinction is not physical strength, skill, or even practical cleverness. Some animals surpass some humans in such things. What sets the human being apart is the capacity to rise beyond material life, to become conscious of God, to discern good and evil, and to direct life toward a moral end.
+Certain animals perform complex actions that indicate the will to act in a determined way beyond instinct and according to circumstances. Therefore, there is in them a kind of intelligence, but in exercising it they apply it chiefly to the means of satisfying their physical needs and ensuring their self-preservation. Among them there is no creation and no improvement. However admirable the skill shown in their labors, what they did yesterday is the same as what they do today, neither better nor worse, according to constant and unvarying forms and proportions. Offspring separated from their species do not fail to build their nest according to the same model without having been taught. If some animals are capable of a certain amount of learning, such intellectual development is always restricted within narrow limits and is due to human action upon a flexible nature. They cannot make progress by themselves, and when they do make progress, it is ephemeral and purely individual, because, if left to themselves, they quickly return to the limits traced out for them by nature.
 
-A person may sink very low, even below the conduct of wild animals, or rise very high. That possibility itself reveals a nature distinct from animal life.
+Animals do not have a language formed of words and syllables, but they do have a way of communicating among themselves. They say much more than might be supposed, but their language is limited to their needs, just as their thoughts are.
 
-### Instinct and Intelligence in Animals
+Animals that possess no voice are not deprived of language. They understand one another by other means. Human beings use more than speech to communicate with one another, and those who are mute do as well. Since animals are endowed with a life of relationships, they have means of warning one another and of expressing the sensations they experience. Fish also understand one another. Human beings do not have the exclusive privilege of language, but the language of animals is instinctive and limited exclusively to the circle of their needs and thoughts, whereas that of humans is perfectible and lends itself to all the conceptions of their intelligence.
 
-Animals are not governed by instinct alone in an absolute sense. Instinct predominates in them, but some also act with a limited form of will and intelligence. Their actions can show adaptation to circumstances and a determined pursuit of an end.
+Fish, like swallows that migrate in groups under a common lead, must have means of warning and understanding one another and of grouping together. Perhaps they do so among themselves, or perhaps the water serves as a vehicle that transmits certain vibrations to them. Whatever the case, it is undeniable that they have means of understanding one another, just as all animals deprived of voice perform activities in common. In light of this, it should not be surprising that spirits can communicate with one another without recourse to articulated speech.
 
-Still, animal intelligence remains closely tied to material life. It is directed toward physical needs, self-preservation, and the conditions of bodily existence. However admirable their industry may appear, animals do not produce the kind of cumulative improvement found in humanity. What they did yesterday, they do today in the same forms and proportions. Their works follow stable patterns. Even when separated from others of their species, offspring reproduce the same structures and behaviors without instruction.
+Animals are not simple machines, but their freedom of action is limited to their needs and cannot be compared to human freedom. Since they are far less evolved than human beings, they do not have the same duties. Their freedom is restricted to the actions of their material life.
 
-Certain animals can be trained and can acquire new habits. Yet this development remains narrow, dependent on human influence, and purely individual. Left to themselves, they quickly return to the limits fixed by their nature. They do not transform their condition by free and self-directed progress in the way human beings can.
+The aptitude of certain animals to imitate human language comes from the particular conformation of their vocal organs, aided by the instinct of imitation. Apes imitate gestures; certain birds imitate the voice.
 
-### Animal Language
+Since animals possess an intelligence that gives them a certain freedom of action, there is in them a principle independent of matter, and it survives the body.
 
-Animals do possess means of communication.
+This principle may be called a soul, depending on the meaning attached to the word. It is much less evolved than that of human beings, however. Between the souls of animals and human beings there is as great a difference as there is between the human soul and God.
 
-If language is taken to mean articulated speech formed by words and syllables, animals do not have it. But if language means any system by which living beings communicate sensations, warnings, intentions, and needs, then animals certainly do. In this respect, they communicate far more than people often suppose.
+The animal’s soul retains its individuality after death, but not its self-awareness. Its intelligent life remains in a latent state.
 
-Their language is proportioned to their thoughts. Because their thoughts are limited to their needs and conditions of life, their communication is also limited. Human language, by contrast, is perfectible. It can expand with intelligence and become the vehicle of the most varied conceptions.
+An animal soul cannot choose the species in which it prefers to incarnate, because it does not possess free will.
 
-Even animals without voice are not deprived of communication. They understand one another by other means. Collective migration, coordinated movement, and shared activity all point to some mode of mutual warning and understanding. Fish, birds, and other animals that act together plainly possess ways of communicating suited to their nature.
+Since the animal’s soul survives its body, it remains in a kind of errant state because it is no longer united to a body, but it is not an errant spirit. The errant spirit is a being who thinks and acts of its own free will. Animal spirits do not have the same faculty. Self-awareness is the principal attribute of the human spirit. After death, an animal’s soul is classified by the spirits charged with doing so and is utilized almost immediately. It is not given time to enter into relations with other creatures.
 
-### Freedom of Action in Animals
+Animals follow a law of progress as humans do. That is why, on higher worlds where human beings are more advanced, animals are also more advanced and possess more developed means of communication. However, they are always lower than human beings and subject to them; they are their intelligent servants.
 
-Animals are not mere machines.
+There is nothing extraordinary about this. If more intelligent animals, such as the dog, the elephant, and the horse, were endowed with a physical conformation appropriate for manual labor, what might they not do under human direction?
 
-They possess a certain freedom of action, but it is restricted. Their freedom is limited to the needs and acts of material life. It cannot be compared with human freedom, because they are less advanced and do not bear the same responsibilities.
+Animals progress not by their own will, as human beings do, but by necessity. That is why there is no expiation for them.
 
-Some animals imitate human speech, especially certain birds. This ability comes from the special conformation of their vocal organs, together with an instinct for imitation. In other species, imitation expresses itself differently. Apes, for example, imitate gestures more readily than voice.
+On highly evolved worlds, animals do not know about God. Human beings are gods to them, just as spirits once were gods to humans.
 
-### The Soul of Animals
+Since animals—even the perfected ones of higher worlds—are always beneath humans, this does not mean that God created intelligent beings perpetually condemned to inferiority. Everything in nature is linked together by ties that cannot yet be perceived, and the things that appear most disparate have points of contact that human beings, in their present state, can never fully comprehend. They may glimpse them through an effort of intelligence, but only when that intelligence has reached its full development and freed itself from the prejudices of pride and ignorance will they be able to see clearly into the works of God. Until then, their limited ideas lead them to view everything from a narrow and restricted point of view. God cannot be self-contradictory, and everything in nature is harmonized through general laws that never depart from the sublime wisdom of the Creator.
 
-Animals possess a principle independent of matter, and this principle survives the death of the body.
+Intelligence is a common property, a point of contact between the souls of animals and those of human beings. But animals have only the intelligence of material life; in human beings, intelligence produces moral life.
 
-It may be called a soul, provided the word is understood in a broad sense. Yet the animal soul is much less developed than the human soul. The distance between them is immense. Animal life contains intelligence, but not the fully awakened self-awareness that belongs to the human spirit.
+Human beings do not possess two souls. The body has its instincts, which result from the sensations of its organs. In human beings there is only a dual nature: the animal nature and the spiritual nature. Through the body and its instincts, they participate in the nature and instincts of animals. Through the soul, they participate in the nature of spirits.
 
-After death, the animal soul retains its individuality, but not conscious awareness of itself. Its intelligent life enters a latent condition. It does not choose the species in which it will incarnate, because it does not possess free will in that sense.
+Besides freeing itself from its own imperfections, the spirit must also struggle against the influence of matter. The less evolved it is, the tighter the bonds between spirit and matter. Human beings do not have two souls; the soul is always one in each individual. The soul of animals and that of humans are so very different that the soul of one cannot animate the body created for the other. But although humans do not possess an animal soul, whose passions would place them on the level of the animals, they nonetheless have an animal body, which often drags them down to that level—a body endowed with vitality but unintelligent, and possessed only of the limited instincts required for self-preservation.
 
-Nor does it remain in an errant state like the human spirit. It is not a free, self-directing being able to think and act independently after death. It remains for a time separated from a body, but it does not enter into the same kind of spiritual existence as a human soul. It is soon directed and assigned by higher intelligences, without the interval of free relational life that belongs to human spirits.
+When a spirit incarnates in a human body, it transmits to it the intellectual and moral principle that places it on a higher order than the animals. The two natures in human beings give rise to two distinct sources of their passions: some spring from the instincts of nature; others from the impurities of the incarnate spirit, which sympathizes to a greater or lesser degree with the baseness of animal appetites. In purifying itself, a spirit gradually frees itself from the influence of matter. Under such influence, it approaches the animals; freed from it, it rises toward its true destiny.
 
-### The Progress of Animals
+Animals receive the intelligent principle that comprises the particular kind of soul with which they are endowed from the universal intelligent element.
 
-Animals do follow a law of progress, but not in the same way as human beings.
+The intelligence of both humans and animals emanates from a single principle, but in human beings it undergoes a development that elevates it above that of animals.
 
-On more advanced worlds, animals are themselves more advanced. Their means of communication are more developed, and their condition corresponds to the greater advancement of those worlds. Yet they remain below the human level and are subordinate to humanity.
+The human soul, at its origin, resembles the state of human infancy in corporeal life; its intelligence is only beginning to unfold, and it is preparing itself for life. The soul accomplishes this primary phase in a series of existences preceding the period called humanity.
 
-Their progress does not arise from free moral choice. It occurs by necessity, not by personal will. For that reason, there is no expiation for animals. Their development belongs to a different order from the moral trials and responsibilities of human spirits.
+Thus the soul had been the intelligent principle of the lower beings of creation. Everything in nature is linked together and tends toward unity. It is in those beings, whom humans are far from knowing completely, that the intelligent principle is developed, gradually individualized, and prepared for life. In a certain way, it is a preparatory work like germination, after which the intelligent principle undergoes a transformation and becomes a spirit. It is then that the period of humanity begins for it, and with it the consciousness of its future, the distinction between good and evil, and responsibility for its acts—just as childhood comes before adolescence, then youth, and finally adulthood. There is nothing humiliating in this origin. If anything ought to humble the greatest geniuses, it is their lowliness before God and their powerlessness to probe the depths of the divine designs and the wisdom of the laws regulating the harmony of the universe. The greatness of God is revealed in the admirable harmony that establishes the solidarity of all things in nature. To believe that God could have made anything without a purpose, or created intelligent beings without a future, would be to blaspheme God’s goodness, which extends over all creatures.
 
-Even on highly evolved worlds, animals do not know God. Humanity stands above them in a way that early peoples once imagined spirits standing above themselves.
+The period of humanity does not begin on our earth. The earth is not the starting point of a human being’s first incarnation. The human period usually begins on worlds even less evolved. This, however, is not an absolute rule, and it may happen that a spirit at the beginning of its human stage is suited to live on the earth. Such a case is uncommon and would be an exception rather than a rule.
 
-### Intelligence as a Common Principle
+After death, a human spirit has no awareness of the existences that preceded its human period, because it is only after that period that its life as a spirit began. It even has difficulty remembering its first human existences, just as human beings no longer remember the earliest days of childhood, and still less the time spent in the maternal womb. That is why spirits say that they do not know how they began.
 
-There is a bond between animal life and human life.
+Having entered the human period, a spirit may retain traces of what it had previously been—that is, of the state in which it found itself during the period that could be called non-human. That depends on the distance separating the two periods and on the progress it has accomplished. For a few generations it may preserve a more or less pronounced reflection of the primitive state, for nothing in nature occurs through an abrupt transition. There are always links connecting the ends of the chain of beings or events. However, such traces disappear with the development of free will. The first steps of progress are accomplished slowly because they are not yet aided by the will, but they proceed more rapidly as the spirit acquires a more complete consciousness of itself.
 
-In both, intelligence comes from a single universal intelligent principle. This shared origin is one of the points of contact between animals and human beings. But in animals, intelligence remains tied to material life. In human beings, intelligence gives rise to moral life.
-
-Nature is linked together in ways not yet fully understood. Things that seem most distant may be connected by hidden continuity. Nothing in creation is isolated or purposeless. The apparent inferiority of animals does not imply disorder or contradiction. All things are held together within a larger harmony governed by universal laws.
-
-### Human Nature and Animal Nature
-
-Human beings do not have two souls.
-
-The human being possesses one soul, but a dual nature. Through the body, a person shares in animal life and its instincts. Through the soul, a person shares in the nature of spirits.
-
-The instincts of the body arise from the sensations and needs of the organism. There is no separate animal soul within the human being competing with a spiritual soul. The passions that lower a person do not come from a second soul, but from the body's instincts and from the impurities of the incarnate spirit, which may still sympathize with lower appetites.
-
-The less evolved the spirit, the more tightly it is bound to matter. As the spirit purifies itself, it gradually frees itself from material influence. Under the domination of matter, it approaches the level of animality. As it rises above that influence, it advances toward its true destiny.
-
-A human body, considered in itself, is living but not intelligent. The incarnating spirit communicates to it the intellectual and moral principle that places human life above animal life.
-
-### The Origin of the Human Spirit
-
-The intelligent principle in animals comes from the universal intelligent principle. In humanity, that same principle undergoes a development that elevates it beyond the animal condition.
-
-Before the period called humanity, the intelligent principle passes through a series of existences in lower beings. There it is developed, individualized little by little, and prepared for a new mode of life. This is a work of preparation, comparable to germination. At a certain point, a transformation occurs: the intelligent principle becomes spirit.
-
-Then the human period begins.
-
-With that beginning come self-awareness, consciousness of the future, knowledge of good and evil, and responsibility for one's acts. The movement is analogous to the stages of bodily life: childhood before adolescence, adolescence before maturity. There is no abrupt break in nature. Transition is gradual, and links connect every stage.
-
-Nothing degrading lies in such an origin. Just as the mature human being once passed through the helpless stages of infancy and gestation, so the spirit passes through preparatory conditions before reaching human self-consciousness. What would truly diminish human beings is not their humble beginnings, but their pride in the face of a wisdom they do not yet comprehend.
-
-### The Beginning of Humanity
-
-Earth is not necessarily the starting point of human existence.
-
-The first human incarnations usually begin on worlds less advanced than this one, though this is not an absolute rule. In exceptional cases, a spirit newly entered into the human period may be suited to earthly life.
-
-After entering the human state, the spirit no longer remembers the existences that preceded it. Human spiritual life properly begins only from that period onward. Even the earliest human existences are often difficult to recall, just as people do not remember the earliest days of childhood, much less life in the womb.
-
-For some generations of development, a spirit may retain traces of the state that preceded its full humanity. These traces may appear as a lingering reflection of the primitive condition. But they fade as free will and self-awareness grow stronger. The first advances are slow, because they are not yet aided by developed will. Progress becomes more rapid as the spirit acquires a clearer awareness of itself.
-
-### Human Beings as Beings Apart
-
-Human beings are indeed beings apart within creation.
-
-This separateness does not mean absolute isolation from the rest of nature. On the contrary, humanity is connected to all that precedes it. But human beings are distinct because they possess faculties not found elsewhere in the same way: moral freedom, self-awareness, knowledge of good and evil, responsibility, and the capacity to know God.
-
-That destiny marks the human species as the order of embodied life chosen for the incarnation of spirits capable of conscious relation to the divine.
+Spirits who have said that humans are beings apart in the order of creation are not mistaken, but the matter has not been fully developed, and there are things that can be revealed only in their proper time. Human beings are in fact beings apart, for they have faculties that distinguish them from all others and they have another destiny. The human species is the one God has chosen for the incarnation of the beings who can know God.
 
 ## Metempsychosis
 
-The common origin of living beings in the intelligent principle does not establish the doctrine of metempsychosis in the ordinary sense.
+The common origin of living beings in the intelligent principle is not an affirmation of the doctrine of metempsychosis. Two things may have the same origin and yet later differ completely. No one would recognize the tree, its leaves, its flowers, and its fruit in the shapeless germ contained in the seed from which they came. From the moment the intelligent principle reaches the degree necessary for becoming a spirit and entering the human period, it no longer bears any relation to its primitive state. It is no longer the soul of the animal, just as the tree is no longer a seed. In humans there is only the animal-like body, the passions arising from that body’s influence, and the instincts of self-preservation inherent in matter. Therefore, one cannot say that such and such a person is the incarnation of such and such an animal. Consequently, metempsychosis, as commonly understood, is incorrect.
 
-Two things may share the same origin and yet become entirely different. A tree, its leaves, its flowers, and its fruit cannot be confused with the shapeless germ hidden in the seed from which they came. In the same way, once the intelligent principle has reached the degree necessary to become a spirit and to enter the human period, it no longer remains what it was in its primitive state. It is no longer the soul of the animal, just as the tree is no longer the seed.
+A spirit that has animated a human body cannot incarnate in an animal. That would be a regression, and a spirit does not regress. The river does not flow back to its source. See no. 118.
 
-In human beings, what remains linked to the animal condition belongs to the body: the passions arising from bodily influence and the instinct of self-preservation inherent in matter. For that reason, it cannot be said that a particular person is the reincarnation of a particular animal. Metempsychosis, understood as the direct passage of the same individual soul from animal to human, is therefore mistaken.
+However erroneous the idea linked to metempsychosis may be, it may result from the intuitive sense of an individual’s different existences. Such an intuitive sense is found in this belief, as in many others, but like most intuitive ideas, it has been distorted by human beings.
 
-A spirit that has animated a human body cannot incarnate in an animal body. Such a return would be a regression, and spirit does not regress. The river does not flow back to its source.
+Metempsychosis would be correct if one understood it to mean the progression of the soul from a lower to a higher state, accomplishing the developments that transform its nature.
 
-Yet the persistence of this belief is not meaningless. Like many widespread intuitions, it seems to preserve a fragment of truth while distorting its proper sense. If metempsychosis were understood only as the progression of the soul from a lower state to a higher one, as a development that transforms its nature, then the idea would contain something valid. What is false is the notion of direct transmigration from animal to human and from human back to animal, for that would imply either regression or fusion between beings of different orders.
+However, it is erroneous if understood as direct transmigration from the animal to the human and vice versa, which would imply the idea of regression or fusion. Since such fusion is not possible between corporeal beings of two different species, this indicates that they belong to degrees that cannot assimilate one another, and the same must apply to the spirits that animate them. If the same spirit could animate them alternately, an identity of nature would follow, and this would imply the possibility of material reproduction. On the contrary, the reincarnation taught by the Spirits is founded on the evolutionary march of nature and the progression of human beings within their own species, which in no way diminishes their dignity. What degrades them is the bad use they make of the faculties God has given them for their advancement. Be that as it may, the antiquity and universality of the doctrine of metempsychosis, and the number of eminent individuals who have professed it, prove that the principle of reincarnation has its roots in nature itself. These are arguments in its favor rather than against it.
 
-Such fusion is impossible. Corporeal beings of different species do not assimilate into one another, and the same distinction applies to the spirits that animate them. If the same spirit could alternately animate very different species, there would have to be an identity of nature between them, and that would imply a possibility of material reproduction across those species. Nature shows the contrary.
+The point of departure of a spirit is one of those questions connected with the origin of things and belonging to the secrets of God. It has not been given to human beings to know such matters completely, and regarding them they can only form suppositions, constructing more or less probable theoretical systems. Spirits themselves are far from knowing everything, and regarding what they do not know, they too may have opinions that are more or less sensible.
 
-Reincarnation rests on a different principle: the progressive movement of creation and the advancement of the human being within the human species. This does nothing to diminish human dignity. What lowers human beings is not their place in the order of nature, but the misuse of the faculties given to them for their improvement.
+Thus, all do not think alike concerning the connections between humans and animals. According to some, a spirit reaches the human period only after having been prepared and individualized in the different degrees of the lower order of beings in creation. According to others, the human spirit would always have belonged to the human race, without having passed through the animal experience. The first of these theories has the advantage of assigning an aim to the future of animals, which would thus form the first links in the chain of thinking beings. The second is more in conformity with the dignity of the human being and may be summarized as follows:
 
-The antiquity and universality of the doctrine of metempsychosis, and the number of eminent minds who have accepted it, show at least that the principle of successive lives is deeply rooted in human intuition. In that respect, the persistence of the belief supports the broader truth of reincarnation, even when the doctrine itself takes an erroneous form.
+The different species of animals do not proceed intellectually from one another by way of evolution. Thus, the spirit of the oyster does not subsequently become that of the fish, the bird, the quadruped, and finally the biped. Each species is an absolute type in itself, physically and mentally, and each individual draws from the universal source the quantity of intelligent principle it needs, according to the perfection of its organs and the work it must perform in the phenomena of nature. It then returns to the general mass at death. The worlds more advanced than ours (see no. 188) are likewise inhabited by distinct species of animals appropriate to the needs of those worlds and to the degree of advancement of the humans they serve, but these do not proceed spiritually from those of the earth. It is not the same with human beings, however. From the physical point of view, humans are obviously a link in the chain of living beings, but from the moral point of view there is a break in continuity between humans and animals. Only human beings possess a soul or spirit—a divine spark that endows them with a moral sense and an intellectual reach that animals do not possess. It is the principal being, pre-existent to and surviving the body, preserving individuality. What is the origin of the spirit? Where is its starting point? Is it formed from the individualized intelligent principle? This is a mystery that would be useless to search out, and regarding which, as has been said, only theories can be constructed.
 
-### What Can and Cannot Be Known
-
-The point of departure of the spirit belongs to the origin of things, and that remains among the secrets of God. Human beings have not been given full knowledge of such matters. At most, they may form hypotheses and build theories that are more or less probable.
-
-Spirits themselves do not know everything. On questions beyond their knowledge, they too may hold opinions that vary in soundness. For that reason, agreement does not always exist regarding the relation between the human being and the animal.
-
-According to one view, the spirit reaches the human period only after having been prepared and individualized through the different degrees of the lower orders of creation. According to another, the human spirit has always belonged to the human race and has never passed through the animal experience.
-
-The first theory offers an attractive idea: it gives animals a future as the first links in the chain of thinking beings. The second is more in harmony with the distinct dignity of the human being.
-
-### Humans and Animals
-
-The different animal species do not proceed intellectually from one another by gradual transformation. The spirit of the oyster does not become that of the fish, then the bird, then the quadruped, and finally the biped. Each species is an absolute type in itself, physically and mentally.
-
-Each individual within a species draws from the universal source the quantity of intelligent principle needed for the perfection of its organs and for the work it must accomplish in the phenomena of nature. At death, that principle returns to the general mass.
-
-The same pattern applies on worlds more advanced than Earth. Those worlds also possess distinct species of animals suited to their own conditions and to the degree of advancement of the human beings whom they serve. But these species do not proceed spiritually from those of Earth.
-
-With human beings, the matter is different. Physically, the human being is plainly one link in the chain of living creatures. Morally, there is a break in continuity between the human being and the animal. The human being alone possesses a soul or spirit, a divine spark that gives moral sense and intellectual reach beyond what animals possess. This spirit is the principal being: it exists before the body, survives the body, and preserves individuality.
-
-Its exact origin remains hidden. Whether it is formed from the individualized intelligent principle is a question that belongs to mystery. On such matters, theory is possible, certainty is not.
-
-### What Matters for Human Advancement
-
-What remains firm, and what reason and experience alike support, is the survival of the spirit, the preservation of individuality after death, the capacity for progress, and the happy or unhappy condition of each spirit according to its advancement in goodness.
-
-From these truths flow the essential moral consequences.
-
-By contrast, the obscure relations between human beings and animals belong to questions whose full explanation is not necessary for moral progress. They remain part of the hidden order of things. It is enough to know that the spirit survives, advances, and reaps the consequences of its own development.
-
-That knowledge has real value for life. Speculation about what God has chosen not yet to reveal does not.
+What is constant, and what stands out to reason and experience at the same time, is the survival of the spirit, the preservation of its individuality after death, its ability to evolve, its happy or unhappy state in proportion to its advancement on the path of the good, and all the moral truths that follow from that principle. As for the mysterious connections between humans and animals, that is God’s secret, like many other matters whose present understanding is of no importance to our advancement, and on which it would be useless to dwell.

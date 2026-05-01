@@ -5,284 +5,162 @@ sidebar_label: 4.1 Joys and Sorrows in Earthly Life
 
 ## Relative Happiness and Unhappiness
 
-Complete happiness does not belong to earthly life.
+People cannot enjoy complete happiness on earth, because earthly life has been given as either a trial or an expiation. It is up to each person, however, to lessen personal misfortunes and to be as happy as possible while here.
 
-Life in the body is given as a time of trial or expiation. Because of that, no one should expect a state of perfect and lasting satisfaction here. What is possible is to soften suffering, reduce self-created misery, and attain as much peace as the conditions of earthly existence allow.
+Humanity as a whole will be happy on earth only when it has finally been transformed. Meanwhile, relative happiness is possible for individuals. Most often, people are the artisans of their own unhappiness. By practicing the law of God, they would spare themselves many misfortunes and enjoy as much happiness as existence on such a dense plane allows.
 
-Relative happiness is therefore real, but limited. It depends partly on outward circumstances and even more on the way a person understands and lives those circumstances. Most people contribute greatly to their own unhappiness. By living in harmony with divine law, they would spare themselves many sorrows and enjoy a measure of happiness suited to life in a material world.
+Those who understand their future destiny do not see corporeal existence as anything more than a brief journey. It is like a momentary stop at a dreadful inn. They easily console themselves for a few passing annoyances on a road that will lead them to a better condition, to the degree that they have prepared themselves for it.
 
-Those who understand their future destiny see bodily life for what it is: a brief journey. Its pains are then easier to bear, because they are seen as passing difficulties on the way to something better. Consolation comes from knowing that the future depends on the use one makes of the present.
+In this life, we are punished through the infractions we commit against the laws of corporeal existence, through the misfortunes resulting from those infractions, and through our own excesses. If we trace what we call our earthly misfortunes back to their source, we will see that most of them result from an early deviation from the straight and true road. By entering the wrong path, we fall from one error into another until we finally come to disgrace.
 
-Many of the sufferings called earthly misfortunes arise from violations of the laws that govern embodied life. Excess, imprudence, selfish choices, and early departures from the right path often lead, step by step, into distress. If one traces many human troubles back to their source, one finds not fate alone, but a chain of causes set in motion by human conduct.
+Earthly happiness is relative to each person’s condition. What is enough for the happiness of one would be misfortune for another. Nevertheless, for material life, the common standard of happiness is possessing what is necessary. For moral life, it is a good conscience and faith in the future.
 
-### The Common Measure of Happiness
+What is superfluous for one becomes necessary for another, and vice versa, according to social position and to materialistic ideas, prejudices, ambition, and all the absurd notions for which the future will demand justice when truth is finally understood. Obviously, those who once had an income of 50,000 and then saw it reduced to 10,000 would consider themselves most unfortunate because they could no longer maintain what they call the demands of their social position: keeping fine horses and servants, gratifying every passion, and so on. They would think themselves deprived of necessities. Yet, beside those who are dying of cold and hunger, with nowhere to lay their head, they are truly worthy of pity only in a very different sense. To be happy, the wise look downward, never upward; and when they do lift their gaze, it is to raise the soul toward the infinite. (See no. 715)
 
-Earthly happiness varies with each person’s situation. What seems enough for one may seem intolerable to another. Yet there is still a common measure.
+There are misfortunes that do not depend on our conduct and that strike even the most righteous. To progress, one must resign oneself to them and endure them without complaint. Yet one will always find consolation in one’s own conscience, which gives the hope of a better future, provided one does what is needed to attain it.
 
-For material life, happiness consists in possessing what is necessary. For moral life, it consists in a good conscience and faith in the future.
+God grants the goods of wealth to certain individuals who do not seem to deserve them. This appears to be a favor to those who see no farther than the present; but wealth is a trial, and usually a more dangerous one than poverty. (See nos. 814 ff.)
 
-What people call necessity is often shaped less by true need than by prejudice, ambition, vanity, and social custom. A person accustomed to luxury may regard a reduction in wealth as ruin, even while others nearby lack food, shelter, and warmth. Such suffering is real to the one who feels it, but it often arises from artificial standards rather than actual deprivation.
+Civilization, because it creates new necessities, is also the source of new afflictions. The misfortunes of this world result largely from the artificial needs people create for themselves. Those who know how to limit their desires, and who look without greed at what lies beyond their means, spare themselves many disappointments in this life. The wealthiest are truly those who have the fewest needs.
 
-Wisdom looks downward rather than upward when comparing conditions. Instead of envying those who appear more favored, it notices those who endure far more severe hardship. And when it lifts its gaze higher, it turns the soul toward what is beyond the world rather than toward social superiority within it.
+People envy the pleasures of those who seem fortunate in this world, but they do not know what is in store for them. If such people use their wealth only for themselves, they are selfish and will suffer reversal. They are to be pitied, not envied. God sometimes allows the wicked to prosper, but their prosperity is not to be envied, because they will pay for it with bitter tears. If the righteous are unfortunate, it is because they are undergoing a trial that will be credited to them if they bear it courageously. The words of Jesus should be remembered: “Blessed are those who suffer, for they shall be comforted.”
 
-### Misfortunes That Do Not Depend on Us
+Superfluity is certainly not indispensable to happiness, but the same cannot be said of necessities. The misfortune of those who are deprived of necessities is real. They are truly unfortunate when they lack what is necessary for life and bodily health. Such deprivation may result from their own actions, in which case they can blame only themselves. If it results from the wrongdoing of another, the responsibility falls on the one who caused it.
 
-Not every suffering is the direct result of personal fault. Some trials fall upon even the most upright. There is no way to avoid all such misfortunes, but there is a way to bear them.
+Through natural aptitudes, God points out to each person a vocation in this world. Many misfortunes come from not following the right vocation. Parents, through pride or avarice, often lead their children away from the path nature has marked out for them, thereby compromising their happiness. They will be held responsible for it.
 
-Progress requires resignation, patience, and endurance without complaint. This is not passive despair, but moral strength. In the midst of unavoidable suffering, conscience remains a source of consolation. It preserves the hope of a better future for those who do what is needed to deserve it.
+Still, it is not right to resort to exaggeration on this point. Civilization has its necessities. Why should the son of an upper-class man become a cobbler if he can do other things? People can always be useful according to their abilities, provided those abilities are not applied to work for which they are unsuited. Thus, instead of becoming a poor lawyer, someone might perhaps become a skilled mechanic.
 
-The apparent distribution of earthly goods should not be mistaken for a final judgment. Wealth often seems like a blessing, but it is also a dangerous trial, often more perilous than poverty. It exposes the soul to selfishness, attachment, pride, and forgetfulness of higher things. For that reason, prosperity is not always the advantage it appears to be.
+Acting outside one’s proper intellectual sphere is one of the most frequent causes of disappointment. Inaptitude in a chosen career is an inexhaustible source of reversals. Pride then enters in and prevents a person from taking up a humbler profession, and suicide may come to be seen as the ultimate remedy for what is considered humiliation. If moral education had raised such persons above the prejudices of pride, they would never become destitute.
 
-### Artificial Needs and the Burden of Civilization
+There are people who are destitute of every resource even amid abundance, and who see no other solution than death. They should never entertain the thought of letting themselves die of hunger. They could always find a way to feed themselves if pride did not place itself between need and work. It is often said that there are no dishonorable professions, and that dishonor lies not in the work itself. Unfortunately, such sayings are more often applied to others than to oneself.
 
-Civilization creates many benefits, but it also multiplies desires. New wants are often mistaken for necessities, and these invented needs become a fertile source of disappointment.
+Without the social prejudices that people allow to dominate them, they would always be able to find some kind of work that would let them earn a living, even if in a lower position. Among those who have no such prejudices, or who set them aside, some are nevertheless unable to provide for themselves because of illness or other causes beyond their will. In a society organized according to the law of Christ, no one should die of hunger.
 
-Much of the unhappiness of the world comes from wanting more than one truly needs. Those who know how to limit their desires spare themselves many frustrations. In this sense, the richest are often those who need the least.
+With a wise and provident social organization, people would never lack what is necessary except through their own fault, which is often itself the result of their environment. But when they practice the law of God, a social order founded on justice and solidarity will arise, and they themselves will become better. (See no. 793)
 
-People commonly envy the pleasures of those who seem fortunate, yet outward prosperity may conceal inward torment. If wealth is used selfishly, it becomes a cause of moral downfall and future suffering. Such prosperity is not to be envied. It may end in bitter consequences.
+The suffering social classes are more numerous than the fortunate ones because no one is perfectly happy. Those who are considered fortunate often hide poignant afflictions. Suffering is everywhere. The so-called suffering classes are more numerous because the earth is a place of expiation. When humanity has transformed it into the dwelling place of the good and of good spirits, men and women will no longer be unhappy here. It will be for them a terrestrial paradise.
 
-By contrast, when the righteous suffer, their suffering can become a trial that benefits them if they bear it courageously. Pain accepted with dignity and trust is not meaningless.
+The wicked usually exert great influence over the good because the good are not assertive. The wicked are scheming and daring, while the good are timid. The moment the latter truly will it, they will prevail.
 
-### Necessities, Deprivation, and Responsibility
+If people are usually the artisans of their material sufferings, they are even more so the artisans of their moral sufferings. Material suffering is sometimes independent of the will; but wounded pride, frustrated ambition, avaricious anxieties, envy, jealousy, and every passion are torments of the soul.
 
-Superfluity is not necessary to happiness, but the necessities of life are. Those who lack what is required for the preservation of life and health are truly unfortunate.
+Envy and jealousy are two voracious worms. Where they exist, there can be no calm and no rest. For those who suffer from them, the objects of desire, hatred, and spite appear like ghosts that give them no peace and pursue them even in sleep. Envious and jealous people live in a continual fever. Through such passions, people create punishments for themselves, and the earth becomes a true hell for them.
 
-Sometimes such deprivation results from personal fault. In that case, responsibility rests with the sufferer. At other times, it results from the wrongdoing of others. Then responsibility belongs to those who caused or permitted the deprivation.
+Many common expressions vividly symbolize the effects of different passions. We say: puffed up with pride, dying of envy, bursting with jealousy or spite. Such images are very true. Sometimes jealousy has no specific object. There are people whose nature makes them jealous of anyone who succeeds or rises above mediocrity, even when they have no direct interest in the matter. They are jealous simply because they cannot attain the same level. Everything above the common horizon offends them, and if they formed the majority, they would want everything brought down to their own level. In such cases, jealousy is allied with mediocrity.
 
-Human vocation also plays a part in happiness and suffering. Each person has natural aptitudes that point toward a proper sphere of activity in the world. Many disappointments arise from refusing that path. Pride, social ambition, and family pressure often push individuals into roles for which they are unsuited. Parents may be especially at fault when, through vanity or greed, they force their children away from their natural abilities and thus compromise their happiness.
+People are usually unhappy because of the importance they attach to the things of this world. Vanity, frustrated ambition, and greed make them unhappy. If they rose above the narrow circle of material life, if they lifted their thoughts toward the infinite, which is their destiny, the vicissitudes of human existence would seem petty and childish, like the sorrow of a child over the loss of a toy that had seemed the height of happiness.
 
-To work outside one’s proper capacity is one of the most frequent causes of failure. Lack of aptitude in a chosen career can produce endless reversals. Pride then makes matters worse by preventing a more modest but suitable occupation. Some would rather sink into despair than accept what they consider a lower station. A sound moral education, freed from the prejudices of pride, would prevent many such tragedies.
+Those who seek happiness only in the satisfaction of pride and coarse material appetites are unhappy when they cannot satisfy them. By contrast, those who are frugal are happy with what others would call misfortune.
 
-### Work, Pride, and the Refusal of Honest Labor
-
-No one should choose death rather than work.
-
-Even in severe need, people can ordinarily find some means of supporting themselves if pride does not stand between necessity and labor. There are no dishonorable professions in themselves. What dishonors is not useful work, but the spirit in which one lives.
-
-Many who suffer from want are held back less by the absence of all opportunity than by social prejudice. They fear humiliation more than hunger. Yet a simpler and humbler occupation may preserve both life and dignity.
-
-There are, however, situations in which illness or circumstances beyond personal control make self-support impossible. In a society organized according to the law of Christ, no one would be left to die of hunger. A just and provident social order, founded on solidarity, would ensure that necessities were available to all except where personal fault intervened. Such a society depends not only on institutions, but on moral improvement in individuals themselves.
-
-### Why Suffering Seems More Common Than Happiness
-
-The suffering classes appear more numerous than the fortunate ones, but no one is perfectly happy. Those regarded as favored often conceal deep and hidden afflictions. Suffering is everywhere.
-
-Earth remains a place of expiation, and that is why pain is so widespread. When humanity is transformed, the world will also be transformed. As people become better and good spirits prevail, earthly life will no longer be marked by the same degree of misery. The world will become a dwelling fit for the good.
-
-The apparent power of the wicked over the good also has a temporary explanation. The wicked are often bold, calculating, and aggressive, while the good are frequently hesitant and timid. Evil seems stronger when goodness lacks courage. When the good truly will it, they can prevail.
-
-### Mental Suffering and the Torments of the Soul
-
-Human beings are even more the artisans of their mental sufferings than of their material ones.
-
-Material pains may sometimes come from causes independent of the will. The sufferings of the soul, however, are often born directly from the passions: wounded pride, frustrated ambition, greed, envy, jealousy, and bitterness. These inward afflictions consume peace more thoroughly than many outward losses.
-
-Envy and jealousy are especially corrosive. Where they exist, there can be no rest. The envious and jealous live in continual agitation, haunted by the success, gifts, or happiness of others. What they resent follows them like an obsession. Even sleep gives them little relief. Such passions create a kind of self-inflicted punishment, making the earth a hell for those who harbor them.
-
-Language often captures this truth with striking accuracy. People speak of being swollen with pride, consumed by envy, or bursting with jealousy. Such expressions are not merely figurative. The passions do indeed torment the inner life in ways that resemble physical suffering.
-
-Jealousy does not always arise from direct rivalry. Some people resent anyone who rises above mediocrity, even when they suffer no personal loss from it. They are disturbed simply by the sight of excellence or success beyond their own reach. In such cases, jealousy joins itself to pettiness and would gladly pull everything down to its own level.
-
-### Rising Above the Worldly View
-
-Much unhappiness comes from attaching too much importance to the things of this world. Vanity, greed, and disappointed ambition enlarge every loss.
-
-When thought remains confined to material life, every change in fortune appears immense. But when the soul rises toward the infinite, which is its true destiny, many earthly troubles shrink to their proper size. The setbacks of life then resemble the grief of a child over a lost toy once thought to be everything.
-
-Those who seek happiness only in the gratification of pride or coarse appetites become miserable as soon as those cravings are frustrated. Those who are moderate and simple in their habits can be content with what others would call misfortune.
-
-People in less developed conditions of society often have fewer needs and therefore fewer occasions for envy and anxiety. In more civilized settings, individuals reflect more, compare more, and analyze their own sorrows, and this often makes them suffer more acutely. Yet that same reflective power can also lead them toward consolation.
-
-True consolation comes from moral and spiritual vision. In the Christian spirit, one finds hope for a better future. In the certainty of the soul’s destiny, one finds strength to endure the present. Relative happiness on earth becomes possible when desires are moderated, conscience is kept pure, work is accepted with humility, trials are borne with courage, and the future is seen in the light of eternity.
+This applies to civilized people, for so-called primitive peoples have much more limited needs and therefore do not experience the same causes of envy and anxiety. Their way of looking at things is very different. In the civilized state, people reflect on and analyze their unhappiness, and are therefore more affected by it. Yet they can also reflect on and analyze the means of consolation found in Christian sentiment, which gives hope of a better future, and in Spiritism, which gives certainty of that future.
 
 ## The Loss of Loved Ones
 
-The loss of those we love is one of the deepest sorrows of earthly life.
+The loss of loved ones causes suffering and sorrow, and this sorrow strikes both rich and poor. It is a trial or expiation and a law common to all. Yet it is a consolation to be able to communicate with those we love by the means now available while awaiting others that are more direct and more accessible to the senses.
 
-It touches both rich and poor alike. No one is exempt from it. For some, it is a trial; for others, an expiation; for all, it is part of the common law of human existence. The pain is real because the separation seems irreversible and beyond human control.
+There is no sacrilege in communication with those beyond the grave when it is carried out reverently, and when evocation is made with respect and propriety. The proof is that spirits who love you take pleasure in coming; they rejoice in being remembered and in being able to converse with you. There would be sacrilege only if evocations were made frivolously.
 
-Yet there is consolation in knowing that separation is not absolute. Those who have gone before are not lost. Communication with them remains possible through the means available to us while awaiting forms of reunion that will one day be more direct and more accessible.
+The possibility of communicating with spirits is a deeply consoling one, for it gives us the means of conversing with relatives and friends who have left the earth before us. By evocation, they draw near, remain beside us, hear us, and answer us. There is, so to speak, no longer any separation between them and us. They help us with their counsels and give witness to their affection and to the contentment they feel at our remembrance of them. It is a satisfaction for us to know that they are happy, to learn from them personally the details of their new existence, and to gain the certainty that one day we will rejoin them in our turn.
 
-### Communication with Those Who Have Died
+A spirit is sensitive to the memory and grief of those it has loved. But persistent and unreasonable sorrow affects it painfully, because in such excess it sees a lack of faith in the future and a lack of trust in God, and therefore an obstacle to progress and perhaps to reunion in the spirit world.
 
-To remain in contact with loved ones beyond the grave is a deeply comforting possibility. It allows the living to converse with relatives and friends who have left earthly life earlier. When they are called with sincerity, they may draw near, remain beside us, hear us, and answer us. In that sense, the separation is no longer complete.
+When a spirit is happier than it was on earth, regretting that it has left this life is to regret its happiness. Imagine two friends imprisoned in the same jail. Both are to be freed one day, but one is released first. It would not be right for the one who remains to be saddened that the friend was freed sooner. There would be more selfishness than affection in wishing the friend to remain in captivity and suffering as long as oneself. The same is true of two persons who love each other on earth. The one who departs first is the first to be freed, and the one who remains should rejoice, while patiently waiting for the moment when he or she will also be liberated.
 
-They continue to care for those they love. They offer counsel, give signs of affection, and find joy in being remembered. For those still on earth, there is great comfort in learning that they are happy, in hearing directly about their new condition, and in gaining a firmer certainty that reunion will come in its time.
+Consider another comparison. You have a friend living nearby. She finds herself in a difficult situation, and her health or interests require her to go to another country, where she will be better off in every respect. She will no longer be nearby for some time, but you will still be able to remain in contact by correspondence. The separation will be only physical. You would not grieve her departure if it were for her good.
 
-### Reverence and Propriety
+The Spiritist Doctrine, through the evident proofs it gives of future life, of the presence around us of the beings we have loved, of the continuation of their affection and kindness, and of the relationships that make communication with them possible, offers supreme consolation in the face of one of the most legitimate causes of sorrow. With Spiritism, there is no abandonment. Even the most isolated person is always surrounded by friends with whom communication remains possible.
 
-Some regard communication with the departed as a sacrilege. It is not so when it is approached with reverence, respect, and seriousness.
+We endure life’s tribulations impatiently. They seem so intolerable that we think we cannot bear them. Yet if we do bear them with courage, if we know how to silence our complaints, we will rejoice when we are released from this earthly prison, just as patients who have long suffered rejoice in being healed after patiently enduring painful treatment.
 
-There is nothing profane in a loving and dignified remembrance. Spirits who are attached to us are pleased to come near when called in a worthy spirit. They are glad to know that they are remembered and that exchange with us is still possible. What would be wrong is not the communication itself, but treating it lightly, frivolously, or without respect.
+## Disappointments, Ingratitude, and Broken Affections
 
-### Excessive Grief and Its Effects
+Disappointments caused by ingratitude and by the fragility of the ties of friendship are a source of bitterness for the human heart.
 
-Spirits remain sensitive to the memory and sorrow of those they have loved. They are touched by affection and remembrance. But grief that becomes excessive, persistent, and without resignation causes them suffering.
+Ungrateful and disloyal friends should be pitied. They will be unhappier than those they have wronged. Ingratitude is the child of selfishness, and selfish people will sooner or later encounter hearts as hard as their own. Many have done more good than you, have been more worthy than you, and yet have been repaid with ingratitude. Jesus himself, during his life, was mocked, despised, and treated as a villain and an impostor. There should therefore be no surprise if the same happens to you. Let the good you have done be your reward in this world, and do not concern yourself with what those who benefited from it may say. Ingratitude serves to test perseverance in doing good. It will be credited to you, and those who have been thoughtless toward you will be punished in proportion to their ingratitude.
 
-Such sorrow shows a lack of trust in the future and in divine order. It reflects a refusal to accept that life continues and that separation is temporary. In this way, it can become an obstacle to progress and may even delay the peace of the relationship itself, because the spirit sees in it not pure love, but attachment that cannot release what has already been delivered from earthly suffering.
+Disappointments caused by ingratitude can harden the heart and make it insensitive. That would be unfortunate, because people of feeling, as they are often called, will always be happy for the good they have done. They know that if the good they did is not remembered in the present life, it will be remembered in another, and that the ungrateful will then feel shame and remorse.
 
-If a spirit is happier after leaving the body, then grieving as though it had been deprived of good is, in effect, grieving that it has found relief. Love should rejoice in the good of the beloved.
+This knowledge does not prevent the heart from feeling wounded, and one might think that it would be happier if it were less sensitive. That would be true only if one preferred a selfish happiness, a very sad kind of happiness. If people know that the ungrateful friends who abandon them are unworthy of their friendship, and that they were mistaken about them, they will no longer regret losing them. Later, they will find friends who are more understanding. Those who treat you in a way you do not deserve should be pitied, for they will suffer a sad recompense. Do not let yourselves be afflicted by them; this is one means of rising above them.
 
-### The Prisoner Set Free
-
-Two friends are confined in the same prison. Both know that one day they will be released, but one leaves before the other. Would it be right for the one who remains to resent the other’s freedom? Would true affection wish the other to remain imprisoned simply to avoid being left behind?
-
-Earthly life may be compared to such a captivity. When one of two loving persons departs first, that one is the first to be set free. The one who remains should not cling selfishly to the loss, but wait with patience for the hour of his or her own liberation.
-
-### The Friend Who Departs for a Better Country
-
-Imagine a friend who must leave for a distant country because health or personal circumstances require it, and where life will be better in every way. That person will no longer be physically near, yet correspondence remains possible. The distance is real, but it is only physical.
-
-Would love insist that such a person stay near if doing so meant continued hardship? Or would love accept the departure because it serves the person’s good?
-
-The same principle applies to those who leave earthly life before us. Their absence is painful, but if they are in a better condition, affection should rise above possessiveness and find peace in their well-being.
-
-### Consolation in the Continuity of Affection
-
-One of the greatest comforts available to human beings is the assurance that those they love are not annihilated, not absent in the absolute sense, and not cut off forever. The future life, the continued presence of loved spirits around us, the persistence of their affection and kindness, and the possibility of maintaining relationship with them remove the feeling of complete abandonment.
-
-No one is truly alone. Even the most isolated person may be surrounded by friends in the unseen world and may, under proper conditions, remain in communion with them.
-
-This understanding softens one of the most legitimate forms of sorrow. It does not forbid tears, but it transforms despair into hope.
-
-### Patient Endurance and Future Joy
-
-The hardships of life often seem unbearable while they last. Human beings grow impatient under suffering and are tempted to believe they cannot endure it. Yet many trials can be borne with courage when complaint gives way to trust.
-
-Earthly life is like a painful confinement or a difficult treatment that one day comes to an end. Just as a patient who has long suffered may later rejoice in being healed after enduring a difficult remedy, so the spirit, once released from bodily life, may rejoice in freedom after having borne earthly trials with patience.
-
-For that reason, sorrow over those who depart should be joined to faith, courage, and hope. Love does not end with death, and separation is only temporary.
-
-## Disappointments, Ungratefulness, and Broken Affections
-
-Disappointments caused by ingratitude and by the fragility of friendship can wound the human heart deeply. Yet such trials call not for bitterness, but for pity.
-
-Ungrateful and disloyal friends harm themselves more than those they disappoint. Ingratitude springs from selfishness, and selfish people eventually meet hearts as hard as their own. This is part of the moral order of life: those who refuse gratitude and loyalty prepare suffering for themselves.
-
-The good one has done should remain its own reward. It should not depend on praise, remembrance, or acknowledgment from those who have benefited. Even the purest acts may be met with scorn, contempt, or suspicion. Goodness does not lose its value because it is misunderstood. On the contrary, ingratitude becomes a test of perseverance in doing good. To continue acting well despite disappointment is itself a moral victory.
-
-Those who respond to kindness with thoughtlessness will one day face the consequences of their conduct. The measure of their regret will correspond to the measure of their ingratitude. What is forgotten in one life is not lost forever. If the good done is not recognized now, it will be recognized later, and the one who was ungrateful will experience shame and remorse.
-
-There is, however, a danger in disappointment. Repeated hurts can tempt a person to harden the heart and become less sensitive. Such a change would be a misfortune. A loving nature remains happier in the good it has done than a selfish nature could ever be in protecting itself from pain. To prefer a happiness based on indifference would be to choose a poor and sorrowful form of peace.
-
-When affection has been misplaced, wisdom lies not in ceasing to love, but in seeing clearly. If friends abandon someone or prove unworthy of trust, their loss need not be endlessly regretted. The mistake was in judging them too well, not in having loved sincerely. In time, better and more understanding companions may be found.
-
-It is better to feel compassion than resentment toward those who treat others badly. Their conduct prepares for them a sad return. Rather than being cast down by their behavior, one may rise above it. Injury can become an opportunity for inner elevation.
-
-Human beings are made with the need to love and to be loved. Among the greatest joys of earthly life is the meeting of hearts that are in harmony with one another. In such mutual affection there is already a foretaste of a higher happiness—the happiness of a more perfected state, where love and benevolence prevail without mixture. That joy is denied to selfishness, for selfishness closes itself to the very communion it longs to receive.
+Nature has given human beings the need to love and be loved. One of the greatest joys granted on earth is the meeting of mutually attuned hearts. In this way, nature grants a foretaste of the happiness awaiting them in the world of perfected spirits, where all is love and benevolence—a happiness denied to the selfish.
 
 ## Antipathetic Unions
 
-Spirits who are inwardly in harmony are naturally drawn toward one another. Yet among incarnate persons, affection is often uneven. One may love sincerely while the other responds with indifference or even repulsion. Strong attachment may also fade and, in some cases, turn into dislike or hatred.
+Since sympathetic spirits are drawn to one another, affection among incarnate spirits is often one-sided, and sincere love may be met with indifference or even repulsion. The liveliest affection between two persons can turn into dislike and sometimes hatred.
 
-Such experiences may serve as a temporary trial or expiation. They also arise because people frequently mistake physical attraction for deep affinity. A person may believe they love profoundly when they are only captivated by outward appearance or by qualities they imagine in the other. Once life is shared more closely, illusion gives way to clearer knowledge, and what seemed like love may prove to have been only passing passion.
+This may be a punishment, though a temporary one. Many think themselves deeply in love because they judge only by outward appearance, but when they are obliged to live together, they soon discover that their judgment was based only on physical passion. It is not enough to be enamored of someone who pleases you and whom you imagine to possess fine qualities. Only by living together can people truly appreciate one another. On the other hand, many unions that at first seem incompatible are, in time, transformed into tender and lasting love, because they come to rest on mutual esteem. It is the spirit that loves, not the body; and once physical illusion is dissipated, the spirit sees reality.
 
-The reverse also happens. Some relationships seem at first incompatible, yet with time and mutual understanding they grow into tender and lasting love. When affection is founded on mutual esteem rather than appearance, it acquires stability and depth.
+There are two kinds of affection: that of the body and that of the soul, and these are often mistaken for each other. When pure and sympathetic, the affection of the soul is lasting; the affection of the body is perishable. That is why those who believed they loved each other eternally often end by detesting each other once the illusion vanishes.
 
-What truly loves is the spirit, not the body. When physical illusion fades, the spirit sees more clearly.
+The lack of sympathy between persons destined to live together is also a source of suffering, all the more bitter because it poisons their whole existence.
 
-### The Two Kinds of Affection
+This is indeed a bitter trial. Yet it is usually one of those misfortunes for which human beings themselves are chiefly responsible. First, because laws are often at fault, one should not believe that God obliges anyone to live with a person they dislike. Moreover, in such unions, people almost always seek to satisfy pride and ambition more than to enjoy the happiness of mutual affection. They then suffer the natural consequences of their prejudices.
 
-There are two kinds of affection: that of the body and that of the soul. These are often confused.
-
-Affection of the body is unstable and perishable. It depends on external impressions, desire, and the fascination of the senses. When its charm disappears, the feeling that seemed so intense may vanish with it.
-
-Affection of the soul is pure, sympathetic, and lasting. It rests on real affinity between beings. Because it belongs to the deeper life of the spirit, it survives the changes that alter bodily attraction.
-
-For this reason, those who imagine they love one another eternally may later come to detest each other when the illusion that joined them has passed away. What they took for enduring love was not love of the soul.
-
-### Suffering in Unions Without Sympathy
-
-A lack of sympathy between persons destined to live together can become a profound source of suffering, especially when it poisons the whole course of life.
-
-Much of this bitterness comes from human causes. Social laws and customs often bind people together in ways that do not respect true mutual affection. Pride, ambition, interest, and prejudice may be given more importance than inward harmony. When unions are formed for such reasons, the suffering that follows is often the natural consequence.
-
-No one should suppose that God requires a person to remain bound by pure dislike as though such misery were a divine command. Human error has a large part in creating these painful situations.
-
-### The Innocent Victim
-
-In these unhappy unions, there is often one who suffers without having caused the wrong. For that person, the trial may be a heavy expiation.
-
-Even so, responsibility for the unhappiness rests with the one who caused it. No injustice is lost from view. Where truth has reached the soul of the one who suffers, faith in the future can bring consolation. The present pain is not the whole reality of existence.
-
-As prejudices weaken and people become less governed by vanity, ambition, and external appearances, many of these private misfortunes will disappear. More sincere and more spiritual unions will then become possible.
+In such cases, there is almost always an innocent victim. For that person, it is a heavy expiation; but the responsibility for such unhappiness will fall on the one who caused it. If the light of truth has reached the soul of the victim, faith in the future will bring consolation. Besides, as prejudices weaken, the causes of these private misfortunes will disappear.
 
 ## The Fear of Death
 
-Worry about death troubles many people, even though the future of the soul stretches beyond bodily life.
+The fear of death is highly distressing to many people. Such apprehension is misplaced, but it is understandable, because from childhood many have been taught that there is a heaven and a hell, and that they are more likely to go to hell, having also been taught that everything belonging to nature is a mortal sin for the soul. Thus, when they grow up, if they have any reason at all, they can no longer accept such beliefs and become atheists or materialists. In this way they are led to think that nothing exists beyond the present life. As for those who persist in the beliefs of childhood, they fear the eternal fire that would burn them without destroying them.
 
-Much of this fear comes from false ideas impressed on the mind from an early age. When people are taught to imagine the future only in terms of heaven for a few and eternal punishment for most, death naturally becomes terrifying. If they are also told that nearly everything belonging to human nature is a grave offense, they grow up expecting condemnation rather than hope.
+Death inspires no fear in the righteous, because faith gives them certainty regarding the future. Hope shows them a better life, and because they have practiced the law of charity, they have the assurance that in the world they are entering, they will meet no one whose gaze they must fear.
 
-Later, when reason awakens, many can no longer accept such beliefs. Some then fall into disbelief altogether and conclude that nothing exists beyond the present life. Others continue to believe what they were taught in childhood, and they remain haunted by the fear of unending punishment. In both cases, death appears dark and threatening.
+Sensual persons are more attached to corporeal life than to spiritual life, and while on earth they experience only its physical pains and pleasures. Their happiness consists in the fleeting satisfaction of all their desires. Their soul is constantly occupied with, and troubled by, the vicissitudes of life, remaining anxious and in continual torment. Death terrifies them because they doubt the future and because they think they must leave behind all their affections and hopes.
 
-For the righteous, death has a different character. Faith gives certainty about the future, and hope opens the view of a better life. Those who have lived according to charity carry within themselves a quiet assurance. They do not dread entering the spiritual world, because they know they have sought to do good and will not have to avert their eyes in shame before those they meet there.
+By contrast, moral persons, who have raised themselves above the artificial needs created by the passions, experience even in this world pleasures unknown to materialistic persons. The moderation of their desires gives calm and serenity to the spirit. Happy in the good they do, they know no bitter disappointment, and vexations pass lightly over their soul without leaving painful marks.
 
-### Attachment to Material Life
+Some people think these counsels about happiness are rather banal. They say they are mere commonplaces or platitudes, and that the whole secret of happiness is simply knowing how to bear misfortune.
 
-Those who live chiefly for bodily life are bound more strongly to earthly existence than to spiritual reality. While on earth, they know mainly physical pleasures and physical pains. Their happiness lies in the brief satisfaction of desire, and because desire is unstable, their inner life remains unsettled.
-
-The soul, constantly preoccupied with the changes, losses, frustrations, and uncertainties of worldly life, becomes anxious and troubled. Death frightens such persons not only because they doubt the future, but also because they believe they must leave behind everything to which they are attached: their habits, ambitions, affections, and hopes rooted in the world.
-
-### The Peace of the Moral Life
-
-Those who live morally and rise above the artificial needs created by the passions already experience, even on earth, pleasures that materialistic minds do not know.
-
-When desires are moderated, the spirit gains calm and serenity. A person who is content with doing good finds a steadier happiness than one who seeks endless gratification. Disappointments lose much of their power, and the troubles of life pass more lightly over the soul without leaving deep and lasting wounds.
-
-This peace is not a mere theory. It is the natural result of an ordered inner life. Freedom from slavery to passion makes room for quiet strength, and that strength lessens the fear of death.
-
-### Why Simple Counsel Is Often Rejected
-
-Advice about happiness is often dismissed as obvious, commonplace, or too simple. Many say, in effect, that the whole secret is merely to endure misfortune patiently.
-
-Yet such objections often come from those who want the benefits of healing without accepting the remedy. They resemble patients who are given a diet necessary for recovery but wish to be cured while continuing whatever caused their sickness.
-
-Inner peace does not come from wishing for it while remaining surrendered to disorder. It comes from accepting the discipline that restores health to the soul. The counsel may sound simple, but its simplicity does not make it shallow. Like all genuine remedies, it asks not only to be admired, but to be practiced.
+Many say so, and there are many of them. But many are like sick people to whom the doctor has prescribed a diet: they would like to be cured without medicine and while continuing to indulge in what makes them ill.
 
 ## Dissatisfaction with Life and Suicide
 
-A weariness with life often arises where there is idleness, lack of faith, or the exhaustion that comes from satiety. When human faculties are employed usefully and in harmony with natural aptitudes, work does not feel barren, and life passes more steadily. In that condition, its trials are borne with greater patience and resignation, because hope is fixed on a more solid and lasting happiness.
+Dissatisfaction with life, which takes hold of some individuals without any plausible cause, is the effect of idleness, lack of faith, and, usually, satiety. For those who employ their faculties toward a useful end and according to their natural aptitudes, labor has nothing barren about it, and life passes more quickly. They bear its tribulations with patience and resignation because they look ahead to the more solid and lasting happiness that awaits them.
 
-No one has the right to take his or her own life. That right belongs to God alone. Intentional suicide is a transgression against divine law. When a person is insane and does not know what he or she is doing, moral responsibility is not the same, because the act lacks full awareness.
+Human beings do not have the right to take their own life. That right belongs to God alone. Those who intentionally commit suicide transgress this law.
 
-Those who kill themselves merely because they are dissatisfied with life reveal not wisdom but folly. Useful labor would often have made life seem less burdensome. Those who seek death in order to escape disappointments and hardships also fail to understand the meaning of earthly trials. Suffering is often a trial or an expiation. Blessed are those who endure it without rebellion, because endurance prepares a future reward. To flee through suicide is not courage but surrender.
+Suicide is not always intentional. Insane persons who kill themselves do not know what they are doing.
 
-When others have driven an unhappy person to such an act of despair, their guilt is grave. They answer for it as for a murder. Even so, a person who gives way to despair is not wholly absolved. If the person lacked firmness, perseverance, or the will to use intelligence to find a way through difficulty, there remains personal responsibility. The fault is even heavier when despair springs from pride.
+Those who commit suicide because they are dissatisfied with life show folly. They should have worked; life would then not have seemed so heavy.
 
-There are people whose pride paralyzes their judgment. Ashamed to work with their hands or to descend from what they imagine to be their social rank, they would rather die than face material humiliation. Yet there is far more dignity in struggling against adversity than in sacrificing life to satisfy social vanity. A selfish society may flatter prosperity and abandon distress, but its opinion has no true value. To throw away one’s life for such judgments is both tragic and senseless.
+Those who resort to suicide to escape the troubles and disappointments of this world are poor spirits who lack the courage to bear life’s misfortunes. God helps those who suffer, but not those who have neither strength nor courage. Life’s tribulations are meant as trials or expiations. Happy are those who bear them without complaint, for they shall be rewarded. But woe to those who in their impiety expect salvation from chance. Chance, or luck, to use their own language, may indeed favor them for a moment, but only so that they may later feel, more cruelly, the emptiness of such words.
 
-Suicide committed to escape the shame of an evil act is also blameworthy. It does not erase the wrong; it adds another wrong to the first. Whoever had the courage to do evil should also have the courage to bear its consequences. God judges each case and may lessen punishment according to motive, but self-destruction never repairs the fault.
+Those who have driven an unhappy person to this act of despair will suffer the consequences of their action. They will answer for it as for a murder.
 
-The same holds when a person kills himself or herself in order to spare children or family from dishonor. Such a person may sincerely believe that good is being done, and that intention is taken into account. In that sense, the act may become a self-imposed expiation, and the motive may lessen the guilt. Yet it remains a wrong. Much of this kind of tragedy is tied to social prejudice and false notions of honor.
+Those who become disheartened by necessity and allow themselves to die of despair do commit suicide, but those who caused it, or who could have prevented it, are more guilty than the victim, for whom clemency still awaits. Yet the latter are not entirely absolved if they lacked firmness and perseverance, or failed to make the best use of their intelligence to escape their difficulties. They are still more unfortunate if their despair arose from pride—that is, if they were among those whose pride paralyzes intelligence, who would be ashamed to earn their living by manual labor, and who would rather die of starvation than descend from what they call their social position. There is a hundred times more greatness and dignity in struggling against adversity, in braving the criticism of a vain and selfish society that shows goodwill only to those who need nothing and turns its back on those in distress. To throw away one’s life for the opinion of such a society is foolish, for society will not care in the least.
 
-Those who destroy themselves to avoid public shame show that they value human opinion more than divine judgment. They return to spirit life still burdened by their wrongdoing, while depriving themselves of the opportunity to repair it during earthly life. God is often more merciful than human beings. Sincere repentance and efforts at reparation are accepted, but suicide repairs nothing.
+Suicide committed to escape the shame of an evil act is as blameworthy as suicide born of despair. Suicide does not erase wrongdoing; on the contrary, it adds a second wrong to the first. Those who had the courage to do evil should also have the courage to bear its consequences. God is the judge, and according to the cause, God may sometimes lessen the punishment.
 
-Some imagine that by ending life they will reach a better world more quickly. This, too, is an illusion. Entrance into a happier state is not hastened by wrongdoing. Instead, suicide delays that progress. The person often must return to complete the life that was interrupted. No wrong opens the way to a higher state.
+Suicide is not excusable when committed to spare one’s children or family from shame. Those who act from this belief do no real good, though they think they do, and God takes their intention into account, for in such a case the suicide is a self-imposed expiation. The wrong is mitigated by the intention, but it remains a wrong. Besides, if social prejudices and abuses were removed, such suicides would no longer occur.
 
-A very different act is the sacrifice of one’s life to save others or to be genuinely useful to one’s neighbor. When the intention is pure, such an act is not suicide but sublime self-giving. God does not approve meaningless sacrifice, especially when it is stained by pride. Its value depends on selflessness. Every sacrifice made at the cost of personal happiness for the good of another is deeply meritorious, because it fulfills the law of charity. Since life is the earthly possession most highly valued, giving it up for another’s good is not a crime but a sacrifice. Even so, one should consider whether one’s continued life might be more useful than one’s death.
+Those who take their own life to escape the shame of an evil act show that they value human opinion more than God’s judgment, because they will return to spirit life still burdened with their iniquities and will have deprived themselves of the means of making reparation during earthly life. God is often less unforgiving than human beings. God pardons those who sincerely repent and considers efforts at reparation; suicide repairs nothing.
 
-There is also a moral form of suicide in the abuse of destructive passions. Some know perfectly well that their habits are hastening death, yet continue because habit has become a physical need. In such cases there is a double fault: lack of courage and surrender to animal impulse, joined to forgetfulness of God. In general, this guilt is greater than that of someone who kills himself or herself in a moment of despair, because there was time for reflection. Punishments are always proportioned to awareness of the wrong.
+Those who take their own life in the hope of arriving sooner at a better life commit another folly. Let them do good, and they will be more certain to reach it. Their suicide will only delay their entrance into a better world, and they themselves will ask to return in order to complete the life they cut short through a false idea. A wrongdoing, whatever it may be, never opens the sanctuary of the elect.
 
-Even when a terrible death seems inevitable, it is still wrong intentionally to shorten one’s suffering by a few moments. Human beings cannot know with certainty whether help might arrive unexpectedly at the last instant. More deeply, such an act shows a lack of resignation and submission to the Creator’s will. The consequence is expiation proportioned to the seriousness of the fault and the circumstances.
+The sacrifice of one’s life is sometimes meritorious when it is made to save the lives of others or to be useful to one’s neighbor. In such a case, according to the intention, it is sublime, and such a sacrifice of life is not suicide. But God opposes useless sacrifice and cannot look on it with pleasure if it is stained by pride. A sacrifice is not meritorious unless it is selfless. Unfortunately, some who make such a sacrifice have hidden motives, and these diminish its value in God’s sight.
 
-Not every act that endangers life is culpable. When there is no positive intention to do wrong and no awareness of causing harm, moral guilt is absent. Responsibility depends not only on the outcome but on intention and consciousness.
+Every sacrifice made at the cost of personal happiness is supremely meritorious in God’s sight, because it is the practice of the law of charity. And since life is the earthly possession most valued, those who renounce it for the good of a neighbor do not commit a crime: they make a sacrifice. Nevertheless, before doing so, they should consider whether their life might not be more useful than their death.
 
-Customs in which widows have burned themselves on the body of a dead husband are also not judged in the same way as deliberate suicide committed in full freedom. In such cases, people often act under coercion or social pressure, believing they are fulfilling a duty. Ignorance and lack of moral development lessen responsibility. Barbarous customs recede as civilization advances.
+Those who die as victims of the abuse of their own passions, which they know will hasten their end, but which they can no longer resist because habit has made those passions into real physical needs, commit a moral suicide. They are doubly guilty. In such a case, there is lack of courage and surrender to brutishness, together with forgetfulness of God.
 
-Those who kill themselves because they cannot bear the loss of loved ones, hoping to rejoin them, do not attain what they seek. Rather than being reunited more quickly, they delay reunion. God does not reward an act of cowardice that expresses distrust of divine providence. The moment of despair is followed by deeper afflictions, and the hoped-for consolation is denied.
+They are more guilty than those who shorten their life in despair, because they had time to reflect upon their suicide. In those who kill themselves on the spur of the moment, there is sometimes a kind of delirium bordering on insanity. The former will be punished much more severely than the latter, for punishments are always proportional to awareness of the wrongdoing.
 
-### General Consequences of Suicide
+When someone sees an inevitable and terrible death before them, it is still wrong intentionally to shorten suffering by a few moments through voluntary death. It is always wrong not to wait for the term set by God. Besides, who can say with certainty that the final moment has truly come, despite appearances, or that unexpected help might not arrive at the last instant?
 
-The consequences of suicide vary widely. There is no single fixed penalty applied in every case. Consequences are always related to the motives and conditions that produced the act. One result, however, is universal: disappointment. Those who imagined escape, relief, or immediate happiness discover that they have gained none of these things.
+Even in a case where death is inevitable and life is shortened only by a few moments, such an act still shows a lack of resignation and submission to the will of the Creator.
 
-The state of the spirit after suicide is not the same in all cases. Some expiate their fault at once. Others do so in a new life, often more difficult than the one they interrupted. Observation shows that while the outcomes differ, some common effects often accompany violent and premature death.
+In such a case, the consequences are, as always, an expiation proportioned to the gravity of the wrong and to the circumstances.
 
-One of the most striking is the persistence of the bond between spirit and body. In natural death, this link gradually weakens and is often already loosened before life fully ends. In suicide, the rupture is sudden, and the bond frequently remains strong. This prolongs spiritual confusion and may produce the illusion, for a shorter or longer time, that one is still among the living.
+An imprudent act that compromises life without necessity is not blameworthy when there is no deliberate intention or awareness of doing wrong.
 
-In some cases, the continued affinity between spirit and body produces a dreadful repercussion of bodily conditions upon the spirit. The spirit may be forced to witness the body’s decomposition and to experience anguish and horror connected with it. This may last as long as the earthly life would normally have continued. This consequence is not universal, but it illustrates how far suicide is from being an escape.
+Women who, in some countries, intentionally burn themselves to death on the body of their husband should be regarded as obeying prejudice and usually acting more under coercion than by their own will. They believe they are fulfilling a duty, and this is not what characterizes suicide. Their excuse lies in ignorance and in a lack of moral development. Such barbarous and foolish customs will disappear with civilization.
 
-In no case does the person avoid the consequences of the act. Sooner or later, the wrong must be expiated. Some spirits who were deeply unhappy in one earthly life have later declared that they had committed suicide in a previous existence and had willingly accepted new trials in order to learn to endure with greater resignation. For some, the consequence is a painful attachment to matter, from which they long to free themselves while access to happier worlds remains closed. For many, the prevailing condition is regret—regret for a needless act that brought not relief but frustration.
+Those who cannot bear the loss of loved ones and kill themselves in the hope of rejoining them do not achieve their aim. The result is very different from what they expect. Instead of being reunited with those they love, they remain separated from them even longer, because God cannot reward an act of cowardice or an insult that shows distrust in divine providence. They will pay for that moment of madness with afflictions greater than those they sought to shorten, and they will not receive the compensation they hoped for. (See nos. 934 ff.)
 
-Religion, morality, and philosophy all condemn suicide as contrary to the law of nature. The deeper reason is not merely that it violates a rule, but that no one is free to cut short life at will in order to flee suffering. Such a choice brings no true benefit. What appears to be release becomes a new burden. The hoped-for end of pain is replaced by confusion, delay, disappointment, and expiation.
+In general, the consequences of suicide for the state of the spirit vary greatly. There are no fixed penalties; in every case they are relative to the causes that produced the act. One consequence, however, from which no suicide can escape, is disappointment. Beyond that, the fate is not the same for all, but depends on the circumstances. Some expiate their wrong immediately, while others do so in a new life worse than the one whose course they interrupted.
 
-The law governing life is therefore not arbitrary. Earthly trials have meaning, and courage in bearing them advances the spirit. Despair interrupts that work but does not abolish it. What was refused must still be faced, often under harder conditions. The wiser path is not flight, but endurance, repentance where needed, useful effort, trust in God, and fidelity to the duties of life.
+Observation has indeed confirmed that the consequences of suicide are not always identical. Yet some effects are common to all violent deaths and to the abrupt interruption of life. Chief among them is the persistence of the link that binds the spirit to the body, a link that is almost always at full strength when it is broken prematurely, whereas in natural death it gradually weakens and is often undone before life is completely extinguished. The consequences of this state are prolonged spiritual confusion, followed by the illusion that, for a longer or shorter period, causes the spirit to believe itself still among the living. (See nos. 155, 165)
+
+In some suicides, the affinity that persists between spirit and body produces a kind of repercussion of the body’s condition upon the spirit, so that the spirit is compelled to witness the effects of decomposition and experiences a sensation full of anguish and horror. This state may continue as long as the life that was interrupted should naturally have lasted. This consequence is not universal. In no case, however, are those who committed suicide freed from the results of their lack of courage; sooner or later they will expiate that wrong in one way or another. Thus certain spirits, once very unhappy on earth, have stated that they committed suicide in a previous existence and voluntarily submitted to new trials in order to try to bear them with greater resignation. For some, the consequence is a kind of bond to matter from which they vainly seek to free themselves in order to ascend to happier worlds, access to which is denied them. For most, it is regret for having done something useless and having reaped only disappointment from it.
+
+Religion, morality, and philosophy all condemn suicide as contrary to the law of nature. All teach, in principle, that we have no right intentionally to shorten our life. The Spiritist Doctrine shows why we do not have that right and why we are not free to put an end to our own sufferings. Through real examples of those who have succumbed to it, Spiritism shows that suicide is not only a wrong that violates moral law—a consideration of little weight for some—but also a reckless act that brings no benefit; in fact, the result is quite the opposite. This is not mere theory. Spiritism places the facts themselves before our eyes.

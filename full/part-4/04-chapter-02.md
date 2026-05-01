@@ -3,448 +3,278 @@ title: 4.2 Joys and Sorrows in the Life to Come
 sidebar_label: 4.2 Joys and Sorrows in the Life to Come
 ---
 
-## Nothingness. The Future Life
+## Nothingness and the Future Life
 
-Human beings feel an instinctive horror at the idea of nothingness because nothingness is not our destiny.
+Human beings instinctively recoil from nothingness, because nothingness does not truly exist.
 
-Deep within, there is a persistent sense that life does not end at the grave. This sentiment does not arise by accident. Before incarnation, the spirit knows realities that bodily life partially veils, and the soul preserves a vague memory of what it once knew and perceived in its spiritual state. That dim remembrance remains as an inner intuition of survival.
+Our instinctive sense of a future life comes from the fact that, prior to incarnation, the spirit knows these realities, and the soul retains a vague memory of what it knew and saw in the spirit state. (See no. 393)
 
-In every age, people have turned their thoughts toward what lies beyond death. This concern is natural. However much importance may be given to earthly life, its brevity and uncertainty are impossible to ignore. Existence here may be interrupted at any moment, and no one is guaranteed even the next day. It is therefore inevitable to ask what becomes of us after death.
+In all ages, people have concerned themselves with what lies beyond the grave. This is natural. However much importance they may give to the present life, they cannot help considering how brief—and especially how precarious—it is, since it may be cut short at any moment. No one can be sure of tomorrow. What becomes of us after the fatal instant? This is a serious question, for it concerns not a few years, but eternity. Those who must spend many years in a foreign land concern themselves with the conditions they will find there. In the same way, we concern ourselves with the state we will encounter when we leave this world behind, since that departure is forever.
 
-This is not a small or abstract question. It is not a matter of a few more years, but of an enduring future. Anyone preparing to live for many years in a foreign land will naturally want to know what awaits there. How much more serious is the need to consider the condition that awaits us when we leave the world forever.
+The idea of nothingness is repugnant to reason. Even those who are most unconcerned during life ask themselves, at the final moment, what will become of them, and they await the answer in spite of themselves.
 
-The idea of complete annihilation offends reason. Even those who pass through life with little concern for spiritual things often feel, when facing death, an unwilling but powerful question arise within them: what will become of me?
+To believe in God without accepting a future life would be nonsense. The sense of a better life is found within every human being, and God did not place it there in vain.
 
-Faith in God without faith in a future life is incomplete and incoherent. The inward sense of a life beyond the present one is found in the human heart because it corresponds to reality. God would not place so universal and persistent a hope within the soul without purpose.
-
-A future life also implies the preservation of individuality after death. Survival would lose its meaning if the moral self were dissolved into an indistinct whole, with nothing personal remaining. Such an outcome would differ little, in practical effect, from annihilation. The enduring future of the soul therefore includes the continuation of the self—its consciousness, its moral identity, and its responsibility.
+The future life implies the preservation of our individuality after death. What good would it do to survive the body if our moral essence were to be lost in the ocean of the infinite? For us, the consequences would be the same as nothingness.
 
 ## The Intuition of Future Joys and Sorrows
 
-The belief in future rewards and punishments appears in every culture because it arises from a real perception carried within the spirit.
+The belief in future rewards and punishments, found in all cultures, comes from a presentiment of reality imparted to human beings by the spirit. The inner voice does not speak uselessly; the mistake lies in not listening to it. If people thought well and often about these things, they would make themselves better.
 
-Human beings possess an inward awareness that life does not end in moral indifference. An inner voice suggests that good and evil do not lead to the same result, and that justice extends beyond earthly life. This intuition is not meaningless or accidental. It is a presentiment of reality.
+At the moment of death, the dominant feeling in most people is doubt for the hardhearted skeptic, fear for the guilty, and hope for the good.
 
-When people ignore that inner voice, they become confused about their destiny. If they listened to it more carefully and reflected on it more often, they would become better. Moral improvement is closely tied to remembering that actions have consequences beyond the present life.
+There are fewer skeptics than one might think. During life, many pretend boldness out of pride, but at the moment of death they cease to boast.
 
-At the approach of death, this hidden conviction often becomes clearer. For hardhearted skeptics, the prevailing feeling is doubt. For the guilty, it is fear. For the good, it is hope.
+The consequences of the future life arise from responsibility for our actions. Regarding the distribution of the happiness to which all aspire, reason and justice tell us that the good and the wicked cannot be placed together indiscriminately. God cannot will that some enjoy good without effort while others obtain it only through labor and perseverance.
 
-Skepticism is often less deep than it appears. Many present themselves during life as bold unbelievers out of pride, yet when death approaches, boasting fades. What was masked by vanity gives way to the deeper sentiment carried by the soul.
-
-The consequences of the future life follow from responsibility for one’s actions. Happiness is desired by all, but reason and justice show that the good and the wicked cannot be placed together as though their lives had the same value. It would be contrary to divine justice for some to enjoy what is good without effort while others obtain it only through labor, perseverance, and fidelity to what is right.
-
-Divine justice and divine goodness are expressed through wise laws. Because of those laws, the righteous and the wicked cannot remain on the same footing before God. The good done by the just must bear its reward, and the evil committed by the unjust must bring its correction and punishment.
-
-For that reason, the intuition of future joys and sorrows is rooted in the innate sense of justice. Human beings feel, even before they understand clearly, that moral order exists and that every soul will eventually meet the consequences of what it has chosen.
+The idea that God exercises justice and goodness through the wisdom of the divine laws does not allow us to believe that the righteous and the wicked are equal in God’s sight. Nor can we doubt that one day the former will receive the reward of the good they have done, and the latter the punishment of the evil they have done. That is why our innate sense of justice gives us the intuition of future rewards and punishments.
 
 ## God’s Intervention in Punishments and Rewards
 
-God is concerned with every created being, however small that being may seem.
+God is concerned with all created beings, no matter how small. Nothing is too small for divine goodness.
 
-Nothing is too small for divine goodness. No individual life is overlooked, and no action falls outside the scope of the laws established by God.
+God has established the divine laws that regulate all our actions. However unimportant some actions may seem to us, they may still violate those laws. If we violate them, the fault is ours. When people commit an excess, God does not pronounce sentence by saying, for example, “You are a glutton, and I am going to punish you.” Instead, God has set a limit: illness, and sometimes death, are the consequences of excess. Thus, punishment results from breaking a law. Everything happens in this way.
 
-This concern does not mean that every deed requires a separate, arbitrary judgment pronounced from above. The order is deeper and more constant than that. God has established laws that govern human conduct, and the consequences of actions arise from those laws themselves.
+If we suffer the consequences of such violations, we have only ourselves to blame. We are thus the artisans of our own future happiness or unhappiness.
 
-When a person violates them, the fault is not in any deficiency of divine care, but in the misuse of freedom. Punishment is not best understood as an isolated decree attached to each wrongdoing. It is the natural result of acting against the order that has been set. Excess brings its consequences. Disorder produces suffering. At times that suffering appears as illness, loss, or even death. In this sense, the penalty follows from the broken law.
+This truth is made evident in the following comparison: a father has given his son education and instruction—that is, the means of knowing how to conduct himself. He gives him a field to cultivate and says, “I have given you the rules to follow and all the necessary tools for making this field productive and ensuring your livelihood. I have taught you how to understand those rules. If you follow them, your field will yield abundantly and will provide you rest in your old age. If you do not follow them, it will yield nothing, and you will die of hunger.” Having said this, he leaves him free to act as he pleases.
 
-All human actions are subject to divine law. Even acts that appear insignificant may carry consequences, because what seems small from a human point of view may still disturb the moral order. When suffering follows such violations, responsibility belongs to the one who caused them. Each person helps shape his or her own future happiness or unhappiness.
-
-A simple comparison makes this clearer.
-
-A father educates his son and gives him the means to live. He entrusts him with a field to cultivate and says, in effect: I have taught you the rules, given you the tools, and shown you how to make this land fruitful. If you follow what you have learned, the field will produce abundantly and sustain you in your later years. If you neglect these rules, the field will fail, and you will suffer the consequences. Having done this, the father leaves the son free to act.
-
-The harvest will correspond to the care given to the field. Neglect will damage the crop. In time, the son’s well-being or misery will reflect how faithfully he followed the guidance he received.
-
-The same principle applies, more perfectly, in the divine order. God has given human beings the means to discern right from wrong and to act accordingly. More than that, divine care continues at every moment. Spirits are sent to inspire, encourage, and warn. Their influence helps awaken conscience and direct the soul toward what is right. Yet people often refuse to listen.
-
-There is, however, a further expression of divine mercy. Human life is not confined to a single opportunity. New lives are granted so that past errors may be repaired and neglected duties taken up again. What was misused in one existence may be corrected in another. Freedom remains, consequences remain, but so does the possibility of renewal.
-
-Divine justice and divine goodness therefore work together. The laws are fixed, the consequences are real, and responsibility cannot be shifted elsewhere. But guidance is constantly offered, and the future is never closed to improvement.
+The field will produce in proportion to the care given to its cultivation, and any negligence will harm the harvest. The son will therefore be happy or unhappy in his old age according to whether he has followed or neglected the rules laid down by his father. God is even more provident, because God warns us at every moment whether we are doing right or wrong by sending spirits to inspire us; however, we do not listen to them. There is also this further difference: God gives us recourse through new lives to repair our past errors, whereas the son in this example would not have the same opportunity if he misused his time.
 
 ## The Nature of Future Joys and Sorrows
 
-The joys and sorrows of the soul after death are not material.
+There can be nothing material in the joys and sorrows of the soul after death, since the soul is not matter. There is nothing bodily about future joys and sorrows, and for that reason they are a thousand times more vivid than those experienced on earth. Once freed from matter, the spirit is more impressionable; matter no longer dulls its sensitivity. (See nos. 237–257)
 
-The soul is not matter, and so its happiness and suffering cannot be understood as bodily sensations in the ordinary earthly sense. Yet they are not therefore vague or weak. Once freed from the body, the spirit becomes more impressionable, because matter no longer dulls its sensitivity. For that reason, future joys and sorrows are more vivid than those of earthly life.
+Human beings have formed crude and absurd ideas about the joys and sorrows of the future life because their intelligence is not yet sufficiently developed. The child does not understand as the adult does. It also depends on how people have been taught, and this is precisely where reform is most needed.
 
-Human beings often imagine the life to come in crude or even absurd ways because their intelligence is still limited and because they have often been taught through images that were meant only as comparisons. Language is too poor to express what lies beyond ordinary experience, so figurative forms have been used. The mistake comes when symbols are taken literally. As understanding develops, thought becomes less material and more capable of grasping these realities in a rational way.
+Human language is too incomplete to express what lies beyond human reach. Thus comparisons have been necessary, and these images and figures have too often been taken for reality itself. As people become more enlightened, they better understand the things their language cannot express.
 
-### The Happiness of Good Spirits
+The happiness of good spirits consists in knowing all things, in feeling no hatred, jealousy, envy, ambition, or any of the passions that make human beings unhappy. The love that unites them is a source of supreme happiness. They do not experience the needs, sufferings, or anxieties of material life. They are happy in the good they do. Moreover, the happiness of spirits is always in proportion to their progress. Only pure spirits enjoy supreme happiness; however, this does not mean that all others are unhappy. Between evil spirits and perfected spirits there is an infinity of gradations in which enjoyments are proportioned to the moral state. Those who are sufficiently advanced understand the happiness of those who have reached a higher condition before them, and they aspire to it. For them, this is a reason for emulation, not jealousy. They know that attaining it depends on their own efforts, and they work toward that end with the calmness of a pure conscience. They are happy no longer to suffer what evil spirits endure.
 
-The happiness of good spirits consists in a state of inner freedom, clarity, and loving activity.
+The absence of material needs is among the conditions of happiness for spirits. For human beings, satisfying such needs gratifies animal passions; when those needs cannot be met, it is torture.
 
-They know more, understand more, and are no longer tormented by hatred, jealousy, envy, ambition, or the passions that embitter human life. The love that unites them is itself a source of deep joy. They no longer endure the needs, anxieties, and sufferings of material existence. They are happy in the good they do.
+The statement that pure spirits are gathered in the bosom of God and employed in singing praises to God is an allegory meant to convey an idea of the knowledge they possess of the divine perfections, because they see and comprehend God. Like all allegories, it must not be taken literally. Everything in nature sings, from the grain of sand upward, proclaiming the power, wisdom, and goodness of God. But blessed spirits are not absorbed in eternal contemplation. That would be a monotonous and dull happiness, and, moreover, a selfish one, because their existence would then be one of unending uselessness. They no longer suffer the tribulations of corporeal life, which in itself is already an enjoyment. They know and understand all things, and they use the intelligence they have acquired to aid the progress of other spirits. That is their occupation, and at the same time, their joy.
 
-Their happiness is always in proportion to their progress. Only pure spirits enjoy supreme happiness, but that does not mean all others are miserable. Between the evil and the fully purified lies an infinity of degrees, and each spirit experiences enjoyments appropriate to its moral condition. Spirits advanced enough to perceive a higher happiness aspire to it, not with jealousy, but with emulation. They understand that it depends on their own efforts, and they work toward it with the calmness that comes from a clear conscience. They are already happy to be free from the sufferings endured by lower-order spirits.
+The sufferings of low-order spirits are as varied as the causes that produce them, and they are proportioned to the degree of impurity, just as enjoyments are proportioned to the degree of purity. They may be summed up as follows: to covet everything they lack in order to be happy, yet be unable to obtain it; to see happiness and be unable to attain it; regret, jealousy, rage, and despair arising from everything that keeps them from being happy; remorse and an indescribable moral anguish. They long for every kind of enjoyment, but cannot satisfy themselves. That is what tortures them.
 
-When pure spirits are described as gathered in the bosom of God and singing praises, this is an allegory. It expresses their knowledge of the divine perfections, which they perceive and understand. But their blessedness is not an endless, passive contemplation. Such a condition would be monotonous and barren. Their joy includes useful activity. They employ their intelligence in helping the progress of other spirits, and in that work they find both occupation and delight.
+The influence spirits exert over one another is always good on the part of good spirits. Perverse spirits, however, try to draw away from repentance and from the good those whom they think susceptible to being misled, and whom they often led into evil during earthly life.
 
-A soul that has reached a certain degree of purity already tastes a profound happiness. A gentle satisfaction surrounds it. It rejoices in what it sees and in all that exists around it. The veil is lifted from the marvels and mysteries of creation, and the divine perfections shine before it with greater splendor.
+Death does not deliver spirits from temptation, but the action of evil spirits is much less significant over other spirits than over human beings, because spirits are no longer sustained by material passions. (See no. 996)
 
-### The Sufferings of Lower-Order Spirits
+Although the passions no longer exist in the material sense, they still exist mentally in little-evolved spirits. Evil spirits lure their victims to places where they can witness the spectacle of those passions and everything that arouses them.
 
-The sufferings of lower-order spirits are as varied as the causes that produce them, and they correspond to the degree of their impurity.
+These passions no longer have any real object, and that is precisely what makes up their torture: misers see gold they cannot possess; the debauched see orgies they cannot join; the proud see honors they envy but cannot enjoy.
 
-Their torment may be summed up in this: they long for what would make them happy, but they cannot attain it. They see happiness and remain excluded from it. From that exclusion arise regret, jealousy, rage, despair, remorse, and an indescribable mental anguish. They desire enjoyments of every kind, yet cannot satisfy them. This is their torture.
+The greatest sufferings evil spirits must endure are moral tortures, the punishment of certain crimes. It is impossible to describe them fully, and even the spirits who suffer them find it difficult to convey an idea of them. Assuredly, the most dreadful is the thought of being condemned forever.
 
-Even after death, temptation does not disappear entirely. Evil spirits still try to turn others away from repentance and from the good. But their power is less over spirits than over embodied human beings, because spirits are no longer sustained by material passions.
+People’s ideas about the joys and sorrows of the soul after death are more or less accurate according to their degree of intelligence. As they become more evolved, their thought becomes more refined and less material; they understand things more rationally and cease taking figurative language literally. The most enlightened reasoning teaches that the soul is an entirely spiritual being and therefore cannot be affected by impressions that act only on matter. However, it does not follow that the soul is free from suffering or that it is not punished for its wrongdoing. (See no. 237)
 
-In little-evolved spirits, however, those passions still persist in a mental form. Evil spirits tempt them by drawing them toward scenes where they can witness what awakens old desires. This spectacle itself becomes part of their suffering. The miser sees gold but cannot possess it. The debauchee sees excess but cannot take part in it. The proud behold honors they envy but cannot enjoy. The object remains before them, while fulfillment is impossible.
+Spirit communications are meant to show us the future state of the soul no longer as a theory, but as a reality. They place before us all the vicissitudes of life beyond the grave, while also showing that these are the perfectly logical consequences of earthly life. Though stripped of the fantastical trappings created by human imagination, they are no less painful for those who have made bad use of their faculties. The diversity of these consequences is infinite, but they may generally be summed up in this way: each soul is punished for its particular faults. Some are punished by the incessant sight of the evil they committed; others by regret, fear, shame, doubt, loneliness, darkness, and separation from those who are dear to them, and so on.
 
-Some moral sufferings are especially difficult to describe. The mental tortures connected with certain crimes escape human language. Among the most terrible is the thought of being condemned forever. Yet the image of eternal punishment by fire must not be taken literally.
+The doctrine of eternal fire comes from taking an image as a reality, as with so many others.
 
-### Eternal Fire as an Image
+The fear of eternal fire does not produce a durable or healthy result. If people are taught things that reason will later reject, the impression produced will be neither lasting nor wholesome.
 
-The doctrine of eternal fire comes from an image mistaken for reality.
+Unable to translate the nature of such sufferings into their own language, human beings have found no more forceful comparison than fire, which represents the cruelest torture known to them and symbolizes the most intense action. This is why the belief in eternal fire can be traced back to earliest antiquity, and why modern cultures inherited it from their ancestors. It is also why, in figurative language, people speak of fiery passions, burning with love, burning with jealousy, and the like.
 
-Fire has long served as the strongest symbol available for extreme pain. Human beings, unable to describe spiritual suffering in exact language, have used the comparison of burning because it represents intense torment and powerful action. Figurative language still preserves the same instinct when it speaks of fiery passions, of burning love, or of burning jealousy.
+Low-order spirits understand the happiness of the morally upright, and this is one of their torments, because they know they are deprived of it by their own fault. That is why the spirit, once freed from matter, aspires to a new corporeal existence. It knows that each existence, if well used, will shorten the duration of its torment. With this in mind, it chooses the trials that will expiate its wrongs. The spirit suffers for all the wrong it has done or intentionally caused, for all the good it might have done but did not, and for all the evil that resulted from the good it failed to do.
 
-Such imagery may impress the imagination, but when symbols are taught as literal truth, the result is neither lasting nor healthy. Teachings that reason later rejects weaken rather than strengthen moral life.
+The discarnate spirit is no longer veiled by matter. It is as though it had emerged from a fog and now sees what prevents its happiness. Hence it suffers more, because it understands the extent of its guilt. For the spirit, illusion no longer exists; it sees things as they truly are.
 
-### Punishment as the Consequence of One’s Own Life
+In the errant state, spirits, on the one hand, take in all their past existences at a glance; on the other, they foresee the promised future and understand what they still lack in order to reach it. Like a traveler who has reached a hilltop, they see both the road already traveled and the distance still to go before reaching the destination.
 
-The future condition of the soul follows logically from the life it has lived.
+The sight of suffering spirits does not afflict good spirits, because they know such evil will end, and they help others improve by offering them a helping hand. That is their task, and their joy when they succeed.
 
-Freed from fanciful exaggerations, the life beyond the grave remains no less serious. The consequences are painful for those who have made bad use of their faculties, but those consequences are not arbitrary. Each soul is punished through the very nature of its faults.
+This is true even for those who were dear to them on earth. If they did not see earthly sufferings, it would mean they had become estranged after death. Souls continue to see the living, but they regard their afflictions from another point of view. They know such sufferings aid advancement if borne with resignation. They are more afflicted by the lack of courage that holds the living back than by sufferings they know are only temporary.
 
-Some are punished by the incessant sight of the evil they committed. Others suffer through regret, fear, shame, doubt, isolation, darkness, or separation from those they love. The diversity is infinite, but the governing principle remains the same: each one bears the result of what it has done, what it has knowingly caused, the good it failed to do, and the evil that followed from that omission.
+Since spirits cannot hide their thoughts from one another, and since all the acts of their lives are known, those who are guilty continually see their victims as present before them. Common sense says it cannot be otherwise.
 
-Lower-order spirits understand the happiness of the morally upright, and that understanding itself is part of their pain. They know they are deprived of that happiness through their own fault. Once freed from matter, the spirit sees with greater clarity what prevents its joy. Illusion falls away. It sees things as they are.
+This unveiling of all reprehensible actions and the perpetual sight of one’s victims is a punishment for the guilty spirit greater than might be supposed, but it lasts only until the wrongdoing has been expiated, whether in the spirit state or in new corporeal existences.
 
-That is why the spirit aspires to a new corporeal existence. It knows that each existence, if well used, may shorten the duration of its torment. It chooses trials through which its wrongs may be expiated.
+When we find ourselves in the world of spirits, our entire past will be laid open; the good and the evil we have done will both be known. Those who have done evil will try in vain to avoid the sight of their victims, and their unavoidable presence will be for them an incessant punishment and regret until they have expiated their wrongs. Moral individuals, on the contrary, will meet only friendly and benevolent eyes everywhere.
 
-In the errant state, spirits survey their past existences at a glance and also foresee the promised future. They understand what they still lack. Like a traveler standing on a height, they see both the road already traversed and the distance still remaining.
+For evil persons, there is no greater torment on earth than the presence of their victims; that is why they always avoid them. Once stripped of the illusion of the passions, they will understand the evil they have done, see their most secret actions revealed, find their hypocrisy unmasked, and perceive that they cannot hide from the sight of those they have harmed. In the same measure that the soul of the wicked feels shame, regret, and remorse, the soul of the righteous enjoys perfect peace.
 
-### The Sight of Victims and the Exposure of the Past
+The memory of the wrongs committed by a soul while still imperfect does not disturb its happiness after it has purified itself, because it has atoned for those wrongs and emerged victorious from the trials to which it submitted itself for that very purpose.
 
-In the world of spirits, thoughts are not hidden, and the acts of one’s life are known.
+The trials a soul still must undergo in order to complete its purification are, for the soul that remains tainted, a grave concern. That is why it cannot enjoy perfect happiness until it is entirely pure. Nevertheless, for the soul that has already advanced, the thought of the trials still to come contains nothing painful.
 
-For the guilty, this disclosure is itself a punishment. They cannot always escape the presence of those whom they wronged. The sight of their victims and the unveiling of their secret actions become a source of continual shame, regret, and remorse, lasting until the wrong has been expiated either in the spiritual state or through new bodily lives.
+A soul that has reached a certain degree of purity enjoys happiness. A feeling of gentle satisfaction surrounds it, and it is happy in everything it sees and all that surrounds it. The veil is lifted, revealing the wonders and mysteries of creation, and the divine perfections appear in all their splendor.
 
-This condition follows ordinary moral intuition. Even on earth, wrongdoers avoid those they have injured because the presence of the victim is already painful. How much more severe must that pain become when all hypocrisy is stripped away, the illusion of passion is gone, and nothing remains concealed.
+The bond of affinity that unites spirits of the same order is a source of happiness for them. The unity of spirits attuned to one another through goodness is one of their greatest joys, because they do not have to fear seeing that unity disturbed by selfishness. On wholly spiritual worlds, they form families animated by the same sentiment, and from this they derive spiritual happiness, just as on earth people group themselves by shared sympathies and feel a certain pleasure in one another’s company. The pure and sincere affection they feel and receive is itself a source of happiness. Among them there are neither false friends nor hypocrites.
 
-For the righteous, the opposite is true. They meet only benevolent and friendly regard everywhere, and their soul enjoys peace.
+Human beings enjoy the first fruits of this happiness on earth when they meet souls with whom they can enter into a pure and holy unity. In a life of greater purity, such joy will be beyond words and without limit, because they will meet only sympathetic souls, whom selfishness has not rendered indifferent. In nature, everything is love; selfishness is what destroys it.
 
-Once a soul has purified itself, the memory of past wrongs no longer disturbs its happiness. It has atoned for them and emerged victorious from the trials accepted for that purpose.
+Regarding the future state of the spirit, there may be a great difference between those who have feared death and those who have looked upon it with indifference or even with joy, although this difference is often obscured by the causes that produce such fear or desire. Those who fear death and those who desire it may be moved by very different motives, and it is these motives that influence the spirit’s future state. Those who desire death only because it will end their troubles are, in reality, complaining against Providence and against the trials they must endure.
 
-If some impurity still remains, the soul may feel concern over the trials yet to come, and for that reason it does not enjoy perfect happiness. But for the soul already advanced, the thought of future trials is no longer painful.
+It is not necessary to profess Spiritism or to believe in manifestations in order to secure well-being in the next life. If that were so, then all who do not believe, or who have had no opportunity to learn of these things, would be disinherited, which is absurd. Only goodness ensures future well-being. The good is always the good, whatever path leads to it. (See nos. 165–799)
 
-### Affection, Sympathy, and Spiritual Union
-
-One of the greatest joys of spirits is the union formed by those who are attuned through goodness.
-
-On spiritual worlds, spirits of the same order form families animated by the same sentiment. Their mutual affection is pure and sincere. They need not fear selfishness, betrayal, false friendship, or hypocrisy. This harmony is itself a deep source of happiness.
-
-Human beings already experience the first outlines of this joy when they meet others with whom they can share a pure and holy unity. In a more purified life, that joy becomes immeasurably fuller, because spirits encounter only sympathetic souls. Love is woven into the nature of things; selfishness is what disrupts it.
-
-### The Good and the Suffering of Others
-
-The sight of suffering spirits does not disturb the happiness of good spirits in the way human beings might imagine.
-
-Good spirits know that such suffering will end, and they help others improve. Their labor on behalf of those who suffer is itself one of their joys, especially when they succeed in aiding progress.
-
-The same is true in relation to those they loved on earth. They do not become indifferent after death. They still see the sufferings of those left behind, but they judge them from a higher point of view. They know that earthly trials can contribute to advancement if borne with resignation. What pains them more than temporary suffering is the lack of courage that delays progress.
-
-### Death, Fear, and Moral State
-
-Fear of death, indifference to death, or even joy at the thought of death does not by itself determine the future condition of the spirit.
-
-The decisive factor is the sentiment behind that attitude. Fear may arise from very different causes, and the desire for death may also spring from motives that are noble or deeply misguided. One who longs for death merely to escape suffering may actually be rebelling against providential trials rather than accepting them.
-
-What matters is not the outward feeling about death, but the moral quality of the soul.
-
-### Faith and Future Well-Being
-
-Future well-being does not depend on making a formal profession of belief in Spiritism or on having accepted spirit manifestations.
-
-If it did, then all who had never encountered such ideas would be unjustly excluded, which is impossible. Goodness alone secures true future happiness. The good remains the good, whatever road has led a person toward it.
-
-Yet clearer understanding of the future can help moral progress. It strengthens conviction, gives support in trials, encourages patience and resignation, and turns the mind away from acts that would delay future happiness. Such knowledge is a light and an aid, but never a monopoly on salvation.
-
-The essential law remains simple: every soul advances through its own moral transformation, and its joys or sorrows beyond death are the living consequences of what it has become.
+Belief in Spiritism helps self-improvement by clarifying certain points about the future. It hastens the advancement of individuals and of the masses because it enables us to know what we ourselves will one day be, making it a support and a light to guide us. Spiritism teaches us to bear our trials with patience and resignation, and turns us away from actions that might delay our future happiness. Through its teachings, Spiritism contributes to future joys, but it has never claimed that such happiness cannot be attained without it.
 
 ## Temporary Punishments
 
-The sufferings connected with wrongdoing do not end with bodily death, nor are they confined to bodily pain during earthly life.
+A spirit that expiates its wrongs in a new life undergoes physical suffering, but it is only the body that suffers physically. The tribulations of life are sufferings for the reincarnated soul.
 
-In reincarnated existence, physical pain belongs to the body, but the spirit bears the deeper moral consequence of its own imperfections. After death, a spirit no longer experiences physical suffering in the material sense, yet it may endure mental anguish that is even more painful. Regret, remorse, shame, frustrated desire, and the clear perception of what has been done can weigh on the spirit with great intensity.
+A dead person no longer suffers physical pain, but this is not always true in every respect. As a spirit, such a one may still suffer morally, depending on the wrongs committed, and in a new existence may be even more unhappy. Those who have wasted their wealth will in turn beg and endure the privations of poverty; the proud will undergo humiliations of every kind; those who abused authority and treated their subordinates with disdain and harshness will be forced to obey masters still harsher than they were. All the punishments and tribulations of life are expiations for wrongs from another life when they are not the consequence of wrongs committed in the present one. When you have left this present life, you will understand this better. (See nos. 273, 393, 399)
 
-Earthly trials are often linked to this law of reparation. Poverty may become the discipline of one who squandered wealth. Humiliation may meet one who was proud. Those who abused power and treated others harshly may later find themselves under severe authority. Many of the hardships of life are expiations for wrongs committed in a previous existence, when they are not the direct result of faults committed in the present one.
+Those who believe themselves happy on earth because they can satisfy their passions are precisely those who make the least effort at self-improvement. Often they begin to expiate this fleeting happiness in the present life, but they will certainly atone for it in another existence as material as this one.
 
-Those who seem happy because they freely indulge their passions are often the very ones who do least to rise above their lower nature. Sometimes they begin to pay for that brief and superficial happiness in their current life; if not, they will certainly answer for it in another existence of a similarly material kind.
+The troubles of life are not always punishment for present wrongs. They are often trials imposed by God or chosen by the spirit itself before reincarnation in order to expiate wrongs committed in a former life. No infraction of the laws of God, especially of the law of justice, ever goes unpunished. If punishment is not undergone in this life, it will certainly be in another. This is why persons whom you regard as morally upright often still experience the consequences of actions from past existences. (See no. 393)
 
-### Punishment, Trial, and Responsibility
+The reincarnation of a soul on a less dense world is a consequence of its purification, for as spirits become purified, they reincarnate on increasingly better worlds until they have completely freed themselves from matter and moral imperfection, in order to enjoy eternally the bliss of pure spirits in the bosom of God.
 
-The troubles of life are not always punishments for present faults.
+On worlds where existence is less material than on this earth, needs are less coarse and all physical suffering is less acute. Their inhabitants no longer know the evil passions that, on less evolved worlds, make beings enemies to one another. Having no motive for hatred or jealousy, they live in peace, practicing the law of justice, love, and charity. They do not know the worries and anguish born of envy, pride, and selfishness, which make up the torment of earthly existence. (See nos. 172, 182)
 
-They may be trials permitted by God or accepted by the spirit before reincarnation, either to repair past wrongdoing or to support moral growth. Nothing that violates divine justice remains without consequence. If reparation does not occur in one life, it will occur in another. For this reason, people who appear morally upright may still undergo difficult circumstances that arise from acts committed in former existences.
+Spirits who have progressed during their earthly existence can sometimes reincarnate on the same world if they have not been able to fulfill their mission and if they ask to complete it in a new existence; however, in that case it is no longer an expiation for them. (See no. 173)
 
-There is therefore a distinction between suffering as immediate consequence and suffering as expiation. Present actions produce present effects, but the deeper moral order extends beyond a single life. What seems undeserved from a narrow earthly perspective may belong to a much longer history of responsibility.
+Those who, without doing evil, nevertheless do nothing to shake off the influence of matter, having made no progress toward perfection, must begin a new existence similar to the one they have left behind. They remain at a standstill, and thus may prolong the suffering of their expiation.
 
-### Progress to Better Worlds
+There are people whose lives seem to flow in perfect serenity and who appear entirely free of care. Such a happy existence is not proof that they have nothing to expiate from a former existence. Usually, such serenity is only apparent.
 
-Reincarnation on a less material world is not an arbitrary favor. It is the natural consequence of purification.
+They may have chosen such an existence, but when they leave it behind, they perceive that it has not helped them progress. Then, like those who have been idle, they regret the time they wasted. Spirits can acquire knowledge and evolve only through activity. If they choose to rest in a life free from care, they do not advance. They are like those who, according to your customs, ought to work but instead go for a walk or go to sleep to avoid it. Each of you will have to answer for any intentional inactivity during life, and such uselessness is always fatal to future happiness. The sum of future happiness is always in exact proportion to the sum of the good done. In the same way, unhappiness is always in proportion to the evil done and to the number of persons made unhappy.
 
-As spirits become more refined, they are born into worlds that correspond to their advancement. In those worlds, matter is less dense, bodily needs are less pressing, and physical suffering is less severe. The inhabitants are no longer ruled by the violent passions that make human beings enemies of one another on less advanced worlds.
-
-Where hatred, jealousy, pride, and selfishness have lost their hold, life becomes more peaceful. Justice, love, and charity are practiced more naturally. The anxieties that dominate earthly life—envy, rivalry, wounded vanity, possessiveness—cease to torment the soul in the same way. Progress therefore changes not only the spirit itself, but also the kind of world in which it can live.
-
-A spirit who has advanced on earth may sometimes return here. This can happen when its mission has not been completed and it asks to continue the work in a new bodily life. In such a case, the return is no longer expiation, but service or completion.
-
-### The Consequences of Moral Stagnation
-
-Not only overt evil delays the spirit. Refusing to rise above material influence also has consequences.
-
-Those who do no real work toward their own improvement, even if they are not actively wicked, remain nearly where they were. Since they have not moved toward perfection, they must begin again in an existence much like the one they have just left. Their stagnation prolongs the suffering tied to their unfinished expiation.
-
-This helps explain why an outwardly calm and comfortable life is not necessarily a sign of moral victory or of freedom from past debts. A life without visible troubles may simply be a life chosen under conditions that allow little resistance, little sacrifice, and little growth. When such a life ends, the spirit may realize that it gained almost nothing from it.
-
-Spirits advance through activity. Knowledge, strength, charity, and self-mastery are not acquired through idleness. To choose rest merely to avoid effort is to waste the opportunity of incarnation. Deliberate uselessness harms future happiness, because lasting happiness is always in proportion to the good accomplished, just as unhappiness is in proportion to the evil done and to the suffering imposed on others.
-
-### Making Others Unhappy
-
-There are people who are not openly malicious, yet their temper, selfishness, harshness, or insensitivity make life painful for everyone around them. This too carries moral consequence.
-
-Such persons cannot be called truly good. They will answer for the unhappiness they caused. One part of their suffering will be the sight and understanding of the pain they produced in others. That awareness becomes a continual reproach. Later, in another existence, they will endure conditions similar to those they once imposed.
-
-The law at work is neither vengeance nor arbitrariness. It is moral education through consequence. The spirit learns, repairs, and progresses by coming to feel, understand, and overcome what it once caused or embraced. Temporary punishments belong to that process. They are severe only as long as the imperfection that gives rise to them remains.
+There are persons who, though not positively wicked, make everyone around them unhappy because of their character. Such persons are certainly not good. They will expiate this fault by the sight of those whom they made unhappy, and this will be a constant reproach to them. Then, in another existence, they will endure all that they caused others to endure.
 
 ## Expiation and Repentance
 
-Repentance may occur both during bodily life and in the spirit state. In the spirit state, it arises when a spirit sees clearly the distance between good and evil and understands what has kept it from happiness. During bodily life, it becomes possible when a person truly grasps that same moral difference and recognizes the need to change.
+Repentance takes place in the spirit state. It may also take place in the corporeal state when the difference between good and evil is clearly understood.
 
-In the spirit state, repentance awakens the desire for a new incarnation. The spirit understands that another earthly existence may provide the opportunity to purify itself, expiate its wrongs, and overcome the imperfections that have caused its suffering. During bodily life, repentance has a more immediate effect: it allows real advancement in the present existence, so long as there is still time to repair the harm done. Whenever conscience reproaches a fault or reveals an imperfection, improvement remains possible.
+The consequence of repentance in the spirit state is the spirit’s desire for a new incarnation in order to purify itself. It understands the imperfections that have kept it from being happy and aspires to a new existence in which it may expiate its wrongs. (See nos. 332, 975)
 
-No spirit is forever closed to repentance. Some appear to have only an instinct for evil, yet even they are destined to progress. If the good is absent in one life, it may awaken in another. Rebirths succeed one another until each spirit advances, more quickly or more slowly, according to its willingness. Those who now seem naturally inclined to the good have reached that condition through prior struggle and purification.
+The consequence of repentance in the corporeal state is advancement during the present bodily life, if there is still time to amend one’s wrongs. Whenever conscience reproaches or reveals an imperfection, improvement is always possible.
 
-Even the wicked eventually recognize their wrongs after death. That recognition often brings sharper suffering, because regret is added to the memory of the evil they committed or intentionally caused. Yet repentance is not always immediate. Some spirits remain stubborn, persisting in revolt and wrongdoing despite the suffering this brings them. Their blindness does not last forever. Sooner or later they understand that they have taken a false path. The work of good spirits is to help awaken that understanding, and human beings also share in that work whenever they encourage moral awakening and a return to the good.
+There are no individuals who have only an instinct for evil and are incapable of repenting. The spirit must progress without ceasing. Those who in this life possess only an instinct for evil will possess an instinct for good in another; that is why they are reborn many times. All must advance and reach the goal at their own pace, more quickly or more slowly, according to their desire. Those who possess only an instinct for good are already purified, because they may well have possessed an instinct for evil in a former existence. (See no. 894)
 
-There are also spirits who are not openly wicked but remain indifferent, inactive, and unconcerned with anything useful. They linger in a kind of expectancy. Their suffering is proportionate to that inertia. Since all things are directed toward progress, even their suffering becomes a means of stirring them onward. They wish to escape their condition, yet often lack the will needed to do what would shorten it, much as many people prefer hardship to the effort of honest labor.
+Wicked individuals who did not recognize their wrongs during life always recognize them after death. They then suffer all the more because they regret all the evil they did or intentionally caused. Repentance, however, is not always immediate. There are spirits who obstinately persist in wrongdoing despite their suffering; but sooner or later they will see that they have taken a false path, and repentance will follow. It is for their enlightenment that good spirits work, and toward that same end human beings should also work.
 
-Some spirits worsen their own condition after death by continuing to do evil and by turning others away from the good. This happens because repentance can be delayed, and even a spirit that has begun to repent may still be drawn back by the influence of spirits that are less advanced and more corrupt. Moral instability does not cease all at once.
+There are spirits who, though not wicked, are nevertheless indifferent to their fate. They busy themselves with nothing useful and remain in a state of expectancy. They suffer in proportion to their inactivity, and since everything must lead to progress, such progress is brought about through suffering.
 
-Prayer helps repentant spirits, but it does not act in the same way upon all. Where repentance is present, prayer can support, console, and strengthen. But spirits hardened by pride, rebellion, and persistence in wrongdoing do not receive its benefit in the same way. Until the light of repentance arises in them, they remain closed to the help being offered.
+They no doubt desire to shorten their suffering, but they lack the will to do what is necessary to relieve it. How many human beings would rather die in poverty than work?
 
-After death, spirits are not suddenly transformed. Bodily death does not instantly make the imperfect perfect. If a life was morally disordered, the imperfections that produced it continue beyond the grave. Spirits may carry with them the same errors, false ideas, and prejudices they held on earth. They are gradually enlightened through reflection, experience, study, and suffering.
+Although spirits see the harm that results from their wrongs, some worsen their condition and prolong their imperfection by doing evil as spirits and turning people away from the path of good. Thus some spirits delay their repentance. Moreover, a spirit that has repented may afterward still allow itself to be drawn back onto an immoral path by spirits even less evolved. (See no. 971)
 
-### Expiation and Its Forms
+Some spirits who are notoriously imperfect are open to good sentiments and to prayers offered on their behalf, while others who might be thought more enlightened display a hardness and cynicism that nothing can overcome, because prayer is effective only for spirits who repent. Those who, driven by pride, rebel against God and persist in wrongdoing, increasing it still further, as unhappy spirits do, cannot and never will receive the benefit of prayer until the day the light of repentance dawns in them. (See no. 664)
 
-Expiation takes place both in corporeal existence and in the spirit life. During bodily life, it is accomplished through the trials a spirit undergoes. In the spirit state, it occurs through the mental suffering inseparable from imperfection itself. Suffering is not arbitrary. It corresponds to the state of the spirit and serves the work of correction and progress.
+After the death of the body, spirits are not suddenly transformed. If their life was blameworthy, it was because they were imperfect. Death does not change that by suddenly making them perfect. They may persist in their errors, their false ideas, and their prejudices until they are enlightened by study, reflection, and suffering.
 
-Sincere repentance during earthly life improves the spirit, but it does not erase the past by itself. Wrongs still require expiation. Repentance changes the direction of the soul; it does not abolish moral law. For that reason, anyone who refuses repentance on the excuse that suffering alone will settle everything only prolongs and intensifies that suffering. If the spirit clings to the thought of evil, expiation becomes longer and more painful.
+Expiation is accomplished in corporeal existence through the trials the spirit must undergo, and in the spirit life through the moral sufferings arising from its state of imperfection.
 
-### Reparation in the Present Life
+Sincere repentance during life is not enough to erase a spirit’s wrongs and entitle it to divine grace. Repentance helps improve the spirit, but the past must still be expiated.
 
-Wrongs can be redeemed in the present life through reparation. Real reparation is not a matter of outward display, symbolic self-denial, or gifts made only when sacrifice no longer costs anything. Empty remorse has little value when it asks nothing of pride, comfort, or self-interest.
+If a criminal were to say that, since he was expiating his past, there was no reason for him to repent, the consequence would be that, if he persisted in evil thought, his expiation would only become longer and more painful.
 
-Good alone atones for evil. Reparation has moral worth when it truly addresses the harm done and when it requires something real from the one making amends. A genuine act of service, even when costly, can efface more wrongs than severe bodily mortification undertaken only for oneself. What matters is not suffering chosen as a performance, but the restoration of what was damaged and the active practice of good.
+Wrongs can be redeemed in the present life by making reparation for them. They cannot be redeemed by a few childish privations or by donations made after death, when possessions are no longer needed. God does not value sterile repentance, which is always easy and costs no more than beating one’s breast. The loss of a finger while rendering service erases more wrongs than years of mortifying the flesh for no purpose beyond one’s own interest. (See no. 726)
 
-Property unjustly acquired is not morally repaired simply by being returned after death, when it can no longer benefit the one who possessed it. Renouncing a few unnecessary pleasures is also insufficient if the injury inflicted on another remains uncorrected. Nor is it enough to humble oneself before God while preserving pride in one’s dealings with other people. Reparation must reach the place where the wrong was committed.
+Evil can be atoned for only through good, and reparation has no merit if it does not affect human pride or material interest.
 
-### Giving During Life and After Death
+It does no good on one’s own behalf after death to restore property wrongly acquired and fully enjoyed during life, when it is now of no further use.
 
-To arrange for one’s property to be put to good use after death is better than doing nothing, but it is not the highest form of generosity. Those who give only after death often wish to obtain the honor of charity without practicing sacrifice while alive. The one who gives during life receives a double good: the moral value of self-denial and the joy of witnessing the happiness brought to others.
+It does no good to deprive oneself of a few useless and superfluous pleasures if the evil done to another remains unrepaired.
 
-Wealth is a difficult trial. Selfishness constantly argues that what is given away is lost, and it persuades many to cling to possessions under the excuse of necessity, comfort, or social standing. Yet those who never learn to give deprive themselves of one of life’s purest joys. Generosity is itself a blessing, and the opportunity to exercise it is part of the moral purpose of material abundance.
+Lastly, it does no good to humble oneself before God while maintaining pride in one’s dealings with others. (See nos. 720, 721)
 
-### Repentance at the End of Life
+There is some merit in providing that the property one leaves behind be put to good use after death, but this is always less than doing the good oneself. Unfortunately, those who give only after death are usually more selfish than generous: they want the honor of charity without having to practice it. Those who deprive themselves during life enjoy a double benefit: the merit of sacrifice and the pleasure of seeing the happiness of those they have helped. But selfishness is always ready to whisper that whatever is given away diminishes one’s own enjoyment, and since selfishness speaks more loudly than selflessness and charity, people cling to their possessions under the pretext that they are needed for their own wants and social standing. Pity those who do not know the pleasure of giving, for they have truly deprived themselves of one of the purest and sweetest joys of humankind. In subjecting them to the trial of wealth—so slippery and dangerous for the future—God has wished to give them, by way of compensation, the happiness of generosity, which they may enjoy already in this world. (See no. 814)
 
-When people recognize their wrongs only at the end of life and no longer have time to repair them, repentance still has value. It hastens rehabilitation, because it changes the inner disposition of the spirit and opens it to progress. But it does not by itself absolve the wrong. The future remains open, and further opportunities will come in which what has not yet been repaired may still be expiated and set right.
-
-No sincere return to the good is lost. Repentance is the beginning of restoration, not its completion. Expiation, reparation, and progress continue until the spirit has truly overcome the causes of its suffering and aligned itself with the good.
+When, at death, individuals recognize their wrongs but no longer have time to make amends, repentance hastens their rehabilitation but does not absolve them. They still have the whole future before them, and that future is never closed.
 
 ## The Duration of Future Punishments
 
-Future suffering is not arbitrary.
+The duration of the sufferings of the guilty in the future life is not arbitrary, but subordinate to law, for God never acts capriciously. Everything in the universe is ruled by laws that reveal divine wisdom and goodness.
 
-Nothing in the moral order is governed by caprice. The destiny of spirits is subject to laws that express divine wisdom and goodness. Punishment is therefore not an act of blind vengeance, but a consequence governed by justice and directed toward restoration.
+The duration of the sufferings of the guilty is determined by the time required for their improvement. Since the state of suffering or happiness is in proportion to a spirit’s degree of purification, the duration and nature of its sufferings depend on the time it takes to improve itself. As the spirit progresses and its sentiments become purer, its sufferings diminish and change accordingly.
 
-The duration of suffering depends on the time required for the spirit’s improvement.
+*St. Louis*
 
-A spirit suffers in proportion to its degree of imperfection, and as it becomes purified, its suffering lessens. The nature of the suffering also changes with this inner transformation. As sentiments become better and the will turns more sincerely toward the good, pain diminishes and gradually gives way to peace.
+For a suffering spirit, time seems longer than when it was incarnate, because sleep does not exist. Only for spirits who have reached a certain degree of purification is time, so to speak, effaced in the face of the infinite.
 
-For suffering spirits, time seems longer than it does during earthly life. There is no sleep to interrupt awareness. Only spirits who have reached a certain purification begin to experience time as though it were absorbed into a wider sense of the infinite.
+If a spirit were to remain eternally evil—that is, if it were never to repent or improve—then it would suffer eternally. But God has not created beings eternally devoted to evil. They were created only simple and ignorant, and all must progress over a longer or shorter time according to their free will. This will may manifest itself later in some than in others, just as some children are precocious and others are not. Yet sooner or later it will appear through the irresistible need the spirit feels to leave its state of imperfection and become happy. The law governing the duration of suffering is therefore eminently wise and beneficent. It makes that duration depend on the spirit’s own efforts, never depriving it of free will. If it makes bad use of that freedom, it must bear the consequences.
 
-### The Law Governing the Duration of Punishment
+*St. Louis*
 
-Punishment can be called eternal only in a conditional sense: if a spirit were to remain forever evil, it would suffer forever. But spirits are not created for eternal evil. They are created simple and ignorant, with the capacity to progress. Their advancement may be slow or delayed, since free will is real and can be misused, but the impulse toward happiness and improvement eventually awakens in all.
+There are spirits who delay repentance, but to suppose they will never improve is to deny the law of progress and to say that the child will never become an adult.
 
-The duration of suffering is therefore linked to the spirit’s own efforts. This law is both just and merciful. It never suppresses freedom, yet it never denies the possibility of change. If a spirit persists in wrongdoing, it prolongs its own pain. If it turns toward repentance and renewal, relief begins.
+*St. Louis*
 
-Some punishments may be imposed for a determined period, but even then repentance is never rejected. Every sincere movement toward improvement has value. The desire to become better is never fruitless.
+There are punishments that may be imposed on a spirit for a specific period, but God, who wills only the good of divine creatures, always welcomes repentance. The spirit’s desire to improve is never fruitless.
 
-For this reason, punishments are not eternal in the absolute sense.
+*St. Louis*
 
-To condemn a being to endless torment for the errors of a short earthly life would contradict both justice and goodness. Even a life of one hundred years is nothing beside eternity. Endless suffering without hope, imposed for finite faults, cannot be reconciled with the idea of a God whose nature is infinitely good.
+Punishments are never eternal. Common sense and reason show that eternal condemnation for a few moments of error would be a denial of the goodness of God. In fact, the duration of a life, even if it lasted a hundred years, is nothing compared with eternity. Eternity means suffering and torture without end and without hope for only a few faults. Reason rejects such an idea. That the ancients saw in the Sovereign of the Universe a terrible, jealous, and vindictive God is understandable. In their ignorance, they attributed human passions to the Deity. But that is not the God of Christians, who exalts love, charity, mercy, and forgiveness as the highest virtues. God cannot lack the qualities that God makes a duty for human beings. It is contradictory to attribute to God both infinite goodness and infinite vengeance. God is above all just, but human beings do not understand divine justice. Justice, however, does not exclude kindness, and God would not be kind if most creatures were condemned to a horrible and everlasting punishment. God could not make justice obligatory for all if all had not been given the means to understand it. Justice is sublime when, united with goodness, it makes the duration of punishment depend on the efforts of the guilty to improve themselves. There lies the truth of the precept, “to each according to his deeds.”
 
-Justice does not exclude kindness. On the contrary, justice reaches its highest form when joined to goodness, making the duration of punishment depend on the effort made by the guilty to reform themselves. In that union of law and mercy lies the true meaning of giving to each according to their deeds.
+*St. Augustine*
 
-### Repentance, Progress, and Hope
+By every possible means, the idea of eternal punishment is to be opposed and eradicated, for it is a blasphemous notion against the justice and goodness of God, and the most abundant source of the incredulity, materialism, and indifference that have spread among the masses as soon as their intelligence began to develop. A spirit that has just left the state of ignorance, or is on the verge of enlightenment, quickly understands this monstrous injustice. Its reason rejects it, and then, more often than not, it confounds the eternal punishment it rejects with the God to whom it attributes such condemnation. From this arise the countless evils that have fallen upon humanity and for which the remedy has now come. The task is easier because the authorities upon whom defenders of this belief have relied have avoided a formal pronouncement on this point. Neither the Councils nor the Church Fathers resolved this grave question. Following the Evangelists themselves and taking Christ’s allegorical words literally, if Christ did in fact threaten the guilty with unquenchable, eternal fire, there is absolutely nothing in those words that proves they are condemned for all eternity.
 
-There are spirits who postpone repentance, sometimes for a very long time. But to suppose that a spirit will never improve is to deny the law of progress itself. It would be like claiming that a child will never become an adult.
+Poor lost sheep are to behold the Good Shepherd approaching them, and far from wishing to banish them forever from his presence, he comes to find them and lead them back to the fold. Prodigal children are to leave their willful exile and turn back toward the Father, who opens his arms to them and is always ready to celebrate their return to the family.
 
-Hope therefore remains open to all. No spirit is forever banished from the possibility of return. The way back may be long, painful, and resisted, but it is never closed.
+*Lamennais*
 
-The image that best expresses this law is not that of a ruler casting creatures away without appeal, but of a shepherd seeking the lost, or of a parent ready to welcome home a child who returns after wandering. Exile is prolonged by the will that clings to it. Reconciliation waits as soon as the spirit turns back.
+Wars of words have lasted long enough. Enough blood has been shed, and the fires of persecution are not to be rekindled. The dispute over expressions such as “eternal suffering” and “eternal punishment” overlooks the fact that what is understood today by eternity was not understood in the same way by the ancients. Let theologians consult the sources, and they will discover that the Hebrew text does not give the word the same meaning that Greek, Latin, and modern translations have rendered as everlasting and unpardonable punishment. The eternity of punishment corresponds to the persistence of evil. So long as evil exists among human beings, punishments will continue. It is in this relative sense that the sacred texts should be interpreted. Eternal punishment is therefore relative, not absolute. A day will come when all human beings, through repentance, will put on the garments of innocence, and on that day there will be no more groaning or gnashing of teeth. Human intelligence is limited, but even so it is a gift from God, and with the help of reason there is not one person of good faith who can understand eternal punishment in any other way. Eternal punishment could exist only if evil were also eternal; but only God is eternal, and God could not have created eternal evil. If that were so, one of the most beautiful divine attributes—supreme power—would have to be denied, for God would cease to be supremely powerful the moment a destructive element was introduced into creation. Humanity is not to fix its somber gaze on the depths of the earth in search of these punishments. It is to weep, hope, expiate, and take comfort in the thought of a God who is infinitely good, absolutely powerful, and essentially just.
 
-### The Meaning of “Eternal” Punishment
+*Plato*
 
-Much confusion comes from the word eternal.
+The goal of humankind is to gravitate toward divine unity. For that unity to be realized, three things are necessary: justice, love, and knowledge. Three things oppose it: ignorance, hatred, and injustice. These fundamental principles are denied when the idea of God is compromised by exaggerating divine severity. It is doubly compromised when the spirit of the creature is led to believe that it possesses more clemency, gentleness, love, and true justice than are attributed to the Infinite Being. The very idea of hell is destroyed when it is made as ridiculous and inadmissible as the horrendous spectacles of executions, burnings, and tortures of the Middle Ages are to the human heart. The notion of hell cannot be sustained at a time when blind reprisals have been banished from human laws. Brothers and sisters in God and in Jesus Christ are either to resign themselves to seeing all the dogmas they deem unalterable perish in their hands, or to breathe new life into them by opening them to the benevolent explanations that good spirits now give concerning them. The idea of a hell with glowing furnaces and boiling cauldrons may have been tolerated in a mythological age. In the nineteenth century, it is no more than an empty phantom, fit only to frighten little children, who cease believing in it once they have grown up. Persistence in such a terrifying mythology produces disbelief, which is the source of every kind of social upheaval. There is fear at the thought of an entire social order shaken to its foundations for lack of a penal sanction. Men and women of ardent and living faith, vanguards of the day of light, are to join their efforts not in preserving old fables now discredited, but in reviving the true penal sanction in forms that correspond to the customs, sentiments, and enlightenment of the age.
 
-In common speech, it often means not absolute infinity, but a duration so long that its end is not perceived. People speak of eternal snows, though they know they are not literally infinite. They call a long illness eternal, even though it will end. In the same way, suffering spirits may call their pain eternal because, in their state of imperfection, they do not see its end. That very uncertainty is part of their punishment.
+The guilty are those who, through transgression and through a misdirected impulse of the soul, have departed from the purpose of their creation, which consists in the desire for goodness and beauty as embodied in human perfection, the divine model: Jesus Christ.
 
-Ancient languages also used terms translated as everlasting or eternal in a relative sense. The punishment endures as long as the evil that caused it endures. So long as evil persists, painful consequences persist. When evil is overcome, the punishment loses its reason to continue.
+Punishment is the natural consequence of that false impulse; it is the amount of pain necessary for the guilty, through trials of suffering arising from transgression. Punishment is the spur that rouses the soul through affliction to return to itself and to the path of salvation. The purpose of punishment is nothing other than rehabilitation and redemption. To want punishment to be eternal for a fault that is not eternal is to deprive punishment of its reason for being.
 
-Eternal punishment, understood in this way, is relative rather than absolute. It refers to the enduring operation of moral law, not to an endless sentence imposed on each individual regardless of change.
+Eternity in relation to the good, which is the essence of the Creator, is not to be compared with evil, which is the condition of the creature, for such a comparison ends by creating unjustifiable penalties. Rather, the gradual diminution of punishments through successive reincarnations is to be affirmed, and thus divine unity is consecrated by reason and feeling.
 
-A day will come when repentance restores innocence and no more groaning remains. Evil is not eternal. God alone is eternal. To imagine eternal evil would be to imagine a permanent power opposed to the divine order, which would contradict the fullness of divine sovereignty.
+*Paul, the Apostle*
 
-### Punishment as Rehabilitation
+Human beings are stimulated toward morality and turned away from evil by the hope of reward and the fear of punishment; but if punishment is represented in a manner that defies reason, it will have no effect. It will instead be rejected entirely, along with both its form and its foundation. If, however, the future is presented in a logical way, it will not be rejected. Spiritism provides that explanation.
 
-The purpose of punishment is not revenge, but rehabilitation.
+The doctrine of eternal punishment in the absolute sense makes the Supreme Being an implacable God. It would be illogical to say that a king is very good, very benevolent, and very indulgent, that he desires only the happiness of all around him, and yet that he is at the same time jealous, vindictive, inflexibly severe, and punishes three-quarters of his subjects with the maximum penalty for every offense or infraction of his laws, even when they violated them unknowingly. That would be a contradiction. God cannot be less than a human being.
 
-When a spirit turns away from the aim of its creation—goodness, love, beauty, truth—it experiences the natural consequences of that deviation. Punishment is the pain needed to awaken the conscience, to make the soul feel the disorder it has embraced, and to urge it back toward the path of salvation.
+Another contradiction appears here. Since God knows everything, God knew, in creating a soul, that it would fail, and that from its formation it would be destined to eternal unhappiness. This is neither possible nor rational. With the doctrine of relative punishment, everything is restored to order. God undoubtedly knew that the soul would fail, but gave it the means of enlightening itself through its own experience and even through its own errors. It would need to expiate those errors in order to establish itself in the good, but the door of hope would never be closed against it. God made the moment of liberation depend on the efforts the soul itself makes to reach it. This is something all can understand and the most rigorous logic can accept. If future punishment had been presented in this way, there would be far fewer skeptics.
 
-Its function is medicinal rather than vindictive. It acts as a goad to stir the soul from moral lethargy. It teaches through suffering what pride, selfishness, hatred, or injustice refused to learn through wisdom.
+The word eternal is almost always used figuratively in common language to designate something of very long duration whose end is not foreseen, though it is well known that it will in fact end. People speak of the eternal snows of high mountains and the poles, though they know, on the one hand, that the physical world itself may end, and on the other, that the condition of those regions may be altered by a shift in the earth’s axis or some other cataclysm. In such a case, the word eternal does not mean infinite duration. When people suffer from a long illness, they say it feels eternal. It is therefore not surprising that spirits who have suffered for many years, centuries, and even thousands of years speak of it as eternal. Above all, it must not be forgotten that their imperfection does not allow them to see the end of their afflictions; they believe they will suffer forever, and this belief is itself part of their punishment.
 
-To make punishment eternal for a fault that is not eternal would destroy its purpose. If no correction were possible, punishment would cease to be morally meaningful. It would no longer serve justice, because it would no longer serve restoration.
-
-The soul moves toward divine unity through justice, love, and knowledge. What opposes that unity is ignorance, hatred, and injustice. Punishment belongs to the process by which these opposing conditions are gradually overcome.
-
-Through successive existences and repeated opportunities for growth, penalties diminish as the spirit rises. In that gradual lessening, reason and moral feeling recognize a justice worthy of God.
-
-### Against the Idea of Absolute Eternal Damnation
-
-The belief in absolute eternal punishment has often been one of the deepest causes of disbelief, indifference, and materialism.
-
-When people are asked to accept a future state that offends reason and moral sense, they often reject not only the false image but everything associated with it. A punishment represented as endless, hopeless, and disproportionate appears monstrous to an awakened conscience. Many then confuse that distorted image with religion itself and turn away from both.
-
-Such a doctrine portrays the Supreme Being as implacable. It attributes to God a jealousy, severity, and vengeance that even human beings increasingly reject in their own systems of justice. This creates a contradiction. If love, mercy, charity, and forgiveness are held up as duties for human beings, how could the source of all goodness possess less clemency than the creatures called to imitate it?
-
-Another contradiction follows. If God knows all things, then God knew, at the moment of creation, whether each soul would fail. To suppose that souls were created with the certainty of endless misery would make creation itself incompatible with goodness. The more coherent understanding is that God created beings capable of failing, but also gave them the means to learn through experience, to expiate their faults, and to rise again through their own efforts.
-
-Under this law, no one is deprived of hope. Liberation is delayed or hastened according to the use made of free will. The moral order remains firm, but it is never without mercy.
-
-### Fire and Torment
-
-The imagery of physical fire, furnaces, and tortures belongs to an earlier mode of religious expression. Such images, often inherited from older mythologies, were used to impress vivid truths on the imagination. Taken literally, they no longer satisfy an enlightened mind.
-
-The fire of punishment is better understood as moral and mental suffering. Shame, remorse, isolation, despair, the painful awareness of one’s own baseness, and the longing for a happiness still beyond reach can afflict the spirit more deeply than any material flame.
-
-These sufferings are not less real because they are not physical. For the spirit, they may be more penetrating precisely because they are inward and continuous.
-
-As understanding grows, even religious thought increasingly recognizes that such language is figurative. The penalties belong to an unchanging moral law, but their application to each soul is not fixed forever. They endure only so long as the cause endures.
-
-### Moral Influence of a Rational Future Life
-
-Human beings are drawn toward morality by the hope of happiness and restrained from evil by the fear of suffering. But if punishment is presented in a form that violates reason, it loses its power. Instead of correcting conduct, it provokes rejection.
-
-A coherent account of the future life preserves both moral seriousness and confidence in divine justice. Wrongdoing has consequences. No fault is without expiation. Yet no soul is locked forever into evil or denied the possibility of return.
-
-Such a view gives punishment its true gravity while preserving hope. It avoids both harsh fatalism and moral indifference. It shows a universe in which justice is exact, mercy is constant, and progress is open to all.
-
-The future state is therefore not a realm of arbitrary sentence, but a continuation of moral law. Suffering lasts as long as it is needed for transformation. Once the spirit is healed, punishment has accomplished its purpose.
-
-The final movement of all souls is toward greater purification, clearer knowledge, and fuller participation in divine goodness. Hope remains, because progress remains possible. And where progress is possible, absolute eternal condemnation has no place.
+Furthermore, the doctrine of physical fire, furnaces, and tortures borrowed from the Tartarus of paganism has now been completely abandoned by liberal theology. Only in certain schools are these terrifying allegorical images still presented as literal truths by some who are more fanatical than enlightened. This is deeply unfortunate, because young imaginations, once past the age of terror, are likely to become skeptical. Today theology recognizes that the word fire is used figuratively and should be understood as moral suffering. Those who have followed the events of life beyond the grave through Spiritist communications have become convinced that, though such sufferings are not physical, they are no less intense. Even regarding their duration, some theologians are beginning to accept the restricted meaning indicated above, and in fact think that the word eternal may refer to penalties in themselves, as consequences of an immutable law, and not to their application to each individual. On the day religion accepts this interpretation, as well as others that also result from the progress of enlightenment, it will bring many lost sheep back into the fold.
 
 ## The Resurrection of the Flesh
 
-The doctrine of the resurrection of the flesh can be understood as a figurative expression of reincarnation.
+The doctrine of the resurrection of the flesh refers to reincarnation as taught by the Spirits. This expression is like many others that seem nonsensical only to those who take them literally and are therefore led into unbelief. Yet, given a logical interpretation, those whom you call freethinkers will accept it without difficulty, precisely because they are capable of reasoning. Make no mistake: such freethinkers ask nothing better than to believe. Like everyone else—perhaps even more than others—they long for the future, but they cannot accept what is absurd to reason. The doctrine of the plurality of existences conforms to the justice of God, and it alone can explain what otherwise remains inexplicable. This principle is found in religion itself.
 
-Taken literally, the phrase seems unreasonable, and for many people that very literalism becomes a cause of disbelief. Yet when it is understood in a rational sense, its meaning becomes accessible even to those who reject doctrines that conflict with reason. Many who doubt do not reject belief because they do not care about truth or the future. On the contrary, they often long deeply for certainty, but cannot accept what appears absurd. The plurality of existences answers that difficulty because it accords with divine justice and explains what otherwise remains obscure.
+In the dogma of the resurrection of the flesh, the Church teaches the doctrine of reincarnation. This doctrine follows from many things that have gone unnoticed and that will soon be understood properly. Before long, the Church will recognize that Spiritism is related at every step to the very text of Holy Scripture. Therefore, the Spirits have not come to subvert Christianity, as some claim; on the contrary, they have come to confirm and sanction it by irrefutable proofs. And since the time has come to replace figurative language, they speak without allegory and give things a clear and precise meaning that cannot be subjected to mistaken interpretation. That is why it is only a matter of time before there are more sincerely religious and believing persons than there are today.
 
-In this view, the idea traditionally expressed through the resurrection of the flesh does not point to the reanimation of the same material body. It points to the return of the soul to embodied life under new conditions. The principle is not foreign to religion, but present within it, though often unnoticed because it has been hidden beneath symbolic language.
+*St. Louis*
 
-A clearer understanding becomes possible when figurative expressions are read according to their inner meaning rather than by the letter alone. In that sense, spiritual teaching does not destroy religious faith, but confirms it by giving precise meaning to ideas that had long remained veiled in allegory. As these meanings become better understood, belief need no longer rest on what seems irrational, but on ideas that satisfy both conscience and intelligence.
+Science has demonstrated the impossibility of resurrection according to the common idea. If the remains of the human body remained homogeneous, even when dispersed and reduced to dust, their reunion at a given time might be conceivable. But such is not the case. The body is composed of diverse elements: oxygen, hydrogen, nitrogen, carbon, and so on. Through decomposition, these elements are dispersed and go on to form new bodies, such that the same molecule of carbon, for example, may have entered into the composition of thousands of different bodies, speaking only of human bodies and leaving out those of animals. Consequently, an individual may have in his or her body molecules that belonged to human beings of earlier times. The same organic molecules absorbed through food may have come from the body of someone known to you. Since matter exists in a definite quantity and its transformations are indefinitely numerous, none of those bodies could be reconstituted with the very same elements. This presents a material impossibility. The resurrection of the flesh cannot therefore be rationally accepted except as a figure symbolizing the phenomenon of reincarnation; and understood in that sense, there is nothing to shock reason, nothing contrary to the data of science.
 
-### Why Literal Resurrection Is Materially Impossible
-
-Science shows the difficulty of accepting the common notion of bodily resurrection.
-
-If the elements of the human body remained intact as a single homogeneous whole, though scattered or reduced to dust, one might imagine their being gathered again. But the body is made of many chemical elements that, after death, decompose and disperse. These elements enter into new combinations and help form other bodies. A single molecule of carbon, for example, may become part of thousands of different human organisms over time.
-
-The body of any person therefore contains material that once belonged to countless others. Even the organic matter absorbed in daily nourishment may once have formed part of a person known in life. Since matter is finite in quantity while its transformations are indefinitely repeated, the restoration of each former body with the very same elements becomes materially impossible.
-
-For that reason, the resurrection of the flesh cannot reasonably be understood as the reconstitution of the identical physical body. Understood instead as a symbolic expression for reincarnation, it no longer conflicts with reason or with scientific knowledge.
-
-### Judgment and Renewal
-
-A difference remains between the traditional image of resurrection at the end of time and the idea of reincarnation as an ongoing process.
-
-According to the doctrine of reincarnation, renewal occurs continuously. Souls return to embodied life again and again, advancing through the trials necessary for their progress. In contrast, dogmatic teaching commonly presents resurrection and judgment as a single event at the close of history.
-
-Yet the image of final judgment contains a profound metaphor. Behind the allegory lies a real truth: souls are indeed judged, not in the sense of a theatrical mass event, but through the moral consequences of their own lives, the trials they undergo, and the destiny they prepare for themselves. Their faults are condemned or absolved through the justice built into spiritual law.
-
-Seen in this light, judgment is not a fiction. What is symbolic is the form in which it has often been presented. The reality behind it is the continual assessment inherent in spiritual progress itself.
-
-### Plurality of Worlds and the Destiny of Souls
-
-This understanding harmonizes with the plurality of worlds.
-
-If many worlds are inhabited, then the journey of the soul cannot reasonably be confined to a single earthly life followed by one final collective judgment for all beings. The broader view of creation suggests a wider and more coherent destiny, in which souls advance through many experiences across different conditions of existence.
-
-Reincarnation gives that destiny intelligible form. It preserves moral responsibility, affirms divine justice, and explains human inequality, suffering, and opportunity without requiring belief in what reason cannot accept. In that sense, the resurrection of the flesh is best understood not as the return of dead matter to its former arrangement, but as the enduring return of the soul to new bodily life until its trials are fulfilled and its progress secured.
+According to dogma, the resurrection will occur only at the end of time; according to the Spiritist doctrine, it occurs every day. The image of the final judgment contains a great and beautiful metaphor, which under the veil of allegory hides one of those immutable truths that skeptics will no longer reject once its true meaning is brought to light. If one reflects carefully on the Spiritist explanation of the future of souls and the destiny resulting from the many trials they must undergo, it becomes evident that, except for the idea of simultaneity, the judgment in which their faults are condemned or absolved is not a fiction, as unbelievers suppose. This theory is the natural consequence of the plurality of worlds—nowadays fully accepted—whereas according to the doctrine of the final judgment, the earth would be the only inhabited world.
 
 ## Heaven, Hell, and Purgatory
 
-Heaven, hell, and purgatory are not fixed regions set apart in the universe as places of reward and punishment.
+There are no circumscribed places in the universe reserved for the punishments and rewards of spirits according to their merits. Punishments and joys are inherent in the degree of a spirit’s perfection. Each spirit carries within itself the source of its own happiness or unhappiness, and since spirits are everywhere, there is no enclosed or bounded place for one condition or the other. As for incarnate spirits, the degree of their happiness or unhappiness depends on the level of the world they inhabit.
 
-A spirit’s joys and sufferings arise from its own degree of purification or imperfection. Happiness and unhappiness are inherent in the spirit itself. Since spirits are everywhere, there is no enclosed place reserved for bliss on one side and torment on the other. For incarnate spirits, the measure of happiness or suffering also depends on the level of advancement of the world they inhabit.
+Heaven and hell do not exist as human beings have represented them. They are only figures of speech: happy and unhappy spirits are everywhere. Nevertheless, spirits of the same order gather together by mutual sympathy. When perfected, they may meet wherever they wish.
 
-The familiar images of heaven above and hell below are figures of speech. Happy and unhappy spirits may be found everywhere. Spirits of the same order are drawn together by sympathy, and perfected spirits may gather wherever they wish, but this does not create bounded territories of eternal reward or punishment.
+The idea of fixed places of reward and punishment exists only in human imagination. It arises from the tendency to materialize and localize things whose infinite nature cannot be comprehended.
 
-The idea of fixed places belongs to the human tendency to materialize what is spiritual and to impose limits on what is not limited.
+Purgatory consists in physical and moral suffering; it is a period of expiation. It is almost always on earth that you make your own purgatory, and it is here that God enables you to expiate your wrongs.
 
-### Purgatory
+What is called purgatory is also a figure of speech and should not be understood as some definite place, but rather as the state of imperfect spirits who are undergoing expiation until complete purification raises them to the rank of blessed spirits. Since this purification is accomplished through successive incarnations, purgatory consists in the trials of corporeal life.
 
-Purgatory is not a definite location. It is the condition of suffering and expiation through which imperfect spirits pass until purification raises them to the state of the blessed.
+Spirits who are known to be highly evolved from the language they use have given serious questioners answers about hell and purgatory that accord with commonly accepted ideas, because they speak a language their listeners can understand. When people are deeply attached to certain ideas, those spirits do not wish to shock them too suddenly and thereby harm their convictions. If a spirit were to ignore such precautions and tell a Muslim that Muhammad was not a prophet, it would be very badly received.
 
-This suffering is both physical and moral. In most cases, a spirit makes its own purgatory on earth, where wrongs are expiated through the trials of bodily life. Because purification ordinarily takes place across successive incarnations, purgatory is found in the struggles, tests, and sorrows of corporeal existence.
+When spirits are of low order and not yet fully dematerialized, they retain part of their earthly ideas and translate their impressions into familiar terms. They find themselves in surroundings that do not allow them to probe the future except imperfectly. This is why errant or recently discarnate spirits often speak just as they would have spoken while incarnate. Hell may be taken to mean a life of extremely painful trials, with uncertainty as to whether it will ever end. Purgatory may likewise mean a life of trials, but with the awareness of a better future. When you are suffering greatly, you say that you are “going through hell.” These, too, are only figures of speech.
 
-A tormented soul is an errant and suffering soul, uncertain of its future and often seeking consolation. Such souls may appeal for comfort when communication is possible.
+A tormented soul is an errant and suffering soul, uncertain of its future and able to receive the solace it often begs for when it comes to communicate with you.
 
-### Why Spirits Speak of Hell and Purgatory
+Heaven is not a place like the Elysian Fields of the ancients, where all good spirits are crowded together indiscriminately, with nothing to do but enjoy an eternity of passive bliss. It is universal space: the planets, the stars, and all the highly evolved worlds where spirits enjoy the fullness of their faculties without the tribulations of material life or the anguish inherent in less evolved conditions.
 
-Spirits sometimes use the language of common belief, even when the underlying reality is different.
+When some spirits have said that they inhabit the fourth, fifth, or higher heaven, they were answering in the language of those who questioned them, because such questioners imagine many superimposed heavens like the stories of a house. For spirits, the words fourth or fifth heaven express different degrees of purification and, consequently, of happiness. The same applies when a spirit is asked whether it is in hell. If it is unhappy, it will answer yes, because for it hell is synonymous with suffering, although it knows very well that it is not a furnace. A pagan spirit would say it is in Tartarus.
 
-Highly elevated spirits may answer according to the ideas of the person questioning them, choosing expressions that can be understood without violently unsettling deeply rooted convictions. Instruction is sometimes given gradually rather than by abruptly overturning inherited beliefs.
+The same applies to other analogous expressions, such as the city of flowers, the city of the elect, the first, second, or third sphere, and so on. These are no more than allegories used by certain spirits, either as figures of speech or through ignorance of the reality of things, or even of the simplest scientific concepts.
 
-Lower-order spirits may also speak of hell or purgatory because they still retain many earthly ideas. Not yet fully freed from material habits of thought, they describe their condition with familiar terms. Their understanding of their own situation is often incomplete, especially shortly after death or during errant states.
+According to the old, narrow idea of fixed places of punishment and reward—and especially according to the belief that the earth was the center of the universe and the sky a vault beyond which lay the region of the stars—heaven was placed above and hell below. Hence the expressions to ascend into heaven, to be in the highest heaven, and to be cast down into hell. Now that science has shown that the earth is only one of the smallest worlds among millions of others, with no special importance; that it has traced the earth’s formation and described its constitution; that it has proven space to be infinite, so that there is neither above nor below in the universe, it has become necessary to reject the placing of heaven above the clouds and hell in the lower regions. As for purgatory, no fixed location had ever been assigned to it. It was reserved for Spiritism to give humankind the most rational, most grounded, and at the same time most consoling explanation of these matters. Thus we may say that we carry our hell and our heaven within us, and that our purgatory is found in incarnation, in corporeal or physical life.
 
-In this sense, hell may mean a state of intense suffering joined to uncertainty about its end. Purgatory may mean a state of trial endured with some awareness of a better future. These expressions are often figurative, like the common way of saying that one is going through hell when enduring severe pain.
+Christ’s words, “My kingdom is not of this world,” are to be understood figuratively. He meant to say that he reigns only over pure and unselfish hearts. He is wherever love and goodness reign; but human beings, greedy for the things of this world, cling to earthly things rather than to him.
 
-### Heaven
+The reign of the good will be realized on earth when, among the spirits who come to inhabit it, the good outnumber the evil. Then they will cause love and justice—the source of goodness and happiness—to reign on earth. It is through moral progress and the practice of God’s laws that human beings will attract good spirits to the earth and repel evil ones. But evil spirits will leave only when human beings have banished pride and selfishness from the planet.
 
-Heaven is not a passive paradise where all good spirits are gathered in inactivity.
+The transformation of humankind has been foretold, and the time has come for all progressive individuals to hasten it. It will be brought about through the incarnation of more evolved spirits, who will make up a new generation on earth. Then the spirits of evil—who are daily gathered in by death—and all those who seek to obstruct the forward movement of things will be excluded, because they would be out of place among people of high morality, whose happiness they would disturb. They will go to newer, less advanced worlds to carry out painful missions, where they may work for their own progress while also helping the progress of brothers and sisters even less advanced than themselves. In this exclusion from a transformed earth appears the sublime image of Paradise Lost. In the human beings who come to earth under similar conditions, bringing within themselves the seeds of their passions and the traces of their primitive inferiority, appears the no less sublime image of original sin. Considered in this way, original sin refers to the still imperfect nature of human beings, who are responsible only for themselves and for their own wrongs, not for those of their parents.
 
-It is universal space: the planets, the stars, and the more advanced worlds where spirits enjoy the full use of their faculties without the tribulations of material life and without the anguish tied to lower stages of development.
-
-When spirits speak of the fourth heaven, the fifth heaven, and similar expressions, they are usually adapting themselves to human language. Such phrases do not describe stacked celestial regions. They indicate degrees of purification and therefore degrees of happiness.
-
-The same principle applies to expressions such as Tartarus, the city of flowers, the city of the elect, or the first, second, and third sphere. These are allegorical forms of speech, used either symbolically or from an incomplete understanding of spiritual reality.
-
-Older beliefs placed heaven above the sky and hell below the earth because people imagined the world as a central point under a vault of stars. Once it is understood that the earth is only one small world among countless others, and that space has no absolute up or down, such images can no longer be taken literally.
-
-A more adequate understanding is simple: each being carries heaven and hell within. Purgatory is encountered in incarnation, in physical life and its moral consequences.
-
-### “My Kingdom Is Not of This World”
-
-These words point to a spiritual reign, not an earthly dominion.
-
-The kingdom of Christ is established in pure and unselfish hearts. Wherever love and goodness govern, there his rule is present. Those who cling to the goods of the world, governed by greed and attachment, remain turned away from that kingdom.
-
-### The Reign of Good on Earth
-
-The reign of good will be realized on earth when the spirits who come to inhabit it are, in the majority, inclined toward good rather than evil.
-
-Then love and justice, which are the source of goodness and happiness, will prevail more widely in human life. This change depends on moral progress and obedience to divine law. By becoming better, humanity attracts better spirits and repels those who are still deeply attached to evil.
-
-Evil spirits will leave only when pride and selfishness lose their hold on the world.
-
-Humanity is moving toward a transformation. This renewal will occur through the incarnation of more advanced spirits who will form a new generation on earth. Spirits of evil, removed day by day through death, and all who resist the forward movement of progress, will no longer find their place among people of higher morality, whose happiness they would disturb.
-
-They will pass to newer and less advanced worlds, where they will undertake difficult and painful tasks. There they will work at once for their own improvement and for the progress of others still behind them. Seen in this light, exclusion from a renewed earth gives a higher meaning to the image of paradise lost.
-
-Likewise, the condition of human beings who arrive on earth bearing the seeds of passions and the traces of primitive inferiority gives a deeper meaning to what has been called original sin. In this understanding, original sin refers to the imperfect nature still present in humanity, not to inherited guilt for the faults of earlier generations. Each person is responsible for his or her own wrongs.
-
-The work of regeneration calls for courage, sincerity, and perseverance. Those who labor for it do not labor in vain. But those who shut their eyes to the light prepare for themselves long periods of darkness and sorrow. Those who place all their joy in worldly things will discover that privation outweighs the pleasure they pursued. And selfishness leaves the soul especially poor, because in its hour of misery it finds no one ready to help bear its burden.
+All of you, then, men and women of faith and goodwill, work with zeal and courage for the great labor of regeneration, for you will reap a hundredfold the grain you have sown. Unhappy are those who close their eyes to the light, for they are preparing for themselves long centuries of darkness and sorrow. Unhappy are those who place all their joys in the things of this world, for they will suffer more privations than pleasures. And above all, unhappy are the selfish, for they will find no one to help them bear the burden of their miseries.

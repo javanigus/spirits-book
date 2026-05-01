@@ -5,230 +5,114 @@ sidebar_label: 3.12 Moral Growth
 
 ## Virtues and Vices
 
-Virtue has merit because it marks progress toward the good.
+All virtues are meritorious because they are signs of progress on the path of the good. There is virtue whenever there is voluntary resistance to the allure of evil tendencies. However, the highest virtue consists in sacrificing one’s own interests for the good of one’s neighbor, without ulterior motive. The greatest merit is that which is founded on the most disinterested charity.
 
-Whenever a person freely resists the pull of harmful tendencies, real virtue is present. Yet not all virtue has the same degree. Its fullest expression is the sacrifice of personal interest for the good of others, without hidden motive or hope of return. The greatest merit belongs to the most disinterested charity.
+Those who do good through a spontaneous impulse, without having to struggle against any contrary sentiment, have already made progress. They struggled and triumphed in the past. That is why good sentiments cost them no effort and their actions seem easy; doing good has become a habit for them. They should be honored like veteran warriors who have earned their rank.
 
-Some people seem to do good naturally, without inner struggle. Their ease does not lessen their worth. It shows that earlier battles have already been won. What is difficult for others has become habitual in them. Goodness now flows spontaneously because it has been deeply acquired.
+Since you are still far from perfection, such examples surprise you by contrast, and you admire them all the more because they are rare. However, on worlds more advanced than yours, what is exceptional among you has become the rule. The sentiment of the good is spontaneous everywhere on those worlds because they are inhabited only by good spirits, and a single bad intention would be a monstrous exception. That is why people are happy there. The same will occur on the earth when humanity transforms itself and understands and practices charity in its true meaning.
 
-This helps explain why truly advanced worlds differ from less mature ones. Where good spirits predominate, the impulse toward what is right is natural, and a bad intention appears as a shocking exception. Humanity moves toward that condition as it learns to understand and practice charity in its genuine sense.
+Besides the defects and vices about which no one can be mistaken, the clearest sign of imperfection is selfishness. Moral qualities often do not stand up when put to the test, like gilded copper that cannot withstand the touchstone. Individuals may possess real qualities that make them appear moral in the eyes of the world. Yet while such qualities do indicate progress, they do not always endure certain trials, and sometimes a single touch of selfishness is enough to unmask a person’s real character. True selflessness is in fact so rare on earth that it is admired as a remarkable phenomenon whenever it appears.
 
-### The Most Characteristic Sign of Imperfection
+Attachment to material things is a clear indication of impurity, because the more people are attached to the things of this world, the less they understand their true destiny. Through selflessness, however, they show that they see the future from a more elevated point of view.
 
-Among the clearest signs of moral imperfection, selfishness stands out.
+There are selfless individuals who nonetheless lack discernment and waste their possessions without real benefit because they do not know how to use them wisely. They have merit for their selflessness, but not for the potential good they could have done. If selflessness is a virtue, thoughtless squandering is always, at the very least, a lack of judgment. Fortune is not given to some to be cast to the wind any more than it is given to others to be locked away. It is a deposit for which they will have to render account. They will have to answer for all the good they could have done but did not do, and for all the tears they could have dried with the money they gave to those who were not actually in need.
 
-Many qualities can give the appearance of morality, and some of them do represent real progress. Yet they are not always firm when tested. A person may seem upright until self-interest is touched; then the deeper motive appears. True selflessness is rare enough that it is often admired as something extraordinary.
+Those who do good in the hope that it may be taken into account in the next life, so that their situation there may be better, must still do good out of charity, that is, selflessly.
 
-Attachment to material things also reveals impurity. The more a person is absorbed in possessions, comfort, and worldly advantages, the less clearly that person understands life’s higher destiny. Selflessness, by contrast, shows a broader and more elevated view of the future.
+Nevertheless, everyone naturally desires to progress and to emerge from the painful condition of this life. The Spirits teach you to do good with that purpose in mind. It is certainly not wrong to think that by practicing the good you may hope for a better situation. However, those who do good without ulterior motive, solely for the joy of pleasing God and helping their suffering neighbor, have already reached a certain degree of advancement. This will enable them to attain happiness more quickly than those who do good through calculation rather than through the natural impulse of the heart. (See no. 894)
 
-### Selflessness and Discernment
+A distinction should be made between the good that can be done for one’s neighbor and the care devoted to correcting one’s own defects. By “doing good” is here meant being charitable. Those who calculate what each of their good actions may earn them in the other life or in earthly life proceed selfishly. But there is no selfishness in improving oneself in the hope of drawing nearer to God, because that is the goal for all.
 
-Selflessness has merit, but it does not replace good judgment.
+Since corporeal life is only an ephemeral sojourn in this world, and since future life should be the principal concern, is it worthwhile to acquire scientific knowledge concerned only with material things and earthly needs? Yes. First, such knowledge enables you to help your brothers and sisters. Next, your spirit will evolve more quickly if it has progressed intellectually. In the interval between incarnations, you will learn in one hour what would require years on earth. No knowledge is useless; all of it contributes in some degree to advancement, because the perfected spirit must know everything. Since progress must be made in every sense, all acquired ideas help the development of the spirit.
 
-A person may give generously and yet use resources badly, scattering them without real benefit. Such a person is worthy for the spirit of self-denial, but not for the good that might have been accomplished through wiser use. Wealth is neither meant to be hoarded nor wasted. It is a trust.
+Of two wealthy individuals, one born in opulence and never having known need, and the other owing a fortune to his own labor, though both use their wealth exclusively for personal satisfaction, the more culpable is the one who has known hardship. He knows what it means to suffer and yet does not relieve suffering in others; as often happens, he no longer remembers his own hardships.
 
-Its possessor remains responsible not only for obvious misuse, but also for neglected possibilities: the suffering that could have been relieved, the help that could have reached those truly in need, and the good that was lost through carelessness.
+Those who continue to accumulate assets without benefiting anyone have no valid excuse in saying that they are doing so in order to leave them to their heirs. It attests to bad principles.
 
-### Doing Good Without Ulterior Motive
+Of two misers, the first depriving himself of necessities and dying in want atop his treasure, and the second being stingy only toward others while extravagant toward himself, recoiling before the smallest sacrifice to render a service or do something useful, while finding nothing better than satisfying his own tastes and passions, the guiltier one—and the one who will have the worse place in the spirit world—is the one who spends. He is more selfish than the miser. The miser has already received part of his punishment.
 
-Good should be done from charity, not calculation.
+It is not wrong to desire wealth for the sake of doing good. Such a sentiment is certainly laudable if it is pure. But this desire is not always disinterested enough; it may conceal a personal ulterior motive. The first person to whom one wishes to do good is often oneself.
 
-To seek earthly reward for generosity empties it of its purity. Even the hope of spiritual advantage can diminish merit when the act is performed mainly as a transaction. Yet there is an important distinction. Those who do good solely because they love what is good, because they wish to be pleasing to God, and because they want to relieve suffering already possess a higher degree of advancement. Their progress is more direct because it springs from the heart rather than from self-interest.
+It is wrong to study the defects of others if the purpose is to criticize and expose them, because that reveals a lack of charity. If it is done with the intention of applying the lesson to oneself in order to avoid the same defects, it may be useful. One must not forget, however, that tolerance for the defects of others is one of the virtues included in charity. Before criticizing people’s imperfections, think whether others may say the same about you. Therefore, strive to possess qualities opposite to the defects you criticize in others. This is a means of perfecting yourself. If you criticize others for avarice, be generous; for harshness, be kind; for pettiness, be expansive in all your actions. In a word, act in such a way that these words of Jesus may not apply to you: “You see the speck in your neighbor’s eye, but do not see the beam in your own.”
 
-Still, the desire to improve one’s future condition is natural and not in itself blameworthy. What matters is the motive. There is selfishness in counting the profit to be gained from each charitable act. There is no selfishness in striving to correct oneself, overcome passions, and draw nearer to God. Moral reform aimed at spiritual elevation belongs to the true purpose of life.
+Whether it is wrong for a person to probe the ills of society and expose them depends on the motive. If a writer seeks only to create scandal, that person acts for personal pleasure, publishing material that generally sets a bad example rather than a good one. The spirit may enjoy it, but it may also be punished for the pleasure it takes in revealing evil.
 
-### Intellectual Progress and Material Knowledge
+In such cases, there is no need to judge a writer’s purity of intention or sincerity. If the message is good, benefit from it; if it is bad, it becomes a matter for the writer’s own conscience. Moreover, if writers wish to prove their sincerity, it is for them to support their principles by setting their own example.
 
-Material knowledge is not useless simply because earthly life is brief.
+Some authors have published works that are beautiful and morally uplifting, and that help the progress of humankind, but which they themselves do not apply. As spirits, the good they have done through their works will not be fully taken into account, for morality without action is like seed without sowing. What use is seed if you do not make it grow in order to feed you? Such persons are more culpable because they possessed the intelligence to understand. Having failed to practice the maxims they offered to others, they do not reap the fruit.
 
-Scientific and practical learning can serve others, and in serving others it becomes part of moral life. It also helps the spirit itself. Intellectual progress accelerates spiritual development. Knowledge gained in one life prepares the spirit to learn more quickly beyond it.
-
-No branch of knowledge is entirely wasted. Every true idea contributes something to advancement. Since the perfected spirit must know fully, progress must unfold in every direction, including the understanding of material realities.
-
-### Wealth, Hardship, and Responsibility
-
-Wealth becomes a moral test.
-
-When two wealthy people live only for personal enjoyment, greater blame falls on the one who has known poverty and suffering. Such a person understands hardship from experience and therefore fails more seriously when refusing relief to others.
-
-The continued accumulation of goods without benefit to anyone reflects disordered principles. To excuse this by saying that the wealth is being saved for heirs does not justify the spirit behind it.
-
-Misery can also take different forms. One miser denies himself even necessities and dies clinging to his treasure. Another is stingy only toward others while spending freely on personal pleasures and refusing every useful sacrifice. The second is guiltier because selfishness is more openly active in him. The first already suffers part of his punishment in the narrowness of his own life.
-
-### The Desire for Wealth in Order to Do Good
-
-To desire wealth for the sake of doing good can be admirable, but such a motive requires sincerity.
-
-It is easy for hidden self-interest to enter. Often the first person one intends to benefit is oneself. Because of this, the desire should be examined carefully. The value of the intention depends on how free it is from vanity, ambition, comfort-seeking, and disguised personal advantage.
-
-### On Studying the Defects of Others
-
-Looking at others’ faults can either corrupt or instruct.
-
-It is wrong when done to criticize, expose, or humiliate, because such an attitude lacks charity. It may be useful when a person studies the failings of others in order to avoid the same failings in oneself. Even then, tolerance remains necessary. Charity includes patience with others’ imperfections.
-
-Before condemning another’s defect, a person should ask whether the same reproach could be directed inward. Self-improvement is a better response than censure. If avarice is noticed, practice generosity. If harshness is noticed, become kind. If pettiness is noticed, become large-hearted in word and deed. The safer path is always to remove the greater fault within oneself rather than dwell on the lesser fault in another.
-
-### Exposing the Ills of Society
-
-To uncover social evils is not wrong in itself. Everything depends on the intention.
-
-When abuses are brought to light in a sincere effort to correct them, the work may serve the good. When the aim is scandal, entertainment, or the pleasure of unveiling corruption, the act becomes morally compromised, even if the facts are real. Delight in exposing evil stains the spirit.
-
-The inner sincerity of a writer or reformer need not always be judged by others. What is sound in the message may still be accepted. If the work is corrupt in spirit, the responsibility lies with the one who produced it. The clearest proof of sincerity is personal example.
-
-### Morality in Words and Morality in Life
-
-Fine principles have little value when left unapplied.
-
-A person may publish noble and uplifting teachings that help others advance, yet fail to live by them. The good accomplished through such works is real, but the contradiction remains serious. To understand moral truth and still refuse to practice it is a heavier fault than ignorance. Knowledge increases responsibility.
-
-Moral teaching without action resembles seed kept unsown. It contains possibility, but yields no nourishment unless it is made to grow.
-
-### Awareness of One’s Good Actions
-
-It is not wrong to recognize the good one has done.
-
-Just as a person should be aware of faults in order to correct them, so one should also recognize when an evil tendency has been overcome. Conscience must weigh actions according to the law of justice, love, and charity. By doing so, one can discern what is right and take legitimate satisfaction in moral victory.
-
-The danger lies elsewhere. Satisfaction becomes a fault when it turns into vanity. Quiet gratitude for having acted well strengthens the soul; pride in one’s virtue weakens it and introduces a new imperfection.
+It is not reprehensible for those who do good to be conscious of it and to acknowledge it to themselves. Since they can be aware of the evil they do, they must also be aware of the good in order to know whether they act rightly or wrongly. It is by weighing all their actions on the scales of God’s law, especially on those of the law of justice, love, and charity, that they can know whether their actions are good or bad, and thus approve or disapprove of them. Therefore, they are not at fault for recognizing that they have triumphed over their evil tendencies and for being satisfied at having done so, provided they do not become vain, for that would be to fall into another fault. (See no. 919)
 
 ## The Passions
 
-The passions do not arise from an evil principle in themselves.
+Since the principle of the passions originates in nature, they are not evil in themselves. Passion is the result of excess brought about by the will, though the principle itself was given to human beings for their good. The passions can lead them to do great things. It is the abuse of them that makes them evil.
 
-Their root lies in human nature. They are connected to needs, tendencies, and capacities that were given for a purpose. In their proper place, they can be forces for action, courage, perseverance, and accomplishment. They can intensify human strength and help carry life forward.
+The point at which the passions cease to be good is recognized when a passion becomes harmful—when one ceases to govern it and when it results in injury to oneself or others. The passions are like a horse that is useful when controlled but dangerous when it takes control.
 
-What makes them harmful is not their origin, but their excess.
+The passions are levers that increase human powers tenfold and help fulfill the designs of Providence. However, if instead of directing their passions people allow themselves to be directed by them, they fall into excess, and the very power that could have been used for good falls upon them and crushes them.
 
-A passion becomes disordered when the will no longer governs it. When a person directs passion, it can be useful, like a strong horse under control. When passion takes command, it becomes dangerous. Its power remains the same, but instead of serving good ends, it pushes the person into imbalance and harm.
+All the passions have their principle in a natural sentiment or need. Therefore, the principle of the passions is not evil, because it rests on one of the providential conditions of existence. Passion properly speaking is the exaggeration of a need or sentiment; it is in the excess and not in the cause. Such excess becomes evil when it results in some kind of evil.
 
-The boundary is clear: a passion ceases to be good when it causes injury to oneself or to others, and when one is no longer master of it.
+Every passion that draws us nearer to the animal nature takes us farther from the spiritual nature. Every sentiment that lifts us above the animal nature announces the predominance of spirit over matter and draws us nearer to perfection.
 
-These impulses may greatly enlarge human power. They can become levers that multiply energy and support noble action. Yet the same force, if left unruled, leads to excess. Then what might have served good becomes a burden that overwhelms the person who should have governed it.
+Human beings could always overcome their evil tendencies through their own efforts, sometimes with very little effort; what they lack is willpower. How few make such an effort, however.
 
-Because every passion begins in some natural sentiment or need, its principle is not evil. Evil enters through exaggeration. Passion, in this sense, is not the original need itself but the need carried beyond its right measure. The fault lies not in the cause, but in the excess and in the harm that excess produces.
+Human beings can find effective aid in spirits to help them overcome their passions. If they sincerely pray to God and to their guardian angel, good spirits will certainly come to their aid, for that is their mission.
 
-There is also a deeper spiritual consequence.
+There are no passions so strong and irresistible that the will is powerless to overcome them. There are many who say, “I want to,” but whose will is only on their lips. They want, yet they are quite content not to be able to. When they believe they cannot overcome their passions, it is because their spirit takes pleasure in them as a result of its own impurity. Those who strive to restrain their passions understand their own spiritual nature, and overcoming them is a triumph of spirit over matter.
 
-Every passion that draws a person more strongly toward the merely animal side of life carries that person farther from the spiritual side. By contrast, every feeling and movement of the soul that raises a person above selfish appetite shows the growing predominance of spirit over matter. In that elevation lies progress toward perfection.
-
-### Overcoming Evil Tendencies
-
-Human beings are capable of overcoming their evil tendencies through their own efforts.
-
-Often the obstacle is not lack of power, but lack of will. Real effort is rarer than people suppose. Many say they want to change, yet their desire remains superficial. The will may speak, while inwardly the person still clings to the passion. In such cases, the claim of helplessness is often an illusion sustained by secret consent.
-
-When people believe their passions are irresistible, it is frequently because some impure part of them still takes pleasure in those passions. The struggle is not merely against an outside force, but against inner attachment.
-
-Those who sincerely work to restrain their passions discover something important about themselves: they are more than their impulses. In mastering passion, the spirit asserts its freedom over matter. Each victory is a genuine triumph of the higher nature over the lower.
-
-### Spiritual Aid
-
-No one is left unaided in this struggle.
-
-If a person sincerely prays to God and asks for the help of a guardian angel, good spirits come in support. Helping human beings resist harmful influences and grow stronger in the good belongs to their work. Their assistance does not replace effort, but strengthens it.
-
-Divine help and human resolve must work together. The person must truly want freedom, and spiritual aid responds to that sincere desire.
-
-### The Most Effective Means
-
-The most effective way to resist the predominance of the bodily nature is self-denial.
-
-Self-denial does not mean contempt for life or the destruction of natural faculties. It means learning not to be ruled by appetite, vanity, impulse, or self-indulgence. It is the deliberate discipline by which the spirit keeps command.
-
-Through self-denial, passion is not annihilated but ordered. Its force remains, yet it is directed toward what is good. In that discipline, the human being grows inwardly stronger, less captive to excess, and more capable of rising toward the spiritual life.
+The most effective means of fighting the predominance of corporeal nature is the practice of self-denial.
 
 ## Selfishness
 
-Of all vices, selfishness is the root.
+Of all the vices, selfishness may be regarded as the root. All evil derives from it. Study all the vices and it will be seen that selfishness lies at the bottom of them all. However much one may struggle against them, one will never uproot them as long as their cause remains. Let all efforts tend toward that end, because selfishness is the true scourge of society. Those who wish to approach moral perfection in this life must uproot from their hearts every selfish sentiment, for selfishness is incompatible with justice, love, and charity; it neutralizes every other quality.
 
-Every evil can be traced back to it. However varied the forms of vice may seem, selfishness lies beneath them. As long as the cause remains, the effects will continue to appear. Anyone who truly seeks moral perfection must therefore work to uproot every selfish tendency from the heart, because selfishness cannot live alongside justice, love, and charity. It weakens and neutralizes every other good quality.
+Since selfishness is based on personal interest, it seems difficult to uproot it entirely from the human heart. Human beings will be able to do so as they become enlightened regarding spiritual things and attach less value to material things. It is also necessary to reform the human institutions that sustain and excite the passions. This depends on education.
 
-Selfishness appears deeply tied to personal interest, which is why it seems so difficult to eradicate. Yet it is not an eternal feature of human nature. As human beings become more enlightened about spiritual reality, they give less importance to material things. In the same movement, the institutions that inflame passions and encourage rivalry must also be reformed. This depends above all on education.
+Selfishness is the greatest evil, but it is connected to the impure nature of the spirits incarnated on the earth, and not to the human species in itself. By purifying themselves through successive incarnations, spirits rid themselves of selfishness just as they rid themselves of other impurities. On the earth there are persons who are free from selfishness and who practice charity. They exist in greater numbers than might be thought, but few are known because virtue does not seek to display itself publicly. If there is one, why would there not be ten? If there are ten, why would there not be a thousand, and so on?
 
-Selfishness is one of the greatest evils affecting life on earth, but it belongs to the impurity of the spirits incarnated here, not to the human species in its essence. Through successive lives and gradual purification, spirits free themselves from selfishness just as they rid themselves of other imperfections. There are already people on earth who are notably free from it and who practice genuine charity. They are more numerous than is often supposed, but true virtue does not seek display.
+Far from decreasing, selfishness increases with civilization, which seems to stimulate and sustain it. The greater the evil, the more heinous it becomes. It has been necessary for selfishness to produce much evil in order to make the need to uproot it understood. When human beings have freed themselves from the selfishness that dominates them, they will live as brothers and sisters. They will not do evil to one another and will help one another through the fraternal sentiment of solidarity. The strong will then be the support, not the oppressor, of the weak, and no one will lack what is necessary because all will practice the law of justice. This is the kingdom of the good that the Spirits are charged with preparing.
 
-Civilization may seem at times to intensify selfishness rather than diminish it. Yet this growth of the evil helps reveal its ugliness. When selfishness has produced enough suffering, the need to destroy it becomes unmistakable. Once human beings free themselves from its domination, they will live with one another in a spirit of fraternity. The strong will support the weak instead of oppressing them. No one will lack what is necessary, because all will practice justice. Such a condition belongs to the reign of the good that is being prepared.
+The means of destroying selfishness is difficult because, of all human imperfections, it is the hardest to uproot, since it is connected to the influence of matter, from which human beings, still so close to their origin, cannot free themselves. Everything concurs to sustain that influence: laws, social organization, and education. Selfishness will be weakened with the predominance of moral life over material life, and especially through the understanding that Spiritism gives of the true future state, no longer distorted by allegorical fictions. When Spiritism is well understood and identified with customs and beliefs, it will transform habits, practices, and social relations. Selfishness is founded on the importance given to personality. Properly understood, Spiritism enables one to see things from such an elevated point of view that the sense of personality somehow disappears before the immensity of the Doctrine. By destroying this self-importance and showing its true nature, Spiritism necessarily combats selfishness.
 
-### Means of Destroying Selfishness
+It is usually the shock that people experience from the selfishness of others that makes them selfish in return, because they feel the need to defend themselves. Seeing that others think only of themselves and not of them, they in turn are led to be more concerned with themselves than with others. Let the principle of charity and fraternity be the basis of social institutions and of legal relations between nations and individuals, and all will think less of themselves when they see that others do the same. Thus they will undergo the moralizing influence of example and contact. In light of the present overflow of selfishness, true virtue is needed to sacrifice one’s own personality for the sake of others, who generally do not recognize it. It is to those, above all, who possess this virtue, that the kingdom of heaven is opened. For them especially is reserved the bliss of the elect, because on the day of judgment those who have thought only of themselves will be cast aside and will suffer abandonment.
 
-Selfishness is among the hardest of human imperfections to uproot because it is sustained by the influence of matter. Laws, social structures, habits, and forms of education often support it instead of correcting it.
+### Fénelon
 
-It weakens as moral life gains predominance over material life. A clearer understanding of the soul’s true destiny also diminishes it. When human beings understand that their future is spiritual and not limited to temporary earthly interests, the exaggerated importance given to personality begins to fade. A broader view of existence reduces the tyranny of self-concern.
+Laudable efforts have doubtless been made to help humankind advance. Good sentiments are encouraged, stimulated, and honored today more than at any other time, and yet the devouring worm of selfishness continues to be the scourge of society. It is a true evil spread throughout the world, of which everyone is more or less a victim. Therefore, it must be fought as one would fight an epidemic. To do this, one must proceed as physicians do and go back to the cause. In every level of social organization—from the family to nations, from the hovel to the palace—all the causes and all the visible or hidden influences that excite, maintain, and develop the sentiment of selfishness must be sought out. Once the causes are known, the remedy will present itself. It will then only be necessary to combat them, if not completely, then at least in part, and little by little the poison will be drawn out. The cure may take a long time because the causes are numerous, but it is not impossible. Moreover, this point cannot be reached unless the evil is attacked at its roots, that is, through education. Not the education that aims merely to instruct, but the education that also aims to form moral individuals. When rightly understood, education will be the key to moral progress. When the art of guiding character is understood as well as the art of cultivating intelligence, character will be able to be corrected just as young plants are straightened. However, this art requires much tact, much experience, and profound observation. It is a serious error to believe that knowledge alone is enough to apply it well. Whoever has observed the children of the wealthy as well as of the poor from birth, noticing all the harmful influences that act on them as a result of the weakness, ignorance, and negligence of those who guide them, and also seeing how often the means employed to moralize them fail, will not be surprised to find so much disorder in the world. Let as much effort be made toward morality as toward intelligence, and it will be seen that although there are obstinate natures, there are also, in greater number than might be thought, those who require only good cultivation in order to yield good fruit.
 
-The selfishness of others also helps perpetuate selfishness in oneself. People become defensive because they feel surrounded by those who think only of themselves. Seeing little generosity around them, they begin to look first to their own protection and advantage. In this way, selfishness reproduces itself through mutual distrust.
+People want to be happy, and this sentiment is in their very nature. That is why they work without ceasing to improve their situation on earth and to seek out the causes of their ills in order to cure them. When they rightly understand that selfishness is one of those causes; that it engenders pride, ambition, greed, envy, hatred, and jealousy, of which they are at every moment the victim; that it brings trouble into all social relations, provokes dissension, destroys trust, and obliges them constantly to remain on the defensive toward their neighbor; that it turns friend into foe; then they will also understand that this vice is incompatible with their own happiness. It is likewise incompatible with their own safety. Thus, the more they suffer from it, the more they will feel the need to fight it as they would a plague, harmful animals, and every other scourge. They will be compelled to do so out of their own self-interest.
 
-For that reason, charity and fraternity must become the foundation of social institutions and of the relations that govern both individuals and nations. When each person sees others acting with generosity and fairness, concern for self naturally lessens. Example has a moralizing force. Contact with people who live by charity encourages the same disposition in others.
-
-In times when selfishness overflows, genuine virtue requires real sacrifice. To put aside one’s own personality for the sake of others, especially when that sacrifice may not be recognized, is among the highest expressions of moral life. Such renunciation opens the way to the happiness reserved for those who have learned not to live for themselves alone. Those who think only of themselves isolate themselves by that very choice, and they suffer the abandonment that selfishness inevitably creates.
-
-### Education and Moral Reform
-
-Much has been done to advance humanity. Good sentiments are more often praised, encouraged, and honored than in many earlier times. Yet selfishness still acts like a devouring worm within society. It is a widespread evil, touching everyone to some degree, and it must be fought as one would fight an epidemic.
-
-To cure it, the causes must be sought out carefully. They are found throughout the whole social order, from family life to national life, from poverty to wealth, in visible influences and hidden ones alike. Whatever excites, sustains, or develops selfishness must be identified. Once the causes are known, remedies become possible. Even if the evil cannot be removed all at once, it can be reduced step by step until the poison is gradually drawn out.
-
-The deepest remedy lies in education, but not in instruction alone. The needed education is one that forms moral character as well as intelligence. Properly understood, education is the key to moral progress. It is not enough to fill the mind with knowledge; character must also be guided, disciplined, and cultivated.
-
-To shape character requires tact, experience, and careful observation. It is a serious mistake to think that knowledge alone is enough to form a person well. Anyone who has observed children from different social conditions from the beginning of life can see how many harmful influences surround them: weakness, ignorance, negligence, poor example, and misguided methods of correction. It is no surprise, then, that so much moral disorder appears later. Yet many difficult tendencies are not hopeless. More natures than one might imagine would yield good fruit if they were well cultivated.
-
-### Selfishness and Human Happiness
-
-Human beings naturally want happiness. They labor constantly to improve their condition and to discover the causes of their suffering. Once they understand that selfishness is one of those causes, they will recognize it as an enemy to their own well-being.
-
-Selfishness gives rise to pride, ambition, greed, envy, hatred, and jealousy. It disturbs every social relation. It creates division, destroys trust, and forces people into a constant defensive posture toward one another. It changes friendship into hostility and turns community into rivalry.
-
-It is therefore not only morally wrong; it is incompatible with happiness and even with personal security. The more suffering it causes, the more clearly people will feel the need to fight it, as they would fight a plague or any destructive scourge. In the end, even self-interest will teach the necessity of overcoming selfishness.
-
-Selfishness is the source of all vices, just as charity is the source of all virtues. To destroy the former and develop the latter must be the aim of every sincere effort, if one wishes to secure happiness both in this life and in the life to come.
+Selfishness is the source of all vices, just as charity is the source of all virtues. To destroy the former and develop the latter should be the aim of everyone’s efforts if they wish to ensure happiness in this world as well as in the future.
 
 ## The Characteristics of a Moral Person
 
-Real progress in a person is recognized by the way the spirit expresses itself through bodily life.
+The spirit proves its progress when all the actions of its corporeal life consist in practicing the law of God, and when it understands the life of the spirit beforehand.
 
-A spirit shows its advancement when the actions of its earthly life are governed by the law of God, and when it already understands, in some measure, the life of the spirit before entering it fully. Moral growth is not proved by words, appearances, or outward devotion, but by conduct.
+Truly moral individuals practice the law of justice, love, and charity in its purest fullness. When they examine their conscience concerning their actions, they ask whether they have violated that law, whether they have committed any evil, whether they have done all the good that was in their power to do, whether no one has a complaint against them, and lastly, whether they have done to others what they would want others to do to them.
 
-Truly moral individuals practice the law of justice, love, and charity in its purest form. They examine themselves sincerely. In questioning their conscience, they ask whether they have violated that law, whether they have done any evil, whether they have done all the good within their power, whether anyone has a legitimate complaint against them, and whether they have treated others as they themselves would wish to be treated.
+Those who possess the sentiment of charity and love for their neighbor do good for its own sake, without hope of reward, and they sacrifice self-interest for the sake of justice.
 
-Those who are filled with charity and love for their neighbor do good for its own sake, without expecting reward. They are willing to sacrifice personal interest for the sake of justice. Their goodness is not calculated. It comes from a genuine recognition of duty and from a sincere concern for others.
+If God has given them power and wealth, they regard these as a deposit that must be used for good. But this does not make them vain, because they know that God, who gave them power and wealth, can also take them away.
 
-They are good, humane, and benevolent toward everyone because they see all people as brothers and sisters, whatever their race or belief. Human distinctions do not erase spiritual kinship.
+If the social order has placed persons under their care, they treat them with kindness and benevolence because all are equal before God. They use their authority to build others up morally, not to crush them under pride.
 
-When they possess power or wealth, they regard these not as personal trophies, but as a trust entrusted to them for the benefit of others. Such advantages do not make them vain, because they understand that what has been given can also be taken away.
+They are tolerant of the weaknesses of others, for they know that they themselves need tolerance, and they remember the words of Christ: “Let him that is without sin cast the first stone.”
 
-When the social order places others under their care, they treat them with kindness and benevolence, remembering that all are equal before God. Authority, in their hands, is used to elevate and morally strengthen, never to humiliate or oppress through pride.
+They are not vindictive. Following Jesus’ example, they forgive offenses and remember only benefits, because they know that they will be forgiven as they have forgiven.
 
-They are tolerant of the weaknesses of others because they know that they themselves need tolerance. Remembering their own imperfections, they do not rush to condemn. They keep in mind the command: let the one who is without sin cast the first stone.
-
-They are not vindictive. Following the example of forgiveness, they pardon offenses and remember benefits rather than injuries. They understand that the measure they use toward others will be the measure applied to themselves.
-
-They also respect in others all the rights granted by the laws of nature, just as they wish their own rights to be respected. Their moral life is therefore marked not only by inward feeling, but also by justice in action, humility in power, mercy in judgment, and charity in all human relationships.
+Finally, they respect in others all the rights that the laws of nature have granted them, just as they desire their own rights to be respected.
 
 ## Self-Knowledge
 
-The most effective means of improving ourselves in this life and resisting the pull of evil is contained in an ancient maxim: know yourself.
+The most effective means of improving ourselves in this life and of resisting the pull of evil is contained in the maxim, “Know thyself.” We understand all the wisdom of that maxim, but the difficulty lies precisely in knowing ourselves.
 
-Its wisdom is clear, but its practice is demanding. Self-knowledge does not arise spontaneously. It requires deliberate examination, honesty, and the courage to look within without excuse or self-flattery.
+One may do what St. Augustine did while living on the earth. At the end of each day he examined his conscience, reviewed what he had done, and asked himself whether he had failed to fulfill some duty and whether anyone might have had reason to complain of him. It was thus that he came to know himself and to see what in him needed reform. Those who each night recall all their actions during the day, and ask themselves what good or evil they have done, praying to God and to their guardian angel for enlightenment, will acquire great strength for self-improvement, because God will assist them. Therefore, one should ask what one has done and with what aim one acted in a given circumstance; whether one has done anything that one would blame in others; and whether one has done anything that one would not dare confess. One should also ask: if it pleased God to call me at this moment into the world of spirits, where nothing is hidden, would I shrink before anyone’s gaze? One should examine what one may have done against God, then against one’s neighbor, and lastly against oneself. The answers will either bring repose to the conscience or indicate a fault that must be corrected.
 
-A useful discipline is to review each day at its end. Let the conscience be examined carefully. Recall what was done, what was neglected, what intention guided each action, and whether any duty was left unfulfilled. Ask whether anyone has had reason to complain, whether any harm was caused, and whether any selfish motive was concealed beneath outward respectability.
+Self-knowledge is therefore the key to individual improvement. But one may ask: how are we to judge ourselves? Are we not under the illusion of vanity, which exalts our faults and makes them excusable? Misers think they are merely prudent and thrifty, while proud individuals think they are simply dignified. All this is true, but there is a means of control that cannot deceive. When one is uncertain about the quality of any action, one should ask how one would judge it if it had been done by someone else. If one would blame it in another, it cannot be more legitimate in oneself, for God does not use two measures of justice. One should also seek to know what others think and not neglect the opinion of one’s enemies, because they have no interest in disguising the truth. Frequently, God places them beside us as a mirror in order to warn us more frankly than a friend would. Therefore, those who truly wish to improve themselves should examine their conscience in order to uproot from it their evil tendencies, just as they uproot weeds from a garden. They should balance their moral workday as business people balance profits and losses, and there will be more gains than losses. If one can say that one’s day has been good, one can sleep in peace and await awakening in the other life without fear.
 
-Such a daily reckoning gradually reveals what must be corrected. It shows not only visible faults, but also hidden tendencies that might otherwise pass unnoticed. When this examination is done sincerely, with prayer for enlightenment and help from God and from one’s guardian angel, it becomes a powerful aid to moral progress.
+One should therefore formulate clear and precise questions and not be afraid to multiply them. It would be wise to devote a few minutes to securing eternal bliss. We work every day to accumulate what we will need for rest in old age. This rest is the object of all our desires, the goal that enables us to endure temporary fatigue and deprivation. But what is the rest of a few days, troubled by the infirmities of the body, compared with what awaits the moral person? Is it not worth a little effort? Many will say that the present is certain and the future uncertain. Yet that is precisely the thought the Spirits have been charged with tearing down in our minds, for they desire to enable us to understand that future in such a way that no doubt may remain in the soul. That is why they first called attention to themselves through the phenomena of nature, which appealed to the senses, and afterward gave instructions that each person has the duty to spread. It was with this purpose in mind that they dictated *The Spirits’ Book*.
 
-Certain questions are especially searching. Toward what aim did I act in a given circumstance? Did I do anything that I would blame in another? Did I do anything I would not dare confess openly? If I were called at this moment into the spiritual life, where nothing can be hidden, would I shrink from the gaze of others?
+### St. Augustine
 
-The examination may be made in three directions: first, regarding what has been done against God; next, regarding what has been done against one’s neighbor; and finally, regarding what has been done against oneself. The result will be either peace of conscience or the recognition of a wrong that needs amendment.
-
-Self-knowledge is the key to individual improvement. Yet judging oneself fairly is difficult because vanity readily disguises faults. The miser imagines that greed is only prudence. The proud person mistakes pride for dignity. Many errors appear acceptable when viewed through self-interest.
-
-A reliable test helps cut through this illusion. When uncertain about the moral quality of an action, ask how it would be judged if another person had done it. If it would be blamed in someone else, it cannot be justified in oneself. Justice does not change according to the person.
-
-It is also wise to consider what others think, without dismissing criticism too quickly. Even the opinion of an enemy can be useful, because an enemy has no desire to soften the truth. At times, those who oppose us serve as a mirror, revealing what friends may hesitate to say.
-
-Whoever truly wishes to improve must examine the conscience in order to uproot harmful tendencies as weeds are pulled from a garden. The moral life benefits from the same careful accounting used in ordinary affairs. One may weigh the day’s moral gains and losses, asking whether more good than evil has been produced. If the day has been good, one may rest in peace and await the future without fear.
-
-The questions asked of the conscience should be clear and precise. Vague reflection easily becomes self-deception. Honest yes-or-no answers leave little room for evasion. A few minutes given each day to such work are not wasted. People labor constantly for material security and for rest in old age, enduring fatigue and sacrifice for a future they hope to enjoy. How much more worthwhile is the effort required for moral preparation and lasting peace.
-
-Many are tempted to say that the present is certain while the future is uncertain. Yet the future life is not meant to remain obscure. Human beings are called to understand it clearly enough that doubt no longer rules the soul. For that reason, spiritual truths are brought to attention first through observable effects and then through instruction that each person has a responsibility to receive and embody through right living.
-
-Many faults pass unnoticed simply because they are never examined closely. Frequent interrogation of the conscience reveals how often one has failed without realizing it, especially by neglecting to study the true nature and motive of one’s actions. This method is more exact than relying on a general maxim alone, because it demands personal answers. From those answers, one may discern with greater clarity the measure of good and evil present within and the work still needed for reform.
+Many of the faults we commit pass unnoticed by us. In fact, following the counsel of St. Augustine, if we questioned our conscience more frequently, we would see how often we fail without noticing it, simply because we have not examined the nature and motive of our actions. This method of self-examination is more precise than relying on a maxim that we do not usually apply to ourselves. It requires categorical yes-or-no answers that leave no room for evasion. These are personal assertions, and from the sum of the answers we can calculate the sum of the good and the evil that exists within us.

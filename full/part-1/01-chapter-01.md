@@ -7,116 +7,72 @@ sidebar_label: 1.1 God
 
 God is the Supreme Intelligence, the First Cause of all things.
 
-This definition affirms both divine intelligence and divine primacy. God is not merely a force or an impersonal principle, but the highest intelligence, the source from which everything proceeds.
+The infinite is that which has neither beginning nor end: the unknown. All that is unknown is infinite.
 
-The infinite is that which has neither beginning nor end. It refers to what is without limit and, in another sense, to what is unknown to human understanding.
+To say that God is the infinite would be an incomplete definition. Human speech is too impoverished and insufficient to define that which transcends human intelligence.
 
-For that reason, it is not enough to say simply that God is the Infinite.
-
-Such a statement is incomplete. Human language is too limited to define fully what surpasses human intelligence. God is infinite in divine perfection, but the infinite, taken by itself, is an abstract idea rather than a complete description of the divine being.
-
-To identify God only with the Infinite is to substitute an attribute for the reality itself. It attempts to define what remains beyond full human comprehension by using another term that is itself obscure when taken alone.
-
-The mind may recognize that God has no limits, no beginning, and no end, yet this does not exhaust what God is. The idea of infinity points toward divine greatness, but it does not by itself express the fullness of the Supreme Intelligence who is the First Cause of all things.
+God is infinite in divine perfection, but the infinite itself is an abstract concept. Thus, to say that God is the infinite is to replace the thing itself with one of its attributes; it is to define something unknown by referring to something else that is equally unknown.
 
 ## Proofs of the Existence of God
 
-Proof of the existence of God may be found in a principle accepted throughout the sciences: there is no effect without a cause.
+Proof of the existence of God may be found in an axiom applied to all the sciences: “There is no effect without a cause.” If one searches for the cause of whatever is not the work of human beings, reason answers the question.
 
-If one looks for the cause of what is not the work of human beings, reason points beyond the visible effect to its source. The universe exists; therefore, it must have a cause. To deny God’s existence would be to deny that every effect has a cause and to suppose that something could arise from nothing.
+To believe in God, we need only behold the works of creation. The universe exists; therefore, it must have a cause. To doubt God’s existence would be to deny that every effect has a cause and to believe that something could have resulted from nothing.
 
-Human beings also carry within themselves an intuitive sense of God’s existence. Such a sentiment points to a reality corresponding to it. Here again, the same principle applies: there is no effect without a cause. If this inward awareness exists, it is reasonable to conclude that it is grounded in something real.
+All human beings have within them the intuitive sense of God’s existence. From this we conclude that God exists; otherwise, where would such a sentiment come from if it were not based on something real? This is an application of the principle that there is no effect without a cause.
 
-That inner sense cannot be explained adequately as a mere product of education or acquired ideas. If it were only taught from outside, it would not appear so universally. Like other learned concepts, it would belong only to those who had received a particular form of instruction. Yet the intuition of a Supreme Being appears even among peoples untouched by formal systems of teaching.
+This inner sense of God’s existence cannot be the result of education or the product of acquired ideas, because if that were the case, members of so-called primitive cultures would not have this intuition.
 
-Some have tried to find the First Cause of all things in the innermost properties of matter itself. But this only pushes the question back. If matter has properties, those properties also require a cause. They are effects, not the ultimate source. To attribute the first formation of things to matter alone is to mistake what has been produced for that which produces.
+If the sense of the existence of a Supreme Being were only the product of education, it would not be universal. Like all scientific ideas, it would exist only in the minds of those who had received such education.
 
-Others have imagined that everything arose from an accidental combination of matter, from chance. But chance is not an intelligent power. It is blind, and what is blind cannot account for the order, proportion, and harmony visible in the universe. The forces of nature act according to combinations and designs that reveal intelligence. To say that such order came from chance is to give chance qualities it does not possess. An intelligent chance would no longer be chance.
+The first cause of the formation of things cannot be found in the innermost properties of matter. Even if it could, what in turn would be the cause of those properties? There must always be a first cause.
 
-The First Cause is recognized as a Supreme Intelligence by looking at its works. A work reveals the nature of the one who made it. Human beings judge intelligence by what it produces, and no human intelligence can create what nature displays on every side. The grandeur, order, and power evident in creation point to an intelligence superior to humanity.
+To attribute the first formation of things to the innermost properties of matter would be to mistake the effect for the cause, since such properties are themselves an effect that must have had a prior cause.
 
-Human pride often resists this conclusion because it does not easily accept anything higher than itself. Yet the weakness of human beings stands in clear contrast with the power revealed in the universe. However remarkable human achievements may be, human intelligence itself still has a cause. The greater the work, the greater the cause required to produce it.
+The idea that attributes the first formation of all things to an accidental combination of matter—that is, to chance—is another absurdity. How could anyone with common sense believe that chance is an intelligent agent? Moreover, what is chance? Nothing.
 
-Whatever name is given to that supreme source, it remains the First Cause of all things: a Supreme Intelligence above every other intelligence.
+The harmony that governs the forces of the universe reveals definite combinations and designs, and thus an intelligent power. To attribute the first formation of things to chance would be nonsense, because chance is blind and cannot produce intelligent results. An intelligent chance would no longer be chance.
+
+In the first cause we see a Supreme Intelligence, superior to all other intelligences. “The workman is known by his work.” So look at the work, and you will find the Workman. Pride is what creates disbelief. Human pride believes in nothing above itself, and that is why people think they are so powerful. Poor beings! A mere breath from God could blow them over!
+
+We judge the power of an intelligence by its works. Since no human being could create what nature produces, it is obvious that the first cause must be an intelligence superior to humankind.
+
+Whatever may be the marvels accomplished by human intelligence, that intelligence itself must have a cause; the greater the results, the greater the first cause must have been. No matter what name you give it, that intelligence is the first cause of all things.
 
 ## The Attributes of the Divinity
 
-Human beings cannot fathom the innermost nature of God.
+Human beings cannot fathom God’s innermost nature, because they lack the capacity to comprehend it.
 
-Their present faculties are not sufficient for such understanding. As long as the spirit remains overshadowed by matter, the divine reality cannot be fully grasped. Only when the spirit has purified itself and risen beyond the obscuring influence of material life can it approach God more directly and see with clearer understanding.
+They will be able to fathom the mystery of the Divinity when their spirits are no longer eclipsed by matter, and when they have purified themselves enough to approach God; then they will see and comprehend God.
 
-For that reason, humanity’s idea of God is limited and often imperfect.
+The limited nature of human faculties makes it impossible to fathom God’s innermost nature. While humanity is in its infancy, people often confuse God with God’s creatures, attributing to God their own imperfections. Yet as they ponder the nature of things more deeply and their moral sense develops, they acquire a truer—though always incomplete—idea of God, one that better conforms to reason.
 
-In the early stages of development, people commonly imagine God in ways shaped by their own weaknesses, attributing human imperfections to the Divine. As moral awareness grows and reflection deepens, this mistaken tendency is gradually corrected. The idea of God becomes more rational, more elevated, and more worthy of the divine nature, though still never complete.
+Even though we cannot fathom God’s innermost nature, we can form some idea of the divine perfections. Human beings comprehend them more clearly only as they progressively overcome matter, but they can at least glimpse them through thought.
 
-Even without comprehending God’s essence, it is possible to glimpse some of the divine perfections.
+When we state that God is eternal, infinite, immutable, immaterial, one, all-powerful, and supremely just and good, we have, from our own point of view, a complete idea of God’s attributes, because we believe that in naming them we have named them all. Nevertheless, there are things that transcend the intelligence of even the most intelligent person, things our language cannot define because it is limited to our ideas and sensations. Reason tells us that God must possess these attributes in perfect fullness, for if God lacked any of them, or were not perfect in them, God would not be superior to everything else and thus would not be God. In order to be superior to everything else, God must not be subject to any change and must not be imperfect in any way.
 
-Thought allows the mind to rise toward them, and these glimpses become clearer as a person becomes less dominated by matter. What can be known is partial, but it is not meaningless. Reason can recognize certain necessary attributes of God, even if language and intelligence remain unable to exhaust all that God is.
+God is eternal. If God had had a beginning, then either God would have sprung from nothing or would have been created by a being that existed previously. By reasoning in this way, we arrive little by little at the idea of eternity and the infinite.
 
-When God is described as eternal, infinite, immutable, immaterial, one, all-powerful, and supremely just and good, this expresses a true idea from the human point of view. Yet it does not amount to complete knowledge of the Divine. There are realities that surpass even the highest human intelligence, and human language cannot define what lies beyond the limits of human ideas and sensations.
+God is immutable. If God were subject to change, then the laws that govern the universe would have no stability.
 
-Still, reason affirms that God must possess these attributes in absolute perfection. If any one of them were lacking, or existed in an imperfect degree, then God would not be above all things and would not truly be God. To be supreme, God must be exempt from change and free from every imaginable imperfection.
+God is immaterial. This means that God’s nature differs from everything we call matter; otherwise, God would not be immutable but would be subject to the transformations of matter.
 
-### Eternal
+God is one. If there were several gods, there would be no unity of design or power in the organization of the universe.
 
-God is eternal.
+God is all-powerful because God is one. If God were not powerful above all else, it would mean that there was something more powerful, or at least as powerful. It would mean that God might not have created all things, and those God did not create would have had to have been the work of some other god.
 
-If God had a beginning, then God must either have arisen from nothing or have been created by some prior being. Reason rejects both possibilities. By following this line of thought, the mind is led toward the ideas of eternity and infinity.
-
-### Immutable
-
-God is immutable.
-
-If God were subject to change, the laws governing the universe would have no stability. The order of creation requires a foundation that does not vary.
-
-### Immaterial
-
-God is immaterial.
-
-This means that the divine nature is entirely different from anything called matter. If God were material, God would be subject to the transformations of matter and therefore would not be immutable.
-
-### One
-
-God is one.
-
-If there were several gods, there could be neither unity of design nor unity of power in the organization of the universe. The harmony of creation points to a single supreme source.
-
-### All-Powerful
-
-God is all-powerful because God is one.
-
-If God were not supreme in power, then something else would have to be equally powerful or more powerful. In that case, God would not be the source of all things, and whatever had not been created by God would have to be attributed to another deity. Absolute divine unity therefore implies absolute divine power.
-
-### Supremely Just and Good
-
-God is supremely just and good.
-
-The wisdom of divine providence is revealed alike in the smallest things and in the greatest. The laws that govern existence bear the mark of justice and goodness so deeply that, when rightly understood, they leave no room for doubt. In the order of creation, wisdom, justice, and goodness are inseparable.
+God is supremely just and good. The providential wisdom in the divine laws is revealed in the smallest things as well as in the greatest, and this wisdom makes it impossible for us to doubt either God’s justice or goodness.
 
 ## Pantheism
 
-God is a distinct being, not the sum of all the forces, intelligences, bodies, and worlds in the universe.
+God is a distinct being, not the result of all the combined forces and intelligences of the universe. If the latter were the case, God per se would not exist, because God would be an effect and not a cause. God cannot be both cause and effect at the same time.
 
-If God were only the combined result of everything that exists, then God would be an effect rather than the First Cause. But God cannot be both cause and effect at the same time. The very idea of God requires a being who exists in and of himself, not one produced by the universe.
+You cannot doubt that God exists, and that is the point that matters. Do not try to go farther. Do not get lost in a maze from which you will not be able to exit. Trying to go farther will not make you any better; instead, it will probably only add to your pride by leading you to imagine that you understand something when you actually understand nothing at all. Therefore, set aside all theories on this matter. You have much more important things to be concerned with, beginning with yourselves. Study your own imperfections in order to rid yourselves of them; that will be far more useful than trying to penetrate the impenetrable.
 
-Human understanding reaches a limit here. It is possible to recognize that God exists without claiming to grasp the full divine essence. Trying to force an explanation beyond what reason can sustain often leads less to wisdom than to intellectual pride. There is greater value in turning inward, examining one’s own imperfections, and working to overcome them than in trying to penetrate what remains beyond human comprehension.
+The opinion that all the bodies in nature, all beings, and all globes in the universe are components of the Divinity, and that taken all together they comprise the Divinity itself, is the pantheistic doctrine. Since human beings are unable to make themselves God, they would like at least to be a part of God.
 
-Pantheism teaches that all beings, all bodies in nature, and all worlds together make up the Divinity itself. According to that view, everything is God, and God is everything.
+Adherents of this theory claim that it demonstrates some of God’s attributes: since there are an infinite number of worlds, then God is infinite; since a void or absolute nothingness is nowhere, then God is everywhere. God being everywhere, because everything is an integral component of God, God infuses all the phenomena of nature with divine intelligence. Reason refutes this viewpoint. Reflect on it carefully, and there will be no difficulty in seeing how absurd it is.
 
-This idea may appear attractive because it seems to magnify the divine. Since the universe contains innumerable worlds, one may say that God must be infinite. Since there is no absolute void, one may say that God must be everywhere. Since nature displays order and intelligence, one may say that divine intelligence is diffused through all things because all things are parts of God.
+The pantheistic doctrine views God as a material being who, even though possessed of supreme intelligence, is nevertheless only a larger version of us. Furthermore, since matter is continually changing, God would have no stability and would be subject to all the changes and needs of humanity. God would thus lack one of the essential attributes of the Divinity: immutability. The properties of matter cannot be linked to the idea of God without impairing our conception of God, and all the subtleties of sophistry will never be able to solve the issue of God’s innermost nature. We do not know all that God is, but we do know what God cannot fail to be. Pantheism contradicts the most essential divine attributes by confusing the Creator with the creature. It is like regarding an ingenious machine as an integral component of the machinist who invented it.
 
-Yet careful reflection shows the difficulty: pantheism confuses the Creator with the creation.
-
-If God were identical with matter or with the totality of changing beings, then God would also be subject to change. Matter is transformed continually. Created things arise, develop, decay, and pass away. A God composed of such elements would not be immutable. But immutability belongs to the very idea of the Divine. God cannot be dependent on the fluctuations, needs, and instability that mark created existence.
-
-For that reason, the properties of matter cannot be attributed to God without diminishing the idea of God. No subtle argument can remove the contradiction. Human beings may not know everything that God is, but they can know that God must not be reduced to what is variable, composite, and dependent.
-
-### Creator and Creation
-
-The difference between God and the universe is not a difference of size, as though God were merely a greater and more powerful version of created beings. God is of another order entirely.
-
-A useful comparison makes this plain. An ingenious machine is not an actual part of the engineer who designed it. In the same way, the universe is not an actual part of God simply because it expresses intelligence and order. The work reveals the mind of its maker, but it is not the maker.
-
-God’s intelligence is manifested in creation just as an artist’s intelligence is manifested in a painting. The painting bears the mark of the artist’s thought, skill, and intention, yet it is not the artist. Likewise, the worlds reveal divine wisdom, power, and purpose, but they are not God.
-
-Pantheism fails because it erases this distinction. By identifying the universe with God, it undermines the essential divine attributes and loses sight of the absolute independence of the Creator.
+God’s intelligence is revealed in God’s works, just as an artist’s is revealed in paintings; but God’s works are no more actually God than the painting is the artist who conceived and painted it.

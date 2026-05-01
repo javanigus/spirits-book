@@ -5,364 +5,214 @@ sidebar_label: 2.8 The Soul Beyond the Body
 
 ## Sleep and Dreams
 
-The incarnate spirit does not remain in the body by preference. Its union with the corporeal envelope resembles a form of confinement. It constantly aspires to greater freedom, and the heavier and denser the bodily covering, the more keenly it feels the constraint.
+An incarnate spirit does not willingly remain within its corporeal envelope. To ask otherwise would be like asking whether a prisoner is happy under lock and key. An incarnate spirit constantly aspires to freedom. The denser the envelope, the more it longs to be free of it.
 
-Sleep offers a partial release from that condition. The body rests, but the spirit does not. A spirit never remains inactive. During sleep, the bonds that attach it to the body are loosened, and because the body no longer requires its full presence, the spirit moves more freely, travels through space, and enters into a more direct relationship with other spirits.
+During sleep, the soul does not rest as the body does. A spirit never remains inactive. During sleep, the bonds that join it to the body are loosened, and since the body does not need it while sleeping, the spirit travels through space and enters into a more direct relationship with other spirits.
 
-Dreams provide one of the clearest signs of this relative freedom. While the body sleeps, the spirit enjoys more of its faculties than it does during waking life. It may remember the past, sometimes glimpse the future, and communicate with spirits from this world or from others. Many dreams that seem strange, frightening, or impossible are not mere nonsense. They are often memories of things the spirit has seen, whether in another time, another condition, or another existence.
+The fact that a spirit is freer during sleep is confirmed by dreams. While the body rests, the spirit enjoys more of its faculties than in the waking state. It remembers the past and sometimes foresees the future. It acquires more power and can communicate with other spirits, whether on this world or another. What is often called a bizarre or horrible dream, yet one with no likelihood of being true, is almost always a memory of places and things that have been seen, or that will be seen, in another existence or on another occasion. Since the body is dormant, the spirit tries to break its chains in order to probe the past and future.
 
-Human understanding usually stops at the surface of sleep, as though the inactivity of the body meant the inactivity of the soul. Yet sleep places the soul, for a few hours, in a state that partly resembles the condition it will know after death. Those who, after death, detach themselves quickly from matter are often the same ones who had clear, intelligent dreams during earthly life. While the body sleeps, they rejoin spirits more advanced than themselves, travel with them, converse with them, learn from them, and even take part in works whose continuation they find after death. Seen in this light, sleep becomes a daily lesson against the fear of dying: each day already includes a partial disengagement.
+Human beings know so little about even the most ordinary phenomena of life. They believe they are very wise, yet the most ordinary things puzzle them endlessly. To the question asked by all children, “What do we do when we sleep? What are dreams?” they remain without an answer.
 
-This does not occur in the same way for all spirits. More elevated spirits make better use of this freedom. Others, still strongly bound to material and lower desires, do not rise toward higher company. They may be drawn instead to less advanced worlds, to old attachments, or to coarse pleasures corresponding to their inclinations. They may absorb ideas still more harmful than those they profess while awake.
+Sleep partially frees the soul from the body. When people sleep, they momentarily find themselves in the state they will be in permanently after death. Spirits who quickly free themselves from matter upon death had intelligent dreams during earthly life. While their body is sleeping, such spirits rejoin the company of those who are more evolved; they travel with them, converse with them, and learn from them. They even work on projects that they find completed upon dying. From these facts, one should once more learn not to fear death, because one dies daily, as a saint once said.
 
-Many earthly sympathies and antipathies are connected with these nocturnal relations. People may awaken with a renewed sense of closeness to those with whom their spirit has just spent hours in harmony. Likewise, instinctive aversions may arise because the spirit recognizes dispositions foreign to its own, even where no outward acquaintance exists. Sleep influences human life much more deeply than is commonly supposed.
+This applies only to more highly evolved spirits. The mass of spirits, however, who at death must remain for some time in a state of confusion, that uncertainty of which it has already been spoken, either go to worlds even less evolved than Earth, where former affections call to them, or seek out pleasures perhaps even baser than those they indulge in here. They go to absorb doctrines even viler, more ignoble, and more harmful than those they profess among us. What engenders sympathies on Earth is often nothing other than the fact that, upon awakening, they feel linked to the hearts of those with whom they have just spent eight or nine hours of happiness or pleasure. Likewise, the deep antipathies felt toward certain individuals may be explained by the fact that they are recognized inwardly, even without having been seen before. This also explains some people’s indifference when they do not seek to make new friends: they know that those who love and cherish them are elsewhere. In a word, sleep has more influence on life than is generally supposed.
 
-For spirits of high order who consent to incarnate in difficult environments, sleep is also a mercy. During waking life they endure contact with human ignorance and vice; during sleep they return in part to the source of the good, renew their strength, and reconnect with those who belong to their true sphere. Sleep is their interval of restoration while they await complete liberation.
+During sleep, incarnate spirits are always in touch with the spirit world. That is why spirits of a high order, without too much aversion, consent to incarnate among us. During contact with earthly vices, God grants them the freedom to renew themselves during sleep at the source of the good, so that they do not fail in their commitment to instruct others. Sleep is the door that God opens to them so they may be in contact with their friends in heaven. It is their respite after work while they await the great deliverance, the final liberation that will restore them to their true environment.
 
-### Dreams as the Memory of Spiritual Activity
+A dream is the memory of what the spirit has seen during sleep. However, one does not always dream, because one does not always remember what was seen, or everything that was seen. This happens because the soul is still under development, so that often nothing more is retained than the confused memory that accompanies departure and return, mixed with the memory of what was done or what concerns were had while awake. Otherwise, those absurd dreams that both the wisest and the simplest endure would be inexplicable. Evil spirits also use dreams to torment weak and cowardly souls.
 
-A dream is the memory of what the spirit has seen during sleep. But that memory is often incomplete. One does not always remember dreaming, and even when one does, one rarely preserves the whole of what was experienced. What remains may be only a confused fragment from the spirit’s departure and return, mingled with the concerns, impressions, and memories of waking life.
+Furthermore, another type of dreaming will soon be seen to develop, a type as ancient as the one already known, though often ignored. It is the dream of Joan of Arc, the dream of Jacob, the dream of the Jewish prophets, and that of certain Indian seers. This sort of dream is the remembrance of the soul entirely disengaged from the body, the memory of that other life of which it has just been spoken.
 
-This mixture explains why dreams are so often incoherent. Images referring to distant places, unknown worlds, past events, and even other existences become blended with elements from present life. The result is a confused medley that appears disconnected or absurd.
+One must try carefully to distinguish between these two types of dreams among those that are remembered; otherwise, one will fall into contradictions and errors that could be disastrous for faith.
 
-Their incoherence is increased by the gaps in memory. A dream recalled after waking is like a story from which several sentences have been removed. The remaining fragments, joined together, seem irrational only because the missing links are gone.
+Dreams are a product of the emancipation of the soul, which becomes more independent through the suspension of active life and bodily relations. This results in a sort of vague clairvoyance extending to the most distant places, to places never seen, and sometimes even to other worlds. It also produces the remembrance of events that have taken place in our present existence or in previous ones. The strangeness of the images referring to what is occurring or has occurred on unknown worlds, mixed with the images of the present world, forms those bizarre and confused medleys that seem to have neither meaning nor connection.
 
-Dreams arise from the emancipation of the soul. Through the suspension of active bodily life, the soul becomes more independent. This produces a kind of indistinct clairvoyance that can extend to distant places, to places never seen before, and at times even to other worlds. It also allows the remembrance of events from the present life or from previous lives.
+The incoherence of dreams is further explained by the gaps resulting from the incomplete memory of what appeared during the dream, much like a narrative from which sentences or parts of sentences have accidentally been omitted. If the remaining fragments were joined together, they would lose all rational meaning.
 
-### Why Dreams Are Forgotten
+We do not always remember our dreams because, during what is called sleep, only the repose of the body is experienced, while the spirit is always in motion. During sleep, it recovers a measure of its freedom and communicates with those who are dear to it, whether on this world or on others. But since the body is composed of heavy and dense matter, it has difficulty retaining the impressions received by the spirit, because the spirit did not receive them through the body’s organs in the first place.
 
-What is called sleep is only the repose of the body. The spirit remains active and in motion. During that interval it recovers part of its freedom and communicates with those who are dear to it, whether on earth or elsewhere.
+The various meanings attributed to dreams are not true in the sense understood by fortune-tellers, for example, since it is absurd to believe that dreaming of one matter necessarily foretells another. They are true in the sense that dreams present real images to the spirit, but these images often have no relation to what occurs in corporeal life. As has already been stated, they are often a memory of the past. Lastly, they may sometimes be a presentiment of the future if God allows it, or a vision of what is occurring at that moment in another place to which the soul has gone. There are numerous examples of persons appearing in dreams to warn relatives and friends about what is happening to them. Such apparitions are the soul or spirit of those persons communicating. When it is confirmed that what was seen has really occurred, it is evidence that imagination had nothing to do with it, especially if the event had not been in the mind while awake.
 
-The difficulty lies in transmission. The body, composed of dense matter, does not easily retain the impressions received by the spirit, because those impressions were not received through the bodily organs. The spirit saw and heard by its own faculties, but the waking brain cannot always hold what did not pass through ordinary sensation.
+Often, things are seen in dreams that appear to be presentiments about matters that never occur. These may occur for the spirit, though not for the body, which means that the spirit sees what it desires because it goes in search of it. It must not be forgotten that during sleep the soul is always more or less under the influence of matter, and consequently is never completely free from earthly ideas. Therefore, the concerns of waking life may give what is seen the appearance of what is desired or feared. This is what may truly be called a trick of the imagination. When one is strongly preoccupied with an idea, one connects it to everything one sees.
 
-### The Meaning of Dreams
+When living persons well known to us are seen in a dream doing things they would never think of doing in waking life, this is not necessarily pure imagination. How can it be known what they would never think? Their spirit may come to visit ours, just as ours may visit theirs, without our always knowing what they are thinking. Besides, according to our desires, we often apply to familiar individuals what occurred or is occurring in other existences.
 
-Dreams are not true in the superstitious sense often attributed to them. It is unreasonable to suppose that dreaming of one thing must symbolically foretell another in some fixed and universal way. Yet dreams are true in another sense: they present real images to the spirit.
+Complete sleep is not necessary for the emancipation of the spirit. The spirit recovers its freedom whenever the senses become dull. It takes advantage of every moment of respite that the body offers in order to emancipate itself. As soon as there is a prostration of the vital forces, the spirit disengages itself; the weaker the body, the freer the spirit.
 
-Those images may have no connection with outward bodily life. They may be memories of the past. They may also, when permitted, be presentiments of the future, or visions of something taking place at that moment in another location visited by the soul.
+Thus, a nap or a simple dulling of the senses often presents the same images as dreaming.
 
-There are cases in which a person appears in a dream to warn a relative or friend of an event occurring to them. Such manifestations are not mere fantasy when the event is later confirmed, especially if the dream concerned something the dreamer had not been thinking about while awake. In such moments, imagination is not a sufficient explanation; one spirit has communicated with another.
+Sometimes it seems that distinctly pronounced words are heard within us that have no relation to what occupies our thoughts. This may even extend to entire sentences, especially when the senses begin to grow dull. It is sometimes the faint echo of a spirit that wishes to communicate.
 
-Still, not every apparent presentiment concerns the body’s future. Sometimes the spirit sees what concerns itself, not what will happen in earthly life. At other times, waking desires and fears distort what is perceived. During sleep, the soul is never wholly freed from matter, and the concerns of waking life often color what it sees. When the mind is strongly preoccupied, it connects everything with the object of its desire or fear. That is what may properly be called a trick of the imagination.
+Often, while the eyes are shut during a state not yet fully asleep, distinct images and figures are seen in the minutest detail. This is an effect not of imagination, but of vision. The body, being numb, the spirit tries to break its chains; it travels and sees. If sleep were complete, this vision would be a dream.
 
-### Encounters with Other Persons in Dreams
+During sleep or a nap, ideas sometimes arise that seem very worthwhile, but despite efforts to recall them they are erased from waking memory. These ideas are the result of the freedom of the spirit, which emancipates itself and enjoys broader faculties for the moment. They are also often counsels given by other spirits.
 
-When known persons appear in dreams doing things wholly unlike their ordinary conduct, this need not be dismissed as pure invention. One cannot be certain of all that another spirit thinks or experiences. Their spirit may indeed have come to visit yours, just as yours may visit theirs, without either person retaining a clear waking memory of the encounter.
+Such ideas or counsels are useful even if memory of them is lost and they cannot immediately be employed. Such ideas sometimes belong more to the spirit world than to the corporeal one. But most often, even if the body forgets them, the spirit remembers them nonetheless, and the idea returns at the appropriate time as an inspiration of the moment.
 
-Dream images may also be altered by personal desire. The dreamer may apply to familiar individuals things that in fact belong to other circumstances, other spirits, or even other existences. Familiar faces may serve as coverings for scenes of deeper origin.
+During the time that the spirit is disengaged from matter and acts as a spirit, it often has a presentiment of the time of its death. Sometimes it has a very clear awareness of it, which gives it an intuition while awake. That is why some individuals sometimes foresee their own death with great precision.
 
-### The Emancipation of the Spirit Without Complete Sleep
+The activity of the spirit during the repose or sleep of the body can fatigue the body, because the spirit is connected to the body like a balloon tied to a post. Just as the jerking movements of the balloon shake the post, the activity of the spirit reacts upon the body and may produce fatigue.
 
-Complete sleep is not necessary for the spirit to begin freeing itself. Whenever the senses grow dull, the spirit recovers some liberty. It takes advantage of every respite the body offers. As soon as the vital forces slacken, the spirit disengages itself to some degree. The weaker the body, the freer the spirit tends to be.
+## Visits between the Spirits of Living Persons
 
-For that reason, a simple nap, a state of drowsiness, or a partial numbing of the senses may produce experiences similar to dreams. Distinct inner words, and sometimes even entire sentences, may be heard when the senses are becoming inactive. These may be the faint echo of a spirit seeking to communicate.
+The principle of the soul’s emancipation during sleep indicates that, in the state of emancipation, the life of the body gives way to that of the soul. Properly speaking, however, there are not two lives. Rather, there are two phases of the same life; people do not live double lives.
 
-Likewise, with the eyes closed but before full sleep, one may see vivid images and figures in the finest detail. This is not ordinary bodily sight. The body is becoming numb, and the spirit, trying to loosen its chains, travels and sees. If sleep were complete, the same perception would appear as a dream.
+Two people who know each other can visit each other during sleep. Many others, who do not think they know each other while awake, meet and converse. Without even suspecting it, one may have friends in another country. The phenomenon during sleep in which one visits friends, relatives, acquaintances, and individuals who may be useful is so frequent that it is experienced almost every night.
 
-### Ideas Received During Sleep
+These nocturnal visits are useful because, ordinarily, upon awakening, an intuition remains that is almost always the source of certain ideas that arise spontaneously and seem otherwise inexplicable. They are simply the ideas grasped during such colloquies.
 
-During sleep or even a brief dozing state, thoughts may arise that seem elevated, penetrating, and unusually rich. Yet on waking they often vanish despite every effort to retain them. These ideas come from the greater freedom of the spirit while emancipated from the body. They may also be counsels given by other spirits.
+People cannot simply bring about spirit visits at will by deciding before sleep to meet a certain person in spirit in order to speak and say certain things. What actually happens is that the person sleeps and the spirit wakes, but the spirit is often far from following what the person resolved while awake, because the life of the person interests the spirit very little when it is freed from matter. This applies to individuals who are already fairly evolved; the others spend their spirit existence in a very different manner. They either give in to their passions or remain inactive altogether. Thus, depending on the reason proposed, the spirit may go to visit the desired individual, but the mere waking desire to do so is not in itself the reason for actually doing it.
 
-Even when the body forgets them, they are not necessarily lost. Some belong more to the spirit’s order of life than to earthly consciousness. More often, the spirit keeps their imprint, and the idea returns later at the needed moment as a spontaneous inspiration.
+A certain number of incarnate spirits can meet and form a gathering. The bonds of old or new friendship frequently reunite a number of spirits who are happy to be together.
 
-### Presentiment of Death
+The word old refers to ties of friendship contracted in previous existences. Upon awakening, an intuition returns of the ideas acquired during these hidden colloquies, even though their source remains unknown.
 
-While disengaged from matter and acting more directly as spirit, an incarnate being may sometimes know the time of its death. Often this appears only as a presentiment, but at times the awareness is quite clear. When that knowledge filters into waking consciousness, it becomes an intuition, and this is why some individuals foresee their death with striking precision.
-
-### The Effect of Spiritual Activity on the Body
-
-The activity of the spirit during the body’s repose can also react upon the body itself. The connection between them remains real. The body may be compared to a post to which a balloon is tied: when the balloon is agitated, the post feels the movement. In the same way, the spirit’s activity can shake the bodily organism and leave it fatigued even after apparent rest.
-
-Sleep, then, is never mere physical interruption. It is a temporary loosening of the soul from its earthly ties, a hidden continuation of spiritual life, and one of the most constant forms of intercourse between the incarnate being and the invisible world.
-
-## Visits Between the Spirits of Living Persons
-
-During sleep, the soul becomes partially emancipated from the body. This can give the impression that human beings live two lives at once: one outward, tied to bodily activity and daily relationships, and another inward, belonging to the soul and its hidden relationships.
-
-Strictly speaking, however, there are not two separate lives. There are two phases of one and the same life. Bodily life recedes for a time, and the life of the soul becomes more active.
-
-### Encounters During Sleep
-
-When the body sleeps, spirits who know one another can meet and visit each other.
-
-Such meetings are not limited to those who are consciously acquainted in waking life. Many who seem to be strangers during the day recognize one another and converse in the spiritual state. A person may even have friends in another country without suspecting it while awake. Visits to friends, relatives, acquaintances, and to persons who may be useful are so common during sleep that they occur almost every night.
-
-These encounters are often forgotten on awakening, but they are not without effect. What usually remains is an intuition. Many ideas that seem to arise spontaneously, without any clear source, are traces of what was learned or perceived in these hidden conversations.
-
-### Can Such Visits Be Chosen Deliberately?
-
-A person may go to sleep intending to meet a certain individual in spirit, to speak with that person, or to communicate something specific. Yet the wish formed while awake is not enough by itself to make this happen.
-
-What occurs is that the body sleeps while the spirit awakens. Once freed from matter, the spirit is often far from following the plans made during waking life. For spirits already more advanced, bodily concerns may hold little interest during this state of freedom. Less advanced spirits spend this interval differently: some still yield to their passions, while others remain inactive.
-
-Because of this, a spirit may indeed go to the person it intended to visit, if there is a fitting reason. But the simple decision made before sleep is not the true cause of the visit.
-
-### Gatherings of Incarnate Spirits
-
-Not only can two incarnate spirits meet during sleep, but several can gather together.
-
-Friendships, whether old or newly formed, often bring groups of spirits together, and they find happiness in one another’s company. The older ties may come from previous existences, even when nothing in waking life clearly reveals them.
-
-On returning to the waking state, a person may retain only an impression or intuition of what was gained in these meetings. The ideas remain, even if their origin is no longer recognized.
-
-### Recognizing the Living or the Dead
-
-In the spiritual state, a person can sometimes see a friend believed to be dead and learn the truth of that friend’s condition.
-
-If someone is mistaken in thinking a friend has died, that friend may still be encountered in spirit and recognized as living. Upon awakening, this may leave a presentiment of the truth. In the same way, if the friend is truly dead, that reality may also be perceived.
-
-Such knowledge is not always granted in every case. If the mistaken belief is part of a necessary trial, certainty may not be given. But when no such purpose exists, the soul may receive an inner impression that the person is alive, or else that death has in fact occurred.
+If a person believed a friend to be dead, but the friend was in fact still alive, that person could, as a spirit, certainly see the friend and know how she is. If the belief in her death was not intended as a trial, the person will have a presentiment that she is alive, or that she is indeed dead.
 
 ## The Concealed Transmission of Thought
 
-The same idea may arise in many places at nearly the same time because spirits communicate with one another.
+The same idea, a discovery for example, may arise at the same time in many places because during sleep spirits communicate with one another. When the body awakens, the spirit remembers what it has learned and the person thinks he or she has invented it. Thus, many may seem to have discovered the same thing at the same time. When it is said that an idea is “floating around,” the figure of speech is more precise than is usually thought. Without suspecting it, everyone has contributed toward developing it.
 
-During sleep, spirits encounter each other and exchange thoughts. When the body awakens, the spirit retains something of what it has learned, and the person often believes the idea originated entirely within himself or herself. In this way, several individuals may appear to make the same discovery at once.
+In this way, our own spirit often unknowingly reveals the object of our waking preoccupations to other spirits.
 
-The common expression that an idea is “floating around” comes surprisingly close to the truth. Without realizing it, many minds may have contributed to forming and developing it.
+A spirit is not enclosed in the body as though in a box; it radiates in every direction. Hence, it can communicate with other spirits even in the waking state, though with more difficulty.
 
-A person’s own spirit may also, without conscious intention, disclose to other spirits the subject of waking concerns. Thoughts that occupy the mind by day can thus become known beyond ordinary awareness.
+Two perfectly awake persons may sometimes have the same thought at exactly the same time because they are two attuned spirits who communicate with each other and read one another’s thoughts even when not asleep.
 
-### Communication While Awake
-
-Spiritual communication does not cease when the body is fully awake.
-
-A spirit is not shut up inside the body as though enclosed in a box. It radiates outward in every direction. Because of this, it can remain in communication with other spirits even during waking life, though this occurs with more difficulty than during sleep.
-
-This helps explain why two people, fully awake, may sometimes have exactly the same thought at the same moment. When their spirits are attuned to one another, they may communicate directly and perceive each other’s thoughts even without sleep.
-
-### The Language of Spirits
-
-When spirits come into contact, thought may be communicated so directly that two persons understand one another without the need for spoken words.
-
-There is, in such moments, a true exchange of thought beyond ordinary language. In that sense, spirits may be said to speak a language of their own: the immediate language of spirit to spirit.
+When spirits meet, there is sometimes a communication of thought that enables two persons to see and understand one another without the need for verbal language. It may be said that they speak the language of spirits.
 
 ## Lethargy, Catalepsy, and Apparent Death
 
-In lethargy and catalepsy, a person may seem cut off from the world while still remaining inwardly aware. Such individuals often perceive what is happening around them, yet they cannot express what they see or hear. Their perception does not operate through the ordinary functioning of the bodily senses, but through the spirit, which remains conscious even when the body is unable to respond.
+Lethargic and cataleptic individuals generally see and hear what is occurring around them, but they cannot express it. They do not see and hear through the eyes and ears of the body, but through the spirit. The spirit is conscious but unable to communicate.
 
-This condition points to a distinction between body and spirit. Although the body may appear inactive, the spirit continues to think and perceive. The inability to communicate does not come from the extinction of consciousness, but from the condition of the organs, which no longer provide the means for outward expression.
+The state of the body prevents this. This peculiar condition of the organs proves that there is something more to the human being than the body, because although the body is not functioning, the spirit continues to act.
 
-### Lethargy and the Link Between Spirit and Body
+In the state of lethargy, the spirit cannot separate itself entirely from the body in such a way as to give the body all the appearances of death and then return to it. The body is not dead in the lethargic state, because there are functions that continue to operate. Vitality remains in a latent state, as in a cocoon, but it is not extinguished. The spirit is always connected to the body while the body is alive, but once the ties are broken by real death and by the decomposition of the organs, the separation is complete and the spirit no longer returns. When an apparently dead person comes back to life, it is because death had not actually been consummated.
 
-In lethargy, the spirit does not separate completely from the body in the way it does at death. The body is not truly dead, because certain functions still continue, even if only in a hidden or weakened form. Vitality remains present in a latent state, as life remains enclosed within a cocoon before emerging. As long as the body is alive, the spirit is still joined to it.
+With timely care, one can strengthen the ties that are about to break and bring back to life a being who, without such attention, would certainly die. In such cases, magnetism is often a powerful means because it gives the body the vital fluid needed to keep the organs functioning.
 
-Real death brings a different condition. When the bond between spirit and body is definitively broken, and when the organs have undergone the decomposition that confirms death, the separation is complete and the spirit does not return. When someone who seemed dead later revives, it is because death had not actually taken place.
-
-### Apparent Death and Recovery
-
-There are cases in which timely care can reinforce bonds that are on the verge of breaking and restore life to someone who would otherwise have died. Daily experience offers many examples of this kind of recovery.
-
-Magnetism may serve as a powerful aid in such circumstances, because it can provide the vital fluid needed to sustain the organs and support their continued operation.
-
-### Distinction Between Lethargy and Catalepsy
-
-Lethargy and catalepsy arise from the same general principle: a temporary loss of sensation and movement caused by a physiological condition not yet fully understood. Even so, they differ in important ways.
-
-In lethargy, the suspension of the vital forces is generalized. The whole body is affected, and the person may display nearly all the signs of death.
-
-In catalepsy, the condition is localized. It may affect only part of the body, to a greater or lesser degree, and can leave the intelligence free enough to manifest itself. For that reason, catalepsy need not be mistaken for death.
-
-Lethargy is always natural. Catalepsy may also arise spontaneously, but it can sometimes be artificially induced and later ended through magnetic action.
+Lethargy and catalepsy have the same principle: the temporary loss of sensitivity and motion due to an as yet unexplained physiological cause. They differ in that, in lethargy, the suspension of the vital forces is generalized and gives the body all the appearances of death, while in catalepsy it is localized and can affect a greater or lesser portion of the body so as to leave the intelligence free to express itself, which prevents confusion with death. Lethargy is always natural; catalepsy is sometimes spontaneous, but it may also be artificially induced and ended by magnetic action.
 
 ## Somnambulism
 
-Natural somnambulism is connected with dreams, but it is not the same state.
+Natural somnambulism is connected to dreams. It is a state of the soul in which its independence is more complete than in dreams; thus, its faculties are less restrained. The soul has perceptions that it does not attain in the dream state, which is in fact a state of imperfect somnambulism.
 
-It is a condition in which the soul enjoys a greater degree of independence than it does in ordinary dreaming, and for that reason its faculties act with more freedom. In this condition, the soul can perceive things that remain inaccessible in the dream state. Dreams may be understood as a kind of imperfect somnambulism.
+In somnambulism, the spirit is in full possession of itself, but the physical organs are in a sort of cataleptic state and no longer receive external impressions. This state manifests especially during sleep, the time during which the spirit can temporarily leave the body while the body enjoys the repose indispensable to matter. When somnambulistic activity occurs, it is because the spirit is preoccupied with something that requires the physical body, which it then uses in the same way it would use a table or other material object in the phenomena of physical manifestations, or a hand in written communications. In conscious dreams, the sensory organs, including those related to memory, begin to awaken and imperfectly receive the impressions produced by objects or external causes, and communicate them to the spirit. The spirit, itself in a state of repose, perceives only confused and often fragmentary sensations, which, without any apparent reason, are mixed with vague memories from either the present life or previous ones. It is therefore easy to understand why somnambulists do not remember anything, and why most dreams remembered have no meaning. Most of the time, because sometimes dreams are the consequence of a precise memory of events from a previous life, and sometimes even a sort of intuition of the future.
 
-In somnambulism, the spirit is more fully in possession of itself, while the body is left in a condition resembling catalepsy, no longer receiving external impressions in the usual way. This occurs especially during sleep, when the spirit can temporarily disengage itself from the body while the body takes the rest required by matter. If somnambulistic activity appears, it is because the spirit is occupied with something that still requires the bodily instrument, and it uses that body as it might use any material means of action.
+So-called magnetic somnambulism is the same thing as natural somnambulism, except that it is artificially induced.
 
-In dreams that are remembered consciously, the bodily senses, including memory, begin to awaken and receive only imperfectly the impressions produced by outside objects or causes. These impressions are then passed on to the spirit, which, still in a state of relative repose, receives them in a confused and fragmentary way. They become mixed, often without apparent order, with vague recollections from the present life or even from previous lives. This helps explain why somnambulists usually remember nothing of what occurred in that state, and why most remembered dreams are incoherent or without clear meaning. At times, however, dreams may preserve a precise memory of events from an earlier existence, and sometimes even offer a kind of intuition of the future.
+The agent called the magnetic fluid is the vital fluid, or animalized electricity, and is a modification of the universal fluid.
 
-### Magnetic Somnambulism
+The cause of somnambulistic clairvoyance is soul sight.
 
-So-called magnetic somnambulism is of the same nature as natural somnambulism, with the difference that it is artificially induced.
+Somnambulists can see through opaque objects because no object is completely opaque except to dense organs. Matter is no obstacle to spirits, since they can pass right through it. Somnambulists often say that they see through their forehead, through their knee, and so on, because those entirely immersed in matter do not understand that they can see without the help of organs. Nonetheless, at others’ insistence, they believe they actually need them. If left alone, however, they would understand that they see through all parts of the body, or rather, that they see apart from the body.
 
-The agent called magnetic fluid is the vital fluid, or animalized electricity, considered a modification of the universal fluid.
+Since the clairvoyance of somnambulists is that of the soul or spirit, they do not see everything and often make mistakes because, first, it is not given to imperfect spirits to see everything and know everything. They still share human errors and prejudices. Second, while connected to matter, they do not enjoy all the faculties of spirits. God has given clairvoyance to humankind for a useful and serious purpose, not so that people may learn what they should not know. That is why somnambulists do not know everything.
 
-### Somnambulistic Clairvoyance
+The source of somnambulists’ innate ideas, and the reason they can speak with such precision about things of which they are ignorant in the waking state and that are even above their intellectual capacity, is that somnambulists may actually possess more knowledge than might be supposed, though it lies dormant: their corporeal envelope is too imperfect to let them remember it. Like others, they are spirits who have incarnated to fulfill their mission, and the somnambulistic state into which they enter awakens them from their mental lethargy. Human beings live many times, and when they reincarnate they materially lose what they had learned in a previous life. When they enter what is called the crisis state, they remember what they already know, though always incompletely. They know, but they cannot say where the knowledge comes from or why they have it. Once the crisis passes, the memory is erased and they return to the knowledge of waking life.
 
-The clairvoyance of the somnambulist belongs to the soul. It is soul sight.
+Experience has shown that somnambulists also receive communications from other spirits, who transmit to them what they must say and supply what they lack. This is seen especially in cases involving medical prescriptions: the spirit of the somnambulist discerns the malady, and another spirit indicates the remedy. This double action is sometimes evident, while at other times it is revealed by frequent expressions such as, “They are telling me to say,” or, “They are forbidding me to say such and such.” In the latter case, it is always dangerous to insist on obtaining denied information; otherwise, the door is opened to frivolous spirits who talk about everything without any concern for truth.
 
-This is why a somnambulist may appear to see through opaque objects. Matter is not an obstacle to the spirit in the way it is to the dense bodily organs. Nothing is absolutely opaque in itself; it is opaque only in relation to the limitations of ordinary physical perception. Since the spirit can penetrate matter, the somnambulist does not truly see by means of the bodily organs.
+The remote viewing ability experienced by some somnambulists is explained by the soul’s traveling during sleep. The same thing occurs in somnambulism.
 
-When somnambulists say that they see through the forehead, the knee, or some other part of the body, they are usually speaking according to the expectations of those around them. People so identified with material conditions assume that seeing must happen through an organ, and the somnambulist may adopt that language. Left undisturbed, they would better understand that they see through every part of the body, or more exactly, apart from the body.
+The greater or lesser development of somnambulistic clairvoyance depends both on the physical organization of the body and on the nature of the incarnate spirit. There are physical dispositions that allow the spirit to disengage itself from matter more or less easily.
 
-Yet somnambulistic clairvoyance is not unlimited. Somnambulists do not see everything, nor do they know everything, and they are often mistaken. One reason is that imperfect spirits do not possess complete knowledge and remain subject to error and prejudice. Another is that, while still united to matter, they do not enjoy the full range of spirit faculties. Clairvoyance has been given for useful and serious ends, not to uncover everything human beings are not meant to know.
+The faculties that the spirit of the somnambulist enjoys are, to a certain extent, the same as those of the spirit after death. Yet the spirit of the somnambulist is still attached to matter, and this fact must be taken into account.
 
-### Innate Knowledge and Hidden Memory
+Most somnambulists can see other spirits very easily, but this depends on the nature and degree of their lucidity. Sometimes, however, they do not at first understand what these other spirits are and so mistake them for corporeal beings. This happens especially with those who have no knowledge of Spiritism, because they do not yet comprehend the nature of spirits. Their human appearance deceives them, and that is why they think they are seeing living persons.
 
-The striking precision with which somnambulists sometimes speak about matters unknown to them in the waking state does not mean that they acquire all such knowledge in the moment.
+The same effect is produced at the moment of death among those who think they are still alive. Nothing around them appears to have changed. Spirits appear to them as having bodies similar to ours, and they mistake the appearance of their own body as being real.
 
-They may know more than is ordinarily suspected, but that knowledge lies dormant because the corporeal envelope is too imperfect to let them recall it in everyday consciousness. As incarnate spirits, they have lived before, and reincarnation causes the material loss of what was learned in former lives. In the somnambulistic crisis, they awaken from that mental lethargy and recover something of what they already knew.
+When somnambulists see at a distance, it is the soul that sees and not the body.
 
-This recovery is always incomplete. They know, but cannot say where the knowledge comes from or why they possess it. Once the crisis ends, the memory is erased again, and they return to the limited knowledge of ordinary waking life.
+Since it is in fact the soul that travels, somnambulists can experience in their body the sensations of the heat or cold of the place where their soul is, even when that place is very far from where the body actually is, because the soul has not entirely left the body. It always remains connected by the tie that joins them, and that tie is the conductor of sensations. When two persons communicate between one city and another by means of electricity, the electricity is the tie between their thoughts; thanks to it, they can communicate as though they were side by side.
 
-Experience also shows that somnambulists may receive communications from other spirits, who supply what is lacking and direct what should be said. This is seen particularly in medical cases. The somnambulist’s own spirit may perceive the nature of the illness, while another spirit indicates the remedy. Sometimes this twofold action is obvious. At other times it appears indirectly through expressions such as, “They are telling me to say,” or, “They are forbidding me to say.”
-
-When information is withheld in this way, pressing to obtain it is dangerous. Such insistence may open the way to frivolous spirits, who speak readily about anything without concern for truth.
-
-### Remote Vision and the Movement of the Soul
-
-Some somnambulists can perceive distant places. This follows from the same principle that applies during sleep: the soul travels.
-
-The degree to which this clairvoyance develops depends on both the physical organization of the body and the nature of the incarnate spirit. Certain bodily dispositions make it easier or harder for the spirit to disengage itself from matter.
-
-The faculties enjoyed by the spirit of the somnambulist resemble, to a certain degree, those of the spirit after death. But the comparison is only partial, because the somnambulist’s spirit is still attached to matter, and that attachment limits its freedom.
-
-### Seeing Other Spirits
-
-Most somnambulists can see spirits quite easily, though this depends on the nature and degree of their lucidity.
-
-At first, however, they may not understand what they are seeing. They may mistake spirits for living, embodied persons, especially if they have no prior understanding of the spiritual nature of such beings. Because spirits often appear in human form, those who lack discernment assume they are seeing ordinary people.
-
-A similar confusion can occur at the moment of death among those who still believe themselves alive. Nothing around them seems changed, and spirits appear to possess bodies like those of the living. They take the appearance of their own spiritual body for a real physical body.
-
-### Where the Somnambulist Sees From
-
-When somnambulists see at a distance, perception does not take place from the location of the physical body, but from where the soul is. It is the soul that sees, not the body.
-
-Yet because the soul has not entirely left the body, sensations can still be transmitted back to the organism. This explains how somnambulists may feel the heat or cold of a place where their soul is present, even when that place is far from the body’s actual location.
-
-The soul remains linked to the body by the bond that joins them, and this bond serves as the conductor of sensations. The relation is like communication carried by electricity between distant places: the connecting medium transmits the effect, making communication possible across the distance.
-
-### Moral Consequences
-
-The use somnambulists make of their faculties during earthly life has an important influence on the state of their spirit after death.
-
-Like every faculty given by God, somnambulistic ability may be used well or badly, and its consequences follow that use. The gift itself does not determine the spirit’s condition; what matters is the manner in which it is exercised.
+The use somnambulists make of their faculties during life influences the state of their spirit after death very considerably, just as the good or bad use of all the faculties that God has given human beings does.
 
 ## Ecstasy
 
-Ecstasy is a more refined form of somnambulism. In it, the soul is more independent of the body and acts with greater freedom.
+Ecstasy is a more refined type of somnambulism; the soul of the ecstatic is more independent.
 
-In that state, the soul may perceive higher realms and understand something of the happiness of the beings who dwell there. This perception can awaken a strong desire to remain in that condition. Yet not every realm is open to every spirit. There are regions inaccessible to those who have not attained sufficient purification.
+The soul of the ecstatic truly goes to higher realms. It sees them and comprehends the happiness of those who dwell there, which is why ecstatics would like to remain there. However, there are realms inaccessible to spirits who are not sufficiently purified.
 
-When ecstatic individuals express a desire to leave earthly life, that desire may be sincere. Much depends on the spirit’s degree of advancement. If it perceives its future state as better than its present one, it may strive to loosen the ties that still bind it to the body.
+When ecstatics express the desire to leave Earth, they may speak sincerely. That depends on the spirit’s degree of purification. If it sees that its future condition will be better than the present life, it makes an effort to break the ties that bind it to Earth.
 
-For that reason, ecstasy may involve real danger. If such persons were left entirely to themselves, the soul could definitively abandon the body, and death could follow. They must therefore be recalled through whatever can reattach them to earthly life. Above all, they should be led to understand that if the bond holding them here were broken too soon, that would be the surest way not to remain in the state of happiness they glimpse.
+If ecstatics were left to themselves, their soul could definitively abandon the body. They could die. That is why it is necessary to call them back by means of everything that might attach them to this world, above all by making them understand that if the chain holding them here were broken, that would in fact be the surest way not to remain in the place where they see they could be so happy.
 
-### Visions in Ecstasy
+Ecstatics claim to see things that are obviously the product of an imagination overexcited by earthly beliefs and prejudices. What they see is real to them, but since their spirit remains under the influence of earthly ideas, they may see it in their own way, or rather, express it in language shaped by the prejudices and ideas in which they were raised, or by those among whom they speak, in order to make themselves better understood. It is especially in this sense that they can err.
 
-Ecstatics sometimes describe things that appear shaped by imagination, earthly beliefs, and inherited prejudices. What they perceive is real to them, but their spirit remains influenced by ideas formed during bodily life. Because of this, they may see according to their own mental habits, or express what they perceive in language shaped by the beliefs in which they were raised, or by familiar ideas that make them more easily understood by others.
+The degree of trust that may be placed in ecstatics’ revelations is limited. Ecstatics can be mistaken quite often, especially when they want to grasp what must remain a mystery for humankind. In such cases, they may transmit their own ideas, or become the instruments of deceiving spirits who take advantage of their enthusiasm in order to delude them.
 
-Error often enters at that point. The reality perceived is filtered through human forms of thought, and so the description may not perfectly correspond to the thing perceived.
+From the phenomena of somnambulism and ecstasy, it may be concluded that they are a sort of glimpse into the past and future life. Human beings should study these phenomena because in them they will find the solution to more than one mystery that reason has tried in vain to grasp.
 
-### The Limits of Ecstatic Revelations
-
-Ecstatic revelations deserve caution. Those in ecstasy may often be mistaken, especially when they try to penetrate matters that must remain hidden from human beings. In such cases, they may substitute their own ideas for what they have truly perceived. They may also become vulnerable to deceptive spirits, who exploit enthusiasm and admiration in order to mislead.
-
-For that reason, ecstasy can offer insight, but not infallibility. Its testimony must be weighed with discernment.
-
-### What Somnambulism and Ecstasy Reveal
-
-The phenomena of somnambulism and ecstasy offer more than unusual experiences. They provide glimpses of both the past life and the future life of the soul. Careful study of them can help clarify mysteries that reason alone has struggled to solve.
-
-Anyone who examines these phenomena sincerely, without preconceived denial, finds in them strong grounds for rejecting both materialism and atheism. They point to the soul’s independence, to the continuity of conscious existence beyond the body, and to realities that cannot be reduced to matter alone.
+The phenomena of somnambulism and ecstasy could be reconciled with materialism only by those who do not study them in good faith and without preconceived ideas. Those who study them in good faith and without preconceived ideas could be neither materialist nor atheist.
 
 ## Second Sight
 
-Second sight is of the same nature as dreaming and somnambulism.
+The phenomenon called second sight is connected to dreaming and somnambulism. All of this belongs to one and the same order of phenomena. What is called second sight is the spirit in a state of greater freedom, even though the body is not asleep. Second sight is the sight of the soul.
 
-In all three, the spirit becomes freer from the constraints of the body. What is called second sight is the sight of the soul operating while the body remains awake. The body does not need to be asleep for the soul to perceive beyond ordinary physical sight.
+Second sight is permanent as a faculty, though not in the ability to exercise it. On worlds less material than yours, spirits disengage themselves more easily, and while still maintaining articulated language, they communicate with one another by thought alone. For the majority of them, second sight is also a permanent faculty. Their normal state may be compared to that of your lucid somnambulists, and this is also why they manifest themselves to you more easily than those incarnated in denser bodies.
 
-### The Nature of the Faculty
+Second sight develops most often spontaneously, but the will can often play a considerable role as well. Thus, among certain individuals called fortune-tellers, some do possess this faculty of second sight, and it is their own will that helps them enter such a state, what you call vision.
 
-Second sight may exist as a lasting faculty, even when its exercise is not constant.
+Second sight can be developed through practice. Effort always leads to progress, and the veil that covers things becomes clearer.
 
-A person may possess the capacity without being able to use it at all times. The faculty remains, but its manifestation varies according to conditions. In worlds less material than ours, spirits disengage more easily from bodily influence. There, communication takes place more directly through thought, and second sight is, for most beings, a normal and permanent faculty. Their ordinary condition resembles the state of lucid somnambulism known on earth. For the same reason, such beings manifest more easily than those incarnated in denser bodies.
+This faculty is linked to one’s physical organization. Physical organization has its role, and there are constitutions incompatible with this faculty.
 
-### Spontaneous Manifestation and the Role of the Will
+Second sight appears hereditary in certain families because of similarity of physical organization, transmitted like other physical qualities, and also because of the development of the faculty through a kind of education that is likewise passed from one to another.
 
-Second sight most often appears spontaneously, but the will can also have an important influence.
+Certain circumstances can cause second sight to develop. Illness, the approach of danger, or a major crisis may bring it forth. In such cases, the body is sometimes in a particular state that allows the spirit to see what cannot be seen with the eyes of the body.
 
-Some individuals are able, by an effort of intention, to enter the state that produces visions. Among those commonly regarded as fortune tellers, there are some who genuinely possess this faculty, and in them the will helps bring about its exercise. The phenomenon is not always involuntary; it may sometimes be encouraged and directed.
+Times of crisis, calamity, and great emotion—in short, all the causes of mental overexcitement—sometimes bring about the development of second sight. It seems that in the presence of danger, Providence has granted the means of calling upon it. All persecuted sects and individuals offer many examples of this fact.
 
-### Development Through Practice
+Persons gifted with second sight are not always aware of it. For them, it is entirely natural, and many believe that if others paid closer attention to themselves, they would realize that they possess the same faculty.
 
-Second sight can be strengthened.
+The astuteness of certain persons who, without appearing to possess anything extraordinary, judge things more accurately than others may be attributed to a sort of second sight. It always involves the soul. The soul radiates more freely and judges better than when under the veil of matter.
 
-Effort leads to progress, and with practice the veil covering hidden things may become less opaque. Yet this development is not independent of the body. Physical organization has its part, and some constitutions are more suited to the faculty than others. Certain bodily organizations are incompatible with it.
-
-### Heredity and Transmission
-
-When second sight seems hereditary in certain families, this is linked to similarity of physical organization.
-
-Like other bodily traits, this disposition may be transmitted from parent to child. After that, the faculty may become more developed through a kind of education or habitual cultivation, and this too can pass from one generation to another.
-
-### Circumstances That Awaken Second Sight
-
-Certain conditions may bring second sight into activity.
-
-Illness, the approach of danger, or the pressure of a major crisis may awaken it. In such moments, the body sometimes enters a special state that allows the spirit to perceive what the physical eyes cannot see.
-
-Periods of calamity, intense emotion, and mental overexcitement often produce similar effects. In the presence of danger, there seems to be a providential means by which a person may call upon resources not usually active. The experiences reported among persecuted groups and individuals offer many examples of this awakening under extreme circumstances.
-
-### Awareness of the Faculty
-
-Those who possess second sight are not always aware of it.
-
-For many, it appears so natural that they do not recognize it as anything unusual. Some suppose that others, if they observed themselves more carefully, would discover the same ability in themselves.
-
-### Second Sight, Astuteness, and Presentiment
-
-A more penetrating judgment in certain people may also arise from the same principle.
-
-When someone seems to read situations with unusual precision, without displaying anything outwardly extraordinary, the soul may simply be acting with greater freedom. Released to some degree from the heaviness of matter, it judges more clearly.
-
-This faculty may also include a measure of foreknowledge. In some cases, it gives a presentiment of future events. There are many degrees of second sight, and one person may possess all its forms or only some of them.
+In certain cases, this faculty can provide foreknowledge of future events. It may also furnish presentiment. There are many degrees of this faculty, and the same individual may possess all or only some of them.
 
 ## A Theoretical Summary of Somnambulism, Ecstasy, and Second Sight
 
-Natural somnambulism appears spontaneously, without any known external cause. In some people whose physical constitution is especially suited to it, the same state may also be brought about through magnetic action.
+The phenomena of natural somnambulism are produced spontaneously and independently of any known external cause. Yet among some persons gifted with a special physical organization, they may be induced through the action of the magnetic agent.
 
-Magnetic somnambulism is not different in nature from natural somnambulism. The only difference is that one is produced artificially and the other occurs spontaneously.
+The state called magnetic somnambulism differs from natural somnambulism only in that it is artificially produced, whereas the other is spontaneous.
 
-Natural somnambulism is widely recognized, even though its phenomena may seem extraordinary. For that reason, magnetic somnambulism is no less real simply because it is induced. Many things in life are produced artificially without becoming less natural in principle. Abuse by charlatans does not disprove the reality of the phenomenon; it only shows the need for serious study. As knowledge advances and these facts are examined more carefully, deception loses its power.
+Natural somnambulism is a widely known occurrence, and no one questions its reality despite the marvelous character of its phenomena. Magnetic somnambulism is no more extraordinary or irrational simply because it is artificially produced, like so many other things. It is said that charlatans have exploited it, which is one more reason not to leave it in their hands. Once science fully takes possession of it, charlatanism will have much less influence over the masses. Meanwhile, since both natural and artificial somnambulism are facts, there is no arguing against facts, and they continue to establish themselves despite the ill will of some. This is occurring even in the realm of science, where they are entering through a multitude of side doors instead of through the front. When they are fully established there, it will be necessary to grant them the right of citizenship.
 
-For Spiritism, somnambulism is more than a physiological condition. It opens a path to the study of the soul, because in this state the soul appears with less of the usual bodily covering. One of the clearest signs of this is clairvoyance independent of the ordinary organs of sight. Some reject this because somnambulists do not see at all times or on command as the eyes do. But different instruments do not act in the same way. The soul has its own properties, just as the body has its own, and each must be judged according to its own mode of action.
+For Spiritism, somnambulism is more than a physiological phenomenon; it is a light cast upon psychology. It is during somnambulism that the soul can be studied, because then the soul appears uncovered. One of the phenomena that characterize the soul is clairvoyance independent of the ordinary organs of sight. Those who contest this fact do so on the grounds that somnambulists do not see at all times and not at the will of the experimenter, as they do with their eyes. But when the means differ, the effects are not the same. It would not be rational to seek identical effects when the instruments differ. The soul has its properties just as the eyes have theirs, and it is necessary to judge them in their own right, not by analogy.
 
-The clairvoyance of both the magnetic and the natural somnambulist has the same source: it is an attribute of the soul, a faculty belonging to the incorporeal being within us. Its range extends as far as the soul itself can go. Somnambulists see wherever their soul can reach, regardless of distance.
+The cause of clairvoyance in both the magnetic and the natural somnambulist is identical: it is an attribute of the soul, a faculty inherent in every part of the incorporeal being existing within us, and having no limits other than those assigned to the soul itself. Somnambulists can see every place where their soul can go, whatever the distance.
 
-In remote perception, they do not see from the place where the body lies, as though looking through a telescope. They perceive things as present, as though actually on the spot, because in reality the soul is there. During such moments, the body seems absent and deprived of sensation until the soul resumes fuller possession of it. This partial separation of soul and body is an abnormal state, whether brief or prolonged, though never indefinite. The body grows tired after a time, especially when the soul is occupied in active effort.
+In cases of remote viewing, somnambulists do not see things from the place where their body is, as though through a telescope. They see them as present, as though they were actually at the place where those things exist, because in reality their soul is there. That is why the body seems absent and deprived of sensation until the moment when the soul retakes possession of it. This partial separation of soul and body is an abnormal state that may last for a short or long time, but not indefinitely. This separation is what causes the fatigue the body experiences after a certain time, especially when the soul is engaged in some active pursuit.
 
-Soul sight, or spirit sight, is not confined to any single organ. It has no fixed seat. That is why somnambulists cannot point to one bodily center as its source. They see because they see, without always knowing how or why. For the spirit, vision does not depend on a material organ. When they try to relate the experience to the body, they often place it where vital activity seems strongest, especially in the brain, the region of the stomach, or whatever point feels to them like the strongest bond between spirit and body.
+Soul sight, or spirit sight, is not circumscribed and has no determined seat. This explains why somnambulists cannot assign it to any one organ. They see because they see, without knowing why or how. As spirits, sight for them does not have a specific location in the body. When they refer it to the body, sight seems to occur in the centers where vital activity is greatest, especially in the brain, in the stomach region, or in the organ that for them is the most intense point of connection between spirit and body.
 
-The lucidity of somnambulism is not unlimited. Even when more disengaged from matter, spirits remain limited in knowledge and ability according to their level of purification. This limitation is even greater while they remain attached to the body and influenced by matter. For that reason, somnambulistic clairvoyance is neither universal nor infallible. It becomes even less reliable when diverted from its natural purpose and turned into a spectacle of curiosity or mere experimentation.
+The power of somnambulistic lucidity is not unlimited, however. Even when completely free, spirits are limited in their faculties and knowledge according to the degree of purification they have reached, and still more so when attached to and under the influence of matter. This is why somnambulistic clairvoyance is neither universal nor infallible. Its infallibility should be relied on even less when it is diverted from the purpose proposed by nature and turned into an object of curiosity and experimentation.
 
-When the somnambulist’s spirit is in a more disengaged condition, communication with other incarnate or discarnate spirits becomes easier. This communication takes place through the contact of the fluids composing their perispirits, allowing thought to be transmitted like an electric current through a wire. Somnambulists therefore do not need ideas to be spoken aloud in order to receive them. They sense and intuit them. This makes them highly impressionable and especially open to the moral atmosphere around them.
+When the spirit of the somnambulist finds itself in a state of disengagement, it enters more easily into communication with other incarnate or discarnate spirits. This communication is established through the mutual contact of the fluids composing their perispirits, enabling the transmission of thought much like an electric wire. Somnambulists therefore do not need thought to be articulated in words. They sense and divine it, which makes them eminently impressionable and accessible to the influences of the mental atmosphere around them. This is also why a large gathering of spectators, especially onlookers who are more or less ill-willed, seriously hinders the development of their faculties, which close themselves off, so to speak, and do not unfold with full freedom as they would in more intimate or sympathetic surroundings. The presence of ill-willed or antipathetic persons produces on them an effect similar to that of a hand touching a sensitive plant.
 
-Because of this sensitivity, a crowd of spectators, particularly if some are hostile or skeptically disposed in a harmful way, can interfere seriously with the development of somnambulistic faculties. Under such influences, their abilities seem to close in on themselves and no longer unfold freely. They operate much better in surroundings marked by sympathy, calm, and intimacy. The presence of ill-disposed or antipathetic persons affects them much as the touch of a hand affects a sensitive plant.
+Somnambulists see their own spirit and body at the same time. They are, so to speak, two beings representing a double existence, spiritual and corporeal, blended together by the ties that unite them. They do not always understand this condition, and such duality often makes them speak of themselves as if they were speaking of a stranger. At one moment, the corporeal being speaks to the spiritual being; at the next, the spiritual being speaks to the corporeal one.
 
-Somnambulists perceive both their own spirit and their body. In a sense, they are two beings at once, living a double existence, spiritual and corporeal, joined by the bond that unites them. They do not always clearly understand this condition, and this duality often leads them to speak of themselves as though speaking of another person. At one moment the corporeal being speaks to the spiritual being; at another, the spiritual being speaks to the corporeal one.
+The spirit acquires increased knowledge and experience during each of its corporeal existences. It partially forgets them during reincarnation in dense matter, but remembers them as a spirit. That is how certain somnambulists display knowledge superior to their degree of education, and even superior to their apparent intellectual capacity. The possible intellectual and scientific underdevelopment of somnambulists in the waking state therefore does not permit one to prejudge the knowledge they may reveal in the lucid state. According to the circumstances and the objective in view, they may draw this knowledge from their own experience, from their clairvoyance concerning present events, or from counsels received from other spirits. However, the accuracy with which they describe things depends on the degree of evolution reached by their spirit.
 
-With each bodily life, the spirit gains knowledge and experience. During reincarnation in dense matter, it forgets part of these temporarily, but as spirit it remembers them. This is why some somnambulists display knowledge beyond their education and beyond what their waking intelligence seems to allow. Their apparent intellectual or scientific limitations in ordinary life do not justify dismissing what they may reveal in the lucid state. According to the circumstances and the purpose involved, they may draw on their own past experience, on clairvoyant perception of present events, or on counsel received from other spirits. Yet the precision of what they say depends on the degree of advancement of their own spirit.
+Through the phenomena of somnambulism, whether natural or magnetically induced, Providence furnishes undeniable evidence of the existence and independence of the soul, and enables us to witness the sublime spectacle of its emancipation. Moreover, through these phenomena, it opens to us the book of our destiny. When somnambulists describe what is occurring at a distance, it is clear that they truly see it, but not through the eyes of the body. They see themselves at that place after being transported there. There is something of themselves present there, and since that something is not the body, it can only be the soul or spirit. While human beings lose themselves in the subtleties of abstract and unintelligible metaphysics in pursuit of the causes of mental existence, God places before them, and within their reach, the simplest and clearest means for the study of experimental psychology.
 
-Through somnambulism, whether natural or magnetically induced, Providence offers clear evidence of the soul’s existence and independence. In these phenomena, the soul is seen in a state of relative emancipation. When somnambulists describe what is happening far away, it is evident that they are truly seeing it, though not with bodily eyes. They perceive themselves as present there, having been transported to that place. Since what is present there is not the body, it can only be the soul or spirit. In this way, simple and direct facts are placed within human reach for the study of experimental psychology.
+Ecstasy is the state in which the independence of soul and body is expressed in the most sensitive way, and even becomes somewhat palpable.
 
-### Ecstasy
+In dreams and somnambulism, the soul wanders through terrestrial worlds, whereas in ecstasy it enters an unknown world, that of ethereal spirits, with whom it communicates without, however, overstepping certain bounds. If it did, the soul would completely break the ties connecting it to the body. A resplendent and entirely new brilliance surrounds the soul. Harmonies unknown on Earth enrapture it. An indefinable well-being permeates it. The spirit enjoys a foretaste of celestial beatitude, and it may be said that it has set one foot upon the threshold of eternity.
 
-Ecstasy is the state in which the independence of the soul from the body becomes most striking and almost tangible.
+In the state of ecstasy, the nullification of the body is almost complete. It maintains only organic life as such, and one feels that the soul is connected to it by only a single thread, which with any further effort would break forever.
 
-In dreams and somnambulism, the soul still moves within the terrestrial sphere. In ecstasy, it enters another world, the world of ethereal spirits, with whom it communicates, though without crossing certain limits. If those limits were passed entirely, the soul would break the ties that still bind it to the body. A new and radiant brightness surrounds it. Harmonies unknown on earth fill it with delight. An indescribable well-being penetrates the whole being. The spirit tastes, in advance, something of celestial beatitude, as though standing on the threshold of eternity.
+In this state, all earthly thoughts disappear in order to give way to the pure sentiment that is the very essence of our immaterial being. Entirely enraptured by this sublime contemplation, ecstatics regard life as a momentary pause. For them, the good and evil, the crude joys and hardships of this world, are no more than the futile incidents of a journey whose end they are happy to see.
 
-In ecstasy, the body is almost completely nullified. It retains only organic life itself, and the soul feels attached to it by what seems like a single thread, which one further effort might break forever.
+The same is true of ecstatics as of somnambulists: their lucidity may be more or less purified, and how fully they understand things depends on the degree to which their spirit has evolved. At times there is more exaltation than true lucidity among ecstatics, or rather, their exaltation impairs their lucidity. That is why their revelations are often a mixture of truths and errors, of the sublime and the absurd, even the ridiculous. Imperfect spirits often take advantage of this exaltation, always a source of weakness, in order to dominate the ecstatic who does not know how to master it. To do so, such spirits produce appearances that keep the ecstatic attached to the ideas and prejudices of waking life. This is an obstacle, but not all cases are alike. It is our responsibility to judge coolly and weigh such revelations in the balance of reason.
 
-In this state, earthly thoughts disappear and make way for the pure feeling proper to our immaterial nature. Entirely absorbed in sublime contemplation, ecstatics regard earthly life as only a brief interruption. To them, the good and evil, the coarse pleasures and the hardships of this world become little more than incidental events in a journey whose end they are glad to approach.
+The emancipation of the soul sometimes manifests even in the waking state and produces the phenomenon called second sight, which gives those who possess it the faculty of seeing, hearing, and feeling beyond the limits of the normal senses. They perceive things at a distance wherever the soul may extend its action, and they see, so to speak, through ordinary sight, as by a kind of mirage.
 
-Ecstatics, like somnambulists, vary in the purity of their lucidity according to the degree of advancement of their spirit. Sometimes there is less true lucidity than exaltation, and this exaltation may even distort what is perceived. For that reason, their revelations are often mixed: truth and error, the sublime and the absurd, can appear side by side. Imperfect spirits often take advantage of this exalted state, which is always a point of vulnerability, to dominate those who do not know how to govern it. They may produce appearances designed to confirm the ecstatic in ideas and prejudices already held in waking life. This is a real obstacle, though not every case is alike. Such revelations must be judged calmly and weighed by reason.
+At the moment when the phenomenon of second sight is produced, the physical state is noticeably modified: the eyes become somewhat hazy, looking without seeing, and the whole countenance reflects a kind of exaltation. It is clear that the organs of sight are not involved in this phenomenon, because the vision has been observed to persist even when the eyes are shut.
 
-### Second Sight
+This faculty seems as natural as normal sight to those who possess it. They regard it as a normal attribute of their being, and it does not seem exceptional to them. Generally, forgetfulness follows this temporary lucidity, the memory of which becomes more and more vague and finally disappears like a dream.
 
-The emancipation of the soul may also appear in the waking state. This produces the phenomenon known as second sight, through which a person can see, hear, and feel beyond the usual limits of the senses. Such individuals perceive things at a distance wherever their soul extends its action, and they perceive them through ordinary sight in a manner resembling a mirage.
+The power of second sight ranges from a confused sensation to a clear and distinct perception of things present or absent. In its rudimentary state, it gives some individuals tact, astuteness, and a kind of sureness in action, which may appear as an ability to judge, on first contact, another person’s moral standing. When this faculty is more developed, it awakens presentiments, and when still further developed, it shows events that have already happened or that are in the process of happening.
 
-At the moment when second sight occurs, the physical condition is noticeably altered. The eyes become somewhat vague and fixed, looking without truly seeing, and the whole expression takes on a kind of exaltation. It is clear that the bodily organs of vision are not the true cause, because the perception may continue even when the eyes are closed.
-
-For those who possess it, this faculty often seems as natural as ordinary sight. They regard it as part of themselves and not as something exceptional. Usually this temporary lucidity is followed by forgetfulness. The memory of it gradually fades and may finally vanish almost completely, like the memory of a dream.
-
-The power of second sight may range from a vague impression to a clear and distinct perception of things present or absent. In its rudimentary form, it gives some people tact, insight, and a certain sureness in action, sometimes appearing as the ability to judge another person’s moral character at first contact. When more developed, it awakens presentiments. In a still higher degree, it shows events that have already occurred or are in the course of occurring.
-
-### One Cause, Many Forms
-
-Natural and artificial somnambulism, ecstasy, and second sight are only varieties or modifications of effects arising from the same cause. Like dreams, they belong to the natural order. For that reason, they have existed in all times. History shows that they have long been known and often exploited, even from the remotest antiquity. In them can be found the explanation of countless events that preconceived ideas have treated as supernatural.
+Natural and artificial somnambulism, ecstasy, and second sight are nothing more than varieties or modifications of effects arising from the same cause. Like dreams, such phenomena belong to the natural order, and that is why they have existed in all times. History shows that they have long been known and even exploited since the remotest antiquity, and that in them may be found the explanation of an infinite number of events that preconceived ideas have regarded as supernatural.

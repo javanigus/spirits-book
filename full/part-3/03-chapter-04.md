@@ -5,98 +5,54 @@ sidebar_label: 3.4 Reproduction and the Continuation of Life
 
 ## The Global Population
 
-Reproduction is a law of nature.
+The reproduction of living beings is a law of nature; without reproduction, the corporeal world would die out.
 
-Without it, the corporeal world would die out. The continuation of living beings is not accidental or secondary, but part of the order that sustains life on earth.
+If population continues to follow the constant progression now seen, no time will come when it becomes excessive for the earth. God has foreseen this and always keeps everything in balance; God does nothing useless. Since they see only one angle of nature’s picture, human beings are unable to perceive the harmony of the whole.
 
-Population growth does not escape that order.
+## The Succession and Perfecting of the Races
 
-Even when human beings see a steady increase and imagine that the earth may one day become overfilled, the larger balance of nature remains under divine governance. Nothing is left to chance, and nothing is created without purpose.
+At present, certain human races are clearly diminishing, and a time will come when they will have completely disappeared from the earth. But others will have taken their place, just as others will someday take yours.
 
-God has foreseen all things and maintains equilibrium within creation. What appears excessive or disordered from a limited human point of view belongs to a wider harmony that is not always immediately visible.
+The human beings of today are not a new creation, but the perfected descendants of primitive beings. They are the same spirits, returned to perfect themselves in new bodies, though they are still far from perfection. Thus, the present human race, which through its growth tends to spread across the whole earth and replace the races that are dying out, will also pass through its own period of decline and extinction. Other, more perfected races will replace it. These will have descended from the present race, just as the civilized human beings of today have descended from the brutes and primitives of earlier eras.
 
-Human perception is narrow because it usually grasps only one side of the picture. The whole of nature, however, is ordered according to a balance that surpasses partial judgment. Where people may fear disorder, a broader wisdom sustains proportion and continuity.
+From a purely physical point of view, the origin of the human race is lost in the night of time. But since all belong to one great human family, whatever the primitive roots of each race may have been, they have since been able to mix with one another and produce new types.
 
-## The Succession and Perfecting of Humanity
+From a physical standpoint, the distinctive and dominant characteristic of primitive races is the development of brute strength at the expense of intellectual prowess. The opposite is occurring today: human beings act more through intelligence than through physical strength, and yet they accomplish a hundred times more because they have placed the forces of nature at their service, which animals cannot do.
 
-Human groups do not remain fixed forever.
+The improvement of animal and vegetable species through science is not contrary to natural law. Everything must be done to arrive at perfection. Human beings themselves are instruments that God uses as a means of accomplishing the divine ends. Since perfection is the goal toward which nature tends, to favor such perfection is to correspond to those ends.
 
-Some visibly decline, and in time they disappear from the earth. Their disappearance does not leave a void, because others take their place, just as present populations will themselves one day be succeeded by others.
-
-This succession does not mean that humanity is repeatedly created anew. The spirits embodied in human beings are the same spirits returning in new bodies in order to perfect themselves. Present humanity is therefore not a separate creation from earlier humanity, but a continuation of it. Even so, it is still far from perfection.
-
-A people may grow, spread, and gradually replace those that are fading away. Later, that same people may enter its own period of decline and disappearance. In turn, it will be replaced by others that are more advanced. These more perfected peoples arise from those that came before them, just as more civilized societies have emerged over long ages from earlier and more primitive conditions.
-
-### Physical Continuity of Humanity
-
-From a physical point of view, the earliest origins of humanity are hidden in the depths of the past. Yet all human beings belong to one great family. Whatever the primitive roots of human groups may have been, they have been able to mingle with one another and produce new forms.
-
-This shared belonging matters more than any attempt to isolate absolute physical beginnings. Humanity is united by continuity, mixture, and development across time.
-
-### The Character of Primitive Peoples
-
-The dominant physical characteristic of primitive peoples is the development of brute strength at the expense of intellectual power.
-
-In more advanced periods, the opposite tendency appears. Human beings act less by sheer bodily force and more by intelligence. Because they have learned to place the forces of nature at their service, they accomplish far more than earlier peoples could by strength alone. In this, humanity rises above the animal condition, which cannot command those forces in the same way.
-
-### Improvement of Species and Natural Law
-
-The improvement of animal and vegetable species through science is not contrary to natural law.
-
-Nature tends toward perfection, and everything should contribute to that movement. Human beings are themselves instruments used in the accomplishment of higher purposes. When they work to improve living forms, they participate, knowingly or not, in that forward movement toward greater perfection.
-
-Objections may arise when such efforts are motivated mainly by personal interest, comfort, or increased enjoyment. A self-interested motive does lessen moral merit. Yet the progress accomplished remains real. The value of the result is not canceled simply because the intention is imperfect.
-
-At the same time, human labor in these pursuits has another effect: it exercises and develops intelligence. That development is itself a great benefit. Even when motives are mixed, the work contributes both to the advancement of the world and to the unfolding of human capacity.
-
-### Progress Through Succession
-
-The history of humanity is marked by replacement, continuity, and gradual elevation.
-
-Groups decline, others arise, and spirits return again and again in new bodies to continue their development. Physical forms change, societies advance, intelligence expands, and the powers of nature become more fully mastered. Through these successive transformations, humanity moves forward, however slowly, toward a more perfected condition.
+In their efforts to improve various species, human beings are generally motivated by personal interest, with no goal other than increasing their own enjoyments. But it matters little that their merit may be lacking, provided progress is made. It is up to them to make their labor praiseworthy through their intention. Besides, by means of such labor they exercise and develop their intelligence, and it is in this respect that they derive the greatest benefit.
 
 ## Obstacles to Reproduction
 
-Any law or custom whose purpose or effect is to obstruct reproduction runs against the law of nature when it interferes with nature’s normal operation.
+Human laws and customs that aim at, or result in, creating obstacles to reproduction are contrary to the law of nature, for everything that hinders the operations of nature is contrary to the overall law.
 
-That principle does not mean human beings must remain passive in every case. Some animal and plant species, if allowed to multiply without restraint, would become harmful to other species and eventually to humanity itself. Human intelligence has been given a regulating role within nature. Used rightly, it serves the common good by helping restore balance where excess would produce disorder.
+Nevertheless, there are species of living beings, both animal and vegetable, whose unrestrained reproduction would be harmful to other species, and of which human beings themselves would soon become victims. It is not wrong to hinder their reproduction. God has given human beings, above all other living beings, a power that they should use for good and not for abuse. They may regulate reproduction according to their needs, but they should not hinder it unnecessarily. The intelligent action of humankind is a counterbalance set by God among the forces of nature to reestablish equilibrium. This further distinguishes human beings from animals, because humans do so with full awareness. In their turn, animals also take part in this equilibrium. While the instinct of destruction has been given to animals as a means of self-preservation, it also causes them to hinder the excessive, and perhaps dangerous, overpopulation of the animal and vegetable species that nourish them.
 
-This power to regulate is legitimate when exercised according to real need. It becomes wrong when reproduction is hindered without necessity. The difference lies in purpose and measure: wise regulation respects the order of nature, while unnecessary obstruction opposes it.
-
-Human beings hold a distinct place in this work because they act with awareness and responsibility. Animals also contribute to natural equilibrium, but in another way. Their instinct of destruction serves self-preservation and at the same time limits the excessive multiplication of the animal and plant species on which they feed. In both cases, balance is maintained, but human action is meant to be guided by intelligence rather than impulse.
-
-Means employed to prevent reproduction for the sake of sensual satisfaction reveal a moral disorder. They show the predominance of bodily appetite over the higher life of the soul and indicate a condition in which the person remains deeply absorbed in materiality.
+Means intended to prevent reproduction for the sake of satisfying sensuality prove the predominance of the body over the soul and show how deeply human beings are immersed in matter.
 
 ## Marriage and Celibacy
 
-Marriage, understood as the permanent union of two individuals, is not contrary to the law of nature. It marks progress in the development of humankind.
+Marriage, the permanent union of two individuals, is not contrary to the law of nature. It represents progress in the evolution of humankind.
 
-The free and casual union of the sexes belongs to a more primitive condition. Marriage is one of the clearest signs of social advancement because it creates stable bonds, strengthens mutual responsibility, and establishes a form of fraternal solidarity. For that reason, it appears in every culture, even though its outward forms vary widely.
+Abolishing marriage would have on human society the effect of a return to the life of animals.
 
-To abolish marriage would not be progress, but a return to a more animal mode of life. Such a step would place human beings below certain animals that themselves show examples of lasting union.
+The free and fortuitous union of the sexes belongs to the state of nature. Marriage is one of the primary acts of progress in human society because it establishes fraternal solidarity and is found among all cultures, though under very diverse forms.
 
-### Marriage and Human Law
+Abolishing marriage would therefore be a return to humankind’s infancy and would place human beings even below some animals that demonstrate examples of stable unions.
 
-The absolute indissolubility of marriage does not belong to the law of nature. It is a human law, and in that sense it may be changed.
+The absolute indissolubility of marriage does not belong to the law of nature; it is only a human law, and one quite contrary to the law of nature. Human beings may modify their laws; only the laws of nature are immutable.
 
-Human laws are not immutable. They may be revised as societies grow in understanding and justice. Only the laws of nature remain unchanging.
+Voluntary celibacy is not a state of perfection that is meritorious in God’s sight, and those who live that way out of selfishness displease God and mislead others.
 
-### Celibacy
+Celibacy as a sacrifice for those who desire to devote themselves entirely to serving humankind is very different. Every personal sacrifice is meritorious when made for the good; the greater the sacrifice, the greater the merit.
 
-Voluntary celibacy is not, in itself, a state of perfection or something automatically worthy in the sight of God. When embraced from selfish motives, it displeases God and may also mislead others.
-
-A different case arises when celibacy is accepted as a genuine sacrifice for the good of others. A person may renounce the joys of family life in order to devote themselves more fully to the service of humankind. In that case, the value does not lie in celibacy itself, but in the unselfish sacrifice it represents.
-
-Every personal sacrifice made for the sake of good has merit, and the greater the sacrifice, the greater the merit. What elevates a person is not the outward renunciation alone, but the intention behind it. When sacrifice is free of selfish interest and directed toward the welfare of others, it raises the individual above a merely material condition.
-
-God is not self-contradictory and cannot condemn what has been established within the divine order of life. For that reason, there can be no merit in violating a natural law simply for the sake of denial. Renunciation becomes meaningful only when it serves love, charity, and the genuine good of others.
+God cannot be self-contradictory or regard as evil what has been divinely made. Thus, God cannot see any merit in the violation of the divine law. Even though celibacy in itself is not a meritorious state, it becomes such when it constitutes a sacrifice made on behalf of humankind through the renunciation of the joys of family life. Every personal sacrifice undertaken with a view to doing good, and without selfish ulterior motive, elevates the individual above his or her material condition.
 
 ## Polygamy
 
-The approximate numerical equality between the sexes points to the proportion in which they are meant to be united. In nature, nothing is without purpose, and this balance suggests reciprocity rather than excess.
+The approximate numerical equality between the sexes is an indication of the proportion in which they ought to be united, for everything in nature has a purpose.
 
-Between polygamy and monogamy, monogamy is more in harmony with the law of nature.
+Of polygamy and monogamy, monogamy is more in harmony with the law of nature. Polygamy is a human law, and abolishing it is a mark of social progress. In God’s view, marriage should be based on the love of the individuals who join hands. In polygamy there is no true love; there is nothing more than sensuality.
 
-Polygamy is a human institution, shaped by particular customs and social conditions. Its disappearance marks moral and social progress. In the divine view, marriage rests on the love of two individuals freely joined. Where polygamy prevails, that mutual love is not truly the foundation; sensuality is placed above the deeper bond that marriage is meant to express.
-
-If polygamy were in accord with the law of nature, it would be universal. But the near equality in the number of men and women makes such a universal arrangement materially impossible. For that reason, polygamy must be understood not as a natural law, but as a social practice established under certain circumstances and destined to fade as humanity advances.
+If polygamy were in accord with the law of nature, it would be universal, which would be materially impossible because of the numerical equality of the sexes. Polygamy must be regarded as an institution, or a particular legislation, appropriate to certain customs, but one that social perfection will gradually make disappear.

@@ -5,134 +5,74 @@ sidebar_label: 2.3 Life After Death
 
 ## The Soul after Death
 
-At death, the soul becomes a spirit again. It returns to the spirit world, which it had left for a time during earthly life.
+At death, the soul becomes a spirit again; that is, it returns to the spirit world that it had left for a time.
 
-Death does not destroy individuality. The soul never loses its distinct self; if it did, it would no longer be itself.
+The soul preserves its individuality after death and never loses it. It preserves that individuality even though it no longer has a material body, because it still retains a fluidic envelope drawn from its planet and bearing the appearance of its last incarnation: the perispirit.
 
-Even without the physical body, the soul preserves a form proper to it. It retains a fluidic envelope drawn from the world to which it is connected, and this envelope keeps the appearance of its last incarnation. This is the perispirit.
+The soul takes nothing from this world except its memories and the desire to go to a better world. These memories are full of sweetness or bitterness, depending on how the soul has lived its earthly life. The purer it is, the more clearly it understands the futility of what it has left behind on earth.
 
-What the soul carries away from earthly life is not material possession, but memory and desire. It keeps the remembrance of what it has lived and the longing to reach a better world. Those memories are sweet or bitter according to the way it lived. The purer the soul has become, the more clearly it understands how little value there was in what it left behind on earth.
+The opinion that the soul returns to the universal whole after death is mistaken if this means that it loses its individuality like a drop of water falling into the ocean. Nevertheless, it is correct if by universal whole one means the entire assemblage of incorporeal beings, of which each soul or spirit is a member.
 
-### Individuality after Death
+All spirits taken together make up a whole, but each still retains its own individuality.
 
-Some have imagined that after death the soul returns to a universal whole in such a way that it loses itself, as a drop of water is lost in the sea. That idea is mistaken.
+Evidence for the soul’s individuality after death is found in the communications received. If people were not blind, they would see; if they were not deaf, they would hear, because a voice often speaks to them and reveals the existence of a being outside themselves.
 
-Spirits taken together may indeed form a whole, but each spirit remains an individual member of it. Belonging to a larger order does not abolish personal identity. In the same way, a person may be part of a group without ceasing to be a distinct person.
+If souls were merged into the universal whole, they would possess only the qualities of that whole, and nothing would distinguish them from one another; they would have no intelligence or qualities of their own. Yet in all their communications with us, they reveal self-awareness and a distinct will. The infinite diversity they display in every respect is evidence of their individuality. If there were nothing after death except what is called the Great Whole, absorbing all individualities, that whole would have to be homogeneous, and the communications received from the invisible world would all have to be identical.
 
-If souls truly merged into a single undivided whole, nothing would distinguish one from another. They would have no personal intelligence, no individual qualities, and no distinct will. Yet the manifestations of spirits show the opposite. They reveal self-awareness, intention, memory, and character.
+It is clear, however, that we are dealing with distinct beings, for we encounter good and evil, knowledgeable and ignorant, happy and downcast beings of every kind: joyful and sad, frivolous and serious, and so on. Individuality becomes even more evident when these beings prove their identity through unmistakable signs and verifiable personal details related to their earthly lives. Nor can there be any doubt about such individuality when they manifest through apparitions. The individuality of the soul has been taught theoretically as an article of faith, but Spiritism makes it evident and, to a certain extent, tangible.
 
-The diversity among spirits makes this especially clear. They are not all alike. Some are good and others harmful; some are wise and others ignorant; some are happy, while others are troubled; some are lighthearted, others serious. Such variety would be impossible if individuality disappeared after death.
+Eternal life should be understood in the sense that only the life of the spirit is eternal; the life of the body is transitory and temporary. When the body dies, the soul returns to eternal life.
 
-Their identity also appears in more concrete ways. Spirits may provide personal details from their earthly lives, unmistakable signs of who they were, and verifiable information that marks them as distinct beings. In apparitions as well, individuality becomes even more evident.
-
-Communication with spirits offers further witness to this reality. Through such communications, the existence of beings outside ourselves is made known. What is encountered is not an impersonal force, but conscious and individual presences.
-
-### Eternal Life
-
-Only the life of the spirit is eternal. The life of the body is temporary and passing. When the body dies, the soul returns to the enduring life proper to spirit.
-
-In another sense, eternal life may also refer to the state of pure spirits who no longer undergo trials because they have attained perfection. In that condition, eternal life means eternal happiness. The difference is largely one of language, provided the meaning remains clear.
-
-The essential distinction is simple: bodily life is brief, while spiritual life does not end.
+The expression may also be understood as referring to the life of pure spirits, who no longer undergo trials because they have attained perfection. That indeed represents eternal happiness, but it is largely a matter of words. Things may be called whatever one wishes, provided the terms used are understood.
 
 ## The Separation of the Soul from the Body
 
-The separation of the soul from the body is not, in itself, painful.
+The separation of the soul from the body is not a painful process. Often the body suffers more during life than at the moment of death; the soul itself feels nothing at death. The suffering sometimes experienced at the moment of death is, for the spirit, a kind of relief, for it sees that the end of its exile is at hand.
 
-Often the body suffers more during life than at the moment of death. For the soul, death is frequently not suffering but release. In many cases, the spirit feels the approach of the end of exile and experiences it with relief, even with a kind of quiet joy.
+In a natural death resulting from the depletion of organic vitality through age, a person passes from life without even realizing it, like a light that goes out for lack of energy.
 
-In a natural death brought about by the gradual exhaustion of organic vitality, especially in old age, life may end almost imperceptibly, like a lamp going out when its fuel is spent.
+Once the bonds that hold the soul are loosened, it disengages itself. This separation does not occur instantly through an abrupt transition, and there is no sharply defined dividing line between life and death. The soul frees itself gradually. It does not escape like a captive bird suddenly set free. These two states touch and blend into one another; thus the spirit little by little disengages from its bonds: they unravel rather than break.
 
-### The Gradual Loosening of the Bonds
+During life, the spirit is connected to the body by its semi-material envelope, or perispirit. Death destroys the body but not the perispiritual envelope, which separates from the body when organic life ceases. Observation shows that at the moment of death the spirit’s departure is not sudden; it occurs gradually and may vary in speed according to the individual.
 
-The soul does not ordinarily separate from the body in a single abrupt instant.
+For some, it is very rapid indeed, and in such a case one could say that the moment of death is also that of liberation, which follows almost immediately. For others, especially those whose life has been materialistic and sensual, the separation takes much longer, sometimes lasting days, weeks, or even months. This does not imply that any vitality remains in the body or that a return to life is possible. It means only that an affinity persists between body and spirit, an affinity that always depends on the importance the spirit attached to matter during life.
 
-When the ties that held it are undone, it disengages little by little. The transition between bodily life and spirit life is not marked by a rigid dividing line. The two conditions meet and blend for a time. The soul does not depart like a bird suddenly released from a cage. Its bonds loosen progressively; they unravel rather than snap.
+It is logical to believe that the more the spirit identified with matter, the more it suffers in separating from it. On the other hand, intellectual and moral activity, along with elevated thoughts, begin this separation even during bodily life, so that when death finally comes, the separation is almost instantaneous. Such conclusions arise from observation of individuals at the moment of death and show that the affinity persisting between soul and body in some persons can be extremely painful. The spirit may even experience the horror of decomposition. Such a case is exceptional and peculiar to certain kinds of death, suicide for example.
 
-During earthly life, the spirit is united to the body through its semi-material envelope, the perispirit. Death destroys the body, but not this envelope. The perispirit separates from the body when organic life ceases.
+The definitive separation between soul and body may occur before the complete cessation of organic life. Sometimes, in the death throes, the soul has already left the body, which then retains nothing but organic life. The individual no longer has self-awareness, and yet a faint breath of life remains. The body is a machine kept in motion by the heart; it continues to live as long as the heart circulates blood through the veins, and for that it does not need the soul.
 
-Observation shows that the release of the spirit may vary greatly from one person to another. In some, it is very rapid, so that death and liberation seem almost simultaneous, though complete freedom still comes shortly afterward. In others, especially in those who lived in a deeply material and sensual way, the separation is much slower. It may continue for days, weeks, or even months.
+At the moment of death, the soul sometimes experiences a yearning or an ecstasy that offers a foreglimpse of the world it is about to reenter. It often feels the bonds holding it to the body loosening, and it exerts all its effort to sever them completely. Already partly released from matter, it beholds the future unfolding before it and enjoys the spirit state in advance.
 
-This prolonged disengagement does not mean that the body retains real life or that return to bodily existence remains possible. It means only that a certain affinity still persists between spirit and body. That affinity depends on how much importance the spirit gave to matter during earthly life.
+The example of the caterpillar, which begins by crawling on the ground and then shuts itself up in its cocoon in apparent death, only to be reborn into a brilliant existence, can offer a faint image of earthly life, followed by the grave and then a new existence. The comparison is apt, but it must not be taken literally.
 
-The more a spirit identified itself with material life, the more difficult and painful separation may become. By contrast, intellectual activity, moral effort, and elevated thoughts begin loosening these ties even before death. When death arrives, the separation is then almost immediate.
+The sensation the soul experiences when it realizes that it is in the spirit world depends on its moral state. If it has done evil for the love of evil, it is at first ashamed of what it has done. For one that has been morally upright, the experience is altogether different: it feels relieved of a great weight and does not fear the most searching scrutiny.
 
-In rare and exceptional cases, the lingering attachment to the body can be extremely distressing. The spirit may remain linked closely enough to experience horror in relation to bodily decomposition. Such cases are especially associated with certain forms of death, including suicide.
+A spirit immediately encounters those it knew on earth who died before it, according to the affection they bore one another. They almost always come to receive it as it returns to the spirit world, and they may even help free it from the bonds of matter. It also sees many whom it had lost sight of during its earthly sojourn. In addition, it sees those who are in the errant state and visits those who are still incarnate.
 
-### Separation Before Organic Life Fully Ends
+In violent or accidental death, when the organs have not yet been weakened by age or disease, the separation of the soul and the cessation of life usually occur at the same time. In any case, however, the interval between them is very brief.
 
-The definitive departure of the soul may begin even before all organic life has completely ceased.
+After beheading, for example, an individual often remains conscious for a few moments until organic life is completely extinguished. Yet in many cases the fear of death causes a loss of consciousness before the actual moment of execution.
 
-In the final agony, the soul may already have left the body in all that concerns conscious personal presence, while the body still retains mere organic life. A faint residue of vitality may persist, sustained by bodily mechanisms alone. The heart may continue to circulate blood for a short time, and the body may function like a machine that has not yet entirely stopped, even though the conscious self is no longer there.
-
-### The Soul’s Awareness at the Approach of Death
-
-As the bonds with the body loosen, the soul often becomes aware of what lies ahead.
-
-Partially freed from matter, it may glimpse the world to which it is returning. It strains toward complete release and, even before full separation, begins to enjoy something of the spirit state. This can produce a kind of yearning or ecstasy: not the fullness of spirit life itself, but an anticipation of it.
-
-An image may help, if taken only as an approximation. Earthly life can be compared to the state of a caterpillar that crawls upon the ground, then encloses itself as if in death, only to emerge into a new and more radiant mode of existence. The image is suggestive, though it must not be pressed literally.
-
-### The First Sensation in the Spirit World
-
-What the soul feels on realizing that it has entered the spirit world depends on its moral condition.
-
-If it has done evil knowingly and loved evil for its own sake, its first feeling is shame. It cannot avoid the truth of what it has been and done.
-
-If it has lived uprightly, the experience is very different. It feels as though a great burden has been removed. Instead of dreading the clear sight of others, it can endure the most searching gaze without fear.
-
-### Reunion with Those Known on Earth
-
-Spirits commonly meet again after death.
-
-Those who were bound by affection often come to receive the newly arrived spirit as it returns to spirit life. They may even help it free itself from its remaining ties to matter.
-
-The spirit also sees many whom it had lost sight of during earthly life. It encounters spirits who are wandering in the intermediate state, and it may visit those who are still incarnated on earth.
-
-### Violent and Accidental Death
-
-In violent or accidental death, where the organs have not been gradually weakened by age or illness, the separation of the soul from the body and the extinction of bodily life usually occur almost at the same time.
-
-Even then, however, the interval between the two, though very brief, is not always absolutely indivisible.
-
-After beheading, for example, consciousness may sometimes remain for a few moments, until organic life is entirely extinguished. Yet this depends on circumstances. The terror of death often causes loss of consciousness before the execution itself.
-
-What persists in such cases is bodily self-awareness for a few fleeting instants, not the full independence of the spirit. Once the organic life of the brain ceases, bodily consciousness necessarily ends. But this does not mean that the perispirit has already fully disengaged from the body.
-
-On the contrary, in all violent deaths, where life is not extinguished by the gradual weakening of vital force, the bonds between the body and the perispirit are generally more tenacious. Complete separation is therefore slower.
+This refers simply to the consciousness that victims may have of themselves by means of the body, and not as spirits. If they do not lose consciousness before execution, they may retain it for a few very brief moments, but they must necessarily lose it with the organic life of the brain. This does not mean, however, that the perispirit has completely detached from the body. On the contrary, in all cases of violent death, that is, when death does not result from a gradual extinction of the vital forces, the bonds joining the body to the perispirit are more tenacious, and complete separation is slower.
 
 ## The Spirit’s State of Confusion after Death
 
-After leaving the body, the soul does not always become immediately conscious of itself. A period of confusion usually follows death.
+Upon leaving the body, the soul is not immediately conscious of itself; it remains in a state of confusion for some time.
 
-This confusion is not the same for all spirits. Its intensity and duration depend largely on the spirit’s degree of advancement. Those who are more purified, having already loosened their attachment to matter during bodily life, recover self-awareness almost at once. Those who remained deeply attached to material life, especially when burdened by an impure conscience, retain the impression of matter for much longer.
+Not all spirits experience this confusion to the same degree or for the same length of time. It depends on how far they have advanced. Those who are already purified become almost immediately self-aware because they were detached from matter during bodily life. By contrast, carnal individuals with impure consciences retain the impression of matter much longer.
 
-An understanding of spiritual life can shorten this troubled interval. When a spirit has already reflected on what awaits beyond death, its new condition is less unexpected and easier to recognize. Even so, moral condition matters more than theory alone. The practice of good and purity of conscience exert the strongest influence.
+An understanding of Spiritism has a considerable influence on the shorter or longer duration of this confusion, because the spirit understood beforehand what its situation would be. The practice of good and purity of conscience, however, exert the greatest influence.
 
-At the moment of death, everything at first appears confused. The soul needs time to recognize itself. It is dazed, like someone waking from a deep sleep and trying to understand where it is and what has happened. Clarity returns gradually as the influence of the matter it has just left behind fades away. As that obscuring veil dissipates, memory and lucidity reemerge.
+At the moment of death, everything at first appears confused. The soul needs some time to recognize itself; it feels dazed, like someone waking from a deep sleep and trying to understand the situation. The lucidity of its ideas and the memory of its past return as the influence of the matter from which it has just freed itself fades away, and the kind of fog that had obscured its thoughts dissipates.
 
-The duration of this state varies greatly. For some it lasts only a few hours; for others, several months or even years. It is shortest for those who, during earthly life, had already identified themselves with their future state, because they more quickly understand their new condition.
+The duration of the confused state following death varies greatly: it may last a few hours, several months, or even years. Those who experience it for the shortest time are those who identified themselves with their future state during life, because they immediately understand their position.
 
-### Different Forms of Posthumous Confusion
+This confusion takes on particular forms depending on the character of the individual and especially on the type of death involved. In violent deaths—suicide, capital punishment, accident, stroke, mortal wounds, and the like—the spirit is surprised and astonished; it does not believe itself to be dead and stubbornly insists that it has not died. Yet it sees its body lying there and knows whose body it is, while not understanding that it is now separate from it. It seeks out loved ones and speaks to them, but cannot understand why they cannot hear. This illusion lasts until the separation is complete, and only then does it realize its situation and understand that it no longer belongs to the world of the living.
 
-This confusion takes different forms according to personal character and, in a special way, according to the manner of death.
+This phenomenon is easy to explain. Surprised by an unforeseen death, the spirit is stunned by the sudden change that has taken place. It still believes that death is synonymous with destruction and annihilation, and since it continues to think, see, and hear, it does not consider itself dead. This illusion is reinforced by the fact that it finds itself in a body similar to the one it has just left, while not yet recognizing its ethereal nature. It assumes itself to be solid and compact like the former body and is astonished when told that this body is not tangible.
 
-In violent deaths—such as suicide, execution, accident, stroke, or fatal wounds—the spirit is often taken by surprise. Astonished by the sudden change, it may not believe itself dead. It insists that it is still alive. It sees its body, recognizes it, yet does not understand that it is separated from it. It seeks out loved ones, speaks to them, and cannot understand why no one answers.
+This is similar to the experience of inexperienced somnambulists who do not believe they are asleep. To them, sleep is synonymous with the suspension of the faculties, and since they can see and think freely, they do not realize that they are asleep. Even in cases where death has not occurred unexpectedly, some spirits display this peculiarity. However, it is more common among those who had never thought about death despite having been ill. This sometimes leads to the curious spectacle of spirits attending their own funeral as though it were someone else’s and speaking of it as though it in no way concerned them, until they suddenly grasp the truth.
 
-This illusion can continue until the separation from bodily life is fully completed. Only then does the spirit grasp its true condition and understand that it no longer belongs to the world of the living.
+For morally upright individuals, the confusion following death is not painful; they are calm, and their perceptions resemble those of a peaceful awakening. But for those whose conscience is not pure, it is full of anxiety and anguish.
 
-The experience becomes clearer when one considers the spirit’s expectations. If it thought of death only as destruction or annihilation, then continuing to think, see, and hear seems to prove that death has not occurred. The illusion is reinforced because the spirit still finds itself with a form resembling the body it has just left. Not yet recognizing the subtle nature of this new body, it takes it to be solid and material, and is astonished to discover that it cannot be touched.
-
-A similar effect appears in inexperienced somnambulists who do not believe they are asleep. For them, sleep means a suspension of consciousness; since they continue to see and think, they do not recognize the state they are in. In much the same way, some spirits do not at first recognize death because they still perceive themselves as active and aware.
-
-Even when death has not been sudden, this same peculiarity may appear, especially in those who, though ill, had not seriously considered dying. From this comes the strange spectacle of spirits attending their own funeral as if it concerned someone else, speaking of it without realizing that they themselves are the subject, until the truth suddenly becomes clear.
-
-### Peace or Anguish
-
-The state of confusion after death is not painful for morally upright individuals. They remain calm, and their perceptions resemble those of a peaceful awakening.
-
-For those whose conscience is not pure, however, the experience is marked by anxiety and anguish. What is serene for one spirit becomes distressing for another, depending on the inward condition carried over from earthly life.
-
-### In Cases of Collective Death
-
-When many die at the same time, they do not necessarily perceive one another immediately. In the confusion that follows death, each spirit goes its own way or concerns itself only with those for whom it feels a particular interest.
+In cases of collective death, it has been observed that all those who perish at the same time do not always see one another immediately. In the confusion following death, each spirit goes its own way or concerns itself only with those in whom it takes an interest.
