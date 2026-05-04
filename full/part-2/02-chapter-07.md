@@ -179,7 +179,7 @@ Consequently, childhood is not only useful, necessary, and indispensable; it is 
 
 Two individuals who have known and loved each other in another corporeal existence do not recognize one another, but they do feel drawn to one another. Often, intimate bonds founded on sincere affection arise from no other cause. Two people are drawn together by apparently fortuitous circumstances, but in reality this is the result of the attraction of two spirits who have been searching for each other amid the crowd.
 
-They would not always find it beneficial to recognize one another. The memory of past lives might have greater disadvantages than one might suppose. After death, they will recognize each other and remember the time they spent together. (See no. 392.)
+They would not always find it beneficial to recognize one another. The memory of past lives might have greater disadvantages than one might suppose. After death, they will recognize each other and remember the time they spent together.
 
 Sympathy is not always the result of spirits having known each other previously. Two spirits with natural affinities seek one another out even if they were not previously acquainted as incarnates.
 
