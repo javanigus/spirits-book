@@ -103,6 +103,17 @@ const config = {
         editUrl: undefined,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'death-experiences',
+        path: 'heaven-and-hell',
+        routeBasePath: 'death-experiences',
+        sidebarPath: require.resolve('./sidebarsDeathExperiences.js'),
+        editUrl: undefined,
+        exclude: ['source/**'],
+      },
+    ],
   ],
 
   themes: [
@@ -112,8 +123,8 @@ const config = {
         indexDocs: true,
         indexBlog: false,
         indexPages: true,
-        docsRouteBasePath: ['full', 'simplified', 'indonesian', 'arabic', 'spanish', 'urdu', 'story'],
-        docsDir: ['full', 'simplified', 'indonesian', 'arabic', 'spanish', 'urdu', 'story'],
+        docsRouteBasePath: ['full', 'simplified', 'indonesian', 'arabic', 'spanish', 'urdu', 'story', 'death-experiences'],
+        docsDir: ['full', 'simplified', 'indonesian', 'arabic', 'spanish', 'urdu', 'story', 'heaven-and-hell'],
         docsPluginIdForPreferredVersion: 'simplified',
         searchBarPosition: 'right',
       },
@@ -160,8 +171,8 @@ const config = {
           ],
         },
         {
-          label: 'Story',
-          to: '/story/prologue',
+          label: 'Death Experiences',
+          to: '/death-experiences',
           position: 'right',
         },
         {

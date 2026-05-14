@@ -1,0 +1,32 @@
+---
+title: Anna Bitter
+sidebar_label: Anna Bitter
+hide_table_of_contents: true
+---
+
+Background: Anna Bitter was the only daughter of a wealthy father. She slowly wasted away for years without clear medical cause and without pain, while her father watched in despair. A spiritist friend asked his guide about this trial.
+Narration: The medium’s hand begins writing...
+Mediums’ Guide: I will gladly explain this strange case, because your question comes from compassion, not idle curiosity, and because it can teach you to trust divine justice.
+Mediums’ Guide: Those struck by God's hand should submit to the trial instead of rebelling, because no one is struck without cause. This poor child, whose death has been delayed for a time, will soon return to us, and that will be a blessing for her. Her unhappy father must endure punishment in the one affection of his life because he once toyed with the affection and trust of those around him.
+Mediums’ Guide: His repentance reached God for a moment, and death paused over the dear child's head. But he has returned to revolt, and punishment still follows. Pray for this poor child. Her youth will make separation from the body harder. There is so much life in her young soul that, despite the weakness of her body, her spirit will have trouble freeing itself. Pray for her, and she will help and comfort you in return, for her spirit is more advanced than those among whom she is born. I am allowed to answer so that your prayers may help her leave the body more easily.
+Background: Anna died. Her father later died after living through the emptiness of losing her. The first communications from both were then received.
+Narration: The medium’s hand begins writing...
+Anna Bitter: Thank you, my friend, for the interest you took in the poor child who was soon to leave the Earth, and for your prayers, which helped me separate more quickly from my earthly body.
+Anna Bitter: My father, sadly, did not pray for me. He cursed the decree that called me away. I can't be angry with him for that. It came from his deep love for me. I pray to God to enlighten him before he dies. I try to awaken hope in him. My mission is to soften the pain of his last moments on Earth.
+Anna Bitter: Sometimes a ray of divine light seems to enter his mind... but it's only a brief flash, and he quickly falls back into dark rebellion. There is still only a seed of faith in him, and that seed is smothered by worldly interests. More painful trials must clear them away before it can grow and bear fruit.
+Anna Bitter: As for me, I only had a small remainder of atonement to go through. So my short life was neither very painful nor very hard to bear. My strange illness caused me no suffering. I was more a cause of suffering for my father than a sufferer myself. He suffered much more from seeing me that way than I did. Besides, I was resigned, and he was not.
+Anna Bitter: I am rewarded for that acceptance by the happiness I now enjoy among wise and loving spirits, whose work I am glad to share, because idleness would be a torment in the spirit world.
+Background: One month after the father's death, he was called.
+Narration: The medium’s hand begins writing...
+Allan: We call you out of concern for your condition in the spiritual world, and to be useful to you if possible.
+Narration: He answers with bitterness and a sense of isolation.
+Narration: He says, I hear you asking what my condition is in the world of spirits. The world of spirits? I see no spirits. I only see men I knew before, and none of them think of me or regret my absence. On the contrary, they seem glad to be rid of me.
+Allan: Are you aware of your condition?
+Narration: He says, perfectly. For some time I thought I was still in your world. But now I know very well that I have left it.
+Allan: Why then do you not see any spirits around you?
+Narration: He says, I do not know, because it is quite light where I am.
+Allan: Have you seen your daughter?
+Narration: He says, no. She is dead. I search for her. I call her, but in vain. What a horrible emptiness her death left in me on Earth. As I was dying, I told myself I would surely find her again... but I see nothing of her. I am always completely alone. There is no one to speak a single word of comfort or hope to me. Farewell. I am going to look for my child.
+Mediums’ Guide: This man was not an atheist or a materialist. He believed vaguely in God and a future life, but he never gave real thought to either, because earthly things absorbed him. He was deeply selfish. He would have sacrificed everything for his daughter, but except for her he cared for no one and often sacrificed everyone else's interests to his own advantage.
+Mediums’ Guide: God punished him through that selfishness. He took from him the only being he truly loved on Earth. Because he has not repented of his selfishness, he is deprived of seeing her in the spirit world. He took no interest in others on Earth; now no one takes interest in him. He is alone, abandoned by all. That is his punishment.
+Mediums’ Guide: His daughter is near him, but he does not see her. If he saw her, he would not be punished. What does he do? Does he ask God for help? Does he repent? No. He still complains and blasphemes. He is doing now exactly what he did on Earth. Help him with your prayers and your advice, so that he may come out of this blindness.

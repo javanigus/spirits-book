@@ -1,0 +1,141 @@
+---
+title: Lisbeth
+sidebar_label: Lisbeth
+hide_table_of_contents: true
+---
+
+Background: In Bordeaux in February 1862, a suffering spirit came through spontaneously under the name Lisbeth. In her last life she had been rich, beautiful, proud, selfish, ambitious, cold-hearted, and cruel.
+
+Narration: The medium’s hand begins writing...
+
+Medium: Will you tell us something about your condition and the cause of your suffering?
+
+Lisbeth: Be humble. Accept the will of God. Be patient in trial. Be charitable to the poor. Encourage the weak. Be warm-hearted toward all who suffer.
+
+Lisbeth: Then you will not have to endure the torments I am enduring.
+
+Medium: If you were carried away by the opposite vices, you do at least seem to regret your wrongdoing. Surely that repentance has brought you some relief?
+
+Lisbeth: No.
+
+Lisbeth: Repentance is barren when it comes only as a result of suffering.
+
+Lisbeth: Fruitful repentance is the kind that comes from sorrow for having offended God and from an eager desire to make reparation.
+
+Lisbeth: Sadly, I have not yet reached that point.
+
+Lisbeth: Speak for me to those who devote themselves to helping suffering spirits.
+
+Lisbeth: I am in great need of their prayers.
+
+Background: Kardec adds that suffering can force out words of repentance without true inner change. Real deliverance requires sincere moral renewal and future reparation.
+
+Medium: I will do what you ask.
+
+Medium: Will you give me some details about your last life? That may teach us something, and it may make your repentance fruitful.
+
+Background: The spirit hesitated a great deal before answering.
+
+Lisbeth: I was born in a high position.
+
+Lisbeth: I had everything people think makes for happiness.
+
+Lisbeth: Rich, I was selfish.
+
+Lisbeth: Beautiful, I was vain and flirtatious.
+
+Lisbeth: I was cold-hearted and deceitful.
+
+Lisbeth: Because of my noble rank, I was ambitious.
+
+Lisbeth: With my power I crushed those who didn't bow low enough before me.
+
+Lisbeth: I even crushed those who threw themselves at my feet, without remembering that sooner or later the Lord crushes the proudest heads.
+
+Medium: In what period did you live?
+
+Lisbeth: One hundred and fifty years ago, in Prussia.
+
+Medium: During that time, have you made no progress as a spirit?
+
+Lisbeth: No. The influence of matter kept me in constant rebellion.
+
+Lisbeth: You can't understand how matter still acts on the spirit, even after separation from the body.
+
+Lisbeth: Pride winds chains of bronze around the soul, and those links grow tighter and tighter around the miserable person who gives his heart to it.
+
+Lisbeth: Pride... the monster with a hundred heads that are always growing again...
+
+Lisbeth: It knows how to soften its poisoned hissing so cleverly that its victims mistake it for heavenly music.
+
+Lisbeth: Pride... that shifting demon that hides in the deepest places of your heart, enters your veins, wraps itself around your whole being, absorbs you, and drags you with it into darkness.
+
+Background: Kardec notes that this very horror of pride already showed progress, even if Lisbeth herself denied it.
+
+Medium: God is too good to condemn His creatures to eternal punishment. You should hope in His mercy.
+
+Lisbeth: There may be an end to suffering. They say there is. But when? Where?
+
+Lisbeth: I've searched for it a long time, but I see only suffering, everywhere and forever.
+
+Medium: What brought you here today?
+
+Lisbeth: A spirit who often follows me brought me here.
+
+Medium: Since when have you seen that spirit?
+
+Lisbeth: Not for very long.
+
+Medium: And since when have you begun to repent of your faults?
+
+Background: After reflecting for some minutes, she answered.
+
+Lisbeth: Yes... you are right. It was then that I began to see him.
+
+Medium: Do you not understand the connection between your repentance and the visible help given to you by your spirit guardian?
+
+Medium: You should see in that help the love of God, and in its purpose the forgiveness that His endless mercy is waiting to grant you.
+
+Lisbeth: Oh, how much I wish that were true.
+
+Medium: I think I can promise you that forgiveness in the sacred name of the One who is never deaf to the cry of His children in distress.
+
+Medium: Call to Him from the depth of your repentance. He will hear you.
+
+Lisbeth: I can't. I'm afraid.
+
+Medium: Let us pray together. He will certainly hear us.
+
+Background: After the prayer, the medium asked if she was still there.
+
+Lisbeth: Yes. Thank you. Do not forget me.
+
+Medium: Come to me and write your name every day.
+
+Lisbeth: Yes, yes. I will come every day.
+
+Background: The guide ended the meeting with a practical lesson drawn from her case.
+
+Mediums’ Guide: Never forget the lessons you learn from the sufferings of those you help, especially the causes of those sufferings.
+
+Mediums’ Guide: Let them protect you from the same dangers and the same punishments.
+
+Mediums’ Guide: Purify your hearts. Be humble. Love one another. Help one another.
+
+Mediums’ Guide: And may your grateful heart never forget the fountain of all grace, an endless fountain from which each of you may drink freely.
+
+Mediums’ Guide: It is a living fountain that satisfies thirst and nourishes at the same time.
+
+Mediums’ Guide: It is the fountain of life and of eternal joys.
+
+Mediums’ Guide: Go to it, my beloved, and drink from it with faith.
+
+Mediums’ Guide: Cast your nets into it, and its waters will bring up a great harvest of blessings.
+
+Mediums’ Guide: Encourage your brothers to imitate you, and remind them of the dangers they may meet.
+
+Mediums’ Guide: Spread the blessings of the Father, because the more you spread them, the more they multiply.
+
+Mediums’ Guide: Point out the dangers of the road to your brothers. Show them by your example how to avoid them.
+
+Mediums’ Guide: Then the blessing of the Highest will be with you and with those who listen to you.

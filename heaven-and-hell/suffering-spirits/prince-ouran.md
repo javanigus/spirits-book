@@ -1,0 +1,129 @@
+---
+title: Prince Ouran
+sidebar_label: Prince Ouran
+hide_table_of_contents: true
+---
+
+Background: In Bordeaux in 1862, a suffering spirit announced himself spontaneously as Ouran, formerly a Russian prince. He had rank, wealth, and power, but pride and cruelty ruined him.
+
+Narration: The medium’s hand begins writing...
+
+Medium: Will you give us some details about your condition?
+
+Prince Ouran: Blessed are the poor in spirit, for theirs is the kingdom of Heaven.
+
+Prince Ouran: Pray for me.
+
+Prince Ouran: Happy are those who, in humility of heart, choose a modest place for their trials.
+
+Prince Ouran: You who are consumed by envy don't know what those you call the favorites of fortune are reduced to.
+
+Prince Ouran: You don't see the burning coals they heap on their own heads.
+
+Prince Ouran: You don't know what sacrifices riches demand from those who would use them for their progress in the spirit world.
+
+Prince Ouran: May the Lord allow me, the proud despot, to return and atone among those I crushed by my tyranny for the crimes pride made me commit.
+
+Prince Ouran: Pride. Repeat that word again and again, and never forget that pride is the source of all our sufferings.
+
+Prince Ouran: Yes, I abused the power and favor I enjoyed.
+
+Prince Ouran: I was harsh and cruel to those below me.
+
+Prince Ouran: I forced them to submit to all my whims and all my corrupt desires.
+
+Prince Ouran: I had chosen rank, honors, and fortune, and I fell under the weight of a trial beyond my strength.
+
+Background: Kardec briefly notes that suffering spirits often say a trial was beyond their strength because pride still wants to excuse failure.
+
+Medium: You are aware of your faults. That is the first step toward improvement.
+
+Prince Ouran: That awareness is another suffering for me.
+
+Prince Ouran: For many spirits, suffering is almost physical, because they're still under the influence of the material side of their last life and can't yet feel moral suffering clearly.
+
+Prince Ouran: My spirit is now free enough from matter, but my moral feeling has gained all the force people imagine physical pain to have.
+
+Medium: Do you see the end of your suffering?
+
+Prince Ouran: I know it won't be eternal, but I don't yet see its end.
+
+Prince Ouran: For that, I have to go through another trial.
+
+Medium: Do you expect to begin again soon?
+
+Prince Ouran: I still don't know.
+
+Medium: Do you remember anything of your earlier lives? I ask for the sake of instruction.
+
+Prince Ouran: Yes.
+
+Prince Ouran: Your guides are here, and they know what's best for you.
+
+Prince Ouran: I lived in the time of Marcus Aurelius. In that life too, I had power, and again I fell through pride, the cause of all our failures.
+
+Prince Ouran: After wandering for many centuries, I decided to try a life of obscurity.
+
+Prince Ouran: As a poor student, I begged for my bread, but my natural pride was still with me.
+
+Prince Ouran: My spirit gained knowledge, but not virtue.
+
+Prince Ouran: Learned and ambitious, I sold myself to whoever paid most for my services, serving every hatred and every revenge.
+
+Prince Ouran: I felt my wickedness, but my thirst for honors and riches made me deaf to the voice of my conscience.
+
+Prince Ouran: The atonement for that life was long and terrible.
+
+Prince Ouran: At last I decided, in my last life, to face again the temptations of luxury and power.
+
+Prince Ouran: Thinking I was strong enough, I refused to listen to those who tried to warn me away from that attempt.
+
+Prince Ouran: Pride once again made me trust my own judgment instead of the advice of the protecting friends who never stop watching over us.
+
+Prince Ouran: You know the result of that last attempt.
+
+Prince Ouran: At last I understand my weakness and my foolishness, and I place my hope in the help of God.
+
+Prince Ouran: I have laid my miserable pride at His feet, and I've begged Him to place on my shoulders the heaviest burden of humility. With His help, that burden will seem light.
+
+Prince Ouran: Pray with me and for me.
+
+Prince Ouran: Pray also for yourselves, that the demon of pride may never gain power over your minds.
+
+Prince Ouran: Brothers in suffering, let my example enlighten you.
+
+Prince Ouran: Never forget that pride is the enemy of happiness.
+
+Prince Ouran: Pride causes all the evils that strike the human race and follow it even into the spirit world.
+
+Background: The guide then explained that, even in suffering, this spirit's humility was sincere.
+
+Mediums’ Guide: You felt some doubt about this spirit's sincerity because his words didn't seem to fit the backward state suggested by his suffering.
+
+Mediums’ Guide: Be at peace on that point. What he said is true.
+
+Mediums’ Guide: However great his suffering, he is advanced enough in intelligence to speak this way.
+
+Mediums’ Guide: What he lacked was humility, and without humility no spirit can rise toward God.
+
+Mediums’ Guide: He has now gained that humility, and we hope that, if he remains faithful to his new resolutions, he will come out victorious from his next trial.
+
+Mediums’ Guide: Our heavenly Father is all justice and wisdom.
+
+Mediums’ Guide: He takes into account every effort a person makes to overcome evil instincts.
+
+Mediums’ Guide: Every victory over ourselves lifts us one more step on the ladder whose lower end is on Earth and whose upper end stands before God.
+
+Mediums’ Guide: Climb that ladder bravely.
+
+Mediums’ Guide: Its steps are easy to reach for the one whose will is truly engaged in the work.
+
+Mediums’ Guide: Always look upward for courage, because unfortunate is the one who stops and turns his head.
+
+Mediums’ Guide: The emptiness around him will confuse him, and he'll say, what is the use of going on? I've gained so little.
+
+Mediums’ Guide: No, my dear friends, do not look away.
+
+Mediums’ Guide: Pride is deep in the human heart, but make that very feeling serve to give you strength and courage for your ascent.
+
+Mediums’ Guide: Use your time to overcome your weaknesses, and keep climbing toward the summit of the eternal mountain.

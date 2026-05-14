@@ -1,0 +1,127 @@
+---
+title: Jean Reynaud
+sidebar_label: Jean Reynaud
+hide_table_of_contents: true
+---
+
+Background: Jean Reynaud was a respected French philosopher and writer, known especially for defending ideas related to the plurality of existences — what Spiritism later called reincarnation. After his death, spontaneous spirit communications attributed to him were received during gatherings of the Spiritist Society of Paris and among members of his own family. In these messages, he spoke enthusiastically about the spirit world and about the future spread of Spiritism.
+
+Background: The following communication was received spontaneously at the Spiritist Society of Paris.
+
+Narration: The medium’s hand begins writing...
+
+Jean Reynaud: My friends... how magnificent this new life is!
+
+Jean Reynaud: Like a river of light, it carries along the souls who thirst for the infinite.
+
+Jean Reynaud: After the breaking of the bodily ties that bound me to the Earth, my eyes opened upon the splendid horizons now surrounding me.
+
+Jean Reynaud: And I contemplated the marvelous wonders of boundless space.
+
+Jean Reynaud: I passed from the shadows of matter into the radiant dawn announcing the presence of God.
+
+Jean Reynaud: I'm happy.
+
+Jean Reynaud: Not because of any personal merit in my actions...
+
+Jean Reynaud: But because knowledge of the eternal principles helped me avoid many of the stains human beings acquire through ignorance.
+
+Jean Reynaud: My death was extremely peaceful.
+
+Jean Reynaud: My biographers will consider it premature.
+
+Jean Reynaud: Poor blind judges!
+
+Jean Reynaud: They will regret a few earthly writings born from dust...
+
+Jean Reynaud: And they will fail to understand how useful my death itself will become for the cause of Spiritism.
+
+Jean Reynaud: My work on Earth had already been completed.
+
+Jean Reynaud: Those destined to surpass me were already advancing along the path.
+
+Jean Reynaud: I had reached the point where a man has produced his best work.
+
+Jean Reynaud: Beyond that point, he merely repeats himself.
+
+Jean Reynaud: My death will awaken the attention of scholars.
+
+Jean Reynaud: It will draw their attention back toward my principal work, which touches directly upon the great Spiritist question.
+
+Jean Reynaud: A question they currently pretend to ignore...
+
+Jean Reynaud: But which will soon catch them within its net.
+
+Jean Reynaud: Glory to God!
+
+Jean Reynaud: Assisted by elevated spirits directing the spread of the new doctrine...
+
+Jean Reynaud: I too will become one of the torchbearers stationed along your road.
+
+Jean Reynaud: We are here to illuminate and guide your way.
+
+Background: Later, during a family gathering among relatives of the deceased, another spontaneous communication was received from Jean Reynaud. The spirit was responding to remarks concerning his unexpectedly early death, which had surprised many people.
+
+Narration: The medium’s hand begins writing...
+
+Jean Reynaud: How do you know that my death may not benefit the future of Spiritism and the development of the truths toward which it leads?
+
+Jean Reynaud: Have you reflected upon the method God is using to establish the Spiritist faith?
+
+Jean Reynaud: God first gave physical proof of the action of invisible forces.
+
+Jean Reynaud: The turning tables...
+
+Jean Reynaud: The knocks...
+
+Jean Reynaud: And the many physical phenomena...
+
+Jean Reynaud: All these things were intended to awaken curiosity and investigation.
+
+Jean Reynaud: They were an amusing preface designed to attract attention toward the doctrine itself.
+
+Jean Reynaud: But now the movement has entered a new phase.
+
+Jean Reynaud: After addressing humanity through physical manifestations, God now speaks to human intelligence, reason, and judgment.
+
+Jean Reynaud: It no longer appeals mainly through marvels and prodigies...
+
+Jean Reynaud: But through reasoning capable of convincing even the most skeptical minds.
+
+Jean Reynaud: And capable of rallying the most stubborn unbelievers to the doctrine.
+
+Jean Reynaud: Yet all this is still only the beginning.
+
+Jean Reynaud: Remember carefully what I now tell you.
+
+Jean Reynaud: A whole series of intelligent and undeniable manifestations is about to appear.
+
+Jean Reynaud: And the already numerous followers of Spiritist philosophy will increase greatly.
+
+Jean Reynaud: Divine influence will soon act upon the greatest intellects.
+
+Jean Reynaud: Upon the highest minds.
+
+Jean Reynaud: Upon those most distinguished for talent and knowledge.
+
+Jean Reynaud: It will resemble a flood of light spreading across the Earth with irresistible force.
+
+Jean Reynaud: Even the most reluctant minds will eventually seek the infinite.
+
+Jean Reynaud: They will study this admirable revelation that offers such sublime principles for human conduct.
+
+Jean Reynaud: The great thinkers of the Earth will join your ranks.
+
+Jean Reynaud: Setting aside pride in their own genius...
+
+Jean Reynaud: They will become humble like little children in their desire to learn the truths of Spiritism.
+
+Jean Reynaud: And once they have acquired this understanding with the humility of true wisdom...
+
+Jean Reynaud: They will use both their knowledge and the authority of their names to continue the work you have begun.
+
+Jean Reynaud: They will help advance the mission of Spiritism.
+
+Jean Reynaud: That mission is nothing less than the regeneration of humanity itself...
+
+Jean Reynaud: Through the rational and enlightened explanation of our past and future existences.

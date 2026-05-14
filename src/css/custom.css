@@ -256,3 +256,8 @@ html.plugin-id-urdu body {
   margin-bottom: 0.3rem;
   font-size: 1.02rem;
 }
+
+html.plugin-id-death-experiences.docs-doc-id-index .pagination-nav__link--next {
+  grid-column: 1;
+  text-align: left;
+}
