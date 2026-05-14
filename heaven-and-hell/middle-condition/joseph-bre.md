@@ -4,7 +4,7 @@ sidebar_label: Joseph Bre
 hide_table_of_contents: true
 ---
 
-Background: Joseph Brê died in 1840 and was later evoked at Bordeaux in 1862 by his granddaughter. During his life on Earth, he had been considered an honest and respectable man by society's standards. In this communication, he explains the difference between being considered "upright" by human beings and being truly upright in the sight of God.
+Joseph Brê died in 1840 and was later evoked at Bordeaux in 1862 by his granddaughter. During his life on Earth, he had been considered an honest and respectable man by society's standards. In this communication, he explains the difference between being considered "upright" by human beings and being truly upright in the sight of God.
 
 Narration: The medium’s hand begins writing...
 

@@ -4,7 +4,7 @@ sidebar_label: Xumene
 hide_table_of_contents: true
 ---
 
-Background: Bordeaux, 1862. Xumène was a spirit brought by the medium’s guide for instruction and reform. He came in hardened, suffering deeply but resisting change.
+Bordeaux, 1862. Xumène was a spirit brought by the medium’s guide for instruction and reform. He came in hardened, suffering deeply but resisting change.
 Narration: The medium’s hand begins writing...
 Allan: Who are you? Is this the name of a man or a woman?
 Xumène: A man, and a truly miserable one. I am going through all the torments of hell.
@@ -22,7 +22,7 @@ Allan: Do you truly want to advance?
 Xumène: Perhaps I do. I do not know. Let me see whether prayer relieves suffering. That is the important thing.
 Allan: Then join your thought with mine, with a firm will to obtain relief.
 Xumène: Go on.
-Background: After the medium prayed, he questioned the spirit again.
+After the medium prayed, he questioned the spirit again.
 Allan: Are you satisfied?
 Xumène: Not as I want to be.
 Allan: A remedy cannot cure a long illness the first time it is used.

@@ -4,7 +4,7 @@ sidebar_label: Dr P
 hide_table_of_contents: true
 ---
 
-Background: Dr. P. was a physician from Moscow, respected both for his medical knowledge and for his exceptional kindness and moral character. The person who later evoked him had never met him personally and knew him only by reputation. Shortly after his death, the doctor communicated through a medium in the Russian language.
+Dr. P. was a physician from Moscow, respected both for his medical knowledge and for his exceptional kindness and moral character. The person who later evoked him had never met him personally and knew him only by reputation. Shortly after his death, the doctor communicated through a medium in the Russian language.
 
 Medium: Are you here?
 

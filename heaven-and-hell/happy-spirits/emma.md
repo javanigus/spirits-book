@@ -4,7 +4,7 @@ sidebar_label: Emma
 hide_table_of_contents: true
 ---
 
-Background: Emma was a beautiful and talented young actress and dancer who died after her dress accidentally caught fire during a stage performance. She endured terrible physical suffering before her death, yet faced it with patience, prayer, and acceptance. Shortly after her passing in 1863, her spirit spontaneously communicated at the Spiritist Society of Paris before anyone had formally evoked her.
+Emma was a beautiful and talented young actress and dancer who died after her dress accidentally caught fire during a stage performance. She endured terrible physical suffering before her death, yet faced it with patience, prayer, and acceptance. Shortly after her passing in 1863, her spirit spontaneously communicated at the Spiritist Society of Paris before anyone had formally evoked her.
 
 Narration: The medium’s hand begins writing...
 
@@ -70,7 +70,7 @@ Emma: And the jewels crowning my forehead are no longer lifeless diamonds from y
 
 Emma: But the living brilliance of a purified soul.
 
-Background: The following day, at a Spiritist gathering in Havre, Emma spontaneously communicated again.
+The following day, at a Spiritist gathering in Havre, Emma spontaneously communicated again.
 
 Narration: The medium’s hand begins writing...
 

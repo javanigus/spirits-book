@@ -4,7 +4,7 @@ sidebar_label: Pascal Lavic
 hide_table_of_contents: true
 ---
 
-Background: Pascal Lavic was a poor seafaring man who died at sea, and whose body was found much later near Le Havre. In August 1863, he came through spontaneously by means of a medium who had never known him and had never heard his name.
+Pascal Lavic was a poor seafaring man who died at sea, and whose body was found much later near Le Havre. In August 1863, he came through spontaneously by means of a medium who had never known him and had never heard his name.
 
 Narration: The medium’s hand begins writing...
 
@@ -20,7 +20,7 @@ Pascal Lavic: For a long time, it floated on the waves.
 
 Pascal Lavic: God...
 
-Background: The message broke off there. The next day he came back and continued.
+The message broke off there. The next day he came back and continued.
 
 Pascal Lavic: God has kindly allowed me to be taken out of the confusion and distress my spirit was plunged into, through the prayers of those I left behind on Earth.
 
@@ -64,9 +64,9 @@ Medium: Where was your body found?
 
 Pascal Lavic: Near here.
 
-Background: A newspaper report later confirmed the details. The medium had known nothing about the discovery beforehand.
+A newspaper report later confirmed the details. The medium had known nothing about the discovery beforehand.
 
-Background: On August 12, while the case was being discussed in the group where he had appeared, Pascal Lavic spoke again.
+On August 12, while the case was being discussed in the group where he had appeared, Pascal Lavic spoke again.
 
 Pascal Lavic: I really am Pascal Lavic, and I need your prayers.
 

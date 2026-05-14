@@ -261,3 +261,49 @@ html.plugin-id-death-experiences.docs-doc-id-index .pagination-nav__link--next {
   grid-column: 1;
   text-align: left;
 }
+
+html.plugin-id-death-experiences {
+  --death-label-1: #25c2a0;
+  --death-label-2: #a5b4fc;
+  --death-label-3: #fdba74;
+}
+
+html.plugin-id-death-experiences .markdown .death-line {
+  margin: 0 0 1rem;
+}
+
+html.plugin-id-death-experiences .markdown .death-line--background {
+  color: var(--ifm-color-emphasis-300);
+}
+
+html.plugin-id-death-experiences .markdown .death-line--narration {
+  color: var(--ifm-color-emphasis-400);
+  font-style: italic;
+}
+
+html.plugin-id-death-experiences .markdown .death-line--speaker {
+  color: var(--ifm-font-color-base);
+}
+
+html.plugin-id-death-experiences .markdown .death-label {
+  display: inline-block;
+  padding: 0 0.4em;
+  margin-right: 0.45rem;
+  border-radius: 0.2rem;
+  color: #111827;
+  font-weight: 600;
+  line-height: 1.35;
+  vertical-align: baseline;
+}
+
+html.plugin-id-death-experiences .markdown .death-label--tone-1 {
+  background-color: var(--death-label-1);
+}
+
+html.plugin-id-death-experiences .markdown .death-label--tone-2 {
+  background-color: var(--death-label-2);
+}
+
+html.plugin-id-death-experiences .markdown .death-label--tone-3 {
+  background-color: var(--death-label-3);
+}

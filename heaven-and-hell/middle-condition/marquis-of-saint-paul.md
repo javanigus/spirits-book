@@ -4,7 +4,7 @@ sidebar_label: Marquis of Saint Paul
 hide_table_of_contents: true
 ---
 
-Background: The Marquis of Saint-Paul died in 1860 and was evoked on May 16th, 1861, at the request of his sister, who belonged to the Spiritist Society of Paris. Although she was herself a medium, she did not yet trust her own abilities enough to conduct the communication alone.
+The Marquis of Saint-Paul died in 1860 and was evoked on May 16th, 1861, at the request of his sister, who belonged to the Spiritist Society of Paris. Although she was herself a medium, she did not yet trust her own abilities enough to conduct the communication alone.
 
 Narration: The medium’s hand begins writing...
 
@@ -76,9 +76,9 @@ Marquis of Saint-Paul: My spirit already saw the body almost as another individu
 
 Marquis of Saint-Paul: So when I said, "He is thirsty," or "He is cold," I was referring to the body, not to my true self.
 
-Background: During his final moments, witnesses had observed this dual perception very clearly. He repeatedly referred to his own body in the third person, saying things such as "He is thirsty" or "He is cold." When others reminded him that it was he himself who needed water or warmth, he answered, "No, it is he."
+During his final moments, witnesses had observed this dual perception very clearly. He repeatedly referred to his own body in the third person, saying things such as "He is thirsty" or "He is cold." When others reminded him that it was he himself who needed water or warmth, he answered, "No, it is he."
 
-Background: Allan Kardec notes that similar experiences of duality are often seen in somnambulists and in people nearing death.
+Allan Kardec notes that similar experiences of duality are often seen in somnambulists and in people nearing death.
 
 Allan: What you have told us about remaining in a wandering state and experiencing prolonged confusion seems to suggest that you are not yet fully happy.
 

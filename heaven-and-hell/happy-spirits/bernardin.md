@@ -4,7 +4,7 @@ sidebar_label: Bernardin
 hide_table_of_contents: true
 ---
 
-Background: Bordeaux, April 1862. Bernardin was a spirit who said he had been forgotten for many centuries. During his life on Earth, he lived in poverty, humiliation, and constant suffering. He belonged to the lower servant class during a brutal historical period when workers and servants were often treated with cruelty and injustice. Yet despite everything he endured, he kept faith in God and bore his trials without bitterness. After his death, he communicated in order to encourage others facing suffering and hardship.
+Bordeaux, April 1862. Bernardin was a spirit who said he had been forgotten for many centuries. During his life on Earth, he lived in poverty, humiliation, and constant suffering. He belonged to the lower servant class during a brutal historical period when workers and servants were often treated with cruelty and injustice. Yet despite everything he endured, he kept faith in God and bore his trials without bitterness. After his death, he communicated in order to encourage others facing suffering and hardship.
 
 Narration: The medium’s hand begins writing...
 

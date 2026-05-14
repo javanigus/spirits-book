@@ -4,7 +4,7 @@ sidebar_label: Lapommeray
 hide_table_of_contents: true
 ---
 
-Background: At a meeting of the Paris Society, after a discussion about the confusion that often follows death, a spirit came forward on his own. Though he did not sign the message, he was recognized as Lapommeray, a notorious criminal who had recently been executed.
+At a meeting of the Paris Society, after a discussion about the confusion that often follows death, a spirit came forward on his own. Though he did not sign the message, he was recognized as Lapommeray, a notorious criminal who had recently been executed.
 Narration: The medium’s hand begins writing...
 Lapommeray: Why do you talk about confusion? Why these empty words? You are dreamers and visionaries. You know absolutely nothing about the things you pretend to study.
 Lapommeray: No, sirs. The confusion you speak of does not exist, except perhaps in your own minds. I am as truly dead as possible, and I see with perfect clarity in myself, around me, everywhere.
@@ -19,10 +19,10 @@ Lapommeray: Crime? It is only a word. Crime exists everywhere. When whole crowds
 Lapommeray: I reject your pity.
 Lapommeray: I ask for nothing.
 Lapommeray: I am enough for myself, and I will be able to resist this hateful light.
-Background: His cynicism and condition were deeply instructive. Unlike spirits punished by darkness, isolation, or the repeated agony of their last moments, he was punished by light. He knew perfectly well that he was dead, kept all his mental powers, asked for no help, and still defied divine law just as he had defied human law.
-Background: But he did not escape punishment. For him, light itself became torture. What would be joy for one spirit became pain for him. In his own words, the light pierced him like arrows and exposed him completely.
-Background: He stayed stubborn for a long time and showed no repentance. Later, though, he gradually improved, gave wise and good communications, and eventually came to belong among the repentant and progressing spirits.
-Background: The spirit guides then gave three explanations of his condition.
+His cynicism and condition were deeply instructive. Unlike spirits punished by darkness, isolation, or the repeated agony of their last moments, he was punished by light. He knew perfectly well that he was dead, kept all his mental powers, asked for no help, and still defied divine law just as he had defied human law.
+But he did not escape punishment. For him, light itself became torture. What would be joy for one spirit became pain for him. In his own words, the light pierced him like arrows and exposed him completely.
+He stayed stubborn for a long time and showed no repentance. Later, though, he gradually improved, gave wise and good communications, and eventually came to belong among the repentant and progressing spirits.
+The spirit guides then gave three explanations of his condition.
 Mediums’ Guide: Spirits in the wandering state between earthly lives are in a waiting state, but they can still go through atonement there.
 Mediums’ Guide: Pride and stubborn attachment to error can hold them back at the very moment when they should prepare to move forward.
 Mediums’ Guide: This criminal is a terrible example. He struggles against divine justice as he once struggled against the justice of men.

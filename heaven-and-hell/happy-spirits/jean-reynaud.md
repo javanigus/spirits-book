@@ -4,9 +4,9 @@ sidebar_label: Jean Reynaud
 hide_table_of_contents: true
 ---
 
-Background: Jean Reynaud was a respected French philosopher and writer, known especially for defending ideas related to the plurality of existences — what Spiritism later called reincarnation. After his death, spontaneous spirit communications attributed to him were received during gatherings of the Spiritist Society of Paris and among members of his own family. In these messages, he spoke enthusiastically about the spirit world and about the future spread of Spiritism.
+Jean Reynaud was a respected French philosopher and writer, known especially for defending ideas related to the plurality of existences — what Spiritism later called reincarnation. After his death, spontaneous spirit communications attributed to him were received during gatherings of the Spiritist Society of Paris and among members of his own family. In these messages, he spoke enthusiastically about the spirit world and about the future spread of Spiritism.
 
-Background: The following communication was received spontaneously at the Spiritist Society of Paris.
+The following communication was received spontaneously at the Spiritist Society of Paris.
 
 Narration: The medium’s hand begins writing...
 
@@ -60,7 +60,7 @@ Jean Reynaud: I too will become one of the torchbearers stationed along your roa
 
 Jean Reynaud: We are here to illuminate and guide your way.
 
-Background: Later, during a family gathering among relatives of the deceased, another spontaneous communication was received from Jean Reynaud. The spirit was responding to remarks concerning his unexpectedly early death, which had surprised many people.
+Later, during a family gathering among relatives of the deceased, another spontaneous communication was received from Jean Reynaud. The spirit was responding to remarks concerning his unexpectedly early death, which had surprised many people.
 
 Narration: The medium’s hand begins writing...
 

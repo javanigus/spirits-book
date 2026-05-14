@@ -4,7 +4,7 @@ sidebar_label: Sixdeniers
 hide_table_of_contents: true
 ---
 
-Background: Bordeaux, February 11, 1861. Sixdeniers was described as an excellent and kind-hearted man who died in an accident by drowning. He had been personally known by the medium during his life on Earth. After his death, his spirit was evoked in order to describe what he experienced after passing into the spirit world.
+Bordeaux, February 11, 1861. Sixdeniers was described as an excellent and kind-hearted man who died in an accident by drowning. He had been personally known by the medium during his life on Earth. After his death, his spirit was evoked in order to describe what he experienced after passing into the spirit world.
 
 Allan: Can you give me any details concerning your death?
 
@@ -14,7 +14,7 @@ Allan: Why not before?
 
 Sixdeniers: Because you already know those details.
 
-Background: The medium indeed already knew the circumstances of his death.
+The medium indeed already knew the circumstances of his death.
 
 Allan: Please describe what you felt after your death.
 
@@ -110,7 +110,7 @@ Sixdeniers: And that Justice weighed my merits with such kindness and love that 
 
 Allan: Will you give me news of your daughter?
 
-Background: His daughter had died four or five years before him.
+His daughter had died four or five years before him.
 
 Sixdeniers: She is fulfilling a mission on Earth.
 
@@ -138,7 +138,7 @@ Sixdeniers: Be at peace concerning her.
 
 Sixdeniers: And accept my thanks for your kind remembrance.
 
-Background: At this moment, the medium suddenly experienced difficulty writing and said aloud:
+At this moment, the medium suddenly experienced difficulty writing and said aloud:
 
 Medium: If this is a suffering spirit trying to take control of my hand, I ask that spirit to write its name.
 
@@ -174,7 +174,7 @@ Valeria: He guides me.
 
 Allan: Ask him to join in the prayer we are about to offer for you.
 
-Background: After the prayer, Sixdeniers again took control of the medium’s hand.
+After the prayer, Sixdeniers again took control of the medium’s hand.
 
 Sixdeniers: Thank you for her.
 
@@ -202,30 +202,30 @@ Sixdeniers: As we rise, our abilities increase.
 
 Sixdeniers: And our influence spreads more widely according to our degree of purity.
 
-Background: Allan Kardec then adds an observation.
+Allan Kardec then adds an observation.
 
-Background: Lower spirits are therefore helped by higher spirits whose mission is to guide them toward improvement.
+Lower spirits are therefore helped by higher spirits whose mission is to guide them toward improvement.
 
-Background: This responsibility does not belong only to people living on Earth, although people on Earth should also participate in it because doing so helps their own spiritual progress.
+This responsibility does not belong only to people living on Earth, although people on Earth should also participate in it because doing so helps their own spiritual progress.
 
-Background: When a lower spirit interrupts a communication, as happened in this case, the interruption is not always caused by bad intentions.
+When a lower spirit interrupts a communication, as happened in this case, the interruption is not always caused by bad intentions.
 
-Background: Higher spirits sometimes allow such interruptions as a test of the medium’s patience, or so that the medium may help improve the suffering spirit causing the interruption.
+Higher spirits sometimes allow such interruptions as a test of the medium’s patience, or so that the medium may help improve the suffering spirit causing the interruption.
 
-Background: The more stubborn the obsession becomes, the greater the spirit’s need for help often is.
+The more stubborn the obsession becomes, the greater the spirit’s need for help often is.
 
-Background: So, it is wrong to reject such spirits.
+So, it is wrong to reject such spirits.
 
-Background: Instead, they should be treated like beggars in need of charity.
+Instead, they should be treated like beggars in need of charity.
 
-Background: One should say:
+One should say:
 
-Background: “Here is an unhappy spirit sent to me by higher spirits so that I may help educate and improve him.”
+“Here is an unhappy spirit sent to me by higher spirits so that I may help educate and improve him.”
 
-Background: “If I succeed, I will rejoice at having guided a wandering soul back toward goodness and shortened its suffering.”
+“If I succeed, I will rejoice at having guided a wandering soul back toward goodness and shortened its suffering.”
 
-Background: The task is often difficult.
+The task is often difficult.
 
-Background: It would certainly be more pleasant to receive only beautiful communications from elevated spirits.
+It would certainly be more pleasant to receive only beautiful communications from elevated spirits.
 
-Background: But by seeking only our own satisfaction and turning away from opportunities to do good, we would not deserve the protection of higher spirits.
+But by seeking only our own satisfaction and turning away from opportunities to do good, we would not deserve the protection of higher spirits.

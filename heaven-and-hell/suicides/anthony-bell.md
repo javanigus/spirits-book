@@ -4,7 +4,7 @@ sidebar_label: Anthony Bell
 hide_table_of_contents: true
 ---
 
-Background: Anthony Bell was a bank clerk in Canada and the father of a large family. A doctor who had known him for more than twenty years described him as upright and blameless. Yet Bell became haunted by the fixed idea that he had bought poison from the doctor's shop and used it to kill someone. He would beg to be told the date of this imaginary purchase, become deeply agitated, lose sleep, accuse himself of murder, and sink into despair. At the bank, however, he still kept his books perfectly, without the smallest mistake, and often said that a being inside him made him keep them in strict order. He committed suicide on February 28, 1865, and was later called in Paris at the request of a friend.
+Anthony Bell was a bank clerk in Canada and the father of a large family. A doctor who had known him for more than twenty years described him as upright and blameless. Yet Bell became haunted by the fixed idea that he had bought poison from the doctor's shop and used it to kill someone. He would beg to be told the date of this imaginary purchase, become deeply agitated, lose sleep, accuse himself of murder, and sink into despair. At the bank, however, he still kept his books perfectly, without the smallest mistake, and often said that a being inside him made him keep them in strict order. He committed suicide on February 28, 1865, and was later called in Paris at the request of a friend.
 
 Narration: The medium’s hand begins writing...
 
@@ -36,7 +36,7 @@ Medium: Repentance is the beginning of spiritual restoration.
 
 Medium: God, whose mercy is endless, always takes pity on the wrongdoer who repents.
 
-Background: The group prayed for him using the prayer for those who had committed suicide from The Gospel According to Spiritism, and then asked him what crime he meant.
+The group prayed for him using the prayer for those who had committed suicide from The Gospel According to Spiritism, and then asked him what crime he meant.
 
 Medium: Will you now tell us what crime you were speaking of?
 
@@ -176,4 +176,4 @@ Mediums’ Guide: He remains exposed to attacks from lower spirits until they fe
 
 Mediums’ Guide: When that happens, they leave him alone, because they know their attempts would be useless.
 
-Background: Kardec says this case shows how the same trial can return across successive lives until the spirit becomes strong enough to overcome it. It also shows how the memory of a former crime may remain as remorse, warning, or obsession. Punishment is not revenge from God, but a means of moral progress.
+Kardec says this case shows how the same trial can return across successive lives until the spirit becomes strong enough to overcome it. It also shows how the memory of a former crime may remain as remorse, warning, or obsession. Punishment is not revenge from God, but a means of moral progress.

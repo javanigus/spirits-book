@@ -4,7 +4,7 @@ sidebar_label: Frances Vernhes
 hide_table_of_contents: true
 ---
 
-Background: Frances Vernhes was blind from birth and died at forty-five. She loved teaching catechism and could recite it from memory. One dark winter night, walking through mud and dangerous forest paths with her aunt, she insisted that she should lead because she saw a light before her showing the way. Later she was called in Paris.
+Frances Vernhes was blind from birth and died at forty-five. She loved teaching catechism and could recite it from memory. One dark winter night, walking through mud and dangerous forest paths with her aunt, she insisted that she should lead because she saw a light before her showing the way. Later she was called in Paris.
 Narration: The medium’s hand begins writing...
 Allan: Will you tell us what the light was that guided you that dark night, and that only you could see?
 Frances Vernhes: Is it possible that people like you, who are in regular contact with spirits, still need an explanation for something like that? It was my Guardian Angel who guided me.

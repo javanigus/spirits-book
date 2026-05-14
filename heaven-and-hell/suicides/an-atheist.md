@@ -4,7 +4,7 @@ sidebar_label: An Atheist
 hide_table_of_contents: true
 ---
 
-Background: Mr. J. B. D. was a learned man deeply shaped by materialist ideas. He believed neither in God nor in the soul. Some years after his death, the Paris Society called him at the request of a relative.
+Mr. J. B. D. was a learned man deeply shaped by materialist ideas. He believed neither in God nor in the soul. Some years after his death, the Paris Society called him at the request of a relative.
 
 Narration: The medium’s hand begins writing...
 
@@ -22,7 +22,7 @@ Medium: Was your death voluntary?
 
 Mr. D.: Yes.
 
-Background: He wrote with great difficulty. The writing was large, irregular, convulsive, and almost unreadable. At first he showed anger, broke the pencil, and tore the paper.
+He wrote with great difficulty. The writing was large, irregular, convulsive, and almost unreadable. At first he showed anger, broke the pencil, and tore the paper.
 
 Medium: Calm yourself.
 
@@ -34,7 +34,7 @@ Medium: What led you to destroy yourself?
 
 Mr. D.: I was utterly worn out by a life without hope.
 
-Background: Kardec remarks that a person without hope can easily be tempted by suicide. Spiritism teaches the opposite of materialism: death does not end suffering, and suicide only trades a smaller trouble for one far worse.
+Kardec remarks that a person without hope can easily be tempted by suicide. Spiritism teaches the opposite of materialism: death does not end suffering, and suicide only trades a smaller trouble for one far worse.
 
 Medium: You wanted to escape the troubles of life.
 
@@ -60,7 +60,7 @@ Mr. D.: My spirit was condemned to suffer the torment of doubt during my life on
 
 Mr. D.: Under those impulses, I committed suicide.
 
-Background: Kardec says some proud spirits keep resisting truths they once knew. Their trial on Earth becomes the struggle to arrive, by their own reasoning, at belief in God and the future life, even while pride keeps pushing them to deny it.
+Kardec says some proud spirits keep resisting truths they once knew. Their trial on Earth becomes the struggle to arrive, by their own reasoning, at belief in God and the future life, even while pride keeps pushing them to deny it.
 
 Medium: When you drowned yourself, what did you think would happen to you?
 
@@ -128,7 +128,7 @@ Mr. D.: It is the best thing I can wish for them.
 
 Mr. D.: If they could see my sad condition, it would make them think.
 
-Background: His brother, who had held the same beliefs in life but had not committed suicide, was then called. Though unhappy, he was calmer, and his writing was clear.
+His brother, who had held the same beliefs in life but had not committed suicide, was then called. Though unhappy, he was calmer, and his writing was clear.
 
 Narration: The medium’s hand begins writing...
 
@@ -144,7 +144,7 @@ Mr. D.'s Brother: No.
 
 Mr. D.'s Brother: He hides himself from me.
 
-Background: Kardec explains that lower spirits do not perceive everything freely. By acting on the spiritual envelope and the surrounding fluids, they can hide themselves from one another. That ability can be either a punishment or a relief, depending on the case.
+Kardec explains that lower spirits do not perceive everything freely. By acting on the spiritual envelope and the surrounding fluids, they can hide themselves from one another. That ability can be either a punishment or a relief, depending on the case.
 
 Medium: You are calmer than your brother.
 
@@ -182,4 +182,4 @@ Mr. D.'s Brother: It will not be wasted.
 
 Mr. D.'s Brother: If he rejects its help now, he will turn to it later, when he is ready to profit from the mercy of God, that divine cure.
 
-Background: Kardec notes that this spirit had already made some progress because he now admitted he had been wrong. That humility was the beginning of improvement. He also included a later letter from the family, who said they recognized both spirits by their handwriting, expressions, style, and favorite words.
+Kardec notes that this spirit had already made some progress because he now admitted he had been wrong. That humility was the beginning of improvement. He also included a later letter from the family, who said they recognized both spirits by their handwriting, expressions, style, and favorite words.

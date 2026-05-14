@@ -4,7 +4,7 @@ sidebar_label: Verger
 hide_table_of_contents: true
 ---
 
-Background: On January 3, 1857, Archbishop Sibour of Paris was stabbed outside the church of Saint Stephen of the Mount by a young priest named Verger. Verger was sentenced to death and executed on January 30. Up to his last moment, he showed no real regret or repentance for the murder.
+On January 3, 1857, Archbishop Sibour of Paris was stabbed outside the church of Saint Stephen of the Mount by a young priest named Verger. Verger was sentenced to death and executed on January 30. Up to his last moment, he showed no real regret or repentance for the murder.
 
 Narration: The medium’s hand begins writing...
 
@@ -92,7 +92,7 @@ Verger: I seem to be dreaming.
 
 Verger: Another time...I must recover myself.
 
-Background: Three days later he was called again.
+Three days later he was called again.
 
 Narration: The medium's hand begins writing again...
 
@@ -144,8 +144,8 @@ Verger: Yes, I beg to be allowed to do so.
 
 Verger: And I wish always to be exposed to the danger of being killed, and to be afraid of it.
 
-Background: Archbishop Sibour was also called. He said that he forgave his murderer and prayed for his return to the right path. He added that although he had been present, he had not shown himself to Verger, so as not to increase his suffering. Verger's fear of seeing him was itself a punishment.
+Archbishop Sibour was also called. He said that he forgave his murderer and prayed for his return to the right path. He added that although he had been present, he had not shown himself to Verger, so as not to increase his suffering. Verger's fear of seeing him was itself a punishment.
 
-Background: Allan notes that this confused condition just after execution is common in violent deaths. The separation of soul and body is not always immediate, so the spirit may not know whether he is dead or alive.
+Allan notes that this confused condition just after execution is common in violent deaths. The separation of soul and body is not always immediate, so the spirit may not know whether he is dead or alive.
 
-Background: He also points out that although Verger had remained unrepentant until death, repentance awakened in him almost at once after leaving Earth. Spiritism therefore rejects the idea of eternal condemnation and shows that conscience can awaken after death, sometimes very suddenly, though not in every case.
+He also points out that although Verger had remained unrepentant until death, repentance awakened in him almost at once after leaving Earth. Spiritism therefore rejects the idea of eternal condemnation and shows that conscience can awaken after death, sometimes very suddenly, though not in every case.

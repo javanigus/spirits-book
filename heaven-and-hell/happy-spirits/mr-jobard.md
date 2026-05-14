@@ -4,7 +4,7 @@ sidebar_label: Mr Jobard
 hide_table_of_contents: true
 ---
 
-Background: Brussels, 1861. Mr. Jobard, director of the Industrial Museum of Brussels and honorary president of the Spiritist Society of Paris, died suddenly from apoplexy at the age of sixty-nine. Shortly after his death, his spirit communicated spontaneously through a medium before the Society even had the chance to evoke him.
+Brussels, 1861. Mr. Jobard, director of the Industrial Museum of Brussels and honorary president of the Spiritist Society of Paris, died suddenly from apoplexy at the age of sixty-nine. Shortly after his death, his spirit communicated spontaneously through a medium before the Society even had the chance to evoke him.
 
 Mr. Jobard: I'm here... the very one you were about to evoke.
 
@@ -40,7 +40,7 @@ Mr. Jobard: I quickly remembered you, my brothers in exile on Earth.
 
 Mr. Jobard: My sympathy and good wishes remain with you.
 
-Background: After Mr. Jobard’s funeral ceremony, several members of the Society gathered together and unexpectedly received a spontaneous communication from another spirit none of them had ever heard of before.
+After Mr. Jobard’s funeral ceremony, several members of the Society gathered together and unexpectedly received a spontaneous communication from another spirit none of them had ever heard of before.
 
 Bernard: My name is Bernard.
 
@@ -90,9 +90,9 @@ Bernard: I call you friends because you are kind to those who suffer.
 
 Bernard: I wish you good thoughts... and a happy future.
 
-Background: Allan Kardec later explained that the writing medium had never met Mr. Sanson and knew nothing about his life, family, or beliefs. The medium had also never heard of the spirit Bernard. Kardec presented these details as evidence that the communications could not have come from the medium’s imagination.
+Allan Kardec later explained that the writing medium had never met Mr. Sanson and knew nothing about his life, family, or beliefs. The medium had also never heard of the spirit Bernard. Kardec presented these details as evidence that the communications could not have come from the medium’s imagination.
 
-Background: Later, Mr. Jobard was formally evoked and questioned by the Society.
+Later, Mr. Jobard was formally evoked and questioned by the Society.
 
 Allan: During your life on Earth, you asked us to evoke you after your death.
 
@@ -156,7 +156,7 @@ Mr. Jobard: And as for this seat... I will often occupy it, even when you don't 
 
 Mr. Jobard: My spirit will remain among you.
 
-Background: Kardec explains that this statement should not be understood figuratively. Spiritism teaches that spirits may literally remain present among the living through their fluidic or spiritual body. Some spirits stay near people they love, influencing, protecting, and inspiring them.
+Kardec explains that this statement should not be understood figuratively. Spiritism teaches that spirits may literally remain present among the living through their fluidic or spiritual body. Some spirits stay near people they love, influencing, protecting, and inspiring them.
 
 Allan: It has not been long since you last sat here among us while alive.
 
@@ -278,7 +278,7 @@ Mr. Jobard: And I leave it not with joy, for that would show irreverence toward 
 
 Mr. Jobard: But with deep gratitude for my freedom.
 
-Background: In February 1862, the Spiritist Society organized a collection to help struggling workers in Lyons. One member donated twenty-five francs in Mr. Jobard’s name, after which Jobard dictated another message.
+In February 1862, the Spiritist Society organized a collection to help struggling workers in Lyons. One member donated twenty-five francs in Mr. Jobard’s name, after which Jobard dictated another message.
 
 Mr. Jobard: I'm pleased and grateful that my Spiritist brothers have not forgotten me.
 

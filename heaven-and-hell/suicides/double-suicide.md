@@ -4,9 +4,9 @@ sidebar_label: Double Suicide
 hide_table_of_contents: true
 ---
 
-Background: A Paris newspaper of June 13, 1862 told the story of Palmyra, a charming young woman who loved Mr. B. and was loved by him in return. But out of obedience to her parents, she married Mr. D., whose social position was higher. The tragedy grew worse because Mr. B. and Mr. D. were close friends and constantly together, so the two lovers remained near each other even while trying to crush their feelings. Mr. B. even married another good woman in the hope of curing himself, but it failed. For four years, both lovers remained faithful in act to their marriage duties. At last, believing death was the only safe escape from temptation, they decided to die together by charcoal fumes while Mr. D. was away. They left a long and touching letter saying they chose death as the only way to remain faithful to duty, asking forgiveness and asking to be buried in the same grave. Mr. D. honored that last wish.
+A Paris newspaper of June 13, 1862 told the story of Palmyra, a charming young woman who loved Mr. B. and was loved by him in return. But out of obedience to her parents, she married Mr. D., whose social position was higher. The tragedy grew worse because Mr. B. and Mr. D. were close friends and constantly together, so the two lovers remained near each other even while trying to crush their feelings. Mr. B. even married another good woman in the hope of curing himself, but it failed. For four years, both lovers remained faithful in act to their marriage duties. At last, believing death was the only safe escape from temptation, they decided to die together by charcoal fumes while Mr. D. was away. They left a long and touching letter saying they chose death as the only way to remain faithful to duty, asking forgiveness and asking to be buried in the same grave. Mr. D. honored that last wish.
 
-Background: After hearing of the event, the Paris Spiritist Society asked about the two lovers.
+After hearing of the event, the Paris Spiritist Society asked about the two lovers.
 
 Narration: The medium’s hand begins writing...
 
@@ -28,7 +28,7 @@ Mediums’ Guide: But they will not see one another.
 
 Mediums’ Guide: The darkness of night will hide them from each other for a long time.
 
-Background: One week later, Madame D. was called.
+One week later, Madame D. was called.
 
 Narration: The medium’s hand begins writing...
 
@@ -66,7 +66,7 @@ Madame D.: All my suffering is there...
 
 Madame D.: And there.
 
-Background: If the spirit could have been seen, she would probably have placed one hand on her forehead and the other on her heart.
+If the spirit could have been seen, she would probably have placed one hand on her forehead and the other on her heart.
 
 Medium: Do you think you will always remain in the same condition?
 
@@ -112,7 +112,7 @@ Madame D.: But no doubt you were speaking to the soul that has just passed besid
 
 Madame D.: A poor child who weeps and hopes.
 
-Background: A lady present remarked that she had just prayed inwardly for this unhappy spirit and had asked God for mercy on her.
+A lady present remarked that she had just prayed inwardly for this unhappy spirit and had asked God for mercy on her.
 
 Medium: You say you are in darkness.
 
@@ -138,4 +138,4 @@ Madame D.: It is the image of a man in pain.
 
 Madame D.: And his moral progress on Earth has been delayed by me for a long time to come.
 
-Background: Kardec says many people would excuse this double suicide because it seemed to come from love and duty. But in Spiritism it was judged differently. Their honorable wish not to betray duty still counted in their favor, yet their true task was to conquer temptation, not flee from it through death. Their punishment matched the fault: they had sought refuge together in death, and so they would seek one another for a long time without being allowed to meet. Kardec also says the punishment was not endless. Its length depended on how they handled future trials, and prayer could help them.
+Kardec says many people would excuse this double suicide because it seemed to come from love and duty. But in Spiritism it was judged differently. Their honorable wish not to betray duty still counted in their favor, yet their true task was to conquer temptation, not flee from it through death. Their punishment matched the fault: they had sought refuge together in death, and so they would seek one another for a long time without being allowed to meet. Kardec also says the punishment was not endless. Its length depended on how they handled future trials, and prayer could help them.

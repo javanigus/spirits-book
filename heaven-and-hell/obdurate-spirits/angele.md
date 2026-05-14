@@ -4,7 +4,7 @@ sidebar_label: Angele
 hide_table_of_contents: true
 ---
 
-Background: Bordeaux, 1862. A spirit named Angèle came on her own. She had lived a lazy, empty life and neglected her husband, her children, and her responsibilities.
+Bordeaux, 1862. A spirit named Angèle came on her own. She had lived a lazy, empty life and neglected her husband, her children, and her responsibilities.
 Narration: The medium’s hand begins writing...
 Allan: Do you repent of your faults?
 Angèle: No.
@@ -16,7 +16,7 @@ Allan: Are you suffering?
 Angèle: No.
 Allan: What are you missing?
 Angèle: Peace.
-Background: Some spirits only call it suffering when it feels like physical pain, even when their inner state is unbearable.
+Some spirits only call it suffering when it feels like physical pain, even when their inner state is unbearable.
 Allan: How can you have no peace in the spirit life?
 Angèle: Regret for the past.
 Allan: Regret for the past is remorse. Then you do repent?

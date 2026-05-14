@@ -4,7 +4,7 @@ sidebar_label: Claire
 hide_table_of_contents: true
 ---
 
-Background: Claire was personally known to the medium during her life on Earth. She had beauty, wealth, admiration, and every outward sign of happiness, but she lived selfishly and cared little for others. After death, she suffered from isolation, emptiness, shame, and regret. Her later communications show real moral progress.
+Claire was personally known to the medium during her life on Earth. She had beauty, wealth, admiration, and every outward sign of happiness, but she lived selfishly and cared little for others. After death, she suffered from isolation, emptiness, shame, and regret. Her later communications show real moral progress.
 
 Narration: The medium’s hand begins writing...
 
@@ -56,7 +56,7 @@ Claire: When I leave you, I feel a little calmer... a little warmer.
 
 Claire: Like a freezing, miserable person comforted by one ray of sunlight, my frozen soul comes back to life when it comes near you.
 
-Background: In a later communication, Claire spoke with deeper awareness of her faults.
+In a later communication, Claire spoke with deeper awareness of her faults.
 
 Claire: My misery grows deeper every day as the thought of eternity becomes clearer in my mind.
 
@@ -94,7 +94,7 @@ Claire: The divine dawn hasn't yet risen for me.
 
 Claire: Pray for my dry and miserable soul.
 
-Background: Claire next showed that her old selfishness was still alive in her suffering.
+Claire next showed that her old selfishness was still alive in her suffering.
 
 Claire: I've come to find you, because you forget me.
 
@@ -126,7 +126,7 @@ Claire: And it is you who gave me that hope.
 
 Claire: Do not abandon me.
 
-Background: Saint Louis then explained the cause of Claire's torment.
+Saint Louis then explained the cause of Claire's torment.
 
 Mediums’ Guide: This picture is only too true.
 
@@ -170,7 +170,7 @@ Mediums’ Guide: She is her own tormentor.
 
 Mediums’ Guide: Selfishness was her delight on Earth. Now it follows her. It is the worm that gnaws her heart. It is her demon.
 
-Background: Claire then spoke more clearly and calmly.
+Claire then spoke more clearly and calmly.
 
 Claire: I would speak to you about the great difference between divine morality and human morality.
 
@@ -220,7 +220,7 @@ Claire: And I am beginning to form some faint idea of the happiness of loving Go
 
 Claire: So keep praying for me, I who hope and wait.
 
-Background: Claire then described her husband Felix. When the suffering became too strong for her, the guide finished the explanation.
+Claire then described her husband Felix. When the suffering became too strong for her, the guide finished the explanation.
 
 Claire: I come to you, though you have forgotten me for so long. But I have become patient and I no longer despair.
 
@@ -254,7 +254,7 @@ Mediums’ Guide: He will curse the ideas that led him to treat the future life 
 
 Mediums’ Guide: When he wakes fully, he will see that the truths he mocked were real, and that what he thought was solid was less profitable than what he scorned as a shadow.
 
-Background: The later explanations about darkness were kept because Claire confirmed them from personal experience.
+The later explanations about darkness were kept because Claire confirmed them from personal experience.
 
 Mediums’ Guide: The darkness spoken of by suffering spirits is the darkness that Jesus and the prophets spoke of when describing the punishment of the wicked.
 

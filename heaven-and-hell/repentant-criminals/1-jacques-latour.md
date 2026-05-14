@@ -4,7 +4,7 @@ sidebar_label: Jacques Latour
 hide_table_of_contents: true
 ---
 
-Background: Jacques Latour was a notorious murderer, condemned and executed in September 1864. At a private Spiritist meeting in Brussels, a woman medium suddenly began writing without anyone calling him. Her hand moved violently, scratching huge letters onto the paper. No one there had been thinking about him.
+Jacques Latour was a notorious murderer, condemned and executed in September 1864. At a private Spiritist meeting in Brussels, a woman medium suddenly began writing without anyone calling him. Her hand moved violently, scratching huge letters onto the paper. No one there had been thinking about him.
 
 Narration: The medium's hand begins writing violently...
 
@@ -16,7 +16,7 @@ Jacques Latour: I saw that you were compassionate, and that you would pity me.
 
 Jacques Latour: Others have called me more out of curiosity than charity...or they shrink back from me in horror.
 
-Background: The spirit identified strongly with the medium. Her face, voice, and gestures changed. His despair was so intense and painful that everyone there was deeply moved.
+The spirit identified strongly with the medium. Her face, voice, and gestures changed. His despair was so intense and painful that everyone there was deeply moved.
 
 Jacques Latour: Oh yes...pity! You do not know how much I need it, because you do not know how much I suffer!
 
@@ -148,7 +148,7 @@ Jacques Latour: I beg you... do not reject me as I rejected others.
 
 Jacques Latour: Pray for me.
 
-Background: Those present told him that God asks for sincere repentance and the desire to make up for evil. They promised to pray for him and recited the prayer for suffering and repentant spirits.
+Those present told him that God asks for sincere repentance and the desire to make up for evil. They promised to pray for him and recited the prayer for suffering and repentant spirits.
 
 Jacques Latour: Thank You, my God!
 
@@ -164,7 +164,7 @@ Jacques Latour: Send me good spirits to support me.
 
 Jacques Latour: Thank You!
 
-Background: The next day, at another gathering, the same spirit returned. The scene began again for a few minutes with the same intense display, but less violently.
+The next day, at another gathering, the same spirit returned. The scene began again for a few minutes with the same intense display, but less violently.
 
 Narration: The medium's hand begins writing again with feverish agitation...
 
@@ -180,7 +180,7 @@ Jacques Latour: There they are! There they are!
 
 Jacques Latour: Do you see this blood?
 
-Background: The prayer was repeated.
+The prayer was repeated.
 
 Jacques Latour: Forgive me for taking hold of you like this.
 
@@ -206,7 +206,7 @@ Jacques Latour: All of you, pray for me!
 
 Jacques Latour: Pity me!
 
-Background: Later, a member of the Paris Spiritist Society prayed for him and received several more communications.
+Later, a member of the Paris Spiritist Society prayed for him and received several more communications.
 
 Jacques Latour: I was called almost right after my death, but I could not communicate at once, and many frivolous spirits took my name and my place.
 
@@ -398,7 +398,7 @@ Mediums’ Guide: What he does not yet know is that he will be allowed to undert
 
 Mediums’ Guide: He will be sent among those who were his accomplices, and he will try to inspire them with repentance and awaken remorse in their hearts.
 
-Background: The Brussels medium later received one more revealing message from him.
+The Brussels medium later received one more revealing message from him.
 
 Jacques Latour: Do not be afraid of me anymore.
 

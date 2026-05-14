@@ -4,11 +4,11 @@ sidebar_label: Samuel Philippe
 hide_table_of_contents: true
 ---
 
-Background: Samuel Philippe was known as a deeply honest and selfless man. He was never known to deliberately harm anyone or commit a wicked act. His devotion to his friends was limitless, and anyone who needed help could rely on him, even when helping them required personal sacrifice. He willingly endured hardship, exhaustion, and inconvenience in order to help others, and he did so naturally, without seeking praise or recognition. When people thanked him for his kindness, he was genuinely surprised that anyone considered his actions extraordinary.
+Samuel Philippe was known as a deeply honest and selfless man. He was never known to deliberately harm anyone or commit a wicked act. His devotion to his friends was limitless, and anyone who needed help could rely on him, even when helping them required personal sacrifice. He willingly endured hardship, exhaustion, and inconvenience in order to help others, and he did so naturally, without seeking praise or recognition. When people thanked him for his kindness, he was genuinely surprised that anyone considered his actions extraordinary.
 
-Background: Even people who treated him badly still received kindness from him. If someone repaid his generosity with ingratitude, he would calmly say, “It is not I who should be pitied... but they.”
+Even people who treated him badly still received kindness from him. If someone repaid his generosity with ingratitude, he would calmly say, “It is not I who should be pitied... but they.”
 
-Background: Although highly intelligent and naturally gifted, his life on Earth was difficult and filled with heavy trials. He was one of those rare souls whose goodness remains mostly unnoticed by the world. Through Spiritism, he developed a deep faith in the future life and great acceptance of earthly suffering. He died in December 1862, at the age of fifty, after a long and painful illness. Several months later, his spirit was evoked.
+Although highly intelligent and naturally gifted, his life on Earth was difficult and filled with heavy trials. He was one of those rare souls whose goodness remains mostly unnoticed by the world. Through Spiritism, he developed a deep faith in the future life and great acceptance of earthly suffering. He died in December 1862, at the age of fifty, after a long and painful illness. Several months later, his spirit was evoked.
 
 Allan: Do you clearly remember your final moments on Earth?
 

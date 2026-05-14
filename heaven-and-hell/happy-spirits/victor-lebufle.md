@@ -4,12 +4,12 @@ sidebar_label: Victor Lebufle
 hide_table_of_contents: true
 ---
 
-Background: Victor Lebufle was a young dock worker from the port city of Havre who died at only twenty years of age. He lived alone with his mother, who ran a small poor shop, and he devoted himself completely to caring for and supporting her through his hard physical labor. 
-Background: Despite working in an environment filled with drinking, vice, and bad influences, Victor avoided the excesses common among many workers around him. He never wasted money in taverns or selfish pleasures because every coin he earned was dedicated to helping his mother. During all his free time, he assisted her and tried to spare her as much labor as possible. 
-Background: Long before his death, Victor knew he suffered from a fatal illness. Yet he hid his pain from his mother because he feared she would become distressed and try to do the heavy work he normally did for her. His strength of character, self-control, and purity of life deeply impressed everyone who knew him. 
-Background: The night before Victor died, he persuaded his exhausted mother to rest. During her brief sleep, she saw herself inside the dark hold of a great ship. Then a tiny point of light appeared, grew brighter and brighter, and filled the whole hold with magnificent radiance. In the middle of that light, she saw her son, beautiful, happy, transformed, and rising upward through the air.
-Background: She immediately understood the vision as a sign that his death was near. The next day, Victor peacefully passed away while praying. 
-Background: A Spiritist family who admired Victor’s life and felt compassion for his now lonely mother intended to evoke him after his death. But before they could do so, Victor communicated spontaneously. 
+Victor Lebufle was a young dock worker from the port city of Havre who died at only twenty years of age. He lived alone with his mother, who ran a small poor shop, and he devoted himself completely to caring for and supporting her through his hard physical labor. 
+Despite working in an environment filled with drinking, vice, and bad influences, Victor avoided the excesses common among many workers around him. He never wasted money in taverns or selfish pleasures because every coin he earned was dedicated to helping his mother. During all his free time, he assisted her and tried to spare her as much labor as possible. 
+Long before his death, Victor knew he suffered from a fatal illness. Yet he hid his pain from his mother because he feared she would become distressed and try to do the heavy work he normally did for her. His strength of character, self-control, and purity of life deeply impressed everyone who knew him. 
+The night before Victor died, he persuaded his exhausted mother to rest. During her brief sleep, she saw herself inside the dark hold of a great ship. Then a tiny point of light appeared, grew brighter and brighter, and filled the whole hold with magnificent radiance. In the middle of that light, she saw her son, beautiful, happy, transformed, and rising upward through the air.
+She immediately understood the vision as a sign that his death was near. The next day, Victor peacefully passed away while praying. 
+A Spiritist family who admired Victor’s life and felt compassion for his now lonely mother intended to evoke him after his death. But before they could do so, Victor communicated spontaneously. 
 Narration: The medium’s hand begins writing...
 Victor Lebufle: You wish to know how I now find myself.
 Victor Lebufle: I'm happy.
@@ -40,7 +40,7 @@ Victor Lebufle: She still has more trials to endure.
 Victor Lebufle: She must continue advancing toward Heaven.
 Victor Lebufle: Farewell.
 Victor Lebufle: I'm now going to her.
-Background: After Victor’s communication, another spirit — identified as the Mediums’ Guide — gave additional explanations concerning the meaning of Victor’s life on Earth and suffering. 
+After Victor’s communication, another spirit — identified as the Mediums’ Guide — gave additional explanations concerning the meaning of Victor’s life on Earth and suffering. 
 Narration: The medium’s hand begins writing...
 Mediums’ Guide: The sufferings endured during life on Earth are not always punishments.
 Mediums’ Guide: Some spirits voluntarily accept suffering as part of a mission entrusted to them by God.

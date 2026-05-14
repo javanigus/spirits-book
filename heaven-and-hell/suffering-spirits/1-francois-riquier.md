@@ -4,7 +4,7 @@ sidebar_label: Francois Riquier
 hide_table_of_contents: true
 ---
 
-Background: François Riquier was an ordinary old miser and a lifelong bachelor. He died in 1857 and left a large fortune to distant relatives. In 1862, his spirit appeared to the daughter of a woman who had once rented from him. The daughter was a writing medium and sometimes entered a magnetic sleep.
+François Riquier was an ordinary old miser and a lifelong bachelor. He died in 1857 and left a large fortune to distant relatives. In 1862, his spirit appeared to the daughter of a woman who had once rented from him. The daughter was a writing medium and sometimes entered a magnetic sleep.
 
 Narration: The medium’s hand begins writing...
 
@@ -60,6 +60,6 @@ François Riquier: Farewell. Thank you.
 
 François Riquier: François Riquier. Number 14, Rue de la Charité.
 
-Background: The spirit gave his address exactly as if he were still alive. The woman didn't know where he had lived, but she later checked and found that it really was his last home.
+The spirit gave his address exactly as if he were still alive. The woman didn't know where he had lived, but she later checked and found that it really was his last home.
 
-Background: Five years after death, François Riquier still didn't understand that he was dead. He remained trapped in the miser's torment of watching his property divided among his heirs. The communication seems to have been allowed so he could begin understanding his true condition and move toward repentance.
+Five years after death, François Riquier still didn't understand that he was dead. He remained trapped in the miser's torment of watching his property divided among his heirs. The communication seems to have been allowed so he could begin understanding his true condition and move toward repentance.

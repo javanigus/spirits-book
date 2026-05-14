@@ -4,7 +4,7 @@ sidebar_label: Eric Stanislas
 hide_table_of_contents: true
 ---
 
-Background: In August 1863, during a meeting of the Spiritist Society of Paris, a spirit named Eric Stanislas spontaneously communicated through a medium. He explained that he had previously been an unhappy, wandering spirit, but had recently begun improving through contact with Spiritist gatherings and the influence of sincere, charitable people.
+In August 1863, during a meeting of the Spiritist Society of Paris, a spirit named Eric Stanislas spontaneously communicated through a medium. He explained that he had previously been an unhappy, wandering spirit, but had recently begun improving through contact with Spiritist gatherings and the influence of sincere, charitable people.
 
 Narration: The medium’s hand begins writing...
 
@@ -78,7 +78,7 @@ Eric Stanislas: You have done immense good for us...
 
 Eric Stanislas: Perhaps without even realizing how much.
 
-Background: After Eric Stanislas finished speaking, the Mediums’ Guide added an explanation concerning his spiritual condition.
+After Eric Stanislas finished speaking, the Mediums’ Guide added an explanation concerning his spiritual condition.
 
 Mediums’ Guide: My children, the spirit who has just communicated with you was unhappy for a very long time because he remained on a wrong path.
 

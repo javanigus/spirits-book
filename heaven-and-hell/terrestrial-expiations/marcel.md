@@ -4,7 +4,7 @@ sidebar_label: Marcel
 hide_table_of_contents: true
 ---
 
-Background: Marcel, known in an asylum only as Number 4, was a horribly deformed child of about eight. His legs were twisted against his neck, his body was covered in sores, and his suffering was extreme. Yet he was gentle, patient, intelligent, and resigned. He once asked the doctor for more sleeping pills, not to ease himself, but so he would not groan and disturb the other patients.
+Marcel, known in an asylum only as Number 4, was a horribly deformed child of about eight. His legs were twisted against his neck, his body was covered in sores, and his suffering was extreme. Yet he was gentle, patient, intelligent, and resigned. He once asked the doctor for more sleeping pills, not to ease himself, but so he would not groan and disturb the other patients.
 Narration: The medium’s hand begins writing...
 Marcel: You have called me, and I have come so that my voice may pass beyond these walls and touch other hearts. Let it tell those who hear me that the sorrows of Earth prepare the joys of heaven.
 Marcel: Suffering is only the bitter outer skin of a delicious fruit when it is borne with courage and acceptance. On the hard and narrow bed of pain and poverty, there are often envoys of God whose mission is to teach people that there is no suffering they cannot bear with the help of God and their good spirits.

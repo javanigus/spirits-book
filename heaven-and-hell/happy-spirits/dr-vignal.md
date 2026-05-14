@@ -4,7 +4,7 @@ sidebar_label: Dr Vignal
 hide_table_of_contents: true
 ---
 
-Background: Dr. Vignal was one of the earliest members of the Spiritist Society of Paris. He died on March 27th, 1865. Before his funeral, a highly spiritually aware somnambulist was asked to observe him spiritually and describe what she perceived during the separation of his spirit from the body.
+Dr. Vignal was one of the earliest members of the Spiritist Society of Paris. He died on March 27th, 1865. Before his funeral, a highly spiritually aware somnambulist was asked to observe him spiritually and describe what she perceived during the separation of his spirit from the body.
 
 Narration: The somnambulist speaks while observing spiritually...
 
@@ -18,7 +18,7 @@ Medium: But it struggles against the resistance still binding it to the body.
 
 Medium: I can't yet distinguish any clearly formed spirit-body.
 
-Background: Four days later, on March 31st, the Spiritist Society of Paris formally evoked Dr. Vignal.
+Four days later, on March 31st, the Spiritist Society of Paris formally evoked Dr. Vignal.
 
 Allan: Dear Dr. Vignal, all your old friends at the Society of Paris remember you affectionately.
 

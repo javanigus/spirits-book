@@ -4,7 +4,7 @@ sidebar_label: Prince Ouran
 hide_table_of_contents: true
 ---
 
-Background: In Bordeaux in 1862, a suffering spirit announced himself spontaneously as Ouran, formerly a Russian prince. He had rank, wealth, and power, but pride and cruelty ruined him.
+In Bordeaux in 1862, a suffering spirit announced himself spontaneously as Ouran, formerly a Russian prince. He had rank, wealth, and power, but pride and cruelty ruined him.
 
 Narration: The medium’s hand begins writing...
 
@@ -34,7 +34,7 @@ Prince Ouran: I forced them to submit to all my whims and all my corrupt desires
 
 Prince Ouran: I had chosen rank, honors, and fortune, and I fell under the weight of a trial beyond my strength.
 
-Background: Kardec briefly notes that suffering spirits often say a trial was beyond their strength because pride still wants to excuse failure.
+Kardec briefly notes that suffering spirits often say a trial was beyond their strength because pride still wants to excuse failure.
 
 Medium: You are aware of your faults. That is the first step toward improvement.
 
@@ -96,7 +96,7 @@ Prince Ouran: Never forget that pride is the enemy of happiness.
 
 Prince Ouran: Pride causes all the evils that strike the human race and follow it even into the spirit world.
 
-Background: The guide then explained that, even in suffering, this spirit's humility was sincere.
+The guide then explained that, even in suffering, this spirit's humility was sincere.
 
 Mediums’ Guide: You felt some doubt about this spirit's sincerity because his words didn't seem to fit the backward state suggested by his suffering.
 

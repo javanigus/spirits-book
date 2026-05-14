@@ -4,7 +4,7 @@ sidebar_label: Count Max the Beggar
 hide_table_of_contents: true
 ---
 
-Background: In Bavaria, an old beggar known only as Count Max lived for decades from charity, selling small items and sleeping where he could. People mocked him with a noble title, perhaps because his face and manners seemed refined despite his rags. After his death, he appeared in a dream to a charitable woman who had often shown him kindness.
+In Bavaria, an old beggar known only as Count Max lived for decades from charity, selling small items and sleeping where he could. People mocked him with a noble title, perhaps because his face and manners seemed refined despite his rags. After his death, he appeared in a dream to a charitable woman who had often shown him kindness.
 Narration: The medium’s hand begins writing...
 Count Max: Thank you for remembering poor Max in your prayers. They have been heard by the Lord. You want to know who I am, kind and charitable soul who took pity on the miserable peddler. I have come to satisfy your wish. My story will be a lesson.
 Count Max: A hundred and fifty years ago, I was the rich and powerful lord of this region. I was vain, proud, and intoxicated with my nobility. My immense wealth was spent only on pleasure, and even that fortune was hardly enough for my gambling and debauchery.
@@ -20,4 +20,4 @@ Count Max: Some years later, I was born again on Earth, this time in a poor peas
 Count Max: At forty, illness took the use of my limbs. I had to beg for fifty years on the very land where I had once been absolute master. I gratefully received a piece of bread from farms that had once belonged to me. And in bitter mockery they called me The Count. I was only too glad, from time to time, to find shelter in the stables of the castle that had once been my home.
 Count Max: In sleep, I loved to wander again through that stately house where I had once been the proud master. How many times in dreams I saw myself surrounded once more by my old splendor. But when I woke, those visions left only bitterness and regret. Still, no complaint ever escaped my lips. And when God called me back to the spirit world, I blessed Him for giving me the strength to submit, without complaint, to that long and painful trial, whose reward I am now receiving.
 Count Max: To you, noble lady, I give thanks for having prayed for me.
-Background: The case was presented as a practical answer to those who think nothing restrains evil if endless punishment is denied. A punishment like this can weigh more heavily on the conscience because it is both visible and morally coherent.
+The case was presented as a practical answer to those who think nothing restrains evil if endless punishment is denied. A punishment like this can weigh more heavily on the conscience because it is both visible and morally coherent.

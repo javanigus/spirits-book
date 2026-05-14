@@ -4,9 +4,9 @@ sidebar_label: Castelnaudary Spirit
 hide_table_of_contents: true
 ---
 
-Background: Near Castelnaudary there was a small house known for strange noises and violent disturbances. It was even exorcised in 1848, but nothing changed. One owner later died there suddenly. His son, entering one of the rooms alone, was struck hard across the face by an invisible hand and immediately abandoned the house. Local tradition said a great crime had once been committed there.
+Near Castelnaudary there was a small house known for strange noises and violent disturbances. It was even exorcised in 1848, but nothing changed. One owner later died there suddenly. His son, entering one of the rooms alone, was struck hard across the face by an invisible hand and immediately abandoned the house. Local tradition said a great crime had once been committed there.
 
-Background: When the spirit behind these events was called by the Paris Spiritist Society in 1859, he at first showed only violence. A clairvoyant medium described him as shaking the medium's arm furiously, wearing a bloodstained shirt, and holding a dagger.
+When the spirit behind these events was called by the Paris Spiritist Society in 1859, he at first showed only violence. A clairvoyant medium described him as shaking the medium's arm furiously, wearing a bloodstained shirt, and holding a dagger.
 
 Narration: The medium’s hand begins writing...
 
@@ -94,52 +94,52 @@ Mediums’ Guide: Certainly not.
 
 Mediums’ Guide: Sooner or later your action may overcome his hardness and awaken in him the seed of saving thoughts.
 
-Background: Later information showed that in 1608 this spirit had lived in that same house. He murdered his sleeping brother by cutting his throat because he suspected him of being a rival over a woman he wanted to marry. A few years later he murdered that woman too, after marrying her. He died at eighty without ever being punished by human justice.
+Later information showed that in 1608 this spirit had lived in that same house. He murdered his sleeping brother by cutting his throat because he suspected him of being a rival over a woman he wanted to marry. A few years later he murdered that woman too, after marrying her. He died at eighty without ever being punished by human justice.
 
-Background: After repeated prayers and later calls, he became calmer, more submissive, and finally repentant.
+After repeated prayers and later calls, he became calmer, more submissive, and finally repentant.
 
 Medium: Why could you not write the first time we called you?
 
 Medium: Why did you refuse?
 
-Background: The spirit answered that he had refused out of ignorance and brutishness.
+The spirit answered that he had refused out of ignorance and brutishness.
 
 Medium: Are you now able to leave the house at Castelnaudary when you wish?
 
-Background: The spirit answered that he was now allowed to leave because he had benefited from the advice given to him.
+The spirit answered that he was now allowed to leave because he had benefited from the advice given to him.
 
 Medium: Do you feel any relief in your sufferings?
 
-Background: He answered that he was beginning to hope.
+He answered that he was beginning to hope.
 
 Medium: If we could see you now, what appearance would you have?
 
-Background: He answered that he would still be seen in his shirt, but without the dagger.
+He answered that he would still be seen in his shirt, but without the dagger.
 
 Medium: Why do you no longer have the dagger?
 
-Background: He answered that he cursed it, and that God spared him from seeing it.
+He answered that he cursed it, and that God spared him from seeing it.
 
 Medium: If Mr. D, the son who received the slap, returned to the house, would you do him any harm?
 
-Background: He answered no, because he was repentant.
+He answered no, because he was repentant.
 
 Medium: And if he again dared you to hurt him?
 
-Background: He answered, "Oh, do not ask me that. I would not be able to restrain myself. It would be beyond my power, for I am still only a villain."
+He answered, "Oh, do not ask me that. I would not be able to restrain myself. It would be beyond my power, for I am still only a villain."
 
 Medium: Do you begin to see the end of your sufferings?
 
-Background: He answered that he did not, but that it was already more mercy than he deserved to know that they would not last forever.
+He answered that he did not, but that it was already more mercy than he deserved to know that they would not last forever.
 
 Medium: Please describe the state you were in before we first called you. We ask only to help you, not from curiosity.
 
-Background: He said that he knew nothing but his crimes, and that he could leave the house only to rise into space, where there was nothing but solitude and darkness. He said he could not explain it. The moment he rose, there was only blackness and emptiness. Now he felt much more remorse. He was no longer forced to remain in the fatal house and was allowed to wander on Earth and learn from what he saw, but this made him understand his wickedness even more clearly. So, although he suffered less in one way, he suffered more in another because of repentance. But now, at least, he had hope.
+He said that he knew nothing but his crimes, and that he could leave the house only to rise into space, where there was nothing but solitude and darkness. He said he could not explain it. The moment he rose, there was only blackness and emptiness. Now he felt much more remorse. He was no longer forced to remain in the fatal house and was allowed to wander on Earth and learn from what he saw, but this made him understand his wickedness even more clearly. So, although he suffered less in one way, he suffered more in another because of repentance. But now, at least, he had hope.
 
 Medium: During your long isolation, your captivity, did you feel remorse?
 
-Background: He answered that at first he felt none at all, and that was why he suffered so long. Only when remorse began did the circumstances come together that led to the evocation and started the work of his deliverance. He thanked those who had pitied him and enlightened him.
+He answered that at first he felt none at all, and that was why he suffered so long. Only when remorse began did the circumstances come together that led to the evocation and started the work of his deliverance. He thanked those who had pitied him and enlightened him.
 
-Background: Allan explains that the same faults are not punished in exactly the same way. Coarse, brutal spirits may need punishments that strike them in a more direct and almost physical way before they understand their condition, while more advanced spirits may suffer more through shame, moral pain, and remorse.
+Allan explains that the same faults are not punished in exactly the same way. Coarse, brutal spirits may need punishments that strike them in a more direct and almost physical way before they understand their condition, while more advanced spirits may suffer more through shame, moral pain, and remorse.
 
-Background: He also insists that no spirit is condemned forever. The smallest movement toward goodness is taken into account. Prayer may seem slow to work, but it still plants the first seeds of repentance.
+He also insists that no spirit is condemned forever. The smallest movement toward goodness is taken into account. Prayer may seem slow to work, but it still plants the first seeds of repentance.

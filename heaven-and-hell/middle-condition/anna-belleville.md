@@ -4,19 +4,19 @@ sidebar_label: Anna Belleville
 hide_table_of_contents: true
 ---
 
-Background: Madame Anna Belleville died at the age of thirty-five after a long and agonizing illness caused by an accident. She was intelligent, energetic, morally upright, devoted to her family, and remarkably courageous through years of terrible suffering. Even while bedridden, she kept her natural cheerfulness and strength of character.
+Madame Anna Belleville died at the age of thirty-five after a long and agonizing illness caused by an accident. She was intelligent, energetic, morally upright, devoted to her family, and remarkably courageous through years of terrible suffering. Even while bedridden, she kept her natural cheerfulness and strength of character.
 
-Background: Although she believed in the soul and in life after death, she had not deeply studied spiritual matters. Her thoughts stayed strongly attached to life on Earth, especially because of her deep love for her children, whom she felt still needed her presence and care.
+Although she believed in the soul and in life after death, she had not deeply studied spiritual matters. Her thoughts stayed strongly attached to life on Earth, especially because of her deep love for her children, whom she felt still needed her presence and care.
 
-Background: One day, while her husband was away, she suddenly felt death approaching. Her sight dimmed, her mind grew confused, and she realized her final hour had come. But the thought of dying before seeing her husband again deeply distressed her. Gathering all the strength she had left, she said to herself:
+One day, while her husband was away, she suddenly felt death approaching. Her sight dimmed, her mind grew confused, and she realized her final hour had come. But the thought of dying before seeing her husband again deeply distressed her. Gathering all the strength she had left, she said to herself:
 
 Anna Belleville: "No... I won't die yet."
 
-Background: Through sheer force of will, she temporarily regained strength and lived three more months, though in constant suffering. When her husband returned that day, she told him:
+Through sheer force of will, she temporarily regained strength and lived three more months, though in constant suffering. When her husband returned that day, she told him:
 
 Anna Belleville: "I was dying... but I decided to wait until you came back, because I still have many things to say to you."
 
-Background: The following communication was received the day after her death.
+The following communication was received the day after her death.
 
 Narration: The medium’s hand begins writing...
 
@@ -62,7 +62,7 @@ Anna Belleville: Oh... let me forget it a little while longer.
 
 Anna Belleville: I paid a very heavy price for it.
 
-Background: One month later, Anna Belleville communicated again.
+One month later, Anna Belleville communicated again.
 
 Narration: The medium’s hand begins writing...
 
@@ -168,7 +168,7 @@ Anna Belleville: And I even laughed at her misery.
 
 Anna Belleville: You now see how God corrects such faults.
 
-Background: Six months after her death, Anna Belleville described her spiritual progress and present occupation.
+Six months after her death, Anna Belleville described her spiritual progress and present occupation.
 
 Narration: The medium’s hand begins writing...
 
@@ -198,8 +198,8 @@ Anna Belleville: My mission is to comfort and encourage them.
 
 Anna Belleville: And I am happy in doing so.
 
-Background: After these communications, Allan Kardec asked an important question: can a human being prolong life through sheer force of will?
+After these communications, Allan Kardec asked an important question: can a human being prolong life through sheer force of will?
 
-Background: The spirit Saint Louis answered that, under certain circumstances, a spirit may temporarily prolong bodily life in order to complete an important duty or final mission. However, such cases are exceptional and brief. They do not overturn the laws of nature, but they do show the temporary influence the soul may still exercise over the body in the final moments of life.
+The spirit Saint Louis answered that, under certain circumstances, a spirit may temporarily prolong bodily life in order to complete an important duty or final mission. However, such cases are exceptional and brief. They do not overturn the laws of nature, but they do show the temporary influence the soul may still exercise over the body in the final moments of life.
 
-Background: Saint Louis also explained that in some cases, prolonged dying may itself become part of a spirit's lesson or atonement, especially for those too attached to life on Earth or doubtful about spiritual realities.
+Saint Louis also explained that in some cases, prolonged dying may itself become part of a spirit's lesson or atonement, especially for those too attached to life on Earth or doubtful about spiritual realities.

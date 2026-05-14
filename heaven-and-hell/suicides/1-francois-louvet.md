@@ -4,7 +4,7 @@ sidebar_label: Francois Louvet
 hide_table_of_contents: true
 ---
 
-Background: On February 12, at a Spiritist meeting in Le Havre, a spirit spoke on his own. He was later identified as Francois Simon Louvet, an old laborer who, in poverty and drunken despair, had thrown himself from the Tower of Francis the First on July 22, 1857. He was sixty-seven years old.
+On February 12, at a Spiritist meeting in Le Havre, a spirit spoke on his own. He was later identified as Francois Simon Louvet, an old laborer who, in poverty and drunken despair, had thrown himself from the Tower of Francis the First on July 22, 1857. He was sixty-seven years old.
 
 Narration: The medium’s hand begins writing...
 
@@ -100,4 +100,4 @@ Mediums’ Guide: Pray to God that this favor may be granted to him.
 
 Mediums’ Guide: And you will do a good deed.
 
-Background: Research later confirmed the details. Kardec notes that six years after death, this spirit still felt himself falling from the tower and being crushed on the stones. He was terrified by the emptiness under him and by the impact still awaiting him. The account is meant to show that such punishments were described by the spirits themselves, not invented by human imagination.
+Research later confirmed the details. Kardec notes that six years after death, this spirit still felt himself falling from the tower and being crushed on the stones. He was terrified by the emptiness under him and by the impact still awaiting him. The account is meant to show that such punishments were described by the spirits themselves, not invented by human imagination.

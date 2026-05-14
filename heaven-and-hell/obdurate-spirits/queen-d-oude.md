@@ -4,7 +4,7 @@ sidebar_label: Queen D Oude
 hide_table_of_contents: true
 ---
 
-Background: The Queen d’Oude was questioned after death. She had died in France in 1858. Her answers showed intense pride, confusion, and attachment to status.
+The Queen d’Oude was questioned after death. She had died in France in 1858. Her answers showed intense pride, confusion, and attachment to status.
 Narration: The medium’s hand begins writing...
 Allan: What have you felt since you left the earthly world?
 Queen d’Oude: I am still confused. It is impossible to explain. I miss life... I do not know... I feel a sharp pain. I think physical life would have freed me from it. I wish my body could rise from the grave.
@@ -51,5 +51,5 @@ Queen d’Oude: I have not lost them. I am as beautiful as before, and I do not 
 Allan: What do you think of finding yourself among us?
 Queen d’Oude: If I could avoid it, I would. You treat me with such disrespect.
 Mediums’ Guide: Leave her alone, poor troubled soul. Have pity on her blindness and let it serve as a lesson. You do not know how much her pride makes her suffer.
-Background: Given the education of women in her country, no one expected wisdom from her, but a clearer sense of reality might still have been expected.
-Background: Instead, her earthly prejudices remained as strong as ever. Her pride had not weakened after death. She fought against the weakness now exposing her, and she was destined to suffer greatly because of that helplessness.
+Given the education of women in her country, no one expected wisdom from her, but a clearer sense of reality might still have been expected.
+Instead, her earthly prejudices remained as strong as ever. Her pride had not weakened after death. She fought against the weakness now exposing her, and she was destined to suffer greatly because of that helplessness.

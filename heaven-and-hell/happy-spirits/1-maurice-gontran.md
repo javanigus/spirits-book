@@ -4,9 +4,9 @@ sidebar_label: Maurice Gontran
 hide_table_of_contents: true
 ---
 
-Background: Maurice Gontran was an only son who died at the age of eighteen from tuberculosis. He was exceptionally intelligent, mature beyond his years, gentle, affectionate, and deeply devoted to study. He had successfully completed his early education and was preparing for admission to the prestigious Polytechnic School when illness ended his life on Earth.
+Maurice Gontran was an only son who died at the age of eighteen from tuberculosis. He was exceptionally intelligent, mature beyond his years, gentle, affectionate, and deeply devoted to study. He had successfully completed his early education and was preparing for admission to the prestigious Polytechnic School when illness ended his life on Earth.
 
-Background: His parents were devastated by his death. Because Maurice had always been physically delicate, they blamed themselves for encouraging his intense studies, believing that overwork had caused his premature death. They bitterly regretted his education and wondered what use all his learning had been now that he was gone. Later, however, after discovering Spiritism, they found comfort through the communications received from their son.
+His parents were devastated by his death. Because Maurice had always been physically delicate, they blamed themselves for encouraging his intense studies, believing that overwork had caused his premature death. They bitterly regretted his education and wondered what use all his learning had been now that he was gone. Later, however, after discovering Spiritism, they found comfort through the communications received from their son.
 
 Allan: My dear Maurice, I know how deeply attached you were to your parents.
 

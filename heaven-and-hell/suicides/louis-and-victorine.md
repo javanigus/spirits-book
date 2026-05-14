@@ -4,9 +4,9 @@ sidebar_label: Louis and Victorine
 hide_table_of_contents: true
 ---
 
-Background: Louis G. was a young bookmaker who was about to marry Victorine R., a young woman working in the same shop. Their marriage plans were so far along that the banns were already being published, and Louis even took his meals with her every day to save money. One day they quarreled over something trivial. The argument became violent, and Louis stormed away, saying he would never come back. The next day he came back and begged her forgiveness. Victorine, perhaps frightened by what marriage with him might become, refused to make peace and broke the engagement. His tears, pleading, and despair could not move her. Several days later he came to her room again and knocked in a way that made her know it was him. She still refused to open. He begged and pleaded to be let in, but she remained hard. At last he cried, "Farewell, cruel girl! Farewell forever! Try to find a husband who will love you as truly as I do!" She heard a muffled groan and a heavy thud against the door. Thinking he was sitting outside waiting for her, she stayed in her room. A quarter of an hour later, a neighbor came down with a light and cried out. Louis lay dead outside her door. He had plunged his bookmaker's awl into his heart.
+Louis G. was a young bookmaker who was about to marry Victorine R., a young woman working in the same shop. Their marriage plans were so far along that the banns were already being published, and Louis even took his meals with her every day to save money. One day they quarreled over something trivial. The argument became violent, and Louis stormed away, saying he would never come back. The next day he came back and begged her forgiveness. Victorine, perhaps frightened by what marriage with him might become, refused to make peace and broke the engagement. His tears, pleading, and despair could not move her. Several days later he came to her room again and knocked in a way that made her know it was him. She still refused to open. He begged and pleaded to be let in, but she remained hard. At last he cried, "Farewell, cruel girl! Farewell forever! Try to find a husband who will love you as truly as I do!" She heard a muffled groan and a heavy thud against the door. Thinking he was sitting outside waiting for her, she stayed in her room. A quarter of an hour later, a neighbor came down with a light and cried out. Louis lay dead outside her door. He had plunged his bookmaker's awl into his heart.
 
-Background: At the Paris Spiritist Society, Saint Louis was first asked about Victorine's responsibility.
+At the Paris Spiritist Society, Saint Louis was first asked about Victorine's responsibility.
 
 Narration: The medium’s hand begins writing...
 
@@ -40,7 +40,7 @@ Mediums’ Guide: Yes.
 
 Mediums’ Guide: His suicide, brought on by the violence of disappointed love, is less blameworthy in the sight of God than the suicide of someone who throws away life out of cowardice.
 
-Background: Later, Louis himself was called.
+Later, Louis himself was called.
 
 Narration: The medium’s hand begins writing...
 
@@ -150,4 +150,4 @@ Louis G.: It pains me too much.
 
 Louis G.: Farewell.
 
-Background: Kardec says this case shows how responsibility is measured according to each person's part in the fault. Victorine carried the heavier share because she encouraged a love she did not truly return and treated it carelessly. Louis also suffered, but his punishment was lighter because he gave way in a sudden storm of passion, not from the cold intention of escaping life's appointed trials.
+Kardec says this case shows how responsibility is measured according to each person's part in the fault. Victorine carried the heavier share because she encouraged a love she did not truly return and treated it carelessly. Louis also suffered, but his punishment was lighter because he gave way in a sudden storm of passion, not from the cold intention of escaping life's appointed trials.

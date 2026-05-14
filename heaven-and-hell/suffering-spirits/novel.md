@@ -4,7 +4,7 @@ sidebar_label: Novel
 hide_table_of_contents: true
 ---
 
-Background: Novel was a spirit speaking through a medium who had known him during life on Earth. He died at twenty-four and remained strongly attached to material life. After death, his suffering came from the painful separation, the awakening of conscience, shame, and the sense of eternity.
+Novel was a spirit speaking through a medium who had known him during life on Earth. He died at twenty-four and remained strongly attached to material life. After death, his suffering came from the painful separation, the awakening of conscience, shame, and the sense of eternity.
 
 Narration: The medium’s hand begins writing...
 

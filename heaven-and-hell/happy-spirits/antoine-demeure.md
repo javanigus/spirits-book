@@ -4,13 +4,13 @@ sidebar_label: Antoine Demeure
 hide_table_of_contents: true
 ---
 
-Background: Dr. Antoine Demeure was a highly respected homeopathic physician in Albi, France. He was admired not only for his medical knowledge, but even more for his kindness, charity, and selflessness. Even in old age, he never hesitated to exhaust himself caring for the poor. Payment was the last thing he cared about. In fact, he often hurried more quickly to help the poor than the wealthy, saying that rich people could always find another doctor if necessary.
+Dr. Antoine Demeure was a highly respected homeopathic physician in Albi, France. He was admired not only for his medical knowledge, but even more for his kindness, charity, and selflessness. Even in old age, he never hesitated to exhaust himself caring for the poor. Payment was the last thing he cared about. In fact, he often hurried more quickly to help the poor than the wealthy, saying that rich people could always find another doctor if necessary.
 
-Background: Dr. Demeure not only gave medicine freely to the poor, but often left them money for food and daily needs, believing that material help was sometimes the best medicine of all. His generosity became so well known that people compared him to the famous Curé of Ars.
+Dr. Demeure not only gave medicine freely to the poor, but often left them money for food and daily needs, believing that material help was sometimes the best medicine of all. His generosity became so well known that people compared him to the famous Curé of Ars.
 
-Background: He embraced Spiritism enthusiastically because it gave him answers to spiritual questions that science and philosophy had failed to solve. His intelligence and investigative mind immediately recognized the importance of the doctrine, and he became one of its earliest and most devoted supporters. He maintained a close friendship and correspondence with Allan Kardec for many years.
+He embraced Spiritism enthusiastically because it gave him answers to spiritual questions that science and philosophy had failed to solve. His intelligence and investigative mind immediately recognized the importance of the doctrine, and he became one of its earliest and most devoted supporters. He maintained a close friendship and correspondence with Allan Kardec for many years.
 
-Background: Dr. Demeure died on January 25th, 1865. Five days later, Allan Kardec received news of his death and immediately attempted to communicate with him.
+Dr. Demeure died on January 25th, 1865. Five days later, Allan Kardec received news of his death and immediately attempted to communicate with him.
 
 Dr. Demeure: I'm here.
 
@@ -60,7 +60,7 @@ Dr. Demeure: And I will bring you the results of my spirit-labors, which I alrea
 
 Dr. Demeure: I will return soon.
 
-Background: Shortly afterward, Allan Kardec became seriously ill. Dr. Demeure then communicated again, giving advice and warnings concerning his condition.
+Shortly afterward, Allan Kardec became seriously ill. Dr. Demeure then communicated again, giving advice and warnings concerning his condition.
 
 Dr. Demeure: My dear friend... trust in us and keep your courage.
 
@@ -98,7 +98,7 @@ Dr. Demeure: The gas filling the room harms you greatly and worsens your breathi
 
 Dr. Demeure: Your friend... Demeure.
 
-Background: In another communication, Dr. Demeure explained that he had actively helped lessen the seriousness of Kardec’s illness.
+In another communication, Dr. Demeure explained that he had actively helped lessen the seriousness of Kardec’s illness.
 
 Dr. Demeure: It is I, Demeure, the friend and disciple of Allan Kardec.
 
@@ -116,7 +116,7 @@ Dr. Demeure: You must not hesitate to tell him this truth openly.
 
 Dr. Demeure: He must protect himself carefully and follow our instructions exactly.
 
-Background: The day after Dr. Demeure’s death, the Spiritist Society of Montauban also received a communication from him.
+The day after Dr. Demeure’s death, the Spiritist Society of Montauban also received a communication from him.
 
 Dr. Demeure: Dear friends... I'm not dead for you.
 
@@ -158,68 +158,68 @@ Dr. Demeure: Good night, dear friends.
 
 Dr. Demeure: Be comforted concerning my departure, for I remain near you.
 
-Background: Some days later, another remarkable event occurred during a gathering involving a spiritually aware medium named Madame G., who had not yet been informed of Dr. Demeure’s death because her friends feared the shock would upset her greatly.
+Some days later, another remarkable event occurred during a gathering involving a spiritually aware medium named Madame G., who had not yet been informed of Dr. Demeure’s death because her friends feared the shock would upset her greatly.
 
-Background: Madame G. had severely sprained her ankle the previous day and was suffering intense pain. During a spiritist session, she suddenly entered a somnambulistic trance and began screaming violently while pointing toward her injured foot.
+Madame G. had severely sprained her ankle the previous day and was suffering intense pain. During a spiritist session, she suddenly entered a somnambulistic trance and began screaming violently while pointing toward her injured foot.
 
-Background: She saw a spirit bending over her ankle and treating it energetically like a doctor performing massage and manipulation upon a patient. The pain became intense and caused her to cry out repeatedly. But after about ten minutes, the swelling vanished completely and the injury was fully healed.
+She saw a spirit bending over her ankle and treating it energetically like a doctor performing massage and manipulation upon a patient. The pain became intense and caused her to cry out repeatedly. But after about ten minutes, the swelling vanished completely and the injury was fully healed.
 
-Background: Throughout the treatment, the spirit carefully avoided showing his face to her.
+Throughout the treatment, the spirit carefully avoided showing his face to her.
 
-Background: As the spirit seemed ready to leave, Madame G., now suddenly able to walk perfectly, rushed toward him to thank him personally and shake his hand.
+As the spirit seemed ready to leave, Madame G., now suddenly able to walk perfectly, rushed toward him to thank him personally and shake his hand.
 
-Background: At that moment, the spirit accidentally turned enough for her to glimpse his face.
+At that moment, the spirit accidentally turned enough for her to glimpse his face.
 
-Background: The instant she recognized Dr. Demeure, she gave a loud cry and fainted.
+The instant she recognized Dr. Demeure, she gave a loud cry and fainted.
 
-Background: While unconscious, she was surrounded and cared for by sympathetic spirits.
+While unconscious, she was surrounded and cared for by sympathetic spirits.
 
-Background: When her awareness returned, she joyfully conversed with them and exchanged affectionate greetings, especially with Dr. Demeure, who lovingly comforted her and restored her calm by surrounding her with healing spiritual fluids.
+When her awareness returned, she joyfully conversed with them and exchanged affectionate greetings, especially with Dr. Demeure, who lovingly comforted her and restored her calm by surrounding her with healing spiritual fluids.
 
-Background: Those present later reflected on how natural and human the entire scene appeared, despite taking place in the spirit world.
+Those present later reflected on how natural and human the entire scene appeared, despite taking place in the spirit world.
 
-Background: They saw in it another powerful proof that spirits remain real beings after death, possessing form, personality, affection, memory, and the same loving character they possessed during life on Earth.
+They saw in it another powerful proof that spirits remain real beings after death, possessing form, personality, affection, memory, and the same loving character they possessed during life on Earth.
 
-Background: Dr. Demeure had been Madame G.’s physician while alive.
+Dr. Demeure had been Madame G.’s physician while alive.
 
-Background: Knowing how emotionally sensitive she was, he had tried to spare her feelings even after death, with the same tenderness he would have shown her while still living on Earth.
+Knowing how emotionally sensitive she was, he had tried to spare her feelings even after death, with the same tenderness he would have shown her while still living on Earth.
 
-Background: Allan Kardec then adds an observation.
+Allan Kardec then adds an observation.
 
-Background: Dr. Demeure’s condition as a spirit perfectly reflects the noble and useful life he led on Earth.
+Dr. Demeure’s condition as a spirit perfectly reflects the noble and useful life he led on Earth.
 
-Background: But another important lesson appears in this account.
+But another important lesson appears in this account.
 
-Background: Almost immediately after death, he continues actively helping others.
+Almost immediately after death, he continues actively helping others.
 
-Background: Through his intelligence and moral excellence, he belongs to a very advanced class of spirits.
+Through his intelligence and moral excellence, he belongs to a very advanced class of spirits.
 
-Background: He is happy.
+He is happy.
 
-Background: Yet his happiness is not inactivity.
+Yet his happiness is not inactivity.
 
-Background: A few days earlier, he was treating the sick as a human doctor.
+A few days earlier, he was treating the sick as a human doctor.
 
-Background: And now, having laid aside his mortal body, he continues treating and helping them as a spirit.
+And now, having laid aside his mortal body, he continues treating and helping them as a spirit.
 
-Background: Some people may ask: “What advantage is there in the next world if there is no rest there?”
+Some people may ask: “What advantage is there in the next world if there is no rest there?”
 
-Background: To such people we answer:
+To such people we answer:
 
-Background: Is it nothing to be freed from the worries, needs, sicknesses, and limitations of life on Earth?
+Is it nothing to be freed from the worries, needs, sicknesses, and limitations of life on Earth?
 
-Background: Is it nothing to travel through space effortlessly with the speed of thought?
+Is it nothing to travel through space effortlessly with the speed of thought?
 
-Background: Is it nothing to visit friends instantly wherever they may be?
+Is it nothing to visit friends instantly wherever they may be?
 
-Background: In spirit life, no one is forced to do anything.
+In spirit life, no one is forced to do anything.
 
-Background: Spirits are free to remain inactive if they wish.
+Spirits are free to remain inactive if they wish.
 
-Background: But eventually they grow tired of selfish inactivity and desire meaningful activity.
+But eventually they grow tired of selfish inactivity and desire meaningful activity.
 
-Background: They then choose occupations according to their own tastes, abilities, and desire for spiritual advancement.
+They then choose occupations according to their own tastes, abilities, and desire for spiritual advancement.
 
-Background: So, the activity of spirits is not a burden imposed upon them.
+So, the activity of spirits is not a burden imposed upon them.
 
-Background: It is a need... and a joy.
+It is a need... and a joy.

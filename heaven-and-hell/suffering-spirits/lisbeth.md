@@ -4,7 +4,7 @@ sidebar_label: Lisbeth
 hide_table_of_contents: true
 ---
 
-Background: In Bordeaux in February 1862, a suffering spirit came through spontaneously under the name Lisbeth. In her last life she had been rich, beautiful, proud, selfish, ambitious, cold-hearted, and cruel.
+In Bordeaux in February 1862, a suffering spirit came through spontaneously under the name Lisbeth. In her last life she had been rich, beautiful, proud, selfish, ambitious, cold-hearted, and cruel.
 
 Narration: The medium’s hand begins writing...
 
@@ -28,13 +28,13 @@ Lisbeth: Speak for me to those who devote themselves to helping suffering spirit
 
 Lisbeth: I am in great need of their prayers.
 
-Background: Kardec adds that suffering can force out words of repentance without true inner change. Real deliverance requires sincere moral renewal and future reparation.
+Kardec adds that suffering can force out words of repentance without true inner change. Real deliverance requires sincere moral renewal and future reparation.
 
 Medium: I will do what you ask.
 
 Medium: Will you give me some details about your last life? That may teach us something, and it may make your repentance fruitful.
 
-Background: The spirit hesitated a great deal before answering.
+The spirit hesitated a great deal before answering.
 
 Lisbeth: I was born in a high position.
 
@@ -70,7 +70,7 @@ Lisbeth: It knows how to soften its poisoned hissing so cleverly that its victim
 
 Lisbeth: Pride... that shifting demon that hides in the deepest places of your heart, enters your veins, wraps itself around your whole being, absorbs you, and drags you with it into darkness.
 
-Background: Kardec notes that this very horror of pride already showed progress, even if Lisbeth herself denied it.
+Kardec notes that this very horror of pride already showed progress, even if Lisbeth herself denied it.
 
 Medium: God is too good to condemn His creatures to eternal punishment. You should hope in His mercy.
 
@@ -88,7 +88,7 @@ Lisbeth: Not for very long.
 
 Medium: And since when have you begun to repent of your faults?
 
-Background: After reflecting for some minutes, she answered.
+After reflecting for some minutes, she answered.
 
 Lisbeth: Yes... you are right. It was then that I began to see him.
 
@@ -106,7 +106,7 @@ Lisbeth: I can't. I'm afraid.
 
 Medium: Let us pray together. He will certainly hear us.
 
-Background: After the prayer, the medium asked if she was still there.
+After the prayer, the medium asked if she was still there.
 
 Lisbeth: Yes. Thank you. Do not forget me.
 
@@ -114,7 +114,7 @@ Medium: Come to me and write your name every day.
 
 Lisbeth: Yes, yes. I will come every day.
 
-Background: The guide ended the meeting with a practical lesson drawn from her case.
+The guide ended the meeting with a practical lesson drawn from her case.
 
 Mediums’ Guide: Never forget the lessons you learn from the sufferings of those you help, especially the causes of those sufferings.
 

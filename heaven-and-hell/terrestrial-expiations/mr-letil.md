@@ -4,7 +4,7 @@ sidebar_label: Mr Letil
 hide_table_of_contents: true
 ---
 
-Background: Mr. Letil, a manufacturer near Paris, died after a cauldron of burning varnish overturned onto him. Alone with only a young apprentice nearby, he still managed to reach his home. His flesh came away in strips, and he remained in full awareness for about twelve hours of terrible agony. He made his arrangements clearly, uttered no complaint, and died praying.
+Mr. Letil, a manufacturer near Paris, died after a cauldron of burning varnish overturned onto him. Alone with only a young apprentice nearby, he still managed to reach his home. His flesh came away in strips, and he remained in full awareness for about twelve hours of terrible agony. He made his arrangements clearly, uttered no complaint, and died praying.
 Narration: The medium’s hand begins writing...
 Mr. Letil: A weight of sadness still presses on me. Still crushed by the horror of my tragic death, I feel as if I am still under the executioner's axe. Oh, what suffering... what horrible suffering. I shudder when I think of it. I still seem sickened by the foul smell of my burning flesh.
 Mr. Letil: Twelve dreadful hours of dying agony... what a trial for a guilty spirit. But I suffered without complaint, and so I am about to receive pardon.
@@ -22,4 +22,4 @@ Mr. Letil: But when will the memory of my poor innocent victim be erased from my
 Mr. Letil: Children of the new doctrine, you sometimes say, We do not remember what we did in our former lives, and so we cannot avoid the dangers created by forgetting the past. Oh, my brothers, bless God for that forgetfulness.
 Mr. Letil: If He had left you the memory of the past, you would have no peace on Earth. If remorse and shame pursued you constantly, could you know even a single quiet moment in life?
 Mr. Letil: Forgetfulness of the past is a blessing. Here, we remember, and that memory is torture. Soon, as a reward for the patience with which I bore my atonement, God will grant me forgetfulness of my crime. My Guardian Angel has just promised me this.
-Background: Kardec adds that Mr. Letil's good character in his last life showed real progress. But progress alone was not enough. He still had to endure, as a man, what he had once made another endure, and accept it without complaint.
+Kardec adds that Mr. Letil's good character in his last life showed real progress. But progress alone was not enough. He still had to endure, as a man, what he had once made another endure, and accept it without complaint.

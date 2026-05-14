@@ -4,7 +4,7 @@ sidebar_label: Benoist
 hide_table_of_contents: true
 ---
 
-Background: Benoist said he had died in 1704. He had been a monk without belief. He entered religious life for status, misused power, corrupted others, and cruelly persecuted those who opposed him. He said prisoners in his monastery were left to starve, and some were killed to silence their cries. He appeared spontaneously to a medium in Bordeaux and said he was suffering horribly.
+Benoist said he had died in 1704. He had been a monk without belief. He entered religious life for status, misused power, corrupted others, and cruelly persecuted those who opposed him. He said prisoners in his monastery were left to starve, and some were killed to silence their cries. He appeared spontaneously to a medium in Bordeaux and said he was suffering horribly.
 
 Narration: The medium’s hand begins writing...
 
@@ -76,7 +76,7 @@ Benoist: My cries are choked in my throat, for they fill my mouth with boiling p
 
 Benoist: I did it, great...
 
-Background: He could not finish writing the word God.
+He could not finish writing the word God.
 
 Medium: Are you still too tied to earthly ideas to understand that the tortures you endure are completely moral?
 
@@ -206,7 +206,7 @@ Benoist: Ask for me.
 
 Benoist: I cannot ask for myself.
 
-Background: After the communication, guidance was given about his condition.
+After the communication, guidance was given about his condition.
 
 Mediums’ Guide: Courage.
 
@@ -236,4 +236,4 @@ Mediums’ Guide: Be confident of success.
 
 Mediums’ Guide: We will help you in this task.
 
-Background: Allan places Benoist among repentant criminals even though human justice never punished him, because true criminality lies in the evil done, not only in the punishment given by earthly courts.
+Allan places Benoist among repentant criminals even though human justice never punished him, because true criminality lies in the evil done, not only in the punishment given by earthly courts.

@@ -4,17 +4,17 @@ sidebar_label: Countess Paula
 hide_table_of_contents: true
 ---
 
-Background: Countess Paula was young, beautiful, wealthy, and born into high social rank. Yet what made her truly admired was not her status, but the goodness of her heart. She was gentle, humble, forgiving, and kind to everyone around her. She never spread gossip or slander, never humiliated those beneath her socially, and never displayed pride or arrogance.
+Countess Paula was young, beautiful, wealthy, and born into high social rank. Yet what made her truly admired was not her status, but the goodness of her heart. She was gentle, humble, forgiving, and kind to everyone around her. She never spread gossip or slander, never humiliated those beneath her socially, and never displayed pride or arrogance.
 
-Background: She treated servants, workers, and tradespeople with unusual fairness and respect. She believed that anyone who worked for a living deserved prompt payment, and she would have felt ashamed if someone had needed to wait for wages or payment because of her.
+She treated servants, workers, and tradespeople with unusual fairness and respect. She believed that anyone who worked for a living deserved prompt payment, and she would have felt ashamed if someone had needed to wait for wages or payment because of her.
 
-Background: Her charity was immense, but discreet. She helped the suffering quietly and without seeking praise. She possessed a remarkable ability to discover hidden misery — especially among people trying desperately to conceal their poverty from the world — and she helped them with such delicacy that their dignity remained intact.
+Her charity was immense, but discreet. She helped the suffering quietly and without seeking praise. She possessed a remarkable ability to discover hidden misery — especially among people trying desperately to conceal their poverty from the world — and she helped them with such delicacy that their dignity remained intact.
 
-Background: Although her social position required a luxurious lifestyle, she managed her household with wisdom and avoided waste or vanity. Because of this, she was able to devote a large part of her fortune to helping the poor.
+Although her social position required a luxurious lifestyle, she managed her household with wisdom and avoided waste or vanity. Because of this, she was able to devote a large part of her fortune to helping the poor.
 
-Background: Long before her death, she had already set aside a portion of her wealth exclusively for charitable works. In this way, she successfully balanced the duties of her social rank with her constant desire to do good.
+Long before her death, she had already set aside a portion of her wealth exclusively for charitable works. In this way, she successfully balanced the duties of her social rank with her constant desire to do good.
 
-Background: She died in 1851 at the age of thirty-six. Her death caused widespread sorrow because everyone who knew her loved and respected her. Twelve years later, after one of her relatives became a Spiritist, her spirit was evoked and gave the following communication.
+She died in 1851 at the age of thirty-six. Her death caused widespread sorrow because everyone who knew her loved and respected her. Twelve years later, after one of her relatives became a Spiritist, her spirit was evoked and gave the following communication.
 
 Narration: The medium’s hand begins writing...
 

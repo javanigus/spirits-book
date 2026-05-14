@@ -4,7 +4,7 @@ sidebar_label: Charles De Saint G
 hide_table_of_contents: true
 ---
 
-Background: Charles de Saint-G. was a thirteen-year-old boy with extreme intellectual disability. He barely knew his parents and could hardly feed himself. The Society first asked Saint Louis whether the boy's spirit could be called while he was still alive.
+Charles de Saint-G. was a thirteen-year-old boy with extreme intellectual disability. He barely knew his parents and could hardly feed himself. The Society first asked Saint Louis whether the boy's spirit could be called while he was still alive.
 Narration: The medium’s hand begins writing...
 Allan: Will you kindly tell us whether we can call the spirit of the disabled boy we are thinking of?
 Mediums’ Guide: You may call him as though you were calling the spirit of someone deceased.
@@ -36,4 +36,4 @@ Allan: Can we do anything useful for you?
 Charles de Saint-G.: Nothing.
 Allan: Are prayers as useful to a reincarnated spirit as to a discarnate one?
 Mediums’ Guide: Prayers are always pleasing to God. They cannot help this unhappy spirit immediately in his present state, but they are taken into account and will help him later.
-Background: This case confirmed that people with severe mental disability do not have deficient spirits. Their spirit keeps its abilities, but the damaged body prevents those abilities from showing freely.
+This case confirmed that people with severe mental disability do not have deficient spirits. Their spirit keeps its abilities, but the damaged body prevents those abilities from showing freely.

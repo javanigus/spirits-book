@@ -4,7 +4,7 @@ sidebar_label: Mr Van Durst
 hide_table_of_contents: true
 ---
 
-Background: Mr. Van Durst worked in a government office and died in Antwerp in 1863 at the age of eighty. Shortly after his death, a medium asked his spirit-guide whether Van Durst could already be evoked. The guide replied that Van Durst was still slowly emerging from the confused state that often follows death. The guide explained that communication would still be difficult and exhausting for him, and advised waiting four more days before attempting contact.
+Mr. Van Durst worked in a government office and died in Antwerp in 1863 at the age of eighty. Shortly after his death, a medium asked his spirit-guide whether Van Durst could already be evoked. The guide replied that Van Durst was still slowly emerging from the confused state that often follows death. The guide explained that communication would still be difficult and exhausting for him, and advised waiting four more days before attempting contact.
 
 Mediums’ Guide: This spirit is still passing very slowly out of the state of confusion.
 
@@ -18,7 +18,7 @@ Mediums’ Guide: During that time, he will become aware of the kind interest yo
 
 Mediums’ Guide: And he will come to you gratefully... and as a friend.
 
-Background: Four days later, Mr. Van Durst communicated through the medium.
+Four days later, Mr. Van Durst communicated through the medium.
 
 Mr. Van Durst: Dear friend... my life on Earth was of little importance when weighed against eternity.
 

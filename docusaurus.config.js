@@ -1,5 +1,6 @@
 // @ts-check
 import {themes as prismThemes} from 'prism-react-renderer';
+import deathExperiencesDialogue from './src/rehype/deathExperiencesDialogue.js';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -112,6 +113,7 @@ const config = {
         sidebarPath: require.resolve('./sidebarsDeathExperiences.js'),
         editUrl: undefined,
         exclude: ['source/**'],
+        rehypePlugins: [deathExperiencesDialogue],
       },
     ],
   ],

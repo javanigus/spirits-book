@@ -4,11 +4,11 @@ sidebar_label: Dr Cardon
 hide_table_of_contents: true
 ---
 
-Background: Dr. Cardon spent many years as a doctor on whaling ships, living a rough and dangerous life that tied him strongly to material, worldly ways of thinking. Later, he retired and became a small-town doctor. In time, he developed a fatal heart condition and fell into deep fear and depression at the thought of death.
+Dr. Cardon spent many years as a doctor on whaling ships, living a rough and dangerous life that tied him strongly to material, worldly ways of thinking. Later, he retired and became a small-town doctor. In time, he developed a fatal heart condition and fell into deep fear and depression at the thought of death.
 
-Background: Two months before his death, he predicted the exact day he would die. When that day came, he gathered his family around him to say goodbye. For a moment, he seemed completely dead. His face turned blue, his eyes closed, and everyone believed his life had ended. But a few minutes later, he suddenly opened his eyes again with an expression of extraordinary joy and peace.
+Two months before his death, he predicted the exact day he would die. When that day came, he gathered his family around him to say goodbye. For a moment, he seemed completely dead. His face turned blue, his eyes closed, and everyone believed his life had ended. But a few minutes later, he suddenly opened his eyes again with an expression of extraordinary joy and peace.
 
-Background: He then described a magnificent spiritual experience and urged his family not to fear death. Shortly after that, he died for good. His face stayed so peaceful and radiant that crowds came just to look at him before the funeral.
+He then described a magnificent spiritual experience and urged his family not to fear death. Shortly after that, he died for good. His face stayed so peaceful and radiant that crowds came just to look at him before the funeral.
 
 Dr. Cardon: Oh, my children... how beautiful it is.
 

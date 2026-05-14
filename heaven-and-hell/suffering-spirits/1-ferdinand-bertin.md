@@ -4,7 +4,7 @@ sidebar_label: Ferdinand Bertin
 hide_table_of_contents: true
 ---
 
-Background: Ferdinand Bertin died in the December 1863 shipwreck off the coast near Le Havre, after making heroic efforts to save the crew. Six days later, he came through spontaneously by means of a medium who had never known him and had never heard his name.
+Ferdinand Bertin died in the December 1863 shipwreck off the coast near Le Havre, after making heroic efforts to save the crew. Six days later, he came through spontaneously by means of a medium who had never known him and had never heard his name.
 
 Narration: The medium’s hand begins writing...
 
@@ -62,9 +62,9 @@ Ferdinand Bertin: Oh, you who know my misery, will you really stay without pity?
 
 Ferdinand Bertin: No, no... you will pray for me.
 
-Background: The medium later learned that Ferdinand Bertin really was one of the victims of the disaster. At the time of this first message, the spirit was still reliving the drowning and didn't clearly understand his own death.
+The medium later learned that Ferdinand Bertin really was one of the victims of the disaster. At the time of this first message, the spirit was still reliving the drowning and didn't clearly understand his own death.
 
-Background: Two months later he came through again by the same medium.
+Two months later he came through again by the same medium.
 
 Ferdinand Bertin: The pity you showed for my horrible suffering has brought me relief.
 
@@ -96,7 +96,7 @@ Ferdinand Bertin: I don't want to fall back into that hideous dream that becomes
 
 Ferdinand Bertin: Hold the pencil more often. It does me so much good to speak through you.
 
-Background: A few days later, in Paris, he was questioned again through another medium and asked why this death had been an atonement.
+A few days later, in Paris, he was questioned again through another medium and asked why this death had been an atonement.
 
 Medium: What led you to appear spontaneously to the first medium?
 
@@ -130,7 +130,7 @@ Ferdinand Bertin: I know I should make a confession.
 
 Ferdinand Bertin: Will I have the strength to do it?
 
-Background: After much encouragement, he finally confessed.
+After much encouragement, he finally confessed.
 
 Ferdinand Bertin: I have been very guilty.
 
@@ -140,7 +140,7 @@ Ferdinand Bertin: In a previous life, I had several victims sewn up in a sack an
 
 Ferdinand Bertin: Pray for me.
 
-Background: Saint Louis then explained that Ferdinand's recent life had been honorable and that his self-sacrifice had already become part of his reparation.
+Saint Louis then explained that Ferdinand's recent life had been honorable and that his self-sacrifice had already become part of his reparation.
 
 Mediums’ Guide: This confession will greatly relieve the spirit.
 

@@ -4,7 +4,7 @@ sidebar_label: Auguste Michel
 hide_table_of_contents: true
 ---
 
-Background: Auguste Michel was young, rich, smart, charming, and naturally kind, but he lived for pleasure, luxury, vanity, and physical indulgence. He committed no great crime, yet he did no real good. He died in an accident after being thrown from a carriage.
+Auguste Michel was young, rich, smart, charming, and naturally kind, but he lived for pleasure, luxury, vanity, and physical indulgence. He committed no great crime, yet he did no real good. He died in an accident after being thrown from a carriage.
 
 Narration: The medium’s hand begins writing...
 
@@ -26,7 +26,7 @@ Auguste Michel: What misery.
 
 Auguste Michel: Farewell.
 
-Background: Ten days later he returned, still attached to his body and still confused.
+Ten days later he returned, still attached to his body and still confused.
 
 Auguste Michel: I came to you the other day, but I could hardly speak. Even now it's still hard for me.
 
@@ -54,9 +54,9 @@ Auguste Michel: I see spirits near you. It's with their help that I can speak to
 
 Auguste Michel: Pray for me.
 
-Background: On April 6, he again begged the medium to go where his body was lying and pray there. The medium delayed because he didn't understand why the request mattered so much.
+On April 6, he again begged the medium to go where his body was lying and pray there. The medium delayed because he didn't understand why the request mattered so much.
 
-Background: On May 11, the medium finally went to the grave and received this message there.
+On May 11, the medium finally went to the grave and received this message there.
 
 Auguste Michel: I was waiting for you.
 
@@ -84,7 +84,7 @@ Auguste Michel: Pray that He may forgive me, and that I may be freed from the pa
 
 Auguste Michel: Thank you for coming here to pray over me.
 
-Background: By June, he was calmer and thinking more clearly.
+By June, he was calmer and thinking more clearly.
 
 Auguste Michel: I'm able to speak to you, and I thank God for letting me do it.
 
@@ -94,7 +94,7 @@ Auguste Michel: Hold to the belief that guides you all your life, because that w
 
 Auguste Michel: Thank you for your prayers. I will come to you again.
 
-Background: In a later communication, he spoke more freely and warned others about the life he had lived.
+In a later communication, he spoke more freely and warned others about the life he had lived.
 
 Auguste Michel: I'm less unhappy now, because I no longer feel the chain that held me to my body.
 
@@ -146,7 +146,7 @@ Auguste Michel: They'll cover your human weakness with a shining mantle.
 
 Auguste Michel: Clothe yourselves with charity and love, divine garments that no one can take from you.
 
-Background: The guide then explained the spiritual state of people who live only for the senses.
+The guide then explained the spiritual state of people who live only for the senses.
 
 Mediums’ Guide: This spirit is on the right road, because along with repentance he now gives good advice about the dangers of the path he once followed.
 

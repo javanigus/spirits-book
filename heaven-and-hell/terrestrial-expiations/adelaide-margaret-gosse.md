@@ -4,7 +4,7 @@ sidebar_label: Adelaide Margaret Gosse
 hide_table_of_contents: true
 ---
 
-Background: Adelaide Margaret Gosse was a poor servant girl from Normandy. As a child she entered the service of a farming family. After floods and ruin destroyed their livelihood, she gave them all her savings, kept serving without wages, and later supported their widowed daughter for decades with her own work and her husband's wages. In old age she was publicly honored for her devotion. She died suddenly and without pain.
+Adelaide Margaret Gosse was a poor servant girl from Normandy. As a child she entered the service of a farming family. After floods and ruin destroyed their livelihood, she gave them all her savings, kept serving without wages, and later supported their widowed daughter for decades with her own work and her husband's wages. In old age she was publicly honored for her devotion. She died suddenly and without pain.
 Narration: The medium’s hand begins writing...
 Allan: We are glad you've come. We wanted to honor the devotion of your life on Earth. We hope your self-sacrifice has been rewarded.
 Adelaide Margaret Gosse: Yes. God rewarded His servant far beyond her merits. What I did, and what you find so praiseworthy, felt very natural to me.

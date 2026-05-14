@@ -4,7 +4,7 @@ sidebar_label: Clara Rivier
 hide_table_of_contents: true
 ---
 
-Background: Clara Rivier died at ten. From age four she had been unable to use her limbs. Through years of convulsions and pain, she never complained. She comforted her family, spoke often of the future life, predicted her death, and died exactly when she said she would. Afterward, disturbances shook her parents' house, while her little sister joyfully claimed to see Clara.
+Clara Rivier died at ten. From age four she had been unable to use her limbs. Through years of convulsions and pain, she never complained. She comforted her family, spoke often of the future life, predicted her death, and died exactly when she said she would. Afterward, disturbances shook her parents' house, while her little sister joyfully claimed to see Clara.
 Narration: The medium’s hand begins writing...
 Clara Rivier: I am beside you, ready to answer your questions.
 Allan: You were so young and uneducated. Where did the elevated ideas you expressed before death come from?
@@ -29,4 +29,4 @@ Clara Rivier: God has given every soul free will, the power to progress. He has 
 Clara Rivier: So bring your social classes closer together through charity. Bring the poor into your homes. Encourage them. Lift them up. Do not humiliate them. If this great law of conscience were practiced on your Earth, nations that call themselves civilized would not suffer the great disasters that shame them and that God sends to punish their blindness and open their eyes.
 Clara Rivier: My dear parents... pray, love, and practice the love of Christ. Do to others only what you would want them to do to you. When God sends you a trial, ask Him for help in bearing it, as something laid on you by His high and holy will.
 Clara Rivier: Arm yourselves for the future with courage and perseverance, because you still have more suffering to go through. Remember that you must earn entrance into a happier world before you can enter it. I will always be with you, dear parents. Goodbye... or rather, until later. Grow in acceptance, charity, and love for your neighbor, and in that way you will reach the place of happiness.
-Background: Kardec notes that her images and moral teaching support the idea that earthly rank changes from life to life, and that both individuals and nations are punished when they violate the law of charity.
+Kardec notes that her images and moral teaching support the idea that earthly rank changes from life to life, and that both individuals and nations are punished when they violate the law of charity.

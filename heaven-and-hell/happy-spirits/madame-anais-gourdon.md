@@ -4,7 +4,7 @@ sidebar_label: Madame Anais Gourdon
 hide_table_of_contents: true
 ---
 
-Background: Madame Anais Gourdon was a very young woman known for her gentle nature and exceptional moral qualities. She belonged to a humble family of coal miners near Saint-Etienne. After her death in November 1860, her spirit was evoked at the request of her husband and father, who deeply wished to hear from her again.
+Madame Anais Gourdon was a very young woman known for her gentle nature and exceptional moral qualities. She belonged to a humble family of coal miners near Saint-Etienne. After her death in November 1860, her spirit was evoked at the request of her husband and father, who deeply wished to hear from her again.
 
 Allan: Are you here?
 
@@ -46,15 +46,15 @@ Madame Anais Gourdon: I mean that I hope to become a fully purified and radiant 
 
 Madame Anais Gourdon: Like those heavenly messengers whose brilliance dazzles me whenever I'm allowed to glimpse them.
 
-Background: Allan Kardec then adds an explanation.
+Allan Kardec then adds an explanation.
 
-Background: The “wings” attributed to angels and higher spirits are symbolic rather than literal.
+The “wings” attributed to angels and higher spirits are symbolic rather than literal.
 
-Background: They represent the speed and freedom with which spirits travel through space.
+They represent the speed and freedom with which spirits travel through space.
 
-Background: Spirits don't require physical wings because their spiritual nature allows them to move by thought alone.
+Spirits don't require physical wings because their spiritual nature allows them to move by thought alone.
 
-Background: However, spirits may sometimes appear with such forms in order to match human ideas and expectations, just as spirits often appear wearing the same appearance they had during life on Earth so they may be recognized.
+However, spirits may sometimes appear with such forms in order to match human ideas and expectations, just as spirits often appear wearing the same appearance they had during life on Earth so they may be recognized.
 
 Allan: Is there anything you would like your relatives to do?
 
@@ -80,16 +80,16 @@ Madame Anais Gourdon: I had already acquired much knowledge and refinement durin
 
 Madame Anais Gourdon: Advanced spirits are often born among rough and simple people in order to give them a glimpse of qualities they themselves will later acquire and understand during future existences.
 
-Background: Allan Kardec then adds an observation.
+Allan Kardec then adds an observation.
 
-Background: Without the explanation offered by reincarnation, it would be difficult to understand why some individuals display refinement, intelligence, and moral elevation far beyond their upbringing and environment.
+Without the explanation offered by reincarnation, it would be difficult to understand why some individuals display refinement, intelligence, and moral elevation far beyond their upbringing and environment.
 
-Background: In life on Earth, we often see advanced spirits born among less developed people, while less advanced spirits are sometimes placed among morally elevated families and surroundings.
+In life on Earth, we often see advanced spirits born among less developed people, while less advanced spirits are sometimes placed among morally elevated families and surroundings.
 
-Background: More advanced spirits are born among less advanced people in order to help them progress.
+More advanced spirits are born among less advanced people in order to help them progress.
 
-Background: Meanwhile, less advanced spirits are placed among more elevated individuals so they may learn more rapidly through contact with better examples.
+Meanwhile, less advanced spirits are placed among more elevated individuals so they may learn more rapidly through contact with better examples.
 
-Background: Such contact also serves as a useful trial for advanced spirits themselves.
+Such contact also serves as a useful trial for advanced spirits themselves.
 
-Background: According to Spiritism, the theory of successive existences explains these apparent inequalities and contradictions in human life.
+According to Spiritism, the theory of successive existences explains these apparent inequalities and contradictions in human life.

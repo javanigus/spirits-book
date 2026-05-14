@@ -4,7 +4,7 @@ sidebar_label: Father
 hide_table_of_contents: true
 ---
 
-Background: At the start of the Italian war in 1859, a respected Paris tradesman learned that his only son had been drafted. He could not afford to pay for a substitute. Under French law, the only son of a widow was exempt, so the father killed himself to spare his son from military service. A year later, his spirit was called at the Paris Spiritist Society by someone who had known him.
+At the start of the Italian war in 1859, a respected Paris tradesman learned that his only son had been drafted. He could not afford to pay for a substitute. Under French law, the only son of a widow was exempt, so the father killed himself to spare his son from military service. A year later, his spirit was called at the Paris Spiritist Society by someone who had known him.
 
 Allan: Saint Louis, may we call the spirit our friend has spoken about?
 
@@ -18,7 +18,7 @@ Father: Oh, thank you for speaking to me.
 
 Father: I suffer greatly, but...
 
-Background: The writing was irregular, shaky, and done with obvious difficulty. After the word "but," the spirit stopped and made useless efforts to continue, tracing only dots and broken strokes. It was clear that he was unable to write the word "God."
+The writing was irregular, shaky, and done with obvious difficulty. After the word "but," the spirit stopped and made useless efforts to continue, tracing only dots and broken strokes. It was clear that he was unable to write the word "God."
 
 Allan: Please complete the missing part.
 
@@ -68,7 +68,7 @@ Allan: Try to write it.
 
 Allan: We are convinced that, if you succeed, you will find relief.
 
-Background: After a painful struggle, the spirit finally wrote in very large, trembling, uneven letters.
+After a painful struggle, the spirit finally wrote in very large, trembling, uneven letters.
 
 Father: God is very good.
 
@@ -94,4 +94,4 @@ Mediums’ Guide: God sees the deepest part of the heart.
 
 Mediums’ Guide: And because He is just, He punishes only according to the measure of the fault.
 
-Background: Kardec says this suicide may look almost excusable at first, because it came from devotion. But good intentions do not make a wrong act right. The father lacked trust in God, and he may also have interrupted his son's path. It was not certain the son would die in war. Military life might even have been useful for his growth. Spiritism teaches that no one has the right to deliberately shorten life, because life on Earth is given for duties, trials, and progress. It also distinguishes suicide from self-sacrifice: risking death to save another is not suicide, because there is no intention to escape life.
+Kardec says this suicide may look almost excusable at first, because it came from devotion. But good intentions do not make a wrong act right. The father lacked trust in God, and he may also have interrupted his son's path. It was not certain the son would die in war. Military life might even have been useful for his growth. Spiritism teaches that no one has the right to deliberately shorten life, because life on Earth is given for duties, trials, and progress. It also distinguishes suicide from self-sacrifice: risking death to save another is not suicide, because there is no intention to escape life.

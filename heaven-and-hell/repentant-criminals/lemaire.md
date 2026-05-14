@@ -4,7 +4,7 @@ sidebar_label: Lemaire
 hide_table_of_contents: true
 ---
 
-Background: Lemaire was a mass murderer executed on December 31, 1857. He was called on January 29, 1858.
+Lemaire was a mass murderer executed on December 31, 1857. He was called on January 29, 1858.
 
 Narration: The medium’s hand begins writing...
 
@@ -190,4 +190,4 @@ Medium: Can we do anything to lessen your suffering?
 
 Lemaire: Pray that my atonement may soon begin.
 
-Background: Allan notes that Lemaire unknowingly revealed an important point. Spirits can surround themselves with images produced by their own inner state. In this case, his victims stood before him as part of the punishment of his conscience.
+Allan notes that Lemaire unknowingly revealed an important point. Spirits can surround themselves with images produced by their own inner state. In this case, his victims stood before him as part of the punishment of his conscience.

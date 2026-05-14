@@ -4,7 +4,7 @@ sidebar_label: Mrs Helen Michel
 hide_table_of_contents: true
 ---
 
-Background: Mrs. Hélèn Michel died suddenly at the age of twenty-five from a cause doctors couldn't determine. She was wealthy, kind-hearted, gentle, charitable, and generous, but also somewhat frivolous and overly focused on the pleasures and distractions of life on Earth. Three days after her death, she was evoked by people who had known her personally.
+Mrs. Hélèn Michel died suddenly at the age of twenty-five from a cause doctors couldn't determine. She was wealthy, kind-hearted, gentle, charitable, and generous, but also somewhat frivolous and overly focused on the pleasures and distractions of life on Earth. Three days after her death, she was evoked by people who had known her personally.
 
 Narration: The medium’s hand begins writing...
 
@@ -40,13 +40,13 @@ Mrs. Hélèn Michel: What would happen to that other self of mine if I stayed aw
 
 Mrs. Hélèn Michel: Farewell...
 
-Background: Allan Kardec explains that this communication clearly shows the feeling of duality often experienced before complete separation from the physical body has fully happened.
+Allan Kardec explains that this communication clearly shows the feeling of duality often experienced before complete separation from the physical body has fully happened.
 
-Background: Because Mrs. Hélèn Michel had lived a comfortable and somewhat superficial life, strongly attached to earthly pleasures, the separation from the body happened slowly.
+Because Mrs. Hélèn Michel had lived a comfortable and somewhat superficial life, strongly attached to earthly pleasures, the separation from the body happened slowly.
 
-Background: Yet because she was fundamentally kind and free from serious vice, her condition was not deeply painful and improved quickly.
+Yet because she was fundamentally kind and free from serious vice, her condition was not deeply painful and improved quickly.
 
-Background: A few days later, she was evoked again, and her understanding had already become much clearer.
+A few days later, she was evoked again, and her understanding had already become much clearer.
 
 Narration: The medium’s hand begins writing...
 

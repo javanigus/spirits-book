@@ -4,7 +4,7 @@ sidebar_label: Antonio B
 hide_table_of_contents: true
 ---
 
-Background: Antonio B. was a respected writer and public official in Lombardy. After an attack that looked like death, he was buried. Fifteen days later, when the coffin was opened to recover a locket, it was clear he had been buried alive and had died in terrible struggle. He was later called at the request of a relative.
+Antonio B. was a respected writer and public official in Lombardy. After an attack that looked like death, he was buried. Fifteen days later, when the coffin was opened to recover a locket, it was clear he had been buried alive and had died in terrible struggle. He was later called at the request of a relative.
 Narration: The medium’s hand begins writing...
 Allan: What do you want with me?
 Allan: One of your relatives asked us to call you. We did so gladly and would be grateful if you would answer our questions.

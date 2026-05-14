@@ -4,7 +4,7 @@ sidebar_label: Suicide Victim
 hide_table_of_contents: true
 ---
 
-Background: On April 7, 1858, around seven in the evening, a well-dressed man of about fifty entered the large Samaritaine bathhouse in Paris and asked for a bath. After a long silence, an attendant opened the room and found a terrible sight: the stranger had cut his throat with a razor, and his blood had run into the bath water. No one knew who he was, so the body was taken to the Morgue. Six days later, his spirit was called at a meeting of the Paris Society.
+On April 7, 1858, around seven in the evening, a well-dressed man of about fifty entered the large Samaritaine bathhouse in Paris and asked for a bath. After a long silence, an attendant opened the room and found a terrible sight: the stranger had cut his throat with a razor, and his blood had run into the bath water. No one knew who he was, so the body was taken to the Morgue. Six days later, his spirit was called at a meeting of the Paris Society.
 
 Narration: The medium’s hand begins writing...
 
@@ -26,7 +26,7 @@ Unknown Man: Tell me if I am alive...
 
 Unknown Man: I am suffocating in this coffin!
 
-Background: Although separated from the body, his soul was still deeply trapped in physical sensations and earthly ideas. He did not yet believe he was dead.
+Although separated from the body, his soul was still deeply trapped in physical sensations and earthly ideas. He did not yet believe he was dead.
 
 Allan: What led you to come to us?
 
@@ -136,6 +136,6 @@ Mediums’ Guide: Such deaths are very different from suicide.
 
 Mediums’ Guide: The spirit is responsible only for voluntary actions.
 
-Background: Kardec says this uncertainty about being dead is very common among the recently deceased, especially those strongly attached to material life. In this case, the punishment was especially terrible because the spirit still felt linked to the decaying body and sensed the worms devouring it. He adds that the condition is common among suicides, but it does not take exactly the same form in every case.
+Kardec says this uncertainty about being dead is very common among the recently deceased, especially those strongly attached to material life. In this case, the punishment was especially terrible because the spirit still felt linked to the decaying body and sensed the worms devouring it. He adds that the condition is common among suicides, but it does not take exactly the same form in every case.
 
-Background: He also says this sensation of bodily decay is not limited to suicides. It can happen to others who lived mainly for the body and not for the soul. His conclusion is that no fault goes without consequence, but spiritual punishments are not all imposed in one fixed, identical way.
+He also says this sensation of bodily decay is not limited to suicides. It can happen to others who lived mainly for the body and not for the soul. His conclusion is that no fault goes without consequence, but spiritual punishments are not all imposed in one fixed, identical way.

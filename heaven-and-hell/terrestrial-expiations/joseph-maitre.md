@@ -4,7 +4,7 @@ sidebar_label: Joseph Maitre
 hide_table_of_contents: true
 ---
 
-Background: Joseph Maitre lost his sight at twenty and his hearing twenty years later. Though blind and then deaf, he stayed gentle, clear-minded, and resigned, never complaining. After his death, he was called to explain the cause of that double loss.
+Joseph Maitre lost his sight at twenty and his hearing twenty years later. Though blind and then deaf, he stayed gentle, clear-minded, and resigned, never complaining. After his death, he was called to explain the cause of that double loss.
 Narration: The medium’s hand begins writing...
 Joseph Maitre: Thank you, my friends, for remembering me. I come gladly, happy to add my example to the proofs of God's justice and to deepen your understanding of the connection between successive lives.
 Joseph Maitre: You knew me blind and deaf, and you wondered what I had done to deserve such a fate. I'll tell you. First, you need to know that it was the second time I had been deprived of sight.

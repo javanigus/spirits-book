@@ -4,7 +4,7 @@ sidebar_label: History of A Footman
 hide_table_of_contents: true
 ---
 
-Background: A noble family once employed a young footman whose face, bearing, intelligence, and quiet devotion seemed far above his position. The next year he died suddenly after going home to visit family. Later, when called, he explained the reason for that humble life.
+A noble family once employed a young footman whose face, bearing, intelligence, and quiet devotion seemed far above his position. The next year he died suddenly after going home to visit family. Later, when called, he explained the reason for that humble life.
 Narration: The medium’s hand begins writing...
 Narration: He says, in the life before the one in which you knew me, I belonged to a very good family. But my father ruined us with his extravagance, and I was left an orphan while still young and completely destitute. One of my father's friends took me in, raised me as his son, and gave me an excellent education, and I became a little too proud of it.
 Narration: He says, that friend is now reborn as Mr. de G., in whose service you saw me. I had decided to atone for my former pride by being born into a servile condition. That choice also gave me the chance to show gratitude to the one who had been my benefactor in my previous life. I even had the happiness of saving his life.
@@ -22,4 +22,4 @@ Allan: Servants sometimes show a devotion to their masters that reaches self-sac
 Narration: He says, in almost all cases, yes. Such servants may once have belonged to the same family as their employers, or, like me, may be repaying a debt of gratitude. And in every case, that devotion helps their own progress. You hardly suspect how closely the sympathies and antipathies of your present life are tied to the relationships of former lives. No, death does not break those ties. They often continue from century to century.
 Allan: Why are such examples of devotion rarer today?
 Narration: He says, because the spirit of your age is selfishness and pride, strengthened by unbelief and materialism. Faith in goodness is being driven out by greed for gain, and with it goes the capacity for devotion. Spiritism, by bringing people back to true belief, will rekindle the virtues that are dying out.
-Background: The case was offered as a clear example of why forgetting past lives can be helpful. If master and servant had remembered the earlier bond, the useful trial for both would likely have been impossible.
+The case was offered as a clear example of why forgetting past lives can be helpful. If master and servant had remembered the earlier bond, the useful trial for both would likely have been impossible.

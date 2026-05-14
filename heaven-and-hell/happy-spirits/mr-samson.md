@@ -4,7 +4,7 @@ sidebar_label: Mr Samson
 hide_table_of_contents: true
 ---
 
-Background: Paris, 1862. Mr. Sanson, one of the earliest members of the Spiritist Society of Paris, died after a year of intense suffering. Before his death, he asked Allan Kardec to evoke his spirit as soon as possible after his passing so people could better understand what happens after death through his testimony.
+Paris, 1862. Mr. Sanson, one of the earliest members of the Spiritist Society of Paris, died after a year of intense suffering. Before his death, he asked Allan Kardec to evoke his spirit as soon as possible after his passing so people could better understand what happens after death through his testimony.
 
 Allan: Mr. Sanson, can you hear us?
 
@@ -144,7 +144,7 @@ Mr. Sanson: Speak with courage and confidence.
 
 Mr. Sanson: And may my children one day accept our respected belief.
 
-Background: During the ceremony at the grave, Mr. Sanson dictated another message.
+During the ceremony at the grave, Mr. Sanson dictated another message.
 
 Mr. Sanson: My friends, don't fear death.
 
@@ -162,7 +162,7 @@ Mr. Sanson: Remember that no one can enjoy too many earthly blessings without ta
 
 Mr. Sanson: May the Earth rest lightly upon me.
 
-Background: Two days later, at the Spiritist Society of Paris, Allan Kardec evokes Mr. Sanson again.
+Two days later, at the Spiritist Society of Paris, Allan Kardec evokes Mr. Sanson again.
 
 Allan: We are very grateful for the conversation we had with you on the day of your funeral.
 
@@ -198,7 +198,7 @@ Mr. Sanson: We experience a violent tearing sensation, as though the spirit must
 
 Mr. Sanson: That effort absorbs our entire being and causes us to lose awareness of what we are becoming.
 
-Background: Mr. Sanson then explains that this painful separation is not the same for everyone.
+Mr. Sanson then explains that this painful separation is not the same for everyone.
 
 Mr. Sanson: This is not always the case.
 
@@ -226,7 +226,7 @@ Mr. Sanson: The person who does not believe in a future life is like a prisoner 
 
 Mr. Sanson: There is a similarity between such a death... and the death of the atheist.
 
-Background: Another spirit then gives a description of the death of the unbeliever.
+Another spirit then gives a description of the death of the unbeliever.
 
 Mediums’ Guide: The hardened unbeliever experiences, in his final moments, the terror of a horrible nightmare.
 
@@ -248,7 +248,7 @@ Mediums’ Guide: Sometimes it lasts for years.
 
 Mediums’ Guide: And this suffering becomes even worse because the spirit often finds itself surrounded by darkness.
 
-Background: Later, another spirit comments on Mr. Sanson’s passing.
+Later, another spirit comments on Mr. Sanson’s passing.
 
 Mediums’ Guide: Mr. Sanson experienced what may truly be called the death of the righteous.
 

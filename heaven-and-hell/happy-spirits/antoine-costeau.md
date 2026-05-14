@@ -4,17 +4,17 @@ sidebar_label: Antoine Costeau
 hide_table_of_contents: true
 ---
 
-Background: Antoine Costeau was a member of the Spiritist Society of Paris and was buried in September 1863 in the paupers’ section of the Montmartre Cemetery. He was a simple street worker who possessed very little materially, yet he was known for his deep goodness, humility, charity, and sincere faith in God and the future life.
+Antoine Costeau was a member of the Spiritist Society of Paris and was buried in September 1863 in the paupers’ section of the Montmartre Cemetery. He was a simple street worker who possessed very little materially, yet he was known for his deep goodness, humility, charity, and sincere faith in God and the future life.
 
-Background: Even with his small income, he always found a way to help those poorer than himself. Spiritists believed that an expensive tomb meant nothing compared with the moral value of a righteous life, so the Society chose to use its limited funds to help the living rather than purchase a costly grave for the dead.
+Even with his small income, he always found a way to help those poorer than himself. Spiritists believed that an expensive tomb meant nothing compared with the moral value of a righteous life, so the Society chose to use its limited funds to help the living rather than purchase a costly grave for the dead.
 
-Background: At the cemetery, Mr. Canu, secretary of the Society and once a convinced materialist, spoke beside Costeau’s open grave. He said that a few years earlier many of them would have seen only annihilation in such a scene.
+At the cemetery, Mr. Canu, secretary of the Society and once a convinced materialist, spoke beside Costeau’s open grave. He said that a few years earlier many of them would have seen only annihilation in such a scene.
 
-Background: Now, through Spiritism, they saw the grave as the end of a trial and the beginning of Costeau’s reward for his courage, patience, charity, and goodness. He asked Costeau to carry their gratitude to God, who had lifted them out of doubt.
+Now, through Spiritism, they saw the grave as the end of a trial and the beginning of Costeau’s reward for his courage, patience, charity, and goodness. He asked Costeau to carry their gratitude to God, who had lifted them out of doubt.
 
-Background: Instead of saying a hopeless farewell, they now said: may God bless you until we meet again. Be happy... and pray for us.
+Instead of saying a hopeless farewell, they now said: may God bless you until we meet again. Be happy... and pray for us.
 
-Background: Immediately after the speech, one of the Society’s mediums received a spontaneous communication from Costeau beside the open grave itself. Everyone present — including the grave-diggers — listened with deep emotion as the words of the deceased were read aloud beside his own body.
+Immediately after the speech, one of the Society’s mediums received a spontaneous communication from Costeau beside the open grave itself. Everyone present — including the grave-diggers — listened with deep emotion as the words of the deceased were read aloud beside his own body.
 
 Narration: The medium’s hand begins writing...
 
@@ -88,7 +88,7 @@ Antoine Costeau: Farewell!
 
 Antoine Costeau: Pray for all who suffer.
 
-Background: Three days later, Antoine Costeau was evoked again in a private gathering through another medium.
+Three days later, Antoine Costeau was evoked again in a private gathering through another medium.
 
 Narration: The medium’s hand begins writing...
 

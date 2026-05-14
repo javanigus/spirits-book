@@ -4,7 +4,7 @@ sidebar_label: Szymel Slizgol
 hide_table_of_contents: true
 ---
 
-Background: Szymel Slizgol was a poor Jewish beggar in Wilna who spent thirty years asking alms with the cry, Remember the poor, the widows, and the orphans. He collected large sums over time, but kept nothing for himself. He cared for the sick, paid for poor children's schooling, shared his food, made snuff at night to support his own needs, and gave the rest away. At his funeral, shops closed and much of the town followed his coffin.
+Szymel Slizgol was a poor Jewish beggar in Wilna who spent thirty years asking alms with the cry, Remember the poor, the widows, and the orphans. He collected large sums over time, but kept nothing for himself. He cared for the sick, paid for poor children's schooling, shared his food, made snuff at night to support his own needs, and gave the rest away. At his funeral, shops closed and much of the town followed his coffin.
 Narration: The medium’s hand begins writing...
 Szymel Slizgol: Very happy, and having at last reached the height of my ambition through long effort, I have been among you since the beginning of this meeting. I thank you for thinking of the poor beggar, who will do his best to answer your questions.
 Allan: A letter from Wilna told us the main facts of your life. They moved us deeply, and that is why we wished to speak with you. We would like to know your condition in the spirit world and the reasons that determined the character of your last existence.

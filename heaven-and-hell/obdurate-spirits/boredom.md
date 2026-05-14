@@ -4,7 +4,7 @@ sidebar_label: Boredom
 hide_table_of_contents: true
 ---
 
-Background: Bordeaux, 1862. An unnamed spirit came on his own and asked for prayers. He said he had been wandering in boredom for around one hundred and eighty years.
+Bordeaux, 1862. An unnamed spirit came on his own and asked for prayers. He said he had been wandering in boredom for around one hundred and eighty years.
 Narration: The medium’s hand begins writing...
 Allan: What made you ask for prayers?
 Victim of Boredom: I am tired of wandering with no purpose.

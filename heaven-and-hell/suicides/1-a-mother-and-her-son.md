@@ -4,9 +4,9 @@ sidebar_label: A Mother and Her Son
 hide_table_of_contents: true
 ---
 
-Background: In March 1865, the son of Mr. C., a businessman in a small town near Paris, came home dangerously ill. Feeling that he was about to die, the young man, only twenty-one, called his mother close and found the strength to kiss her one last time. Through tears, she answered, "Go on ahead, my son; I won't be far behind you!" He died moments later. When the family went looking for her, they found that she had hanged herself in the attic. Mother and son were buried together.
+In March 1865, the son of Mr. C., a businessman in a small town near Paris, came home dangerously ill. Feeling that he was about to die, the young man, only twenty-one, called his mother close and found the strength to kiss her one last time. Through tears, she answered, "Go on ahead, my son; I won't be far behind you!" He died moments later. When the family went looking for her, they found that she had hanged herself in the attic. Mother and son were buried together.
 
-Background: Several days later, the spirit of the son was called.
+Several days later, the spirit of the son was called.
 
 Narration: The medium’s hand begins writing...
 
@@ -48,7 +48,7 @@ Benjamin C.: Mothers...
 
 Benjamin C.: When you see your children's eyes close in death, remember that, like Christ, they have climbed their Calvary, and from there they will rise into the glory of the higher life.
 
-Background: The mother was then called.
+The mother was then called.
 
 Narration: The medium’s hand begins writing...
 
@@ -222,4 +222,4 @@ Benjamin's Mother: I will continue to pray.
 
 Benjamin's Mother: Farewell.
 
-Background: Kardec explains that this mother did not go through the common suicide illusion of thinking she was still alive. She knew perfectly well that she had died. Her punishment was to know she had entered spirit life and still be unable to find the son she had hoped to rejoin. He concludes that punishments are not the same for everyone. Each spirit suffers in the particular way tied to the fault.
+Kardec explains that this mother did not go through the common suicide illusion of thinking she was still alive. She knew perfectly well that she had died. Her punishment was to know she had entered spirit life and still be unable to find the son she had hoped to rejoin. He concludes that punishments are not the same for everyone. Each spirit suffers in the particular way tied to the fault.

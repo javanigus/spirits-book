@@ -4,27 +4,27 @@ sidebar_label: Madame Foulon
 hide_table_of_contents: true
 ---
 
-Background: Madame Foulon, born Wollis, died at Antibes on February 3rd, 1865. She had lived many years in Havre, where she became well known as a highly talented miniature painter. In her youth, painting had simply been a source of joy and artistic fulfillment. But later in life, repeated hardships forced her to rely upon her art for financial survival.
+Madame Foulon, born Wollis, died at Antibes on February 3rd, 1865. She had lived many years in Havre, where she became well known as a highly talented miniature painter. In her youth, painting had simply been a source of joy and artistic fulfillment. But later in life, repeated hardships forced her to rely upon her art for financial survival.
 
-Background: What most deeply earned the love and admiration of everyone who knew her was not merely her talent, but the greatness of her character. She possessed extraordinary goodness, humility, and selflessness. She never displayed her virtues because they came naturally to her, almost unconsciously. If any person could truly be called free from selfishness, it was Madame Foulon.
+What most deeply earned the love and admiration of everyone who knew her was not merely her talent, but the greatness of her character. She possessed extraordinary goodness, humility, and selflessness. She never displayed her virtues because they came naturally to her, almost unconsciously. If any person could truly be called free from selfishness, it was Madame Foulon.
 
-Background: She constantly sacrificed her comfort, health, and personal interests in order to help others. Her entire life was filled with devotion to those around her and with severe personal trials, yet her courage, patience, and acceptance never failed.
+She constantly sacrificed her comfort, health, and personal interests in order to help others. Her entire life was filled with devotion to those around her and with severe personal trials, yet her courage, patience, and acceptance never failed.
 
-Background: Years of painting gradually destroyed her eyesight, and it had become clear that complete blindness was approaching.
+Years of painting gradually destroyed her eyesight, and it had become clear that complete blindness was approaching.
 
-Background: When she discovered Spiritism, it felt to her like a veil had been lifted. The doctrine seemed to explain truths she had always sensed inwardly but had never fully understood. She studied Spiritism passionately and intelligently, and it gave her deep comfort amid the many worries and sufferings of her life.
+When she discovered Spiritism, it felt to her like a veil had been lifted. The doctrine seemed to explain truths she had always sensed inwardly but had never fully understood. She studied Spiritism passionately and intelligently, and it gave her deep comfort amid the many worries and sufferings of her life.
 
-Background: Her faith in the future life became unshakable. She saw earthly suffering as temporary and earthly things as insignificant compared to spiritual realities.
+Her faith in the future life became unshakable. She saw earthly suffering as temporary and earthly things as insignificant compared to spiritual realities.
 
-Background: Her death reflected the same peace and nobility that had marked her life. She faced death calmly and without fear, seeing it as liberation from earthly suffering and entrance into a happier existence.
+Her death reflected the same peace and nobility that had marked her life. She faced death calmly and without fear, seeing it as liberation from earthly suffering and entrance into a happier existence.
 
-Background: She died with the satisfaction of having faithfully fulfilled her duties as wife and mother. She also died without resentment toward those who had harmed or betrayed her, returning kindness even for ingratitude.
+She died with the satisfaction of having faithfully fulfilled her duties as wife and mother. She also died without resentment toward those who had harmed or betrayed her, returning kindness even for ingratitude.
 
-Background: She left life on Earth forgiving everyone and trusting that the forgiveness she freely gave to others would also be granted to her by God.
+She left life on Earth forgiving everyone and trusting that the forgiveness she freely gave to others would also be granted to her by God.
 
-Background: Shortly after hearing of her death, Allan Kardec immediately attempted to communicate with her spirit. A close friendship had existed between them for many years through their shared devotion to Spiritism.
+Shortly after hearing of her death, Allan Kardec immediately attempted to communicate with her spirit. A close friendship had existed between them for many years through their shared devotion to Spiritism.
 
-Background: Paris, February 6th, 1865. Three days after her death.
+Paris, February 6th, 1865. Three days after her death.
 
 Narration: The medium’s hand begins writing...
 
@@ -102,7 +102,7 @@ Madame Foulon: I must thank him for the affectionate words he addressed to the f
 
 Madame Foulon: We came very close to arriving there together.
 
-Background: She refers here to the serious illness Allan Kardec had recently suffered.
+She refers here to the serious illness Allan Kardec had recently suffered.
 
 Madame Foulon: What would your beloved companion have done if your good spirit-friends had not intervened to help you?
 
@@ -128,7 +128,7 @@ Madame Foulon: I must return to my children.
 
 Madame Foulon: Afterward, I will go and watch over my wandering sheep to see whether she has safely reached port or whether she is still caught in the storm.
 
-Background: She refers to one of her daughters, who had gone to America.
+She refers to one of her daughters, who had gone to America.
 
 Madame Foulon: May the good spirits protect her.
 
@@ -306,7 +306,7 @@ Madame Foulon: I will return again soon.
 
 Madame Foulon: Your friend loves you and will always love you as the teacher to whom she owed the only true and lasting consolation she found on Earth.
 
-Background: February 9th, 1865. Madame Foulon then dictated a message for her children.
+February 9th, 1865. Madame Foulon then dictated a message for her children.
 
 Narration: The medium’s hand begins writing...
 

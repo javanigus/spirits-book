@@ -4,7 +4,7 @@ sidebar_label: Mr Felicien
 hide_table_of_contents: true
 ---
 
-Background: Mr. Felicien was rich, well educated, a noted poet, kind, courteous, and honorable. After being ruined by unlucky financial speculation at an age when he felt too old to start over, he gave way to discouragement and hanged himself in his bedroom in December 1864. He was neither a materialist nor an atheist, but he had given little thought to the future life. Four months later, out of personal sympathy, people who had known him called his spirit.
+Mr. Felicien was rich, well educated, a noted poet, kind, courteous, and honorable. After being ruined by unlucky financial speculation at an age when he felt too old to start over, he gave way to discouragement and hanged himself in his bedroom in December 1864. He was neither a materialist nor an atheist, but he had given little thought to the future life. Four months later, out of personal sympathy, people who had known him called his spirit.
 
 Narration: The medium’s hand begins writing...
 
@@ -36,7 +36,7 @@ Mr. Felicien: It is a curious chaos.
 
 Mr. Felicien: And watching it amuses me, so I stay here.
 
-Background: His way of speaking sounded so much like his old character that the group recognized him, but the fact that he didn't mention how he died caused a moment of doubt.
+His way of speaking sounded so much like his old character that the group recognized him, but the fact that he didn't mention how he died caused a moment of doubt.
 
 Medium: Can you tell us what you died of?
 
@@ -126,7 +126,7 @@ Mr. Felicien: Pray for me.
 
 Mr. Felicien: I too will pray.
 
-Background: Kardec says this ordinary-looking case of suicide shows an important point: the same temptation can come back again and again in successive lives until the spirit grows strong enough to resist it.
+Kardec says this ordinary-looking case of suicide shows an important point: the same temptation can come back again and again in successive lives until the spirit grows strong enough to resist it.
 
 Narration: The medium’s hand begins writing...
 
