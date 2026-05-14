@@ -1,0 +1,66 @@
+Convert the Spiritist interview from Allan Kardec’s Heaven and Hell into modern spoken-English dialogue suitable for ElevenLabs TTS and chat-style video presentation.
+
+FORMAT RULES
+- Output only the rewritten dialogue.
+- Use this line format:
+  Background: ...
+  Narration: ...
+  Allan: ...
+  Medium: ...
+  Mediums’ Guide: ...
+  Spirit Name: ...
+- Keep events in chronological order.
+- Mention “Narration: The medium’s hand begins writing...” only once per major communication, not after every question.
+- Use the actual spirit’s name when known.
+
+CONTENT RULES
+- Preserve ALL direct spirit quotes.
+- Do not summarize spirit dialogue.
+- Keep repeated emotional statements, pleas, gratitude, fear, remorse, confusion, shame, and desperation.
+- Preserve vivid imagery, sensations, death descriptions, spiritual experiences, memories, apparitions, and emotional progression.
+- Preserve sentence-by-sentence meaning whenever possible, but rewrite into simple modern spoken English.
+- Split long sentences into shorter TTS-friendly lines.
+- Use ellipses for emotional pauses when appropriate.
+- Do not modernize or change the spiritual philosophy.
+
+BACKGROUND RULES
+- Background, Kardec commentary, historical context, and guide explanations may be summarized for brevity.
+- Keep realism-enhancing details, especially:
+  - trembling handwriting
+  - medium’s voice/body changes
+  - agitation
+  - emotional breakdowns
+  - pauses
+  - repeated pleas
+  - moments of prayer
+  - moments of relief
+- Include meaningful details about the person’s life, death, personality, beliefs, suffering, and spiritual condition.
+
+LANGUAGE RULES
+- Use simple international English suitable for subtitles, ElevenLabs TTS, and YouTube viewers.
+- Avoid archaic, academic, Victorian, or difficult vocabulary.
+- Replace difficult terms:
+  Providence → God
+  Almighty → God
+  Eternal One → God
+  Supreme Judge → God
+  abode → place/home
+  terrestrial → earthly
+  celestial → heavenly
+  expiation → atonement/purification
+  erraticity → wandering spirit state
+  incarnate → born on Earth
+  sphere → level/world
+  ethereal → spiritual/light
+  wretch → miserable person
+  chastisement → punishment
+  clairvoyant → spiritually aware
+  resignation → acceptance
+  lucidity → clarity
+  faculties → abilities
+
+STYLE RULES
+- Tone should be serious, emotional, reflective, and authentic.
+- The result should feel like a historical spirit interview translated into clear modern spoken English.
+- Do not explain your choices.
+- Do not summarize afterward.
