@@ -1,6 +1,6 @@
 ---
-title: Mr Felicien
-sidebar_label: Mr Felicien
+title: Mr. Felicien
+sidebar_label: Mr. Felicien
 hide_table_of_contents: true
 ---
 

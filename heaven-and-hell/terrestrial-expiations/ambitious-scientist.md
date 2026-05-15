@@ -5,11 +5,19 @@ hide_table_of_contents: true
 ---
 
 A woman from Bordeaux suffered almost nonstop illness from infancy to old age. Her daughter, a spiritist medium, prayed for her pain to be lessened. Her guide told her instead to pray for strength, patience, and acceptance, and then explained the cause of her suffering.
+
 Narration: The medium’s hand begins writing...
+
 Mediums’ Guide: In every human life, suffering has a cause. There is no pain in your present life that is not the echo of pain you once caused others. Every deprivation balances some excess from the past. Every tear helps wash away some fault or crime.
+
 Mediums’ Guide: So each person must bear bodily and mental suffering with patience and acceptance, however severe it may seem. Think of the farmer who keeps working through exhaustion because he sees the coming harvest. Everyone who suffers on Earth should do the same. The hope of future happiness gives strength to endure the short sorrows of human life.
+
 Mediums’ Guide: That is your mother's condition. Every pain she accepts as atonement erases a stain from her past. And the sooner those stains are erased, the sooner she will be happy. Lack of acceptance makes suffering fruitless, because the trial must then be lived again. What she needs most is courage and submission. What you should ask for her is that God and her spirit friends help her stay brave and patient.
+
 Mediums’ Guide: In a former life, your mother was a famous physician with a large wealthy practice. He wanted fame and fortune. He wanted scientific knowledge, not to relieve human suffering, but to increase his reputation and success. He stopped at nothing. A mother was tortured on her sickbed so he could study the convulsions he wanted to observe. An infant was subjected to experiments to reveal certain effects. The death of the old was hastened without pity. Strong men were sacrificed so he could test the action of drugs. All this was done to patients who trusted his skill.
+
 Mediums’ Guide: Greed, pride, love of gold, and hunger for fame drove him. It has taken many ages and terrible trials to overcome that proud and ambitious spirit. But repentance has finally begun its healing work, and reparation is moving forward. The sufferings of this life are little compared with what he had already endured. So take comfort. The spirit now born as your mother has suffered long, but the reward for her patience, acceptance, and humility will be great.
+
 Mediums’ Guide: Take courage, all of you who suffer. Think how short even the longest human life really is. Think of the endless happiness these brief sorrows are leading you toward. Call on Hope, faithful friend of suffering hearts. Call on Faith, her sister, who points to the heavens before you enter them. Call also on the noble spirit helpers given to you by God. They are always near you. They love you, sustain you, and work constantly to bring you back to Him, from whom you turned away by breaking His laws.
+
 After her death, the woman gave several elevated communications through her daughter and other mediums, confirming this explanation of her past.

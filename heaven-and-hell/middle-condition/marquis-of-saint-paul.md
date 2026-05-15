@@ -1,6 +1,6 @@
 ---
-title: Marquis of Saint Paul
-sidebar_label: Marquis of Saint Paul
+title: Marquis of Saint-Paul
+sidebar_label: Marquis of Saint-Paul
 hide_table_of_contents: true
 ---
 

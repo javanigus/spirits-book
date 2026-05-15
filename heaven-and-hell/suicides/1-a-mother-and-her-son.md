@@ -1,6 +1,9 @@
 ---
 title: A Mother and Her Son
 sidebar_label: A Mother and Her Son
+speaker_labels:
+  - Benjamin C.
+  - Benjamin's Mother
 hide_table_of_contents: true
 ---
 

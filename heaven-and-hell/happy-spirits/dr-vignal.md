@@ -1,6 +1,6 @@
 ---
-title: Dr Vignal
-sidebar_label: Dr Vignal
+title: Dr. Vignal
+sidebar_label: Dr. Vignal
 hide_table_of_contents: true
 ---
 

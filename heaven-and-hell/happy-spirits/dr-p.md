@@ -1,6 +1,6 @@
 ---
-title: Dr P
-sidebar_label: Dr P
+title: Dr. P.
+sidebar_label: Dr. P.
 hide_table_of_contents: true
 ---
 

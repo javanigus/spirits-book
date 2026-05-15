@@ -1,6 +1,8 @@
 ---
 title: Father
 sidebar_label: Father
+speaker_labels:
+  - Father
 hide_table_of_contents: true
 ---
 

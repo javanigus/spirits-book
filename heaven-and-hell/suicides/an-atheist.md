@@ -1,6 +1,9 @@
 ---
 title: An Atheist
 sidebar_label: An Atheist
+speaker_labels:
+  - Mr. D.
+  - Mr. D.'s Brother
 hide_table_of_contents: true
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Francois Louvet
-sidebar_label: Francois Louvet
+title: Francois Simon Louvet
+sidebar_label: Francois Simon Louvet
 hide_table_of_contents: true
 ---
 

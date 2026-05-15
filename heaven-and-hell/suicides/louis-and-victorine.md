@@ -1,6 +1,8 @@
 ---
 title: Louis and Victorine
 sidebar_label: Louis and Victorine
+speaker_labels:
+  - Louis G.
 hide_table_of_contents: true
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Sixdeniers
 sidebar_label: Sixdeniers
+speaker_labels:
+  - Valeria
 hide_table_of_contents: true
 ---
 

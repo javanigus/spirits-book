@@ -1,6 +1,8 @@
 ---
 title: Suicide Victim
 sidebar_label: Suicide Victim
+speaker_labels:
+  - Unknown Man
 hide_table_of_contents: true
 ---
 

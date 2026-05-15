@@ -1,6 +1,8 @@
 ---
-title: Mr Samson
-sidebar_label: Mr Samson
+title: Mr. Sanson
+sidebar_label: Mr. Sanson
+speaker_labels:
+  - Mr. Sanson
 hide_table_of_contents: true
 ---
 

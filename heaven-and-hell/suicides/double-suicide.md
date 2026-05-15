@@ -1,6 +1,8 @@
 ---
 title: Double Suicide
 sidebar_label: Double Suicide
+speaker_labels:
+  - Madame D.
 hide_table_of_contents: true
 ---
 

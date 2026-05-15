@@ -1,6 +1,8 @@
 ---
-title: Mr Jobard
-sidebar_label: Mr Jobard
+title: Mr. Jobard
+sidebar_label: Mr. Jobard
+speaker_labels:
+  - Bernard
 hide_table_of_contents: true
 ---
 

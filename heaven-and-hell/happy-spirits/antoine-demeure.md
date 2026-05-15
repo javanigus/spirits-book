@@ -1,6 +1,6 @@
 ---
-title: Antoine Demeure
-sidebar_label: Antoine Demeure
+title: Dr. Demeure
+sidebar_label: Dr. Demeure
 hide_table_of_contents: true
 ---
 

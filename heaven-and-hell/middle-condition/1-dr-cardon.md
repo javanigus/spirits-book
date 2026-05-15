@@ -1,6 +1,6 @@
 ---
-title: Dr Cardon
-sidebar_label: Dr Cardon
+title: Dr. Cardon
+sidebar_label: Dr. Cardon
 hide_table_of_contents: true
 ---
 

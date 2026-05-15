@@ -1,6 +1,6 @@
 ---
-title: Mr Van Durst
-sidebar_label: Mr Van Durst
+title: Mr. Van Durst
+sidebar_label: Mr. Van Durst
 hide_table_of_contents: true
 ---
 

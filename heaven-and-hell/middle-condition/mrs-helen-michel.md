@@ -1,6 +1,6 @@
 ---
-title: Mrs Helen Michel
-sidebar_label: Mrs Helen Michel
+title: Mrs. Helen Michel
+sidebar_label: Mrs. Helen Michel
 hide_table_of_contents: true
 ---
 

@@ -102,43 +102,71 @@ Medium: Why could you not write the first time we called you?
 
 Medium: Why did you refuse?
 
-The spirit answered that he had refused out of ignorance and brutishness.
+Castelnaudary Spirit: I refused out of ignorance and brutishness.
 
 Medium: Are you now able to leave the house at Castelnaudary when you wish?
 
-The spirit answered that he was now allowed to leave because he had benefited from the advice given to him.
+Castelnaudary Spirit: I am now allowed to leave because I have benefited from the advice given to me.
 
 Medium: Do you feel any relief in your sufferings?
 
-He answered that he was beginning to hope.
+Castelnaudary Spirit: I am beginning to hope.
 
 Medium: If we could see you now, what appearance would you have?
 
-He answered that he would still be seen in his shirt, but without the dagger.
+Castelnaudary Spirit: You would still see me in my shirt, but without the dagger.
 
 Medium: Why do you no longer have the dagger?
 
-He answered that he cursed it, and that God spared him from seeing it.
+Castelnaudary Spirit: I curse it, and God spares me from seeing it.
 
 Medium: If Mr. D, the son who received the slap, returned to the house, would you do him any harm?
 
-He answered no, because he was repentant.
+Castelnaudary Spirit: No, because I am repentant.
 
 Medium: And if he again dared you to hurt him?
 
-He answered, "Oh, do not ask me that. I would not be able to restrain myself. It would be beyond my power, for I am still only a villain."
+Castelnaudary Spirit: Oh, do not ask me that.
+
+Castelnaudary Spirit: I would not be able to restrain myself.
+
+Castelnaudary Spirit: It would be beyond my power, for I am still only a villain.
 
 Medium: Do you begin to see the end of your sufferings?
 
-He answered that he did not, but that it was already more mercy than he deserved to know that they would not last forever.
+Castelnaudary Spirit: Not yet.
+
+Castelnaudary Spirit: It is already more mercy than I deserve to know that they will not last forever.
 
 Medium: Please describe the state you were in before we first called you. We ask only to help you, not from curiosity.
 
-He said that he knew nothing but his crimes, and that he could leave the house only to rise into space, where there was nothing but solitude and darkness. He said he could not explain it. The moment he rose, there was only blackness and emptiness. Now he felt much more remorse. He was no longer forced to remain in the fatal house and was allowed to wander on Earth and learn from what he saw, but this made him understand his wickedness even more clearly. So, although he suffered less in one way, he suffered more in another because of repentance. But now, at least, he had hope.
+Castelnaudary Spirit: I knew nothing but my crimes.
+
+Castelnaudary Spirit: I could leave the house only to rise into space, where there was nothing but solitude and darkness.
+
+Castelnaudary Spirit: I cannot explain it.
+
+Castelnaudary Spirit: The moment I rose, there was only blackness and emptiness.
+
+Castelnaudary Spirit: Now I feel much more remorse.
+
+Castelnaudary Spirit: I am no longer forced to remain in that fatal house.
+
+Castelnaudary Spirit: I am allowed to wander on Earth and learn from what I see.
+
+Castelnaudary Spirit: But this makes me understand my wickedness even more clearly.
+
+Castelnaudary Spirit: So although I suffer less in one way, I suffer more in another because of repentance.
+
+Castelnaudary Spirit: But now, at least, I have hope.
 
 Medium: During your long isolation, your captivity, did you feel remorse?
 
-He answered that at first he felt none at all, and that was why he suffered so long. Only when remorse began did the circumstances come together that led to the evocation and started the work of his deliverance. He thanked those who had pitied him and enlightened him.
+Castelnaudary Spirit: At first I felt none at all, and that is why I suffered so long.
+
+Castelnaudary Spirit: Only when remorse began did the circumstances come together that led to the evocation and began the work of my deliverance.
+
+Castelnaudary Spirit: I thank all of you who took pity on me and enlightened me.
 
 Allan explains that the same faults are not punished in exactly the same way. Coarse, brutal spirits may need punishments that strike them in a more direct and almost physical way before they understand their condition, while more advanced spirits may suffer more through shame, moral pain, and remorse.
 
