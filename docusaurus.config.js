@@ -173,7 +173,7 @@ const config = {
           ],
         },
         {
-          label: 'Death Experiences',
+          label: 'After-Death Experiences (ADE)',
           to: '/death-experiences',
           position: 'right',
         },
