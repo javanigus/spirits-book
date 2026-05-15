@@ -42,3 +42,21 @@ Died by suicide in 1857 at the age of 67 due to poverty and drunken despair
 
 [Queen d'Oude](/death-experiences/obdurate-spirits/queen-d-oude)  
 Arrogant Muslim queen from India who died in Paris in 1858
+
+[Adelaide Margaret Gosse](/death-experiences/terrestrial-expiations/adelaide-margaret-gosse)  
+Poor servant girl who sacrificed and devoted her life to helping others
+
+[Ambitious Scientist](/death-experiences/terrestrial-expiations/ambitious-scientist)  
+Earthly suffering due to crimes committed in a previous life
+
+[Antonio B](/death-experiences/terrestrial-expiations/antonio-b)  
+The man who was accidentally buried alive
+
+[Charles de Saint-G](/death-experiences/terrestrial-expiations/charles-de-saint-g)  
+The mentally ill boy
+
+[Clara Rivier](/death-experiences/terrestrial-expiations/clara-rivier)  
+The Crippled Girl Who Predicted Her Death — Then Returned To Comfort Her Family
+
+[Count Max the Beggar](/death-experiences/terrestrial-expiations/count-max-the-beggar)  
+The Proud Nobleman Reborn As a Beggar
