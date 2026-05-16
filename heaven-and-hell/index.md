@@ -60,3 +60,6 @@ The Crippled Girl Who Predicted Her Death — Then Returned To Comfort Her Famil
 
 [Count Max the Beggar](/death-experiences/terrestrial-expiations/count-max-the-beggar)  
 The Proud Nobleman Reborn As a Beggar
+
+[Szymel Slizgol](/death-experiences/terrestrial-expiations/szymel-slizgol)  
+The Cruel King Reborn as a Beggar — The Afterlife Confession of Szymel Slizgol
