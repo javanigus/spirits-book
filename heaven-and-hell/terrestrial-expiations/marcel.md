@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 Marcel, known in an asylum only as Number 4, was a horribly deformed child of about eight. His legs were twisted against his neck, his body was covered in sores, and his suffering was extreme. Yet he was gentle, patient, intelligent, and resigned. He once asked the doctor for more sleeping pills, not to ease himself, but so he would not groan and disturb the other patients.
 
+After Marcel died, the Paris Society evoked him some time later, and he gave the following communication in 1863.
+
 Narration: The medium’s hand begins writing...
 
 Marcel: You have called me, and I have come so that my voice may pass beyond these walls and touch other hearts. Let it tell those who hear me that the sorrows of Earth prepare the joys of heaven.
