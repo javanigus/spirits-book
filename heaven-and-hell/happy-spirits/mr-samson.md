@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 Paris, 1862. Mr. Sanson, one of the earliest members of the Spiritist Society of Paris, died after a year of intense suffering. Before his death, he asked Allan Kardec to evoke his spirit as soon as possible after his passing so people could better understand what happens after death through his testimony.
 
-Allan: Mr. Sanson, can you hear us?
+To honor that request, members of the Society went to his house shortly after his death and evoked him there, beside his body, an hour before the funeral.
 
 Mr. Sanson: Yes. I respond to your call in order to fulfill my promise.
 

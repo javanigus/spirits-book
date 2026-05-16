@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 Mr. Letil, a manufacturer near Paris, died after a cauldron of burning varnish overturned onto him. Alone with only a young apprentice nearby, he still managed to reach his home. His flesh came away in strips, and he remained in full awareness for about twelve hours of terrible agony. He made his arrangements clearly, uttered no complaint, and died praying.
 
+A few days after his death, the Paris Society evoked him, and he gave the following communication.
+
 Narration: The medium’s hand begins writing...
 
 Mr. Letil: A weight of sadness still presses on me. Still crushed by the horror of my tragic death, I feel as if I am still under the executioner's axe. Oh, what suffering... what horrible suffering. I shudder when I think of it. I still seem sickened by the foul smell of my burning flesh.

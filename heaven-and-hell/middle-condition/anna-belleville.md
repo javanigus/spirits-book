@@ -16,7 +16,7 @@ Through sheer force of will, she temporarily regained strength and lived three m
 
 Anna Belleville: "I was dying... but I decided to wait until you came back, because I still have many things to say to you."
 
-The following communication was received the day after her death.
+The day after her death, she was evoked, and the following communication was received.
 
 Narration: The medium’s hand begins writing...
 

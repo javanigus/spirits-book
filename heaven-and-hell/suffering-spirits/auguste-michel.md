@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 Auguste Michel was young, rich, smart, charming, and naturally kind, but he lived for pleasure, luxury, vanity, and physical indulgence. He committed no great crime, yet he did no real good. He died in an accident after being thrown from a carriage.
 
+A few days after his death, he was evoked by a medium who had learned about him, and he began answering in this state.
+
 Narration: The medium’s hand begins writing...
 
 Auguste Michel: I've barely been separated from my body, so it's hard for me to speak to you.

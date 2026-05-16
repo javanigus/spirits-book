@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 Clara Rivier died at ten. From age four she had been unable to use her limbs. Through years of convulsions and pain, she never complained. She comforted her family, spoke often of the future life, predicted her death, and died exactly when she said she would. Afterward, disturbances shook her parents' house, while her little sister joyfully claimed to see Clara.
 
+After her death, Clara was evoked, and she gave the following replies.
+
 Narration: The medium’s hand begins writing...
 
 Clara Rivier: I am beside you, ready to answer your questions.

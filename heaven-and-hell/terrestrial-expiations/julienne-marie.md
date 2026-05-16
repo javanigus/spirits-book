@@ -8,6 +8,8 @@ hide_table_of_contents: true
 
 Julienne-Marie, known as the beggar woman, was an old infirm woman near Nozay who lived by begging. One day she fell into a pond and was rescued by a local doctor who often gave her alms. She died soon after. On the day of her death, the doctor felt a strange passing sensation over his body, as if someone had brushed against him. His guides later told him it was likely her spirit, grateful and already happy.
 
+Soon after her death, the doctor evoked her, and she replied as follows.
+
 Narration: The medium’s hand begins writing...
 
 Doctor A: Good Julienne-Marie, I am glad to know you are happy. That was all I wished to know. I will often think of you, and I will never forget you in my prayers.

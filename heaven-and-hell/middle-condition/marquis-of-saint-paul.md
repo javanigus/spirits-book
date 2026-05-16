@@ -8,8 +8,6 @@ The Marquis of Saint-Paul died in 1860 and was evoked on May 16th, 1861, at the 
 
 Narration: The medium’s hand begins writing...
 
-Allan: Are you here?
-
 Marquis of Saint-Paul: I am here.
 
 Allan: Your sister asked us to evoke you.

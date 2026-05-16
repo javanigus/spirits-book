@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 Novel was a spirit speaking through a medium who had known him during life on Earth. He died at twenty-four and remained strongly attached to material life. After death, his suffering came from the painful separation, the awakening of conscience, shame, and the sense of eternity.
 
+When the medium later called him, Novel began by describing what he had suffered in dying.
+
 Narration: The medium’s hand begins writing...
 
 Novel: I'm going to tell you what I went through in dying.

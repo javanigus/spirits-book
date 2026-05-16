@@ -6,7 +6,11 @@ hide_table_of_contents: true
 
 Adelaide Margaret Gosse was a poor servant girl from Normandy. As a child she entered the service of a farming family. After floods and ruin destroyed their livelihood, she gave them all her savings, kept serving without wages, and later supported their widowed daughter for decades with her own work and her husband's wages. In old age she was publicly honored for her devotion. She died suddenly and without pain.
 
+After her death, the Paris Society evoked her on December 27, 1861, and she answered as follows.
+
 Narration: The medium’s hand begins writing...
+
+Adelaide Margaret Gosse: I am happy to be allowed to come to you.
 
 Allan: We are glad you've come. We wanted to honor the devotion of your life on Earth. We hope your self-sacrifice has been rewarded.
 

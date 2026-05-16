@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 François Riquier was an ordinary old miser and a lifelong bachelor. He died in 1857 and left a large fortune to distant relatives. In 1862, his spirit appeared to the daughter of a woman who had once rented from him. The daughter was a writing medium and sometimes entered a magnetic sleep.
 
+A few days later, he was evoked so he could speak with the woman he had been trying to reach.
+
 Narration: The medium’s hand begins writing...
 
 Medium: What do you want from me?

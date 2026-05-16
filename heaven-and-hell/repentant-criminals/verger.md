@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 On January 3, 1857, Archbishop Sibour of Paris was stabbed outside the church of Saint Stephen of the Mount by a young priest named Verger. Verger was sentenced to death and executed on January 30. Up to his last moment, he showed no real regret or repentance for the murder.
 
+On the day of his execution, Verger was evoked and answered in this confused condition.
+
 Narration: The medium’s hand begins writing...
 
 Verger: I am still held in my body.

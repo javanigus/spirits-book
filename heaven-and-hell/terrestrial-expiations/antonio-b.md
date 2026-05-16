@@ -8,7 +8,7 @@ Antonio B. was a respected writer and public official in Lombardy. After an atta
 
 Narration: The medium’s hand begins writing...
 
-Allan: What do you want with me?
+Antonio B: What do you want with me?
 
 Allan: One of your relatives asked us to call you. We did so gladly and would be grateful if you would answer our questions.
 

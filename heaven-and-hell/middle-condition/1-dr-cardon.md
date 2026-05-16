@@ -84,9 +84,9 @@ Dr. Cardon: My children...
 
 Dr. Cardon: I give you my blessing.
 
-Narration: The medium’s hand begins writing...
+After a friend of the family later shared these details, Dr. Cardon was evoked so he could describe what happened between his apparent death and his final departure.
 
-Allan: Are you here?
+Narration: The medium’s hand begins writing...
 
 Dr. Cardon: I am near you.
 
