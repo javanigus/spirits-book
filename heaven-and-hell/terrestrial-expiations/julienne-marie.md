@@ -1,6 +1,8 @@
 ---
 title: Julienne Marie
 sidebar_label: Julienne Marie
+speaker_labels:
+  - Doctor A
 hide_table_of_contents: true
 ---
 
@@ -8,7 +10,7 @@ Julienne-Marie, known as the beggar woman, was an old infirm woman near Nozay wh
 
 Narration: The medium’s hand begins writing...
 
-Allan: Good Julienne-Marie, I am glad to know you are happy. That was all I wished to know. I will often think of you, and I will never forget you in my prayers.
+Doctor A: Good Julienne-Marie, I am glad to know you are happy. That was all I wished to know. I will often think of you, and I will never forget you in my prayers.
 
 Julienne-Marie: Put your trust in God, and inspire your patients with that same trust, and your treatment will almost always succeed. Do not trouble yourself about the reward you will receive. It will be more than you ever hoped. God always knows how to repay the one who truly devotes himself to easing the pain of others and does it without hidden motives. Otherwise it would all be nothing but illusion.
 
