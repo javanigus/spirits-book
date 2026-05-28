@@ -35,6 +35,32 @@ They are created simple and ignorant. Not perfect. Not wicked by nature. Not wis
 
 This is important. According to this view, God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
 
+### Why Older Revelations Sound Different
+
+At this point, a question naturally arises. If this is true, why do older revelations and scriptures sometimes sound different?
+
+In this view, the law of God does not change. But human understanding develops. Truth is given according to what people are ready to receive. And it must be expressed through the language, images, and mental world available at the time.
+
+God could have given one identical scripture to all humanity at once. But He did not. Instead, revelation came at different times, in different languages, and among different peoples. That, too, may be part of divine wisdom. Humanity does not learn everything at once. And people in different conditions do not need every truth explained in the same way or at the same time.
+
+That is why older teachings often came clothed in symbol, parable, poetry, and partial ideas. The spiritual truth may be real, even when the form is limited. So the problem is not always that earlier revelation was false. Often it was incomplete, figurative, or adapted to a less developed humanity.
+
+Human words are narrow. Invisible realities are difficult to describe. So people often spoke of spiritual things through earthly pictures.
+
+This also helps explain why ancient peoples could mistake created powers for God. Some worshiped the sun. Some worshiped the stars. Some gave divine status to the sea, the sky, or other forces of nature. Later monotheistic revelation, like Judaism, Christianity, and Islam, clarified that there is only one God, and that created beings or powers must not be worshiped.
+
+In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears openly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing in that direction, though not as a full and clear statement of reincarnation.
+
+The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. But they do not always explain that angels may be understood, in this view, not as a separate creation, but as spirits who reached purification. In that sense, angelhood is not a different species. It is the end of the journey.
+
+The same principle applies to heaven and hell. Some scriptures describe hell with fire. But spirits are not material bodies, so material fire cannot be the deepest reality of their suffering. The true suffering is moral: remorse, shame, frustrated desire, separation from the good, and the clear sight of evil done.
+
+And some scriptures describe heaven through gardens, rivers, abundance, and beauty. For people living in harsh earthly conditions, such images could speak powerfully. They gave the mind something it could grasp. But the deeper reality is higher than the image.
+
+So later clarification does not destroy earlier revelation. It explains what was once expressed in forms suited to the time. Earlier teachings prepared the way for clearer light.
+
+And the differences among religious forms may themselves become a moral trial. They test whether people will respond with humility, justice, and charity, or with pride, contempt, and violence. If morality and righteousness are the heart of revelation, then how people treat those who received a different form may reveal how much of that revelation they truly understood.
+
 All spirits begin with the same destiny before them: progress. Their mission is to advance. Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome. They must rise, little by little, until they become pure spirits.
 
 Why are they not created perfect from the beginning? Because perfection without struggle would have no merit. A spirit must learn. A spirit must choose. A spirit must be tested. Only then can goodness become truly its own.
