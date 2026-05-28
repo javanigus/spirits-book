@@ -297,21 +297,33 @@ Once incarnated, the spirit becomes what we call a soul.
 
 The soul is simply the incarnate spirit.
 
-The human being has three main elements: the body, the soul, and the perispirit, the subtle fluid-like envelope that links the two.
+The human being has three main elements: the body, the soul, and the perispirit.
 
-That union begins at conception.  
+The perispirit is the subtle fluid-like envelope that links the soul to the body.
 
-The spirit assigned to that body is linked to it from the beginning, though at first only loosely.  
+That union begins at conception.
 
-As the body develops, the bond grows stronger.  
+The spirit meant for that body is linked to it from the beginning.
 
-If that bond breaks before birth, the child does not live.  
+At first, the bond is still weak.
 
-Before birth, the spirit is attached, but not yet fully active in earthly life.  
+As the body develops, the bond grows stronger.
 
-The first cry marks its full entry into bodily life.  
+If it breaks before birth, the child does not live.
 
-From that point, the bond lasts until death breaks it. 
+And the union is not complete until birth.
+
+So before birth, the spirit is attached.
+
+But it is not yet fully active in earthly life.
+
+In that sense, incarnation is not yet complete.
+
+Not every body lost before birth had reached a completed incarnation.
+
+The first cry marks the spirit's full entry into bodily life.
+
+From that point, the bond lasts until death breaks it.
 
 The body is an instrument.
 
@@ -333,7 +345,9 @@ So a child may be young in body, yet older in spirit than the parents.
 
 And good parents may still receive a difficult child.  
 
-That spirit may need guidance for its own reform, while also becoming a trial for the parents.
+That spirit may need guidance for its own reform.
+
+It may also become a trial for the parents.
 
 Childhood is a period of adaptation.
 
@@ -341,7 +355,9 @@ The spirit enters a new life under a veil.
 
 Its full character does not show at once.
 
-That is part of divine wisdom, because childhood makes the spirit more pliable and easier to guide.
+That is part of divine wisdom.
+
+Childhood makes the spirit more pliable and easier to guide.
 
 This is why education matters so much.
 
@@ -349,21 +365,31 @@ Parents and teachers are not shaping a blank machine.
 
 They are helping an already existing spirit continue its progress.
 
-Sometimes a child dies young because that brief life completed what remained of an earlier life cut short.  
+Sometimes a child dies young because that brief life completed what remained of an earlier life cut short.
 
-The path of that spirit is not over.  
+But that does not mean the spirit was already pure.
 
-It enters another existence and continues its development.  
+Dying young is not the same as finishing the whole journey.
+
+The path of that spirit is not over.
+
+It enters another existence and continues its development.
 
 And for the parents, such a loss may also be a painful trial.
 
-A damaged brain can hinder the soul's expression without diminishing the soul itself.  
+A damaged brain can hinder the soul's expression without diminishing the soul itself.
 
-So mental illness is not proof of a lesser spirit.  
+So mental illness is not proof of a lesser spirit.
 
-Sometimes such a condition is a trial or an expiation.  
+Sometimes such a condition is a trial or an expiation.
 
-Responsibility is also lessened when reason cannot act freely through a disordered brain.  
+Responsibility is also lessened when reason cannot act freely through a disordered brain.
+
+And no other spirit literally replaces the incarnate soul in the body.
+
+But a person may still come under strong spiritual influence or subjugation.
+
+So some cases do involve spirit influence.
 
 And many cases once called demonic possession are really illness and belong to medicine.
 
@@ -609,13 +635,25 @@ A new family, perhaps in another country, language, religion, or race.
 
 A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
 
-That is why discrimination based on language, religion, ethnicity, gender, and race is absurd.  
+That is why discrimination is absurd.
+
+Whether based on language, religion, ethnicity, gender, or race.
 
 We are not permanently tied to any of these.
 
-A spirit may live one life in Judaism, another in Christianity, another in Islam, and later in some other tradition.  
+A spirit may live one life in Judaism.
 
-So the spirit is older than its present religion.  
+Another in Christianity.
+
+Another in Islam.
+
+And later in some other tradition.
+
+So the spirit is older than its present religion.
+
+What matters most is moral progress.
+
+Not the label worn in one lifetime.
 
 No one should treat a temporary form of worship as proof of permanent superiority.
 
@@ -641,7 +679,11 @@ Trials become fewer and less tied to earthly conditions.
 
 Eventually a spirit no longer needs bodily life at all.
 
-When purification is complete, when the spirit has been cleansed of selfishness, pride, cruelty, and other serious moral faults, reincarnation ends.
+When purification is complete, reincarnation ends.
+
+The spirit has overcome selfishness, pride, cruelty, and other serious moral stains.
+
+The faults that once held it back.
 
 That spirit becomes what is called a pure spirit.
 
@@ -649,11 +691,11 @@ A pure spirit is not a different species.
 
 It is not a special being created above the others.
 
-It is simply a spirit that has completed the long path.
+It is simply a spirit that completed the long ascent.
 
 This is what is often called an angel.
 
-So angels, in this view, are not beings created perfect from the beginning.
+So angels, in this view, were not created perfect at the beginning.
 
 They are spirits who arrived.
 
@@ -665,21 +707,29 @@ They learned.
 
 They purified themselves.
 
-And now they no longer need expiation, no longer need reincarnation, and no longer live under the influence of matter, meaning they are no longer ruled by bodily cravings, possessions, status, or material desire.
+They no longer need expiation.
 
-This is what many people call heaven: not a place, but the state of purified and happy spirits.
+They no longer need reincarnation.
+
+And they are no longer ruled by matter or material desire.
+
+This is what many people call heaven.
+
+Not a place in the earthly sense.
+
+But the state of purified and happy spirits.
 
 Their happiness is constant, but not idle.
 
-They do not disappear into passivity.
+They do not sink into passivity.
 
 They become messengers and ministers of God.
 
-They help direct lower spirits.
+They help guide lower spirits.
 
 They assist the progress of humanity.
 
-They protect, guide, inspire, and carry out missions suited to divine order.
+They protect, inspire, and carry out missions suited to divine order.
 
 They can act across worlds.
 
