@@ -1,826 +1,238 @@
 # From Creation to Angel: How Life Works
-## A Spiritist Explanation of Life, Death, Reincarnation, and Purification
+## An Explanation of Life, Death, Reincarnation, and Purification According to Spirits of High Degree, a.k.a Angels
 
-## TTS-Friendly Script
+## The Questions
 
-What is life?
+What is life? Why are we here? Why are some people born into comfort, while others are born into hardship? Why do good people suffer, and why do evil people sometimes seem to prosper? And what happens after death?
 
-Why are we here?
+## God and the First Cause
 
-Why are some people born into comfort, while others are born into hardship?
+According to the teachings summarized here, life begins with God. God did not begin at some point in time. God always existed. God is the Supreme Intelligence, the First Cause of all things.
 
-Why do good people suffer, and why do evil people sometimes seem to prosper?
+Nothing can exist without a cause. The universe exists, so it must have a cause. That cause cannot be matter, because matter itself is created, limited, and changing. It cannot be chance, because chance cannot explain order, harmony, law, and intelligence. So behind everything is God: eternal, unchanging, immaterial, one, all-powerful, perfectly just, and perfectly good.
 
-And what happens after death?
+God is not the universe itself. God is not the sum of all beings. God is the Creator, and the universe is creation.
 
-According to the teachings summarized here, life begins with God.
+And creation is not static. It is not a finished machine abandoned by its maker. It is alive with movement, development, renewal, and purpose. Worlds are formed. Worlds develop. Worlds disappear. And their elements return to the great order of the universe.
 
-God did not begin at some point in time.
+## Matter, Spirit, and Creation
 
-God always existed.
+Universal space is infinite. What seems empty is not truly empty. It is filled with kinds of substance too subtle for our senses.
 
-God is the Supreme Intelligence, the First Cause of all things.
+The universe, in this view, is made of two great principles: matter and spirit. Matter is the material element. Spirit is the intelligent element. Above both is God.
 
-Nothing can exist without a cause.
+Between gross matter and spirit there is also a subtle intermediary, often called the universal fluid, a fine substance that acts as a bridge between spirit and matter. This fluid helps explain how spirit can act on matter, and how the visible and invisible worlds remain connected.
 
-The universe exists, so it must have a cause.
+God created spirits. Spirits are not pieces of God. They are not self-created. They are created beings, individual and enduring. They had a beginning, although we do not know when or how their creation took place. But once created, they do not cease to exist. A body can decay. A spirit does not.
 
-That cause cannot be matter, because matter itself is created, limited, and changing.
+## Why Spirits Are Not Created Perfect
 
-It cannot be chance, because chance cannot explain order, harmony, law, and intelligence.
+At their beginning, all spirits are created equal. Not equal in achievement, but equal in origin and possibility.
 
-So behind everything is God: eternal, unchanging, immaterial, one, all-powerful, perfectly just, and perfectly good.
+They are created simple and ignorant. Not perfect. Not wicked by nature. Not wise at the start. They begin like children of eternity, with freedom, intelligence in germ, and the capacity to grow.
 
-God is not the universe itself.
+### Satan as a Figure of Evil
 
-God is not the sum of all beings.
+This is important. According to this view, God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
 
-God is the Creator, and the universe is creation.
+All spirits begin with the same destiny before them: progress. Their mission is to advance. Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome. They must rise, little by little, until they become pure spirits.
 
-And creation is not static.
+Why are they not created perfect from the beginning? Because perfection without struggle would have no merit. A spirit must learn. A spirit must choose. A spirit must be tested. Only then can goodness become truly its own.
 
-It is not a finished machine abandoned by its maker.
+So the history of a spirit is the history of gradual progress. Not instant enlightenment. Not one single earthly life. But a long education across many conditions, many worlds, and many incarnations.
 
-It is alive with movement, development, renewal, and purpose.
+## Life in the Spirit World
 
-Worlds are formed.
+Before incarnation, the spirit exists in the spirit world. This is the primary world. It existed before the visible world, remains after it, and surrounds it constantly.
 
-Worlds develop.
+Spirits fill space. They are not confined to one point as human bodies are. They move with the speed of thought. When thought reaches a place, the spirit is there. Matter does not block them. They can pass through everything.
 
-Worlds disappear.
+They do not speak by mouths or hear by ears in the earthly way. They communicate through thought. Their influence can radiate outward without dividing them. A spirit is still an individual being, but its presence can extend in many directions at once, especially as it becomes more purified.
 
-And their elements return to the great order of the universe.
+### The Perispirit
 
-Universal space is infinite.
+Every spirit is clothed in a subtle envelope called the perispirit, a fluid-like spiritual body that surrounds the spirit. This is not a tangible body, but it is still a real form. It allows the spirit to act, to appear, and to remain distinct. Through the perispirit, the spirit preserves individuality and can sometimes become perceptible.
 
-What seems empty is not truly empty.
+### Gender and the Spirit
 
-It is filled with kinds of substance too subtle for our senses.
+Spirits do not have gender in themselves. They are not male or female in the earthly sense. Gender belongs to the physical body, not to the spirit. Love, sympathy, and affection remain in spirit life, but they do not come from physical intimacy. They come from harmony of character, memory, and moral affinity.
 
-The universe, in this view, is made of two great principles: matter and spirit.
+Because spirits are genderless in themselves, the same spirit can live one life in a male body and another in a female body. Why? Because each form of life offers different duties, relationships, trials, and lessons. So gender is part of embodied education, not part of the eternal essence of the soul.
 
-Matter is the material element.
+## Incarnation and Many Worlds
 
-Spirit is the intelligent element.
+A spirit progresses through incarnation. Incarnation means taking on a material body suited to a world. On Earth, this means a human body. On other worlds, it may mean a body very different from ours.
 
-Above both is God.
+Earth is not the only inhabited world. It is not the highest world. It is one world among many. Different worlds have different physical conditions, and spirits incarnate in bodies suited to those worlds. As spirits advance, they can move from more material worlds to more refined ones. On higher worlds, bodies are less dense, needs are less harsh, selfishness is weaker, and the beings there understand spiritual life more clearly.
 
-Between gross matter and spirit there is also a subtle intermediary, often called the universal fluid, a fine substance that acts as a bridge between spirit and matter.
+So the journey of a spirit is not limited to Earth. A spirit may incarnate many times on the same world if it still needs those lessons. Or it may move on to another world when ready.
 
-This fluid helps explain how spirit can act on matter, and how the visible and invisible worlds remain connected.
+### Why Spirits Incarnate
 
-God created spirits.
+Incarnation has two major purposes: expiation and improvement. Expiation means paying for and repairing past faults and sins through the trials of life. Improvement means gaining knowledge, moral strength, and purification, meaning moral cleansing and steady progress toward goodness.
 
-Spirits are not pieces of God.
+Before a new life, the spirit often passes through a period as an errant spirit, meaning a spirit between incarnations. That means it is no longer in a body, and has not yet entered a new one. In that state, it reflects on its past, sees more clearly what it still lacks, receives guidance, and prepares for another incarnation.
 
-They are not self-created.
+### Choosing Trials
 
-They are created beings, individual and enduring.
+Before reincarnating, the spirit may choose the kind of life it will undergo. Not every tiny detail. Not every event. But the general kind of trial.
 
-They had a beginning, although we do not know when or how their creation took place.
+It may choose poverty. Or wealth. Health. Or illness. Power. Or obscurity. Freedom. Or dependence. A difficult family. A short life. A body with severe limitations. A life among temptation. Or a life of service.
 
-But once created, they do not cease to exist.
+Why would a spirit choose suffering? Because from the spirit's point of view, earthly life is brief, but its consequences are lasting. A hard life may allow faster purification, meaning faster moral cleansing and correction. A spirit that once abused wealth may choose poverty. A spirit that once ruled harshly may choose subjection. A spirit that once caused physical suffering may choose a body that suffers.
 
-A body can decay.
+A spirit may also choose not only expiation, but mission, meaning a life taken on in order to help others. A more advanced spirit may accept a life in a difficult environment in order to help others. So not every hardship is punishment. Some hardships are chosen for growth. Some are chosen for repair as if to pay for past mistakes or sins. And some are accepted for service.
 
-A spirit does not.
+Still, the choice is not always fully free. If a spirit is too ignorant, too stubborn, or too blind to choose well, God may impose a life suited to its correction. So there is freedom, but not anarchy. There is responsibility, but always under divine law.
 
-At their beginning, all spirits are created equal.
+## The Soul in Bodily Life
 
-Not equal in achievement, but equal in origin and possibility.
+Once incarnated, the spirit becomes what we call a soul. The soul is simply the incarnate spirit.
 
-They are created simple and ignorant.
+### Conception, Birth, and Incarnation
 
-Not perfect.
+The human being has three main elements: the body, the soul, and the perispirit. The perispirit is the subtle fluid-like envelope that links the soul to the body.
 
-Not wicked by nature.
+That union begins at conception. The spirit meant for that body is linked to it from the beginning. At first, the bond is still weak. As the body develops, the bond grows stronger. If it breaks before birth, the child does not live.
 
-Not wise at the start.
+And the union is not complete until birth. So before birth, the spirit is attached. But it is not yet fully active in earthly life. In that sense, incarnation is not yet complete. Not every body lost before birth had reached a completed incarnation. The first cry marks the spirit's full entry into bodily life. From that point, the bond lasts until death breaks it.
 
-They begin like children of eternity, with freedom, intelligence in germ, and the capacity to grow.
+### The Body and the Soul
 
-This is important.
+The body is an instrument. It is not the source of intelligence, conscience, or character. The soul already possesses its faculties. The body only allows those faculties to appear under material conditions.
 
-According to this view, God does not create some spirits good and others evil.
+This is why a child's spirit is not less complete than an adult's. What develops is not the soul itself, but the organs through which it can express itself.
 
-God does not create some to rule and others to be lost.
+Parents give the body. They do not give the soul its conscience, intelligence, or deepest tendencies. So a child may be young in body, yet older in spirit than the parents.
 
-What many people call Satan is not a rival power standing against God.
+### Parents and Childhood
 
-In this view, Satan is a figure used to represent evil, not a being created evil forever.
+And good parents may still receive a difficult child. That spirit may need guidance for its own reform. It may also become a trial for the parents.
 
-All spirits begin with the same destiny before them: progress.
+Childhood is a period of adaptation. The spirit enters a new life under a veil. Its full character does not show at once. That is part of divine wisdom. Childhood makes the spirit more pliable and easier to guide. This is why education matters so much.
 
-Their mission is to advance.
+Parents and teachers are not shaping a blank machine. They are helping an already existing spirit continue its progress.
 
-Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome.
+### Why Some Children Die Young
 
-They must rise, little by little, until they become pure spirits.
+Sometimes a child dies young because that brief life completed what remained of an earlier life cut short. But that does not mean the spirit was already pure. Dying young is not the same as finishing the whole journey.
 
-Why are they not created perfect from the beginning?
+The path of that spirit is not over. It enters another existence and continues its development. And for the parents, such a loss may also be a painful trial.
 
-Because perfection without struggle would have no merit.
+### Mental Illness and Spiritual Influence
 
-A spirit must learn.
+A damaged brain can hinder the soul's expression without diminishing the soul itself. So mental illness is not proof of a lesser spirit. Sometimes such a condition is a trial or an expiation. Responsibility is also lessened when reason cannot act freely through a disordered brain.
 
-A spirit must choose.
+And no other spirit literally replaces the incarnate soul in the body. But a person may still come under strong spiritual influence or subjugation. So some cases do involve spirit influence. And many cases once called demonic possession are really illness and belong to medicine.
 
-A spirit must be tested.
+## Freedom, Influence, and Guardian Spirits
 
-Only then can goodness become truly its own.
+During incarnation, spirits remain free. That freedom is essential. Without free will, there would be no merit, no guilt, no growth.
 
-So the history of a spirit is the history of gradual progress.
+But incarnated spirits are not alone in their thoughts. They are constantly influenced by other spirits. Good spirits inspire good thoughts, courage, patience, and charity. Imperfect spirits may suggest selfishness, pride, despair, cruelty, envy, or sensuality.
 
-Not instant enlightenment.
+This does not destroy freedom. The incarnated spirit still chooses. The influence is real, but responsibility remains personal. You are not innocent just because a bad thought was suggested to you. And you are not good merely because a good thought passed through your mind. Your merit lies in what you accept, what you resist, and what you do.
 
-Not one single earthly life.
+Every person also has the support of protecting spirits, often called guardian spirits or guardian angels. These are good spirits who try to guide, comfort, warn, and strengthen us. They do not remove struggle. They do not make our choices for us. They help quietly, often through conscience, intuition, inner encouragement, and good impressions.
 
-But a long education across many conditions, many worlds, and many incarnations.
+## Earthly Life as Trial and Progress
 
-Before incarnation, the spirit exists in the spirit world.
+Life on Earth, then, becomes a field of trials. Poverty can test resignation, trust, and envy. Wealth can test pride, greed, and selfishness. Illness can test patience. Power can test justice. Dependence can test humility. Family life can test affection, forgiveness, and duty. Social humiliation can break vanity. Loneliness can reveal what we truly love.
 
-This is the primary world.
+The same outward condition can purify one spirit and harden another. A poor person may become bitter, or charitable. A rich person may become generous, or corrupt. An afflicted person may become patient, or rebellious.
 
-It existed before the visible world, remains after it, and surrounds it constantly.
+So the trial does not save or condemn by itself. The spirit's response to the trial is what matters. If an incarnated spirit learns patience, practices charity, resists selfishness, rejects cruelty, masters pride, and freely chooses the good, progress becomes faster. If it gives itself over to vanity, hatred, greed, sensuality, injustice, and cruelty, progress slows. But it does not stop forever. No spirit is shut out from the future forever.
 
-Spirits fill space.
+## Death and the Return to Spirit Life
 
-They are not confined to one point as human bodies are.
+When bodily life ends, death comes. Death is not the end of the spirit. It is just the end of the body. The body returns to matter. The vital principle returns to its source. The soul becomes spirit again and returns to the spirit world.
 
-They move with the speed of thought.
+### Different Experiences at Death
 
-When thought reaches a place, the spirit is there.
+The separation of soul and body is not always the same. For some, especially those less attached to bodily life and earthly things such as possessions, status, pleasure, power, and the habits of the body, death is gentle. The ties loosen gradually, like a peaceful awakening. For a good spirit, the first experience after death may be relief, clarity, reunion, and joy. It is like a heavy burden falling away.
 
-Matter does not block them.
+But for those strongly attached to bodily life and earthly things, such as wealth, status, pleasure, possessions, power, or the habits of the body, death can be troubled. The spirit may remain confused. It may not know at once that it is dead. It may see its own body, hear people mourning, and still try to speak, while no one around can hear it.
 
-They can pass through everything.
+Violent death can intensify this confusion. Suicide can intensify it even more. The more impure, selfish, or guilty the spirit, the more painful this first stage may be.
 
-They do not speak by mouths or hear by ears in the earthly way.
+### Suffering After Death
 
-They communicate through thought.
+For those who knowingly loved evil, one of the first feelings is shame, because truth can no longer be hidden. And in the spirit world, secrecy is greatly diminished. Thought is more exposed. Spirits see one another more directly. The guilty cannot hide behind titles, status, or appearances.
 
-Their influence can radiate outward without dividing them.
+A murderer may be confronted by those he murdered. A tyrant may stand before those he oppressed. A cruel person may feel, with terrible clarity, what was caused in others. This is part of spiritual suffering.
 
-A spirit is still an individual being, but its presence can extend in many directions at once, especially as it becomes more purified.
+The suffering of spirits is usually moral rather than bodily. This is what many people call hell: not a place of fire, but a state of suffering, remorse, and separation from the good. There is no flesh there to wound as the body is wounded. But there is remorse. Shame. Fear. Longing. Confusion. Envy. Isolation. Frustrated desire. The memory of evil done. The pain of seeing good and not yet being able to share in it.
 
-Every spirit is clothed in a subtle envelope called the perispirit, a fluid-like spiritual body that surrounds the spirit.
+### Hell as a State, Not a Place
 
-This is not a tangible body, but it is still a real form.
+Some spirits remain attached to old passions even after death. A proud spirit remains proud. A selfish spirit remains selfish. A sensual spirit still desires what it can no longer satisfy.
 
-It allows the spirit to act, to appear, and to remain distinct.
+Suffering in the spirit world can feel like an eternity. Not because God has decreed endless torment for all the guilty. But because the spirit often does not see when its suffering will end. It feels no earthly clock. It does not measure time the way we do. And when there is no visible end, suffering can seem endless.
 
-Through the perispirit, the spirit preserves individuality and can sometimes become perceptible.
+But it is not endless in the absolute sense. No spirit is condemned forever with no path upward. As long as the spirit remains imperfect, suffering continues.
 
-Spirits do not have gender in themselves.
+## Repentance, Repair, and Return
 
-They are not male or female in the earthly sense.
+When the spirit repents, understands, and begins to repair, the path upward opens. That repair may happen in spirit life, in future incarnations, or both.
 
-Gender belongs to the physical body, not to the spirit.
+Some suffering spirits are helped by prayer. Some are softened by remorse. Some are moved when others forgive them. Some accept a new life of expiation, meaning a life designed to repay and repair past wrongs. Some undertake missions of repair.
 
-Love, sympathy, and affection remain in spirit life, but they do not come from physical intimacy.
+Even a formerly evil spirit may later help prevent evil in others. A criminal spirit may warn future criminals. A once-cruel ruler may return in humility. A miser may return in poverty. A persecutor may return under the same burden once imposed on others.
 
-They come from harmony of character, memory, and moral affinity.
+This is why earthly life is so serious in this view. Nothing is lost. Nothing is hidden forever. Nothing is without consequence. But also, no sincere effort is wasted. No repentance is useless. No spirit is abandoned forever.
 
-Because spirits are genderless in themselves, the same spirit can live one life in a male body and another in a female body.
+### The Errant State
 
-Why?
+After death, many spirits spend time in the errant state before reincarnating. There they study, observe, remember more clearly, and prepare. They may visit more advanced worlds briefly. They may regret what they wasted. They may desire to return quickly. Or they may fear returning.
 
-Because each form of life offers different duties, relationships, trials, and lessons.
+But no spirit can delay its progress forever. Eventually, it must continue the journey. And so reincarnation begins again.
 
-So gender is part of embodied education, not part of the eternal essence of the soul.
+### Reincarnation and Human Inequality
 
-A spirit progresses through incarnation.
+A new body, perhaps male instead of female, healthy instead of unhealthy, or weak instead of strong. A new family, perhaps in another country, language, religion, or race. A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
 
-Incarnation means taking on a material body suited to a world.
+That is why discrimination is absurd. Whether based on language, religion, ethnicity, gender, or race. We are not permanently tied to any of these.
 
-On Earth, this means a human body.
+### Religion Across Many Lives
 
-On other worlds, it may mean a body very different from ours.
+A spirit may live one life in Judaism. Another in Christianity. Another in Islam. And later in some other tradition.
 
-Earth is not the only inhabited world.
+So the spirit is older than its present religion. What matters most is moral progress. Not the label worn in one lifetime. No one should treat a temporary form of worship as proof of permanent superiority.
 
-It is not the highest world.
+### Why Past Lives Are Forgotten
 
-It is one world among many.
+Usually, the spirit does not remember its past lives clearly while incarnated. This forgetfulness is described as an act of mercy. If people remembered every past fault, some would be crushed by shame. Others would be inflated by pride. Relationships would be poisoned by memory.
 
-Different worlds have different physical conditions, and spirits incarnate in bodies suited to those worlds.
+Instead, what remains is what matters most: tendencies, conscience, aptitudes, instincts, sympathies, fears, and the unfinished work of the soul. So a person does not remember everything. But a person carries everything important.
 
-As spirits advance, they can move from more material worlds to more refined ones.
+## Pure Spirits, Angels, and Heaven
 
-On higher worlds, bodies are less dense, needs are less harsh, selfishness is weaker, and the beings there understand spiritual life more clearly.
+As spirits become more purified, incarnations become less difficult. Trials become fewer and less tied to earthly conditions. Eventually a spirit no longer needs bodily life at all.
 
-So the journey of a spirit is not limited to Earth.
+When purification is complete, reincarnation ends. The spirit has overcome selfishness, pride, cruelty, and other serious moral stains, the faults that once held it back. That spirit becomes what is called a pure spirit.
 
-A spirit may incarnate many times on the same world if it still needs those lessons.
+A pure spirit is not a different species. It is not a special being created above the others. It is simply a spirit that completed the long ascent. This is what is often called an angel.
 
-Or it may move on to another world when ready.
+So angels, in this view, were not created perfect at the beginning. They are spirits who arrived. They passed through lower degrees. They struggled. They learned. They purified themselves. They no longer need expiation. They no longer need reincarnation. And they are no longer ruled by matter or material desire.
 
-Incarnation has two major purposes: expiation and improvement.
+This is what many people call heaven. Not a place in the earthly sense. But the state of purified and happy spirits. Their happiness is constant, but not idle. They do not sink into passivity.
 
-Expiation means paying for and repairing past faults and sins through the trials of life.
+They become messengers and ministers of God. They help guide lower spirits. They assist the progress of humanity. They protect, inspire, and carry out missions suited to divine order. They can act across worlds. They can go where their work is needed.
 
-Improvement means gaining knowledge, moral strength, and purification, meaning moral cleansing and steady progress toward goodness.
+Their freedom is far greater than that of ordinary spirits. Their thought reaches farther. Their influence is wider. Their joy is deeper. And their whole existence is aligned with the good.
 
-Before a new life, the spirit often passes through a period as an errant spirit, meaning a spirit between incarnations.
+## Final Summary
 
-That means it is no longer in a body, and has not yet entered a new one.
+From this point of view, life is not a single accident between birth and death. It is a long ascent.
 
-In that state, it reflects on its past, sees more clearly what it still lacks, receives guidance, and prepares for another incarnation.
+God creates the spirit. The spirit begins simple and ignorant. It learns through many lives. It chooses or receives trials. It falls. It rises. It suffers. It repairs. It helps. It grows. And at the end of that immense journey, it becomes pure.
 
-Before reincarnating, the spirit may choose the kind of life it will undergo.
+So what is a human being? A human being is not only a body. A human being is a spirit in temporary incarnation, passing through a world of trials.
 
-Not every tiny detail.
+What is death? Death is not extinction. It is the release of the spirit from one stage of its journey.
 
-Not every event.
+What is suffering? Suffering is sometimes consequence, sometimes correction, sometimes mission, sometimes warning, and sometimes a trial or preparation.
 
-But the general kind of trial.
+What is the purpose of life? The purpose of life is progress. To become less selfish. Less proud. Less cruel. Less attached to bodily cravings, possessions, status, and material desire. More patient. More truthful. More charitable. More just. More loving. More free. And therefore, nearer to God.
 
-It may choose poverty.
-
-Or wealth.
-
-Health.
-
-Or illness.
-
-Power.
-
-Or obscurity.
-
-Freedom.
-
-Or dependence.
-
-A difficult family.
-
-A short life.
-
-A body with severe limitations.
-
-A life among temptation.
-
-Or a life of service.
-
-Why would a spirit choose suffering?
-
-Because from the spirit's point of view, earthly life is brief, but its consequences are lasting.
-
-A hard life may allow faster purification, meaning faster moral cleansing and correction.
-
-A spirit that once abused wealth may choose poverty.
-
-A spirit that once ruled harshly may choose subjection.
-
-A spirit that once caused physical suffering may choose a body that suffers.
-
-A spirit may also choose not only expiation, but mission, meaning a life taken on in order to help others.
-
-A more advanced spirit may accept a life in a difficult environment in order to help others.
-
-So not every hardship is punishment.
-
-Some hardships are chosen for growth.
-
-Some are chosen for repair as if to pay for past mistakes or sins.
-
-And some are accepted for service.
-
-Still, the choice is not always fully free.
-
-If a spirit is too ignorant, too stubborn, or too blind to choose well, God may impose a life suited to its correction.
-
-So there is freedom, but not anarchy.
-
-There is responsibility, but always under divine law.
-
-Once incarnated, the spirit becomes what we call a soul.
-
-The soul is simply the incarnate spirit.
-
-The human being has three main elements: the body, the soul, and the perispirit.
-
-The perispirit is the subtle fluid-like envelope that links the soul to the body.
-
-That union begins at conception.
-
-The spirit meant for that body is linked to it from the beginning.
-
-At first, the bond is still weak.
-
-As the body develops, the bond grows stronger.
-
-If it breaks before birth, the child does not live.
-
-And the union is not complete until birth.
-
-So before birth, the spirit is attached.
-
-But it is not yet fully active in earthly life.
-
-In that sense, incarnation is not yet complete.
-
-Not every body lost before birth had reached a completed incarnation.
-
-The first cry marks the spirit's full entry into bodily life.
-
-From that point, the bond lasts until death breaks it.
-
-The body is an instrument.
-
-It is not the source of intelligence, conscience, or character.
-
-The soul already possesses its faculties.
-
-The body only allows those faculties to appear under material conditions.
-
-This is why a child's spirit is not less complete than an adult's.
-
-What develops is not the soul itself, but the organs through which it can express itself.
-
-Parents give the body.  
-
-They do not give the soul its conscience, intelligence, or deepest tendencies.  
-
-So a child may be young in body, yet older in spirit than the parents.  
-
-And good parents may still receive a difficult child.  
-
-That spirit may need guidance for its own reform.
-
-It may also become a trial for the parents.
-
-Childhood is a period of adaptation.
-
-The spirit enters a new life under a veil.
-
-Its full character does not show at once.
-
-That is part of divine wisdom.
-
-Childhood makes the spirit more pliable and easier to guide.
-
-This is why education matters so much.
-
-Parents and teachers are not shaping a blank machine.
-
-They are helping an already existing spirit continue its progress.
-
-Sometimes a child dies young because that brief life completed what remained of an earlier life cut short.
-
-But that does not mean the spirit was already pure.
-
-Dying young is not the same as finishing the whole journey.
-
-The path of that spirit is not over.
-
-It enters another existence and continues its development.
-
-And for the parents, such a loss may also be a painful trial.
-
-A damaged brain can hinder the soul's expression without diminishing the soul itself.
-
-So mental illness is not proof of a lesser spirit.
-
-Sometimes such a condition is a trial or an expiation.
-
-Responsibility is also lessened when reason cannot act freely through a disordered brain.
-
-And no other spirit literally replaces the incarnate soul in the body.
-
-But a person may still come under strong spiritual influence or subjugation.
-
-So some cases do involve spirit influence.
-
-And many cases once called demonic possession are really illness and belong to medicine.
-
-During incarnation, spirits remain free.
-
-That freedom is essential.
-
-Without free will, there would be no merit, no guilt, no growth.
-
-But incarnated spirits are not alone in their thoughts.
-
-They are constantly influenced by other spirits.
-
-Good spirits inspire good thoughts, courage, patience, and charity.
-
-Imperfect spirits may suggest selfishness, pride, despair, cruelty, envy, or sensuality.
-
-This does not destroy freedom.
-
-The incarnated spirit still chooses.
-
-The influence is real, but responsibility remains personal.
-
-You are not innocent just because a bad thought was suggested to you.
-
-And you are not good merely because a good thought passed through your mind.
-
-Your merit lies in what you accept, what you resist, and what you do.
-
-Every person also has the support of protecting spirits, often called guardian spirits or guardian angels.
-
-These are good spirits who try to guide, comfort, warn, and strengthen us.
-
-They do not remove struggle.
-
-They do not make our choices for us.
-
-They help quietly, often through conscience, intuition, inner encouragement, and good impressions.
-
-Life on Earth, then, becomes a field of trials.
-
-Poverty can test resignation, trust, and envy.
-
-Wealth can test pride, greed, and selfishness.
-
-Illness can test patience.
-
-Power can test justice.
-
-Dependence can test humility.
-
-Family life can test affection, forgiveness, and duty.
-
-Social humiliation can break vanity.
-
-Loneliness can reveal what we truly love.
-
-The same outward condition can purify one spirit and harden another.
-
-A poor person may become bitter, or charitable.
-
-A rich person may become generous, or corrupt.
-
-An afflicted person may become patient, or rebellious.
-
-So the trial does not save or condemn by itself.
-
-The spirit's response to the trial is what matters.
-
-If an incarnated spirit learns patience, practices charity, resists selfishness, rejects cruelty, masters pride, and freely chooses the good, progress becomes faster.
-
-If it gives itself over to vanity, hatred, greed, sensuality, injustice, and cruelty, progress slows.
-
-But it does not stop forever.
-
-No spirit is shut out from the future forever.
-
-When bodily life ends, death comes.
-
-Death is not the end of the spirit.
-
-It is just the end of the body.
-
-The body returns to matter.
-
-The vital principle returns to its source.
-
-The soul becomes spirit again and returns to the spirit world.
-
-The separation of soul and body is not always the same.
-
-For some, especially those less attached to bodily life and earthly things such as possessions, status, pleasure, power, and the habits of the body, death is gentle.
-
-The ties loosen gradually, like a peaceful awakening.
-
-For a good spirit, the first experience after death may be relief, clarity, reunion, and joy.
-
-It is like a heavy burden falling away.
-
-But for those strongly attached to bodily life and earthly things, such as wealth, status, pleasure, possessions, power, or the habits of the body, death can be troubled.
-
-The spirit may remain confused.
-
-It may not know at once that it is dead.
-
-It may see its own body, hear people mourning, and still try to speak, while no one around can hear it.
-
-Violent death can intensify this confusion.
-
-Suicide can intensify it even more.
-
-The more impure, selfish, or guilty the spirit, the more painful this first stage may be.
-
-For those who knowingly loved evil, one of the first feelings is shame, because truth can no longer be hidden.
-
-And in the spirit world, secrecy is greatly diminished.
-
-Thought is more exposed.
-
-Spirits see one another more directly.
-
-The guilty cannot hide behind titles, status, or appearances.
-
-A murderer may be confronted by those he murdered.
-
-A tyrant may stand before those he oppressed.
-
-A cruel person may feel, with terrible clarity, what was caused in others.
-
-This is part of spiritual suffering.
-
-The suffering of spirits is usually moral rather than bodily.
-
-This is what many people call hell: not a place of fire, but a state of suffering, remorse, and separation from the good.
-
-There is no flesh there to wound as the body is wounded.
-
-But there is remorse.
-
-Shame.
-
-Fear.
-
-Longing.
-
-Confusion.
-
-Envy.
-
-Isolation.
-
-Frustrated desire.
-
-The memory of evil done.
-
-The pain of seeing good and not yet being able to share in it.
-
-Some spirits remain attached to old passions even after death.
-
-A proud spirit remains proud.
-
-A selfish spirit remains selfish.
-
-A sensual spirit still desires what it can no longer satisfy.
-
-Suffering in the spirit world can feel like an eternity.
-
-Not because God has decreed endless torment for all the guilty.
-
-But because the spirit often does not see when its suffering will end.
-
-It feels no earthly clock.
-
-It does not measure time the way we do.
-
-And when there is no visible end, suffering can seem endless.
-
-But it is not endless in the absolute sense.
-
-No spirit is condemned forever with no path upward.
-
-As long as the spirit remains imperfect, suffering continues.
-
-When the spirit repents, understands, and begins to repair, the path upward opens.
-
-That repair may happen in spirit life, in future incarnations, or both.
-
-Some suffering spirits are helped by prayer.
-
-Some are softened by remorse.
-
-Some are moved when others forgive them.
-
-Some accept a new life of expiation, meaning a life designed to repay and repair past wrongs.
-
-Some undertake missions of repair.
-
-Even a formerly evil spirit may later help prevent evil in others.
-
-A criminal spirit may warn future criminals.
-
-A once-cruel ruler may return in humility.
-
-A miser may return in poverty.
-
-A persecutor may return under the same burden once imposed on others.
-
-This is why earthly life is so serious in this view.
-
-Nothing is lost.
-
-Nothing is hidden forever.
-
-Nothing is without consequence.
-
-But also, no sincere effort is wasted.
-
-No repentance is useless.
-
-No spirit is abandoned forever.
-
-After death, many spirits spend time in the errant state before reincarnating.
-
-There they study, observe, remember more clearly, and prepare.
-
-They may visit more advanced worlds briefly.
-
-They may regret what they wasted.
-
-They may desire to return quickly.
-
-Or they may fear returning.
-
-But no spirit can delay its progress forever.
-
-Eventually, it must continue the journey.
-
-And so reincarnation begins again.
-
-A new body, perhaps male instead of female, healthy instead of unhealthy, or weak instead of strong.
-
-A new family, perhaps in another country, language, religion, or race.
-
-A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
-
-That is why discrimination is absurd.
-
-Whether based on language, religion, ethnicity, gender, or race.
-
-We are not permanently tied to any of these.
-
-A spirit may live one life in Judaism.
-
-Another in Christianity.
-
-Another in Islam.
-
-And later in some other tradition.
-
-So the spirit is older than its present religion.
-
-What matters most is moral progress.
-
-Not the label worn in one lifetime.
-
-No one should treat a temporary form of worship as proof of permanent superiority.
-
-Usually, the spirit does not remember its past lives clearly while incarnated.
-
-This forgetfulness is described as an act of mercy.
-
-If people remembered every past fault, some would be crushed by shame.
-
-Others would be inflated by pride.
-
-Relationships would be poisoned by memory.
-
-Instead, what remains is what matters most: tendencies, conscience, aptitudes, instincts, sympathies, fears, and the unfinished work of the soul.
-
-So a person does not remember everything.
-
-But a person carries everything important.
-
-As spirits become more purified, incarnations become less difficult.
-
-Trials become fewer and less tied to earthly conditions.
-
-Eventually a spirit no longer needs bodily life at all.
-
-When purification is complete, reincarnation ends.
-
-The spirit has overcome selfishness, pride, cruelty, and other serious moral stains.
-
-The faults that once held it back.
-
-That spirit becomes what is called a pure spirit.
-
-A pure spirit is not a different species.
-
-It is not a special being created above the others.
-
-It is simply a spirit that completed the long ascent.
-
-This is what is often called an angel.
-
-So angels, in this view, were not created perfect at the beginning.
-
-They are spirits who arrived.
-
-They passed through lower degrees.
-
-They struggled.
-
-They learned.
-
-They purified themselves.
-
-They no longer need expiation.
-
-They no longer need reincarnation.
-
-And they are no longer ruled by matter or material desire.
-
-This is what many people call heaven.
-
-Not a place in the earthly sense.
-
-But the state of purified and happy spirits.
-
-Their happiness is constant, but not idle.
-
-They do not sink into passivity.
-
-They become messengers and ministers of God.
-
-They help guide lower spirits.
-
-They assist the progress of humanity.
-
-They protect, inspire, and carry out missions suited to divine order.
-
-They can act across worlds.
-
-They can go where their work is needed.
-
-Their freedom is far greater than that of ordinary spirits.
-
-Their thought reaches farther.
-
-Their influence is wider.
-
-Their joy is deeper.
-
-And their whole existence is aligned with the good.
-
-From this point of view, life is not a single accident between birth and death.
-
-It is a long ascent.
-
-God creates the spirit.
-
-The spirit begins simple and ignorant.
-
-It learns through many lives.
-
-It chooses or receives trials.
-
-It falls.
-
-It rises.
-
-It suffers.
-
-It repairs.
-
-It helps.
-
-It grows.
-
-And at the end of that immense journey, it becomes pure.
-
-So what is a human being?
-
-A human being is not only a body.
-
-A human being is a spirit in temporary incarnation, passing through a world of trials.
-
-What is death?
-
-Death is not extinction.
-
-It is the release of the spirit from one stage of its journey.
-
-What is suffering?
-
-Suffering is sometimes consequence, sometimes correction, sometimes mission, sometimes warning, and sometimes a trial or preparation.
-
-What is the purpose of life?
-
-The purpose of life is progress.
-
-To become less selfish.
-
-Less proud.
-
-Less cruel.
-
-Less attached to bodily cravings, possessions, status, and material desire.
-
-More patient.
-
-More truthful.
-
-More charitable.
-
-More just.
-
-More loving.
-
-More free.
-
-And therefore, nearer to God.
-
-That is how life works in this view.
-
-Not as one short test ending in irreversible destiny after a single earthly episode.
-
-But as a vast moral education under divine justice and divine mercy.
-
-Creation begins in God.
-
-The spirit begins in ignorance.
-
-And the end of the journey is purity.
+That is how life works in this view. Not as one short test ending in irreversible destiny after a single earthly episode. But as a vast moral education under divine justice and divine mercy. Creation begins in God. The spirit begins in ignorance. And the end of the journey is purity.
