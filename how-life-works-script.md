@@ -231,6 +231,14 @@ Usually, the spirit does not remember its past lives clearly while incarnated. T
 
 Instead, what remains is what matters most: tendencies, conscience, aptitudes, instincts, sympathies, fears, and the unfinished work of the soul. So a person does not remember everything. But a person carries everything important.
 
+This also helps explain why some children seem extraordinary from the start. A child may show unusual ease in mathematics, music, language, or some other art long before ordinary training could explain it.
+
+People often say God simply favored that child with a special gift. But if such unequal gifts were given without cause, divine justice would seem arbitrary. In this view, the difference is not favoritism at creation. It is prior acquisition.
+
+The spirit brings into a new life what it has already gained in earlier ones. So a child prodigy may be an old spirit returning with abilities slowly built across other lives. A mathematical genius may have cultivated reason and number before. A young pianist may be expressing powers already developed through long practice in earlier incarnations.
+
+That does not mean the child remembers those lives clearly. The memory is veiled. But the gain remains as aptitude, intuition, readiness, and unusual ease. So unequal talent does not mean unequal worth before God. It means unequal progress already made.
+
 ## Pure Spirits, Angels, and Heaven
 
 As spirits become more purified, incarnations become less difficult. Trials become fewer and less tied to earthly conditions. Eventually a spirit no longer needs bodily life at all.
