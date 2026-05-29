@@ -227,6 +227,10 @@ A murderer may be confronted by those he murdered. A tyrant may stand before tho
 
 The suffering of spirits is usually moral rather than bodily. This is what many people call hell: not a place of fire, but a state of suffering, remorse, and separation from the good. There is no flesh there to wound as the body is wounded. But there is remorse. Shame. Fear. Longing. Confusion. Envy. Isolation. Frustrated desire. The memory of evil done. The pain of seeing good and not yet being able to share in it.
 
+Spirits no longer live under bodily needs in the way incarnated beings do. They are not subject to hunger, organic pain, or material necessity in the same manner.
+
+They do not need bodily sleep.
+
 Some cases describe punishment that mirrors the fault. Jacques Latour, who killed for gold, said he saw his victims before him and even the gold stained with blood. Ferdinand Bertin, who in a former life had victims sewn into sacks and thrown into the sea, said he kept reliving drowning after death.
 
 Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had sealed another person up alive. Szymel Slizgol said that after a former life as a tyrant, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
