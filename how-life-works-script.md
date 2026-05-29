@@ -1,5 +1,5 @@
 # From Creation to Angel: How Life Works
-## An Explanation of Life, Death, Reincarnation, and Purification According to Spirits of High Degree, a.k.a Angels
+## An Explanation of Life, Death, Reincarnation, and Purification According to Spirits of High Degree, Often Called Angels
 
 ## The Questions
 
@@ -49,9 +49,9 @@ Human words are narrow. Invisible realities are difficult to describe. So people
 
 This also helps explain why ancient peoples could mistake created powers for God. Some worshiped the sun. Some worshiped the stars. Some gave divine status to the sea, the sky, or other forces of nature. Later monotheistic revelation, like Judaism, Christianity, and Islam, clarified that there is only one God, and that created beings or powers must not be worshiped.
 
-In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears openly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing in that direction, though not as a full and clear statement of reincarnation.
+In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears more explicitly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing in that direction, though not as a full and clear statement of reincarnation.
 
-The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. But they do not always explain that angels may be understood, in this view, not as a separate creation, but as spirits who reached purification. In that sense, angelhood is not a different species. It is the end of the journey.
+The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. In this view, angels can be understood not as a separate creation, but as spirits who reached purification. In that sense, angelhood is not a different species. It is the end of the journey.
 
 The same principle applies to heaven and hell. Some scriptures describe hell with fire. But spirits are not material bodies, so material fire cannot be the deepest reality of their suffering. The true suffering is moral: remorse, shame, frustrated desire, separation from the good, and the clear sight of evil done.
 
@@ -71,9 +71,9 @@ So the history of a spirit is the history of gradual progress. Not instant enlig
 
 Before incarnation, the spirit exists in the spirit world. This is the primary world. It existed before the visible world, remains after it, and surrounds it constantly.
 
-Spirits fill space. They are not confined to one point as human bodies are. They move with the speed of thought. When thought reaches a place, the spirit is there. Matter does not block them. They can pass through everything.
+Spirits fill space. They are not confined to one point as human bodies are. They are described as moving with the speed of thought. In that sense, thought carries them where they direct themselves. Matter does not block them in the way it blocks bodily beings.
 
-They do not speak by mouths or hear by ears in the earthly way. They communicate through thought. Their influence can radiate outward without dividing them. A spirit is still an individual being, but its presence can extend in many directions at once, especially as it becomes more purified.
+They do not speak by mouths or hear by ears in the earthly way. They communicate through thought. And as spirits become more purified, their influence can reach farther and act more freely.
 
 ### The Perispirit
 
@@ -119,7 +119,9 @@ It may choose poverty. Or wealth. Health. Or illness. Power. Or obscurity. Freed
 
 Why would a spirit choose suffering? Because from the spirit's point of view, earthly life is brief, but its consequences are lasting. A hard life may allow faster purification, meaning faster moral cleansing and correction. A spirit that once abused wealth may choose poverty. A spirit that once ruled harshly may choose subjection. A spirit that once caused physical suffering may choose a body that suffers.
 
-A spirit may also choose not only expiation, but mission, meaning a life taken on in order to help others. A more advanced spirit may accept a life in a difficult environment in order to help others. So not every hardship is punishment. Some hardships are chosen for growth. Some are chosen for repair as if to pay for past mistakes or sins. And some are accepted for service.
+A spirit may also choose not only expiation, but mission, meaning a life taken on in order to help others. A more advanced spirit may accept a life in a difficult environment in order to help others.
+
+So not every hardship is punishment. Some hardships are chosen for growth. Some are chosen for repair as if to pay for past mistakes or sins. And some are accepted for service.
 
 Still, the choice is not always fully free. If a spirit is too ignorant, too stubborn, or too blind to choose well, God may impose a life suited to its correction. So there is freedom, but not anarchy. There is responsibility, but always under divine law.
 
@@ -179,7 +181,9 @@ Life on Earth, then, becomes a field of trials. Poverty can test resignation, tr
 
 The same outward condition can purify one spirit and harden another. A poor person may become bitter, or charitable. A rich person may become generous, or corrupt. An afflicted person may become patient, or rebellious.
 
-So the trial does not save or condemn by itself. The spirit's response to the trial is what matters. If an incarnated spirit learns patience, practices charity, resists selfishness, rejects cruelty, masters pride, and freely chooses the good, progress becomes faster. If it gives itself over to vanity, hatred, greed, sensuality, injustice, and cruelty, progress slows. But it does not stop forever. No spirit is shut out from the future forever.
+So the trial does not save or condemn by itself. The spirit's response to the trial is what matters. If an incarnated spirit learns patience, practices charity, resists selfishness, rejects cruelty, masters pride, and freely chooses the good, progress becomes faster. If it gives itself over to vanity, hatred, greed, sensuality, injustice, and cruelty, progress slows.
+
+But it does not stop forever. No spirit is shut out from the future forever.
 
 ## Death and the Return to Spirit Life
 
@@ -204,6 +208,8 @@ It depends on sympathy, affection, and moral affinity.
 Those who are united by love and goodness draw near to one another more easily.
 
 Those separated by pride, hatred, or impurity may remain apart, even if they were family on Earth.
+
+A few reported cases help make the contrast clearer.
 
 Some reported deaths are strikingly gentle. Maurice Gontran died at eighteen of tuberculosis, just after years of study. He said the illness hurt, but the dying itself was peaceful: the pain faded, he fell asleep, and he woke in the spirit world. He also said his studies were not wasted. The knowledge had strengthened his soul, had not been lost, and would be used more fully in a future life.
 
@@ -231,6 +237,10 @@ Spirits no longer live under bodily needs in the way incarnated beings do. They 
 
 They do not need bodily sleep.
 
+Yet lower and more troubled spirits can still suffer intensely through the perispirit and through their attachment. The impressions may resemble bodily pain, even though the flesh itself is gone.
+
+Some accounts go further and describe suffering that reflects the fault itself.
+
 Some cases describe punishment that mirrors the fault. Jacques Latour, who killed for gold, said he saw his victims before him and even the gold stained with blood. Ferdinand Bertin, who in a former life had victims sewn into sacks and thrown into the sea, said he kept reliving drowning after death.
 
 Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had sealed another person up alive. Szymel Slizgol said that after a former life as a tyrant, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
@@ -247,7 +257,7 @@ But it is not endless in the absolute sense. No spirit is condemned forever with
 
 ### Manifestations Around the Living
 
-Some spirits are also described as remaining linked to places or families. Clara Rivier said the noises in her parents' house after her death were not meant to torment them. They were meant to help them, and even the neighborhood, believe in the unseen and in another life.
+Some reports also describe spirits still acting around the living. Clara Rivier said the noises in her parents' house after her death were not meant to torment them. They were meant to help them, and even the neighborhood, believe in the unseen and in another life.
 
 In another case, the spirit later called the Castelnaudary Spirit was said to be bound to the very house where he had murdered, reliving the crime in darkness until prayer gradually softened him.
 
@@ -277,7 +287,7 @@ But no spirit can delay its progress forever. Eventually, it must continue the j
 
 ### Reincarnation and Human Inequality
 
-Without repeated lives, many things would seem to make divine justice arbitrary. Why is one person born into health and another into suffering? Why does one begin with unusual gifts and another with severe limitations? Reincarnation answers that by showing life as a continuity, not a single isolated episode. What looks unequal in one life may be the just consequence of earlier choices, the means of needed repair, or the opportunity for further growth. In that way, reincarnation preserves both justice and mercy: justice, because nothing is without moral cause; mercy, because no spirit is condemned by one life alone.
+Without repeated lives, many things would seem to make divine justice arbitrary. Why is one person born into health and another into suffering? Why does one begin with unusual gifts and another with severe limitations? Reincarnation answers that by showing life as a continuity, not a single isolated episode. What looks unequal in one life may be the just consequence of earlier choices, the means of needed repair, or the opportunity for further growth. In that way, reincarnation preserves both justice and mercy: justice, because life is not arbitrary and suffering is not meaningless; mercy, because no spirit is condemned by one life alone.
 
 A new body, perhaps male instead of female, healthy instead of unhealthy, or weak instead of strong. A new family, perhaps in another country, language, religion, or race. A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
 
@@ -333,6 +343,6 @@ What is death? Death is not extinction. It is the release of the spirit from one
 
 What is suffering? Suffering is sometimes consequence, sometimes correction, sometimes mission, sometimes warning, and sometimes a trial or preparation.
 
-What is the purpose of life? The purpose of life is progress. To become less selfish. Less proud. Less cruel. Less attached to bodily cravings, possessions, status, and material desire. More patient. More truthful. More charitable. More just. More loving. More free. And therefore, nearer to God.
+What is the purpose of life? The purpose of life is progress. To become less selfish, less proud, and less cruel. Less attached to bodily cravings, possessions, status, and material desire. More patient. More truthful. More charitable. More just. More loving. More free. And therefore, nearer to God.
 
 That is how life works in this view. Not as one short test ending in irreversible destiny after a single earthly episode. But as a vast moral education under divine justice and divine mercy. Creation begins in God. The spirit begins in ignorance. And the end of the journey is purity.
