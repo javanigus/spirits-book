@@ -279,6 +279,8 @@ A new body, perhaps male instead of female, healthy instead of unhealthy, or wea
 
 That is why discrimination is absurd. Whether based on language, religion, ethnicity, gender, or race. We are not permanently tied to any of these.
 
+As spirits advance, their love becomes less narrow and less tied to one nation or soil. For highly advanced spirits, the true homeland is the universe. And when they return to Earth, they are drawn less by place itself than by the souls with whom they share sympathy and moral affinity.
+
 ### Religion Across Many Lives
 
 A spirit may live one life in Judaism. Another in Christianity. Another in Islam. And later in some other tradition.
