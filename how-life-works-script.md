@@ -5,9 +5,13 @@
 
 What is life? Why are we here? Why are some people born into comfort, while others are born into hardship? Why do good people suffer, and why do evil people sometimes seem to prosper? And what happens after death?
 
+The teachings that follow are based on *The Spirits' Book*, published by Allan Kardec in 1857. In this view, its contents were communicated by spirits of high degree, often called angels, through human mediums.
+
 ## God and the First Cause
 
-According to the teachings summarized here, life begins with God. God did not begin at some point in time. God always existed. God is the Supreme Intelligence, the First Cause of all things.
+Life begins with God.
+
+God did not begin at some point in time. God always existed. God is the Supreme Intelligence, the First Cause of all things.
 
 Nothing can exist without a cause. The universe exists, so it must have a cause. That cause cannot be matter, because matter itself is created, limited, and changing. It cannot be chance, because chance cannot explain order, harmony, law, and intelligence. So behind everything is God: eternal, unchanging, immaterial, one, all-powerful, perfectly just, and perfectly good.
 
