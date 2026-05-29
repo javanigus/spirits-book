@@ -109,7 +109,7 @@ So life is not limited to the narrow forms familiar to us now.
 
 Incarnation has two major purposes: expiation and improvement. Expiation means paying for and repairing past faults and sins through the trials of life. Improvement means gaining knowledge, moral strength, and purification, meaning moral cleansing and steady progress toward goodness.
 
-Before a new life, the spirit often passes through a period as an errant spirit, meaning a spirit between incarnations. That means it is no longer in a body, and has not yet entered a new one. In that state, it reflects on its past, sees more clearly what it still lacks, receives guidance, and prepares for another incarnation.
+Before a new life, the spirit often passes through a state between incarnations. That means it is no longer in a body, and has not yet entered a new one. In that state, it reflects on its past, sees more clearly what it still lacks, receives guidance, and prepares for another incarnation.
 
 ### Choosing Trials
 
@@ -221,7 +221,7 @@ Violent death can intensify this confusion. Suicide can intensify it even more. 
 
 Other deaths are confused and painful. One suicide victim said he still felt himself in the coffin and even felt the worms eating the corpse to which he remained bound.
 
-Queen d'Oude remained so attached to pride and status that she still imagined herself a queen, adorned with jewels and royal ornaments.
+The Queen of Ood remained so attached to pride and status that she still imagined herself a queen, adorned with jewels and royal ornaments.
 
 Francois Simon Louvet, who threw himself from a tower in despair, said he kept feeling the fall long after death, as if the plunge had never ended.
 
@@ -243,13 +243,13 @@ Some accounts go further and describe suffering that reflects the fault itself.
 
 Some cases describe punishment that mirrors the fault. Jacques Latour, who killed for gold, said he saw his victims before him and even the gold stained with blood. Ferdinand Bertin, who in a former life had victims sewn into sacks and thrown into the sea, said he kept reliving drowning after death.
 
-Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had sealed another person up alive. Szymel Slizgol said that after a former life as a tyrant, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
+Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had sealed another person up alive. One former tyrant said that after a former life of cruelty, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
 
 ### Hell as a State, Not a Place
 
 Some spirits remain attached to old passions even after death. A proud spirit remains proud. A selfish spirit remains selfish. A sensual spirit still desires what it can no longer satisfy.
 
-Attachment itself can become torment. Francois Riquier, a miser, still demanded his money back after death. He even gave his old address as if he were still alive. It shows how greed can keep a spirit tied to Earth.
+Attachment itself can become torment. A miser still demanded his money back after death. He even gave his old address as if he were still alive. It shows how greed can keep a spirit tied to Earth.
 
 Suffering in the spirit world can feel like an eternity. Not because God has decreed endless torment for all the guilty. But because the spirit often does not see when its suffering will end. It feels no earthly clock. It does not measure time the way we do. And when there is no visible end, suffering can seem endless.
 
@@ -259,7 +259,7 @@ But it is not endless in the absolute sense. No spirit is condemned forever with
 
 Some reports also describe spirits still acting around the living. Clara Rivier said the noises in her parents' house after her death were not meant to torment them. They were meant to help them, and even the neighborhood, believe in the unseen and in another life.
 
-In another case, the spirit later called the Castelnaudary Spirit was said to be bound to the very house where he had murdered, reliving the crime in darkness until prayer gradually softened him.
+In another case, the spirit of a haunted house was said to be bound to the very house where he had murdered, reliving the crime in darkness until prayer gradually softened him.
 
 ## Repentance, Repair, and Return
 
@@ -279,9 +279,9 @@ Even a formerly evil spirit may later help prevent evil in others. A criminal sp
 
 This is why earthly life is so serious in this view. Nothing is lost. Nothing is hidden forever. Nothing is without consequence. But also, no sincere effort is wasted. No repentance is useless. No spirit is abandoned forever.
 
-### The Errant State
+### The State Between Incarnations
 
-After death, many spirits spend time in the errant state before reincarnating. There they study, observe, remember more clearly, and prepare. They may visit more advanced worlds briefly. They may regret what they wasted. They may desire to return quickly. Or they may fear returning.
+After death, many spirits spend time in this state between incarnations before reincarnating. There they study, observe, remember more clearly, and prepare. They may visit more advanced worlds briefly. They may regret what they wasted. They may desire to return quickly. Or they may fear returning.
 
 But no spirit can delay its progress forever. Eventually, it must continue the journey. And so reincarnation begins again.
 
