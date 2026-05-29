@@ -173,13 +173,25 @@ So the trial does not save or condemn by itself. The spirit's response to the tr
 
 When bodily life ends, death comes. Death is not the end of the spirit. It is just the end of the body. The body returns to matter. The vital principle returns to its source. The soul becomes spirit again and returns to the spirit world.
 
+In *Heaven and Hell*, Allan Kardec, the same author as *The Spirits' Book*, presents many reported communications from spirits through human mediums. In this view, these are not fictional parables. They are testimonies meant to show how different moral states can shape death and what follows it.
+
 ### Different Experiences at Death
 
 The separation of soul and body is not always the same. For some, especially those less attached to bodily life and earthly things such as possessions, status, pleasure, power, and the habits of the body, death is gentle. The ties loosen gradually, like a peaceful awakening. For a good spirit, the first experience after death may be relief, clarity, reunion, and joy. It is like a heavy burden falling away.
 
+Some reported deaths are strikingly gentle. Maurice Gontran died at eighteen of tuberculosis, just after years of study. He said the illness hurt, but the dying itself was peaceful: the pain faded, he fell asleep, and he woke in the spirit world. He also said his studies were not wasted. The knowledge had strengthened his soul, had not been lost, and would be used more fully in a future life.
+
+Clara Rivier had been paralyzed from age four and had lived through years of convulsions and pain. She said that suffering was expiation for faults from a former life, that her guardian angel sustained her, and that she knew in advance when death was near.
+
 But for those strongly attached to bodily life and earthly things, such as wealth, status, pleasure, possessions, power, or the habits of the body, death can be troubled. The spirit may remain confused. It may not know at once that it is dead. It may see its own body, hear people mourning, and still try to speak, while no one around can hear it.
 
 Violent death can intensify this confusion. Suicide can intensify it even more. The more impure, selfish, or guilty the spirit, the more painful this first stage may be.
+
+Other deaths are confused and painful. One suicide victim said he still felt himself in the coffin and even felt the worms eating the corpse to which he remained bound.
+
+Queen d'Oude remained so attached to pride and status that she still imagined herself a queen, adorned with jewels and royal ornaments.
+
+Francois Simon Louvet, who threw himself from a tower in despair, said he kept feeling the fall long after death, as if the plunge had never ended.
 
 ### Suffering After Death
 
@@ -189,19 +201,35 @@ A murderer may be confronted by those he murdered. A tyrant may stand before tho
 
 The suffering of spirits is usually moral rather than bodily. This is what many people call hell: not a place of fire, but a state of suffering, remorse, and separation from the good. There is no flesh there to wound as the body is wounded. But there is remorse. Shame. Fear. Longing. Confusion. Envy. Isolation. Frustrated desire. The memory of evil done. The pain of seeing good and not yet being able to share in it.
 
+Some cases describe punishment that mirrors the fault. Jacques Latour, who killed for gold, said he saw his victims before him and even the gold stained with blood. Ferdinand Bertin, who in a former life had victims sewn into sacks and thrown into the sea, said he kept reliving drowning after death.
+
+Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had sealed another person up alive. Szymel Slizgol said that after a former life as a tyrant, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
+
 ### Hell as a State, Not a Place
 
 Some spirits remain attached to old passions even after death. A proud spirit remains proud. A selfish spirit remains selfish. A sensual spirit still desires what it can no longer satisfy.
 
+Attachment itself can become torment. Francois Riquier, a miser, still demanded his money back after death. He even gave his old address as if he were still alive. It shows how greed can keep a spirit tied to Earth.
+
 Suffering in the spirit world can feel like an eternity. Not because God has decreed endless torment for all the guilty. But because the spirit often does not see when its suffering will end. It feels no earthly clock. It does not measure time the way we do. And when there is no visible end, suffering can seem endless.
 
 But it is not endless in the absolute sense. No spirit is condemned forever with no path upward. As long as the spirit remains imperfect, suffering continues.
+
+### Manifestations Around the Living
+
+Some spirits are also described as remaining linked to places or families. Clara Rivier said the noises in her parents' house after her death were not meant to torment them. They were meant to help them, and even the neighborhood, believe in the unseen and in another life.
+
+In another case, the spirit later called the Castelnaudary Spirit was said to be bound to the very house where he had murdered, reliving the crime in darkness until prayer gradually softened him.
 
 ## Repentance, Repair, and Return
 
 When the spirit repents, understands, and begins to repair, the path upward opens. That repair may happen in spirit life, in future incarnations, or both.
 
 Some suffering spirits are helped by prayer. Some are softened by remorse. Some are moved when others forgive them. Some accept a new life of expiation, meaning a life designed to repay and repair past wrongs. Some undertake missions of repair.
+
+Some spirits repair by entering lives that directly reverse their former condition. Count Max said that after living as a proud noble who crushed the poor, he later returned as a crippled beggar on the same land he had once ruled. He even slept in the stables of his former castle.
+
+Adelaide Margaret Gosse described the opposite kind of expiation. After earlier lives in high position, where doing good cost little because she was rich, she asked to return in poverty and hardship so charity would require real sacrifice and help her advance more quickly.
 
 Even a formerly evil spirit may later help prevent evil in others. A criminal spirit may warn future criminals. A once-cruel ruler may return in humility. A miser may return in poverty. A persecutor may return under the same burden once imposed on others.
 
