@@ -93,6 +93,18 @@ Earth is not the only inhabited world. It is not the highest world. It is one wo
 
 So the journey of a spirit is not limited to Earth. A spirit may incarnate many times on the same world if it still needs those lessons. Or it may move on to another world when ready.
 
+### Transitional Worlds
+
+Some worlds serve as temporary stations for spirits between more settled stages.
+
+They are not permanent homes.
+
+They may be barren by earthly standards, yet still suited to the beings who dwell there.
+
+Earth itself once passed through such a stage.
+
+So life is not limited to the narrow forms familiar to us now.
+
 ### Why Spirits Incarnate
 
 Incarnation has two major purposes: expiation and improvement. Expiation means paying for and repairing past faults and sins through the trials of life. Improvement means gaining knowledge, moral strength, and purification, meaning moral cleansing and steady progress toward goodness.
