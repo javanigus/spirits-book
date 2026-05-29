@@ -257,6 +257,8 @@ But no spirit can delay its progress forever. Eventually, it must continue the j
 
 ### Reincarnation and Human Inequality
 
+Without repeated lives, many things would seem to make divine justice arbitrary. Why is one person born into health and another into suffering? Why does one begin with unusual gifts and another with severe limitations? Reincarnation answers that by showing life as a continuity, not a single isolated episode. What looks unequal in one life may be the just consequence of earlier choices, the means of needed repair, or the opportunity for further growth. In that way, reincarnation preserves both justice and mercy: justice, because nothing is without moral cause; mercy, because no spirit is condemned by one life alone.
+
 A new body, perhaps male instead of female, healthy instead of unhealthy, or weak instead of strong. A new family, perhaps in another country, language, religion, or race. A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
 
 That is why discrimination is absurd. Whether based on language, religion, ethnicity, gender, or race. We are not permanently tied to any of these.
