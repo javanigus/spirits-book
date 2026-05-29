@@ -179,6 +179,20 @@ In *Heaven and Hell*, Allan Kardec, the same author as *The Spirits' Book*, pres
 
 The separation of soul and body is not always the same. For some, especially those less attached to bodily life and earthly things such as possessions, status, pleasure, power, and the habits of the body, death is gentle. The ties loosen gradually, like a peaceful awakening. For a good spirit, the first experience after death may be relief, clarity, reunion, and joy. It is like a heavy burden falling away.
 
+That reunion may include spirits known on Earth.
+
+A good spirit may be welcomed by relatives, friends, or other spirits it loved and recognized before.
+
+Death, in that sense, can be a return to familiar company.
+
+But reunion is not based on blood alone.
+
+It depends on sympathy, affection, and moral affinity.
+
+Those who are united by love and goodness draw near to one another more easily.
+
+Those separated by pride, hatred, or impurity may remain apart, even if they were family on Earth.
+
 Some reported deaths are strikingly gentle. Maurice Gontran died at eighteen of tuberculosis, just after years of study. He said the illness hurt, but the dying itself was peaceful: the pain faded, he fell asleep, and he woke in the spirit world. He also said his studies were not wasted. The knowledge had strengthened his soul, had not been lost, and would be used more fully in a future life.
 
 Clara Rivier had been paralyzed from age four and had lived through years of convulsions and pain. She said that suffering was expiation for faults from a former life, that her guardian angel sustained her, and that she knew in advance when death was near.
