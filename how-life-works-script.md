@@ -35,6 +35,10 @@ At their beginning, all spirits are created equal. Not equal in achievement, but
 
 They are created simple and ignorant. Not perfect. Not wicked by nature. Not wise at the start. They begin like children of eternity, with freedom, the seed of intelligence, and the capacity to grow.
 
+All spirits begin with the same destiny before them: progress. Their mission is to advance. Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome. They must rise, little by little, until they become pure spirits, also known as angels.
+
+Why are they not created perfect from the beginning? Because perfection without struggle would have no merit. A spirit must learn. A spirit must choose. A spirit must be tested. Only then can goodness become truly its own.
+
 ### Satan as a Figure of Evil
 
 God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
@@ -64,10 +68,6 @@ Some scriptures describe heaven through gardens, rivers, abundance, and beauty. 
 So later clarification does not destroy earlier revelation. It explains what was once expressed in forms suited to the time. Earlier teachings prepared the way for clearer understanding.
 
 And the differences among religious forms may themselves become a moral trial. They test whether people will respond with humility, justice, and charity, or with pride, contempt, and violence. If morality and righteousness are the heart of revelation, then how people treat those who received a different form may reveal how much of that revelation they truly understood.
-
-All spirits begin with the same destiny before them: progress. Their mission is to advance. Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome. They must rise, little by little, until they become pure spirits, also known as angels.
-
-Why are they not created perfect from the beginning? Because perfection without struggle would have no merit. A spirit must learn. A spirit must choose. A spirit must be tested. Only then can goodness become truly its own.
 
 So the history of a spirit is the history of gradual progress. Not instant enlightenment. Not one single earthly life. But a long education across many conditions, many worlds, and many incarnations.
 
