@@ -257,6 +257,10 @@ When the spirit repents, understands, and begins to repair, the path upward open
 
 Some suffering spirits are helped by prayer. Some are softened by remorse. Some are moved when others forgive them. Some accept a new life of expiation, meaning a life designed to repay and repair past wrongs. Some undertake missions of repair.
 
+More detached spirits care little for the grave or the remains of the body. What reaches them more is loving remembrance, sincere affection, and prayer from those still on Earth.
+
+So a family shrine, a photograph kept in remembrance, a visit to a grave, or even a yearly memorial day can have value if they truly gather hearts in charity and recollection. But the power is not in the picture, the place, or the date itself. It is in the thought, the love, and the prayer.
+
 Some spirits repair by entering lives that directly reverse their former condition. Count Max said that after living as a proud noble who crushed the poor, he later returned as a crippled beggar on the same land he had once ruled. He even slept in the stables of his former castle.
 
 Adelaide Margaret Gosse described the opposite kind of expiation. After earlier lives in high position, where doing good cost little because she was rich, she asked to return in poverty and hardship so charity would require real sacrifice and help her advance more quickly.
