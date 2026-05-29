@@ -5,7 +5,7 @@
 
 What is life? Why are we here? Why are some people born into comfort, while others are born into hardship? Why do good people suffer, and why do evil people sometimes seem to prosper? And what happens after death?
 
-The teachings that follow are based on *The Spirits' Book*, published by Allan Kardec in 1857. In this view, its contents were communicated by spirits of high degree, often called angels, through human mediums.
+The teachings that follow are based on *The Spirits' Book*, published by Allan Kardec in 1857. Its contents were communicated by spirits of high degree, often called angels, through human mediums.
 
 ## God and the First Cause
 
@@ -23,21 +23,21 @@ And creation is not static. It is not a finished machine abandoned by its maker.
 
 Universal space is infinite. What seems empty is not truly empty. It is filled with kinds of substance too subtle for our senses.
 
-The universe, in this view, is made of two great principles: matter and spirit. Matter is the material element. Spirit is the intelligent element. Above both is God.
+The universe is made of two great principles: matter and spirit. Matter is the material element. Spirit is the intelligent element. Above both is God.
 
 Between gross matter and spirit there is also a subtle intermediary, often called the universal fluid, a fine substance that acts as a bridge between spirit and matter. This fluid helps explain how spirit can act on matter, and how the visible and invisible worlds remain connected.
 
-God created spirits. Spirits are not pieces of God. They are not self-created. They are created beings, individual and enduring. They had a beginning, although we do not know when or how their creation took place. But once created, they do not cease to exist. A body can decay. A spirit does not.
+God created spirits. Spirits are not pieces of God. They are not self-created. They are created beings, individual and enduring. They had a beginning, although we do not know when or how their creation took place. But once created, they do not cease to exist. A body can die. A spirit cannot die.
 
 ## Why Spirits Are Not Created Perfect
 
 At their beginning, all spirits are created equal. Not equal in achievement, but equal in origin and possibility.
 
-They are created simple and ignorant. Not perfect. Not wicked by nature. Not wise at the start. They begin like children of eternity, with freedom, intelligence in germ, and the capacity to grow.
+They are created simple and ignorant. Not perfect. Not wicked by nature. Not wise at the start. They begin like children of eternity, with freedom, the seed of intelligence, and the capacity to grow.
 
 ### Satan as a Figure of Evil
 
-This is important. According to this view, God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
+According to this view, God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
 
 ### Why Older Revelations Sound Different
 
@@ -151,7 +151,7 @@ Parents give the body. They do not give the soul its conscience, intelligence, o
 
 ### Parents and Childhood
 
-And good parents may still receive a difficult child. That spirit may need guidance for its own reform. It may also become a trial for the parents.
+Good parents may still receive a difficult child. That spirit may need guidance for its own reform. It may also become a trial for the parents.
 
 Childhood is a period of adaptation. The spirit enters a new life under a veil. Its full character does not show at once. That is part of divine wisdom. Childhood makes the spirit more pliable and easier to guide. This is why education matters so much.
 
@@ -167,7 +167,7 @@ The path of that spirit is not over. It enters another existence and continues i
 
 A damaged brain can hinder the soul's expression without diminishing the soul itself. So mental illness is not proof of a lesser spirit. Sometimes such a condition is a trial or an expiation. Responsibility is also lessened when reason cannot act freely through a disordered brain.
 
-And no other spirit literally replaces the incarnate soul in the body. But a person may still come under strong spiritual influence or subjugation. So some cases do involve spirit influence. And many cases once called demonic possession are really illness and belong to medicine.
+No other spirit literally replaces the incarnate soul in the body. But a person may still come under strong spiritual influence or subjugation. So some cases do involve spirit influence. And many cases once called demonic possession are really illness and belong to medicine.
 
 ## Freedom, Influence, and Guardian Spirits
 
