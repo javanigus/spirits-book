@@ -1,13 +1,13 @@
 # From Creation to Angel: How Life Works
 ## An Explanation of Life, Death, Reincarnation, and Purification According to Spirits of High Degree, Often Called Angels
 
-## The Questions
+## Intro
 
 What is life? Why are we here? Why are some people born into comfort, while others are born into hardship? Why do good people suffer, and why do evil people sometimes seem to prosper? And what happens after death?
 
 The teachings that follow are based on *The Spirits' Book*, published by Allan Kardec in 1857. Its contents were communicated by spirits of high degree, often called angels, through human mediums.
 
-## God and the First Cause
+## God
 
 Life begins with God.
 
@@ -29,7 +29,7 @@ Between gross matter and spirit there is also a subtle intermediary, often calle
 
 God created spirits. Spirits are not pieces of God. They are not self-created. They are created beings, individual and enduring. They had a beginning, although we do not know when or how their creation took place. But once created, they do not cease to exist. A body can die. A spirit cannot die.
 
-## Why Spirits Are Not Created Perfect
+## Spirits Are Created Equal But Imperfect
 
 At their beginning, all spirits are created equal. Not equal in achievement, but equal in origin and possibility.
 
@@ -37,17 +37,17 @@ They are created simple and ignorant. Not perfect. Not wicked by nature. Not wis
 
 ### Satan as a Figure of Evil
 
-According to this view, God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
+God does not create some spirits good and others evil. God does not create some to rule and others to be lost. What many people call Satan is not a rival power standing against God. In this view, Satan is a figure used to represent evil, not a being created evil forever.
 
-### Why Older Revelations Sound Different
+### Why Religions Sound Different
 
-At this point, a question naturally arises. If this is true, why do older revelations and scriptures sometimes sound different?
+At this point, a question naturally arises. If this is true, why do religions, older revelations, and scriptures sometimes sound different?
 
-In this view, the law of God does not change. But human understanding develops. Truth is given according to what people are ready to receive. And it must be expressed through the language, images, and mental world available at the time.
+According to The Spirits' Book, the law of God does not change. But human understanding develops. Truth is given according to what people are ready to receive. And it must be expressed through the language, images, and mental world available at the time.
 
-God could have given one identical scripture to all humanity at once. But He did not. Instead, revelation came at different times, in different languages, and among different peoples. That, too, may be part of divine wisdom. Humanity does not learn everything at once. And people in different conditions do not need every truth explained in the same way or at the same time.
+God could have given one identical scripture to all people all at once. But He did not. Instead, revelation came at different times, in different languages, and among different peoples. That, too, may be part of divine wisdom. People do not learn everything at once. And people in different conditions do not need every truth explained in the same way or at the same time.
 
-That is why older teachings often came clothed in symbol, parable, poetry, and partial ideas. The spiritual truth may be real, even when the form is limited. So the problem is not always that earlier revelation was false. Often it was incomplete, figurative, or adapted to a less developed humanity.
+That is why older teachings were often expressed through symbol, parable, poetry, and partial ideas. The spiritual truth may be real, even when the form is limited. So the problem is not always that earlier revelation was false. Often it was incomplete, figurative, or adapted to the understanding of people at that time.
 
 Human words are narrow. Invisible realities are difficult to describe. So people often spoke of spiritual things through earthly pictures.
 
@@ -55,17 +55,17 @@ This also helps explain why ancient peoples could mistake created powers for God
 
 In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears more explicitly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing in that direction, though not as a full and clear statement of reincarnation.
 
-The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. In this view, angels can be understood not as a separate creation, but as spirits who reached purification. In that sense, angelhood is not a different species. It is the end of the journey.
+The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. In this view, angels can be understood not as a separate creation, but as spirits who reached purification. In that sense, angels aren't a different species. Becoming an angle is the goal and the end of the journey.
 
-The same principle applies to heaven and hell. Some scriptures describe hell with fire. But spirits are not material bodies, so material fire cannot be the deepest reality of their suffering. The true suffering is moral: remorse, shame, frustrated desire, separation from the good, and the clear sight of evil done.
+The same principle applies to heaven and hell. Some scriptures describe punishment as hell with fire. But spirits are not material bodies, so literal fire cannot be the cause their suffering. The true suffering is moral: remorse, shame, frustrated desire, separation from the good, and the clear sight of evil done.
 
-And some scriptures describe heaven through gardens, rivers, abundance, and beauty. For people living in harsh earthly conditions, such images could speak powerfully. They gave the mind something it could grasp. But the deeper reality is higher than the image.
+Some scriptures describe heaven through gardens, rivers, abundance, and beauty. For people living in harsh earthly conditions, such images could speak powerfully. They gave the mind something it could grasp. But the deeper reality is higher than the image.
 
-So later clarification does not destroy earlier revelation. It explains what was once expressed in forms suited to the time. Earlier teachings prepared the way for clearer light.
+So later clarification does not destroy earlier revelation. It explains what was once expressed in forms suited to the time. Earlier teachings prepared the way for clearer understanding.
 
 And the differences among religious forms may themselves become a moral trial. They test whether people will respond with humility, justice, and charity, or with pride, contempt, and violence. If morality and righteousness are the heart of revelation, then how people treat those who received a different form may reveal how much of that revelation they truly understood.
 
-All spirits begin with the same destiny before them: progress. Their mission is to advance. Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome. They must rise, little by little, until they become pure spirits.
+All spirits begin with the same destiny before them: progress. Their mission is to advance. Their goal is purification, meaning a state in which selfishness, pride, cruelty, and every moral stain have been overcome. They must rise, little by little, until they become pure spirits, also known as angels.
 
 Why are they not created perfect from the beginning? Because perfection without struggle would have no merit. A spirit must learn. A spirit must choose. A spirit must be tested. Only then can goodness become truly its own.
 
@@ -331,7 +331,7 @@ So angels, in this view, were not created perfect at the beginning. They are spi
 
 This is what many people call heaven. Not a place in the earthly sense. But the state of purified and happy spirits. Their happiness is constant, but not idle. They do not sink into passivity.
 
-They become messengers and ministers of God. They help guide lower spirits. They assist the progress of humanity. They protect, inspire, and carry out missions suited to divine order. They can act across worlds. They can go where their work is needed.
+They become messengers and ministers of God. They help guide lower spirits. They assist with human progress. They protect, inspire, and carry out missions suited to divine order. They can act across worlds. They can go where their work is needed.
 
 Their freedom is far greater than that of ordinary spirits. Their thought reaches farther. Their influence is wider. Their joy is deeper. And their whole existence is aligned with the good.
 
