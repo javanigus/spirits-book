@@ -57,13 +57,13 @@ Human words are narrow. Invisible realities are difficult to describe. So people
 
 This also helps explain why ancient peoples could mistake created powers for God. Some worshiped the sun. Some worshiped the stars. Some gave divine status to the sea, the sky, or other forces of nature. Later monotheistic revelation, like Judaism, Christianity, and Islam, clarified that there is only one God, and that created beings or powers must not be worshiped.
 
-In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears more explicitly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing in that direction, though not as a full and clear statement of reincarnation.
+In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears more explicitly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing toward reincarnation, though not as a full and clear statement of reincarnation.
 
 The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. In this view, angels can be understood not as a separate creation, but as spirits who reached purification. In that sense, angels aren't a different species. Becoming an angel is the goal and the end of the journey.
 
 The same principle applies to heaven and hell. Some scriptures describe punishment as hell with fire. But spirits are not material bodies, so literal fire cannot be the cause their suffering. The true suffering is moral: remorse, shame, frustrated desire, separation from the good, and the clear sight of evil done.
 
-Some scriptures describe heaven through gardens, rivers, abundance, and beauty. For people living in harsh earthly conditions, such images could speak powerfully. They gave the mind something it could grasp. But the deeper reality is higher than the image.
+Some scriptures describe heaven through gardens, rivers, abundance, and beauty. For people living in harsh earthly conditions, such images could speak powerfully. They gave the mind something it could grasp. But the deeper reality is greater than the image suggests.
 
 So later clarification does not destroy earlier revelation. It explains what was once expressed in forms suited to the time. Earlier teachings prepared the way for clearer understanding.
 
@@ -95,7 +95,7 @@ A spirit progresses through incarnation. Incarnation means taking on a material 
 
 Earth is not the only inhabited world. It is not the highest world. It is one world among many. Different worlds have different physical conditions, and spirits incarnate in bodies suited to those worlds. As spirits advance, they can move from more material worlds to more refined ones. On higher worlds, bodies are less dense, needs are less harsh, selfishness is weaker, and the beings there understand spiritual life more clearly.
 
-So the journey of a spirit is not limited to Earth. A spirit may incarnate many times on the same world if it still needs those lessons. Or it may move on to another world when ready.
+So the journey of a spirit is not limited to Earth. A spirit may incarnate many times on the same world if it still needs the lessons of that world. Or it may move on to another world when ready.
 
 ### Transitional Worlds
 
@@ -113,7 +113,7 @@ So life is not limited to the narrow forms familiar to us now.
 
 Incarnation has two major purposes: expiation and improvement. Expiation means paying for and repairing past faults and sins through the trials of life. Improvement means gaining knowledge, moral strength, and purification, meaning moral cleansing and steady progress toward goodness.
 
-Before a new life, the spirit often passes through a state between incarnations. That means it is no longer in a body, and has not yet entered a new one. In that state, it reflects on its past, sees more clearly what it still lacks, receives guidance, and prepares for another incarnation.
+Before a new life, the spirit often passes through a state between incarnations. That means it is no longer in a body, and has not yet entered a new one. In that state, it reflects on its past, sees more clearly what imperfections it still must overcome, receives guidance, and prepares for another incarnation.
 
 ### Choosing Trials
 
@@ -161,7 +161,7 @@ Parents and teachers are not shaping a blank machine. They are helping an alread
 
 Sometimes a child dies young because that brief life completed what remained of an earlier life cut short. But that does not mean the spirit was already pure. Dying young is not the same as finishing the whole journey.
 
-The path of that spirit is not over. It enters another existence and continues its development. And for the parents, such a loss may also be a painful trial.
+The progress of that spirit is not complete. It enters another existence and continues its development. And for the parents, such a loss may also be a painful trial.
 
 ### Mental Illness and Spiritual Influence
 
@@ -235,13 +235,13 @@ For those who knowingly loved evil, one of the first feelings is shame, because 
 
 A murderer may be confronted by those he murdered. A tyrant may stand before those he oppressed. A cruel person may feel, with terrible clarity, what was caused in others. This is part of spiritual suffering.
 
-The suffering of spirits is usually moral rather than bodily. This is what many people call hell: not a place of fire, but a state of suffering, remorse, and separation from the good. There is no flesh there to wound as the body is wounded. But there is remorse. Shame. Fear. Longing. Confusion. Envy. Isolation. Frustrated desire. The memory of evil done. The pain of seeing good and not yet being able to share in it.
+The suffering of spirits is usually moral rather than bodily. This is what many people call hell: not a place of fire, but a state of suffering, remorse, and separation from the good. There is no flesh there to wound as the body is wounded. But there is remorse. Shame. Fear. Longing. Confusion. Envy. Isolation. Frustrated desire. The memory of evil done. The pain of seeing good and not yet being able to share in that good.
 
 Spirits no longer live under bodily needs in the way incarnated beings do. They are not subject to hunger, organic pain, or material necessity in the same manner.
 
 They do not need bodily sleep.
 
-Yet lower and more troubled spirits can still suffer intensely through the perispirit and through their attachment. The impressions may resemble bodily pain, even though the flesh itself is gone.
+Yet lower and more troubled spirits can still suffer intensely through the perispirit and through their attachment to earthly life. The impressions may resemble bodily pain, even though the flesh itself is gone.
 
 Some accounts go further and describe suffering that reflects the fault itself.
 
@@ -277,7 +277,7 @@ So a family shrine, a photograph kept in remembrance, a visit to a grave, or eve
 
 Some spirits repair by entering lives that directly reverse their former condition. Count Max said that after living as a proud noble who crushed the poor, he later returned as a crippled beggar on the same land he had once ruled. He even slept in the stables of his former castle.
 
-Adelaide Margaret Gosse described the opposite kind of expiation. After earlier lives in high position, where doing good cost little because she was rich, she asked to return in poverty and hardship so charity would require real sacrifice and help her advance more quickly.
+Adelaide Margaret Gosse described the opposite kind of expiation. After earlier lives in high position, where doing good cost little because she was rich, she asked to return in poverty and hardship so charity would require real sacrifice and help her progress more quickly.
 
 Even a formerly evil spirit may later help prevent evil in others. A criminal spirit may warn future criminals. A once-cruel ruler may return in humility. A miser may return in poverty. A persecutor may return under the same burden once imposed on others.
 
@@ -327,7 +327,7 @@ When purification is complete, reincarnation ends. The spirit has overcome selfi
 
 A pure spirit is not a different species. It is not a special being created above the others. It is simply a spirit that completed the long ascent. This is what is often called an angel.
 
-So angels, in this view, were not created perfect at the beginning. They are spirits who arrived. They passed through lower degrees. They struggled. They learned. They purified themselves. They no longer need expiation. They no longer need reincarnation. And they are no longer ruled by matter or material desire.
+So angels, in this view, were not created perfect at the beginning. They are spirits who reached full purification. They passed through lower degrees. They struggled. They learned. They purified themselves. They no longer need expiation. They no longer need reincarnation. And they are no longer ruled by matter or material desire.
 
 This is what many people call heaven. Not a place in the earthly sense. But the state of purified and happy spirits. Their happiness is constant, but not idle. They do not sink into passivity.
 
