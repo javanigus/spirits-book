@@ -275,11 +275,11 @@ More detached spirits care little for the grave or the remains of the body. What
 
 So a family shrine, a photograph kept in remembrance, a visit to a grave, or even a yearly memorial day can have value if they truly gather hearts in charity and recollection. But the power is not in the picture, the place, or the date itself. It is in the thought, the love, and the prayer.
 
-Some spirits repair by entering lives that directly reverse their former condition. Count Max said that after living as a proud noble who crushed the poor, he later returned as a crippled beggar on the same land he had once ruled. He even slept in the stables of his former castle.
+Some spirits repair by entering lives that directly reverse their former condition. A once-cruel ruler may return in humility. A miser may return in poverty. A persecutor may return under the same burden once imposed on others. Count Max said that after living as a proud noble who crushed the poor, he later returned as a crippled beggar on the same land he had once ruled. He even slept in the stables of his former castle.
 
 Adelaide Margaret Gosse described the opposite kind of expiation. After earlier lives in high position, where doing good cost little because she was rich, she asked to return in poverty and hardship so charity would require real sacrifice and help her progress more quickly.
 
-Even a formerly evil spirit may later help prevent evil in others. A criminal spirit may warn future criminals. A once-cruel ruler may return in humility. A miser may return in poverty. A persecutor may return under the same burden once imposed on others.
+Even a formerly evil spirit may later help prevent evil in others. For example, a criminal spirit may warn future criminals.
 
 This is why earthly life is so serious in this view. Nothing is lost. Nothing is hidden forever. Nothing is without consequence. But also, no sincere effort is wasted. No repentance is useless. No spirit is abandoned forever.
 
@@ -291,11 +291,11 @@ But no spirit can delay its progress forever. Eventually, it must continue the j
 
 ### Reincarnation and Human Inequality
 
-Without repeated lives, many things would seem to make divine justice arbitrary. Why is one person born into health and another into suffering? Why does one begin with unusual gifts and another with severe limitations? Reincarnation answers that by showing life as a continuity, not a single isolated episode. What looks unequal in one life may be the just consequence of earlier choices, the means of needed repair, or the opportunity for further growth. In that way, reincarnation preserves both justice and mercy: justice, because life is not arbitrary and suffering is not meaningless; mercy, because no spirit is condemned by one life alone.
+Without repeated lives, many things would seem to make divine justice arbitrary. Why is one person born into health and another into suffering? Why does one begin with unusual talents in music, language, or mathematics and another with severe limitations? Reincarnation answers that by showing life as a continuity, not a single isolated episode. What looks unequal in one life may be the just consequence of earlier choices, the means of needed repair, or the opportunity for further growth. In that way, reincarnation preserves both justice and mercy: justice, because life is not arbitrary and suffering is not meaningless; mercy, because no spirit is condemned by one life alone.
 
-A new body, perhaps male instead of female, healthy instead of unhealthy, or weak instead of strong. A new family, perhaps in another country, language, religion, or race. A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
+A new body, perhaps male instead of female, healthy instead of unhealthy, attractive or unattractive, or weak instead of strong. A new family, perhaps in another country, language, religion, or race. A new social condition, perhaps born to wealth after poverty, or to poverty after privilege.
 
-That is why discrimination is absurd. Whether based on language, religion, ethnicity, gender, or race. We are not permanently tied to any of these.
+That is why discrimination is absurd. Whether based on language, religion, ethnicity, gender, race, or physical appearance. We are not permanently tied to any of these.
 
 As spirits advance, their love becomes less narrow and less tied to one nation or soil. For highly advanced spirits, the true homeland is the universe. And when they return to Earth, they are drawn less by place itself than by the souls with whom they share sympathy and moral affinity.
 
