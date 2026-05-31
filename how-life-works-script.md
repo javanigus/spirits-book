@@ -59,7 +59,7 @@ This also helps explain why ancient peoples could mistake created powers for God
 
 In the same way, some traditions preserved certain truths more clearly than others. The idea of repeated lives appears more explicitly in Hindu scriptures such as the Bhagavad Gita. In later monotheistic scriptures, it is much less explicit. Instead, one more often finds language about return, rising again, or resurrection, which some have read as pointing in that direction, though not as a full and clear statement of reincarnation.
 
-The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. In this view, angels can be understood not as a separate creation, but as spirits who reached purification. In that sense, angels aren't a different species. Becoming an angle is the goal and the end of the journey.
+The same pattern appears with angels. Some scriptures, including the Quran, speak clearly about angels. In this view, angels can be understood not as a separate creation, but as spirits who reached purification. In that sense, angels aren't a different species. Becoming an angel is the goal and the end of the journey.
 
 The same principle applies to heaven and hell. Some scriptures describe punishment as hell with fire. But spirits are not material bodies, so literal fire cannot be the cause their suffering. The true suffering is moral: remorse, shame, frustrated desire, separation from the good, and the clear sight of evil done.
 
@@ -139,7 +139,7 @@ The human being has three main elements: the body, the soul, and the perispirit.
 
 That union begins at conception. The spirit meant for that body is linked to it from the beginning. At first, the bond is still weak. As the body develops, the bond grows stronger. If it breaks before birth, the child does not live.
 
-And the union is not complete until birth. So before birth, the spirit is attached. But it is not yet fully active in earthly life. In that sense, incarnation is not yet complete. Not every body lost before birth had reached a completed incarnation. The first cry marks the spirit's full entry into bodily life. From that point, the bond lasts until death breaks it.
+The union is not complete until birth. So before birth, the spirit is attached. But it is not yet fully active in earthly life. In that sense, incarnation is not yet complete. Not every body lost before birth had reached a completed incarnation. The first cry marks the spirit's full entry into bodily life. From that point, the bond lasts until death breaks it.
 
 ### The Body and the Soul
 
