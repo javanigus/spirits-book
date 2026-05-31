@@ -187,7 +187,7 @@ The same outward condition can purify one spirit and harden another. A poor pers
 
 So the trial does not save or condemn by itself. The spirit's response to the trial is what matters. If an incarnated spirit learns patience, practices charity, resists selfishness, rejects cruelty, masters pride, and freely chooses the good, progress becomes faster. If it gives itself over to vanity, hatred, greed, sensuality, injustice, and cruelty, progress slows.
 
-But it does not stop forever. No spirit is shut out from the future forever.
+But progress does not stop forever. No spirit is forever shut out from advancement and purification.
 
 ## Death and the Return to Spirit Life
 
@@ -225,7 +225,7 @@ Violent death can intensify this confusion. Suicide can intensify it even more. 
 
 Other deaths are confused and painful. One suicide victim said he still felt himself in the coffin and even felt the worms eating the corpse to which he remained bound.
 
-The Queen of Ood remained so attached to pride and status that she still imagined herself a queen, adorned with jewels and royal ornaments.
+The Queen of Ood remained so attached to pride and status that even after death she still imagined herself a queen, adorned with jewels and royal ornaments.
 
 Francois Simon Louvet, who threw himself from a tower in despair, said he kept feeling the fall long after death, as if the plunge had never ended.
 
@@ -247,7 +247,7 @@ Some accounts go further and describe suffering that reflects the fault itself.
 
 Some cases describe punishment that mirrors the fault. Jacques Latour, who killed for gold, said he saw his victims before him and even the gold stained with blood. Ferdinand Bertin, who in a former life had victims sewn into sacks and thrown into the sea, said he kept reliving drowning after death.
 
-Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had sealed another person up alive. One former tyrant said that after a former life of cruelty, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
+Antonio B., buried alive after an apparent death, said the horror matched an earlier crime in which he had buried another person up alive. One former tyrant said that after a former life of cruelty, he remained attached to his decaying corpse, felt the worms consuming it, and later had to face the suffering of his victims before repentance truly began.
 
 ### Hell as a State, Not a Place
 
@@ -257,7 +257,7 @@ Attachment itself can become torment. A miser still demanded his money back afte
 
 Suffering in the spirit world can feel like an eternity. Not because God has decreed endless torment for all the guilty. But because the spirit often does not see when its suffering will end. It feels no earthly clock. It does not measure time the way we do. And when there is no visible end, suffering can seem endless.
 
-But it is not endless in the absolute sense. No spirit is condemned forever with no path upward. As long as the spirit remains imperfect, suffering continues.
+But it is not endless in the absolute sense. No spirit is condemned forever with no path for progress. As long as the spirit remains imperfect, suffering continues.
 
 ### Manifestations Around the Living
 
@@ -267,7 +267,7 @@ In another case, the spirit of a haunted house was said to be bound to the very 
 
 ## Repentance, Repair, and Return
 
-When the spirit repents, understands, and begins to repair, the path upward opens. That repair may happen in spirit life, in future incarnations, or both.
+When the spirit repents, understands, and begins to repair, the path for progress opens. That repair may happen in spirit life, in future incarnations, or both.
 
 Some suffering spirits are helped by prayer. Some are softened by remorse. Some are moved when others forgive them. Some accept a new life of expiation, meaning a life designed to repay and repair past wrongs. Some undertake missions of repair.
 
