@@ -178,6 +178,11 @@ const config = {
           position: 'right',
         },
         {
+          label: 'Q&A',
+          to: '/q-and-a',
+          position: 'right',
+        },
+        {
           label: 'Videos',
           to: '/videos',
           position: 'right',
